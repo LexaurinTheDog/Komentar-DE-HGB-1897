@@ -1,0 +1,587 @@
+[
+  {
+    "doknr": "BJNR002190897BJNG000200300",
+    "code": "010",
+    "label": "Erstes Buch — Handelsstand"
+  },
+  {
+    "doknr": "BJNR002190897BJNG000300300",
+    "code": "010010",
+    "label": "Erster Abschnitt — Kaufleute"
+  },
+  {
+    "doknr": "BJNR002190897BJNG001101377",
+    "code": "010020",
+    "label": "Zweiter Abschnitt — Handelsregister; Unternehmensregister"
+  },
+  {
+    "doknr": "BJNR002190897BJNG002400300",
+    "code": "010030",
+    "label": "Dritter Abschnitt — Handelsfirma"
+  },
+  {
+    "doknr": "BJNR002190897BJNG004500300",
+    "code": "010040",
+    "label": "Vierter Abschnitt — Handelsbücher"
+  },
+  {
+    "doknr": "BJNR002190897BJNG005800300",
+    "code": "010050",
+    "label": "Fünfter Abschnitt — Prokura und Handlungsvollmacht"
+  },
+  {
+    "doknr": "BJNR002190897BJNG007000300",
+    "code": "010060",
+    "label": "Sechster Abschnitt — Handlungsgehilfen und Handlungslehrlinge"
+  },
+  {
+    "doknr": "BJNR002190897BJNG009300300",
+    "code": "010070",
+    "label": "Siebenter Abschnitt — Handelsvertreter"
+  },
+  {
+    "doknr": "BJNR002190897BJNG011700300",
+    "code": "010080",
+    "label": "Achter Abschnitt — Handelsmakler"
+  },
+  {
+    "doknr": "BJNR002190897BJNG040400377",
+    "code": "010090",
+    "label": "Neunter Abschnitt — Bußgeldvorschriften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG013000300",
+    "code": "020",
+    "label": "Zweites Buch — Handelsgesellschaften und stille Gesellschaft"
+  },
+  {
+    "doknr": "BJNR002190897BJNG013101360",
+    "code": "020010",
+    "label": "Erster Abschnitt — Offene Handelsgesellschaft"
+  },
+  {
+    "doknr": "BJNR002190897BJNG013201360",
+    "code": "020010010",
+    "label": "Erster Titel — Errichtung der Gesellschaft"
+  },
+  {
+    "doknr": "BJNR002190897BJNG013701360",
+    "code": "020010020",
+    "label": "Zweiter Titel — Rechtsverhältnis der Gesellschafter untereinander und der Gesellschafter zur Gesellschaft"
+  },
+  {
+    "doknr": "BJNR002190897BJNG015201360",
+    "code": "020010030",
+    "label": "Dritter Titel — Rechtsverhältnis der Gesellschaft zu Dritten"
+  },
+  {
+    "doknr": "BJNR002190897BJNG016301360",
+    "code": "020010040",
+    "label": "Vierter Titel — Ausscheiden eines Gesellschafters"
+  },
+  {
+    "doknr": "BJNR002190897BJNG017801360",
+    "code": "020010050",
+    "label": "Fünfter Titel — Auflösung der Gesellschaft"
+  },
+  {
+    "doknr": "BJNR002190897BJNG042500360",
+    "code": "020010060",
+    "label": "Sechster Titel — Liquidation der Gesellschaft"
+  },
+  {
+    "doknr": "BJNR002190897BJNG019600300",
+    "code": "020020",
+    "label": "Zweiter Abschnitt — Kommanditgesellschaft"
+  },
+  {
+    "doknr": "BJNR002190897BJNG021901306",
+    "code": "020030",
+    "label": "Dritter Abschnitt — Stille Gesellschaft"
+  },
+  {
+    "doknr": "BJNR002190897BJNG000100306",
+    "code": "030",
+    "label": "Drittes Buch — Handelsbücher"
+  },
+  {
+    "doknr": "BJNR002190897BJNG000200306",
+    "code": "030010",
+    "label": "Erster Abschnitt — Vorschriften für alle Kaufleute"
+  },
+  {
+    "doknr": "BJNR002190897BJNG000300306",
+    "code": "030010010",
+    "label": "Erster Unterabschnitt — Buchführung. Inventar"
+  },
+  {
+    "doknr": "BJNR002190897BJNG000400306",
+    "code": "030010020",
+    "label": "Zweiter Unterabschnitt — Eröffnungsbilanz. Jahresabschluß"
+  },
+  {
+    "doknr": "BJNR002190897BJNG000500306",
+    "code": "030010020010",
+    "label": "Erster Titel — Allgemeine Vorschriften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG000600306",
+    "code": "030010020020",
+    "label": "Zweiter Titel — Ansatzvorschriften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG000700306",
+    "code": "030010020030",
+    "label": "Dritter Titel — Bewertungsvorschriften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG000800306",
+    "code": "030010030",
+    "label": "Dritter Unterabschnitt — Aufbewahrung und Vorlage"
+  },
+  {
+    "doknr": "BJNR002190897BJNG000901307",
+    "code": "030010040",
+    "label": "Vierter Unterabschnitt — Landesrecht"
+  },
+  {
+    "doknr": "BJNR002190897BJNG001001305",
+    "code": "030020",
+    "label": "Zweiter Abschnitt — Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG001100306",
+    "code": "030020010",
+    "label": "Erster Unterabschnitt — Jahresabschluß der Kapitalgesellschaft und Lagebericht"
+  },
+  {
+    "doknr": "BJNR002190897BJNG001200306",
+    "code": "030020010010",
+    "label": "Erster Titel — Allgemeine Vorschriften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG001300306",
+    "code": "030020010020",
+    "label": "Zweiter Titel — Bilanz"
+  },
+  {
+    "doknr": "BJNR002190897BJNG001400306",
+    "code": "030020010030",
+    "label": "Dritter Titel — Gewinn- und Verlustrechnung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG001501140",
+    "code": "030020010040",
+    "label": "Vierter Titel — (weggefallen)"
+  },
+  {
+    "doknr": "BJNR002190897BJNG001600306",
+    "code": "030020010050",
+    "label": "Fünfter Titel — Anhang"
+  },
+  {
+    "doknr": "BJNR002190897BJNG001700306",
+    "code": "030020010060",
+    "label": "Sechster Titel — Lagebericht"
+  },
+  {
+    "doknr": "BJNR002190897BJNG001800306",
+    "code": "030020020",
+    "label": "Zweiter Unterabschnitt — Konzernabschluß und Konzernlagebericht"
+  },
+  {
+    "doknr": "BJNR002190897BJNG001900306",
+    "code": "030020020010",
+    "label": "Erster Titel — Anwendungsbereich"
+  },
+  {
+    "doknr": "BJNR002190897BJNG002000306",
+    "code": "030020020020",
+    "label": "Zweiter Titel — Konsolidierungskreis"
+  },
+  {
+    "doknr": "BJNR002190897BJNG002100306",
+    "code": "030020020030",
+    "label": "Dritter Titel — Inhalt und Form des Konzernabschlusses"
+  },
+  {
+    "doknr": "BJNR002190897BJNG002200306",
+    "code": "030020020040",
+    "label": "Vierter Titel — Vollkonsolidierung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG002300306",
+    "code": "030020020050",
+    "label": "Fünfter Titel — Bewertungsvorschriften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG002400306",
+    "code": "030020020060",
+    "label": "Sechster Titel — Anteilmäßige Konsolidierung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG002500306",
+    "code": "030020020070",
+    "label": "Siebenter Titel — Assoziierte Unternehmen"
+  },
+  {
+    "doknr": "BJNR002190897BJNG002600306",
+    "code": "030020020080",
+    "label": "Achter Titel — Konzernanhang"
+  },
+  {
+    "doknr": "BJNR002190897BJNG002700306",
+    "code": "030020020090",
+    "label": "Neunter Titel — Konzernlagebericht"
+  },
+  {
+    "doknr": "BJNR002190897BJNG040200377",
+    "code": "030020020100",
+    "label": "Zehnter Titel — Konzernabschluss nach internationalen Rechnungslegungsstandards"
+  },
+  {
+    "doknr": "BJNR002190897BJNG002800306",
+    "code": "030020030",
+    "label": "Dritter Unterabschnitt — Prüfung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG002903360",
+    "code": "030020040",
+    "label": "Vierter Unterabschnitt — Offenlegung. Prüfung durch die das Unternehmensregister führende Stelle"
+  },
+  {
+    "doknr": "BJNR002190897BJNG003000306",
+    "code": "030020050",
+    "label": "Fünfter Unterabschnitt — Verordnungsermächtigung für Formblätter und andere Vorschriften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG003101360",
+    "code": "030020060",
+    "label": "Sechster Unterabschnitt — Straf- und Bußgeldvorschriften Ordnungsgelder"
+  },
+  {
+    "doknr": "BJNR002190897BJNG042100123",
+    "code": "030020060010",
+    "label": "Erster Titel — Straf- und Bußgeldvorschriften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG042200123",
+    "code": "030020060020",
+    "label": "Zweiter Titel — Ordnungsgelder"
+  },
+  {
+    "doknr": "BJNR002190897BJNG042300123",
+    "code": "030020060020",
+    "label": "Dritter Titel — Gemeinsame Vorschriften für Straf-, Bußgeld- und Ordnungsgeldverfahren"
+  },
+  {
+    "doknr": "BJNR002190897BJNG003200306",
+    "code": "030030",
+    "label": "Dritter Abschnitt — Ergänzende Vorschriften für eingetragene Genossenschaften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG037602360",
+    "code": "030040",
+    "label": "Vierter Abschnitt — Ergänzende Vorschriften für bestimmte Unternehmen"
+  },
+  {
+    "doknr": "BJNR002190897BJNG038502360",
+    "code": "030040010",
+    "label": "Erster Unterabschnitt — Ergänzende Vorschriften für Kreditinstitute, Finanzdienstleistungsinstitute, Wertpapierinstitute, Zahlungsinstitute und E-Geld-Institute"
+  },
+  {
+    "doknr": "BJNR002190897BJNG037700309",
+    "code": "030040010010",
+    "label": "Erster Titel — Anwendungsbereich"
+  },
+  {
+    "doknr": "BJNR002190897BJNG037801301",
+    "code": "030040010020",
+    "label": "Zweiter Titel — Jahresabschluß, Lagebericht, Zwischenabschluß"
+  },
+  {
+    "doknr": "BJNR002190897BJNG037900309",
+    "code": "030040010030",
+    "label": "Dritter Titel — Bewertungsvorschriften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG038000309",
+    "code": "030040010040",
+    "label": "Vierter Titel — Währungsumrechnung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG038201301",
+    "code": "030040010050",
+    "label": "Fünfter Titel — Konzernabschluß, Konzernlagebericht, Konzernzwischenabschluß"
+  },
+  {
+    "doknr": "BJNR002190897BJNG038300309",
+    "code": "030040010060",
+    "label": "Sechster Titel — Prüfung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG038400309",
+    "code": "030040010070",
+    "label": "Siebenter Titel — Offenlegung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG038501360",
+    "code": "030040010080",
+    "label": "Achter Titel — Straf- und Bußgeldvorschriften, Ordnungsgelder"
+  },
+  {
+    "doknr": "BJNR002190897BJNG038601377",
+    "code": "030040020",
+    "label": "Zweiter Unterabschnitt — Ergänzende Vorschriften für Versicherungsunternehmen und Pensionsfonds"
+  },
+  {
+    "doknr": "BJNR002190897BJNG038700307",
+    "code": "030040020010",
+    "label": "Erster Titel — Anwendungsbereich"
+  },
+  {
+    "doknr": "BJNR002190897BJNG038800307",
+    "code": "030040020020",
+    "label": "Zweiter Titel — Jahresabschluß, Lagebericht"
+  },
+  {
+    "doknr": "BJNR002190897BJNG038900307",
+    "code": "030040020030",
+    "label": "Dritter Titel — Bewertungsvorschriften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG039000307",
+    "code": "030040020040",
+    "label": "Vierter Titel — Versicherungstechnische Rückstellungen"
+  },
+  {
+    "doknr": "BJNR002190897BJNG039100307",
+    "code": "030040020050",
+    "label": "Fünfter Titel — Konzernabschluß, Konzernlagebericht"
+  },
+  {
+    "doknr": "BJNR002190897BJNG039200307",
+    "code": "030040020060",
+    "label": "Sechster Titel — Prüfung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG039300307",
+    "code": "030040020070",
+    "label": "Siebenter Titel — Offenlegung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG039401360",
+    "code": "030040020080",
+    "label": "Achter Titel — Straf- und Bußgeldvorschriften, Ordnungsgelder"
+  },
+  {
+    "doknr": "BJNR002190897BJNG041700360",
+    "code": "030040030",
+    "label": "Dritter Unterabschnitt — Ergänzende Vorschriften für bestimmte Unternehmen des Rohstoffsektors"
+  },
+  {
+    "doknr": "BJNR002190897BJNG041800360",
+    "code": "030040030010",
+    "label": "Erster Titel — Anwendungsbereich; Begriffsbestimmungen"
+  },
+  {
+    "doknr": "BJNR002190897BJNG041900360",
+    "code": "030040030020",
+    "label": "Zweiter Titel — Zahlungsbericht, Konzernzahlungsbericht und Offenlegung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG042000360",
+    "code": "030040030030",
+    "label": "Dritter Titel — Bußgeldvorschriften, Ordnungsgelder"
+  },
+  {
+    "doknr": "BJNR002190897BJNG042600360",
+    "code": "030040040",
+    "label": "Vierter Unterabschnitt — Ergänzende Vorschriften für bestimmte umsatzstarke multinationale Unternehmen und Konzerne"
+  },
+  {
+    "doknr": "BJNR002190897BJNG042700360",
+    "code": "030040040010",
+    "label": "Erster Titel — Anwendungsbereich; Begriffsbestimmungen"
+  },
+  {
+    "doknr": "BJNR002190897BJNG042800360",
+    "code": "030040040020",
+    "label": "Zweiter Titel — Pflicht zur Ertragsteuerinformationsberichterstattung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG042900360",
+    "code": "030040040030",
+    "label": "Dritter Titel — Einzubeziehende Unternehmen; Inhalt und Form des Ertragsteuerinformationsberichts"
+  },
+  {
+    "doknr": "BJNR002190897BJNG043000360",
+    "code": "030040040040",
+    "label": "Vierter Titel — Offenlegung und Veröffentlichung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG043100360",
+    "code": "030040040050",
+    "label": "Fünfter Titel — Bußgeldvorschriften; Ordnungsgelder"
+  },
+  {
+    "doknr": "BJNR002190897BJNG039501360",
+    "code": "030050",
+    "label": "Fünfter Abschnitt — Privates Rechnungslegungsgremium; Rechnungslegungsbeirat"
+  },
+  {
+    "doknr": "BJNR002190897BJNG022801306",
+    "code": "040",
+    "label": "Viertes Buch — Handelsgeschäfte"
+  },
+  {
+    "doknr": "BJNR002190897BJNG022901301",
+    "code": "040010",
+    "label": "Erster Abschnitt — Allgemeine Vorschriften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG026001301",
+    "code": "040020",
+    "label": "Zweiter Abschnitt — Handelskauf"
+  },
+  {
+    "doknr": "BJNR002190897BJNG027101301",
+    "code": "040030",
+    "label": "Dritter Abschnitt — Kommissionsgeschäft"
+  },
+  {
+    "doknr": "BJNR002190897BJNG039600307",
+    "code": "040040",
+    "label": "Vierter Abschnitt — Frachtgeschäft"
+  },
+  {
+    "doknr": "BJNR002190897BJNG039700307",
+    "code": "040040010",
+    "label": "Erster Unterabschnitt — Allgemeine Vorschriften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG039800307",
+    "code": "040040020",
+    "label": "Zweiter Unterabschnitt — Beförderung von Umzugsgut"
+  },
+  {
+    "doknr": "BJNR002190897BJNG039900307",
+    "code": "040040030",
+    "label": "Dritter Unterabschnitt — Beförderung mit verschiedenartigen Beförderungsmitteln"
+  },
+  {
+    "doknr": "BJNR002190897BJNG040000307",
+    "code": "040050",
+    "label": "Fünfter Abschnitt — Speditionsgeschäft"
+  },
+  {
+    "doknr": "BJNR002190897BJNG040100307",
+    "code": "040060",
+    "label": "Sechster Abschnitt — Lagergeschäft"
+  },
+  {
+    "doknr": "BJNR002190897BJNG035503377",
+    "code": "050",
+    "label": "Fünftes Buch — Seehandel"
+  },
+  {
+    "doknr": "BJNR002190897BJNG035603377",
+    "code": "050010",
+    "label": "Erster Abschnitt — Personen der Schifffahrt"
+  },
+  {
+    "doknr": "BJNR002190897BJNG035702377",
+    "code": "050020",
+    "label": "Zweiter Abschnitt — Beförderungsverträge"
+  },
+  {
+    "doknr": "BJNR002190897BJNG040500377",
+    "code": "050020010",
+    "label": "Erster Unterabschnitt — Seefrachtverträge"
+  },
+  {
+    "doknr": "BJNR002190897BJNG040600377",
+    "code": "050020010010",
+    "label": "Erster Titel — Stückgutfrachtvertrag"
+  },
+  {
+    "doknr": "BJNR002190897BJNG040700377",
+    "code": "050020010010010",
+    "label": "Erster Untertitel — Allgemeine Vorschriften"
+  },
+  {
+    "doknr": "BJNR002190897BJNG040800377",
+    "code": "050020010010020",
+    "label": "Zweiter Untertitel — Haftung wegen Verlust oder Beschädigung des Gutes"
+  },
+  {
+    "doknr": "BJNR002190897BJNG040900377",
+    "code": "050020010010030",
+    "label": "Dritter Untertitel — Beförderungsdokumente"
+  },
+  {
+    "doknr": "BJNR002190897BJNG041000377",
+    "code": "050020010020",
+    "label": "Zweiter Titel — Reisefrachtvertrag"
+  },
+  {
+    "doknr": "BJNR002190897BJNG041100377",
+    "code": "050020020",
+    "label": "Zweiter Unterabschnitt — Personenbeförderungsverträge"
+  },
+  {
+    "doknr": "BJNR002190897BJNG035802377",
+    "code": "050030",
+    "label": "Dritter Abschnitt — Schiffsüberlassungsverträge"
+  },
+  {
+    "doknr": "BJNR002190897BJNG041200377",
+    "code": "050030010",
+    "label": "Erster Unterabschnitt — Schiffsmiete"
+  },
+  {
+    "doknr": "BJNR002190897BJNG041300377",
+    "code": "050030020",
+    "label": "Zweiter Unterabschnitt — Zeitcharter"
+  },
+  {
+    "doknr": "BJNR002190897BJNG035902377",
+    "code": "050040",
+    "label": "Vierter Abschnitt — Schiffsnotlagen"
+  },
+  {
+    "doknr": "BJNR002190897BJNG041400377",
+    "code": "050040010",
+    "label": "Erster Unterabschnitt — Schiffszusammenstoß"
+  },
+  {
+    "doknr": "BJNR002190897BJNG041500377",
+    "code": "050040020",
+    "label": "Zweiter Unterabschnitt — Bergung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG041600377",
+    "code": "050040030",
+    "label": "Dritter Unterabschnitt — Große Haverei"
+  },
+  {
+    "doknr": "BJNR002190897BJNG036003377",
+    "code": "050050",
+    "label": "Fünfter Abschnitt — Schiffsgläubiger"
+  },
+  {
+    "doknr": "BJNR002190897BJNG036102377",
+    "code": "050060",
+    "label": "Sechster Abschnitt — Verjährung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG036202377",
+    "code": "050070",
+    "label": "Siebter Abschnitt — Allgemeine Haftungsbeschränkung"
+  },
+  {
+    "doknr": "BJNR002190897BJNG036503377",
+    "code": "050080",
+    "label": "Achter Abschnitt — Verfahrensvorschriften"
+  }
+]

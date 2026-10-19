@@ -1,0 +1,244 @@
+{
+  "generated_at": "2026-10-19T20:03:34.240167+00:00",
+  "files": [
+    {
+      "path": "sources/BAG-10-AZR-260-14.pdf",
+      "bytes": 133492,
+      "sha256": "f316e8160b2d33f81fb397e1eed1c1c5b171670cf985f041e973eb1778557036",
+      "origin": "direct_http_response",
+      "url": "https://www.bundesarbeitsgericht.de/wp-content/uploads/2021/01/10-AZR-260-14.pdf",
+      "accessed_at": "2026-10-19T19:41:25.565966+00:00",
+      "http_status": 200
+    },
+    {
+      "path": "sources/BAG-10-AZR-260-14.txt",
+      "bytes": 27592,
+      "sha256": "0db7388f61789d896e2204daa5f1e4a7e049c830f30aaef9724f04e0fb8395bb",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/aktualitaet-2026-10-19.html",
+      "bytes": 74406,
+      "sha256": "f2c92645e935e53c51e5f69a06756484133dff26f032251a8b6db1d778bb045c",
+      "origin": "direct_http_response",
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-19T19:29:15.640744+00:00",
+      "http_status": 200
+    },
+    {
+      "path": "sources/bgbl-2026-33.pdf",
+      "bytes": 1222431,
+      "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+      "origin": "direct_http_response",
+      "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile",
+      "accessed_at": "2026-10-19T19:29:14.975462+00:00",
+      "http_status": 200
+    },
+    {
+      "path": "sources/bgbl-2026-33.txt",
+      "bytes": 308217,
+      "sha256": "083969daa812de40a9c7ff2ee93674875e701fe194d7a291d4c1f69928252a36",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/case-JURE140005306-intake.md",
+      "bytes": 6630,
+      "sha256": "454cd9b5ba27bebe2e6ff803c385c39f0a8d4a07d21ebdb5297c6d7fdbc8398d",
+      "origin": "unaltered_local_intake_copy"
+    },
+    {
+      "path": "sources/case-JURE140005306.xml",
+      "bytes": 11684,
+      "sha256": "c81f724568985eb2e78db0a58105f4b8c4335538e668b7ff4e4a4a65c574fe13",
+      "origin": "xml_extracted_from_official_zip"
+    },
+    {
+      "path": "sources/case-JURE140005306.zip",
+      "bytes": 3468,
+      "sha256": "d24620d725b18f4945cf16d777ff6bf3a9e8c54a5111ba62a05fe6975b58e2a8",
+      "origin": "direct_http_response",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE140005306.zip",
+      "accessed_at": "2026-10-19T19:32:37.495855+00:00",
+      "http_status": 200
+    },
+    {
+      "path": "sources/case-KORE315292010.xml",
+      "bytes": 13913,
+      "sha256": "96dce31fe5f6a0b489d82a613a33c8d5f870d69af072540e080d20aa73741938",
+      "origin": "xml_extracted_from_official_zip"
+    },
+    {
+      "path": "sources/case-KORE315292010.zip",
+      "bytes": 4219,
+      "sha256": "f07fc319c3183207aea534e6f55b8acff67f849a41b384f3e2a8ce40f63e48bb",
+      "origin": "direct_http_response",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE315292010.zip",
+      "accessed_at": "2026-10-19T19:29:15.803973+00:00",
+      "http_status": 200
+    },
+    {
+      "path": "sources/case-KORE700252024-intake.md",
+      "bytes": 44186,
+      "sha256": "9f9ea1f4ed5f728246003ef7ae724f2a2ef848cc2c1a83458a0c147ae7552186",
+      "origin": "unaltered_local_intake_copy"
+    },
+    {
+      "path": "sources/case-KORE700252024.xml",
+      "bytes": 55340,
+      "sha256": "65b9c7772797ee30480bd9a5e58953ee655356444701a8dbdccaf13014e05663",
+      "origin": "xml_extracted_from_official_zip"
+    },
+    {
+      "path": "sources/case-KORE700252024.zip",
+      "bytes": 15817,
+      "sha256": "c183149cb8bdde30da938b993243023d72272c4287cfc5ea7f104873971bda10",
+      "origin": "direct_http_response",
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE700252024.zip",
+      "accessed_at": "2026-10-19T19:32:37.247027+00:00",
+      "http_status": 200
+    },
+    {
+      "path": "sources/case-identities.json",
+      "bytes": 559,
+      "sha256": "f91d3fda0b9cd91500785658b9cb4179f84485e381f7c89a007aa8c272f60cc6",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/change-map.json",
+      "bytes": 696,
+      "sha256": "a4e7378ac1dcb423348ad1d34aaa871ef0368489bb25a916d61190d57b44728c",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/commencement.md",
+      "bytes": 2620,
+      "sha256": "27aae043bcacd488af44b1407f4d11de44ddf0b403ab1464e5c9e57a2a363c5c",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/global-notes.json",
+      "bytes": 2649,
+      "sha256": "c4d04fb3b39c64653b9355ce71dbf5f879888d142414094ac86d9d5fdac689c8",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/hgb-2026-10-19.xml",
+      "bytes": 1120900,
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "origin": "xml_extracted_from_official_hgb_zip"
+    },
+    {
+      "path": "sources/hgb-2026-10-19.zip",
+      "bytes": 218961,
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "origin": "direct_http_response",
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-19T19:28:18.496559+00:00",
+      "http_status": 200
+    },
+    {
+      "path": "sources/hgb-canonical.md",
+      "bytes": 835138,
+      "sha256": "17a087db86f00c3cf7880a5f818c01dc0c2de8c66d34761f3387492735cfc7ec",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/hgb-full-2026-10-19.html",
+      "bytes": 1355853,
+      "sha256": "87685f8f870b2c19d9787e251222ff6d448ae426408acb56791429cf1b73c87e",
+      "origin": "direct_http_response",
+      "url": "https://www.gesetze-im-internet.de/hgb/BJNR002190897.html",
+      "accessed_at": "2026-10-19T19:28:19.173481+00:00",
+      "http_status": 200
+    },
+    {
+      "path": "sources/hgb-index-2026-10-19.html",
+      "bytes": 139611,
+      "sha256": "810430435a9544bd9249cfb2d8ff09442deaa3c4211a2e5e0002c0715c41bcc0",
+      "origin": "direct_http_response",
+      "url": "https://www.gesetze-im-internet.de/hgb/",
+      "accessed_at": "2026-10-19T19:28:18.853213+00:00",
+      "http_status": 200
+    },
+    {
+      "path": "sources/intake-2026-10-01.md",
+      "bytes": 842097,
+      "sha256": "98eab8061d2d34ad9276c296082299c5951b1599738134cf80bafb724bf05f77",
+      "origin": "unaltered_local_intake_copy"
+    },
+    {
+      "path": "sources/research/BAG-10-AZR-260-14.md",
+      "bytes": 26742,
+      "sha256": "83d972c240790fe60914a8c04f8003fe26ca46d98fece758dcbfc9ce61a3a9b5",
+      "origin": "research_search_or_web_extraction",
+      "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
+    },
+    {
+      "path": "sources/research/aktualitaet.md",
+      "bytes": 62710,
+      "sha256": "5169f143c7ba8dd80ef27069f49d6c1b558b6c3093e93e896fdf0acfde24d8c5",
+      "origin": "research_search_or_web_extraction",
+      "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
+    },
+    {
+      "path": "sources/research/case-search-p25.json",
+      "bytes": 965,
+      "sha256": "d8e2ab038eab7d7b81a415f4183bf5ca8430d0706b35c302ae9caeefe43d5dfb",
+      "origin": "research_search_or_web_extraction",
+      "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
+    },
+    {
+      "path": "sources/research/case-search-p75-bag.json",
+      "bytes": 1558,
+      "sha256": "ac7ebf33aebd51f6fbd26f47b789a1c80d32bdb08fa6e2ec26ac1fb378051cf3",
+      "origin": "research_search_or_web_extraction",
+      "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
+    },
+    {
+      "path": "sources/research/case-search-p75.json",
+      "bytes": 1615,
+      "sha256": "cff38b914dae535a339a57942bb085b0d500a4fc8a34047687a1d96fa78f5264",
+      "origin": "research_search_or_web_extraction",
+      "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
+    },
+    {
+      "path": "sources/research/changes-october.json",
+      "bytes": 1618,
+      "sha256": "2db6fa3cc7f0fe00a3f5df540144b1f4e1edcd92bed46a89e2361fdce6d5cf4d",
+      "origin": "research_search_or_web_extraction",
+      "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
+    },
+    {
+      "path": "sources/research/hgb-changes-search.json",
+      "bytes": 1678,
+      "sha256": "bc9f86944fdb40f27f5bff8e3dbd246d2e03f62377b3e6b8272ab6c79a3d87db",
+      "origin": "research_search_or_web_extraction",
+      "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
+    },
+    {
+      "path": "sources/research/hgb-index.md",
+      "bytes": 98015,
+      "sha256": "320fd7b5a7035246b950ffe05c271af584ed3e60da07e2fddd14b3ecca4923a6",
+      "origin": "research_search_or_web_extraction",
+      "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
+    },
+    {
+      "path": "sources/search-log.json",
+      "bytes": 1794,
+      "sha256": "b2988e1757669ba3315fb71b1d49f2e88e9334c113eee3da03110d025aa69cd5",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/structure.json",
+      "bytes": 17099,
+      "sha256": "808cf093f322af37d544fc9ff8ef40e14e5997fdf415bf34894120bf8e1e73ae",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/verification.json",
+      "bytes": 6661,
+      "sha256": "56feba6c2ecdcd69389332b33b1663c820bc3b7938436c1db3c11bc3a2a2f64c",
+      "origin": "derived_evidence_or_documentation"
+    }
+  ]
+}

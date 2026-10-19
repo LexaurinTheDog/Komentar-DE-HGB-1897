@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-10-19",
+  "scope": "Selektive Recherche zu HGB-Kaufmanns- und Firmenrecht; keine vollständige Rechtsprechungsübersicht",
+  "searches": [
+    {
+      "query": "site.recht.bund.de Handelsgesetzbuch 2026 geändert",
+      "result": "Amtlichen HGB-Stand und BGBl. 2026 I Nr. 33 ermittelt",
+      "evidence": "research/hgb-changes-search.json"
+    },
+    {
+      "query": "site.recht.bund.de Handelsgesetzbuch Oktober 2026",
+      "result": "Keine verifizierte spätere HGB-Änderung; Entwurfsfundstelle ist kein geltendes Recht",
+      "evidence": "research/changes-october.json"
+    },
+    {
+      "query": "site.rechtsprechung-im-internet.de § 25 Geschäftsbezeichnung",
+      "result": "Websuche lieferte keine hinreichend passende amtliche Bundesentscheidung",
+      "evidence": "research/case-search-p25.json"
+    },
+    {
+      "query": "BGH-Metadaten im lokalen RII-Korpus mit HGB-Normen 15, 25, 48, 50, 54",
+      "result": "II ZR 220/22 und II ZR 140/13 ausgewählt; Volltexte gelesen und amtliche XML erneut abgerufen"
+    },
+    {
+      "query": "II ZR 61/09 und II ZR 355/18",
+      "result": "Nicht als Beleg für das Firmenrecht ausgewählt: GmbH-Mantelverwendung beziehungsweise Geschäftsführerhaftung. II ZR 61/09 ist als Suchbeleg erhalten, aber nicht zitiert."
+    },
+    {
+      "query": "site.bundesarbeitsgericht.de \"75 Abs. 3\"",
+      "result": "10 AZR 260/14; vollständiges amtliches PDF gelesen; § 75 Absatz 3 trotz Abdruck als nichtig behandelt.",
+      "evidence": "research/case-search-p75-bag.json"
+    }
+  ],
+  "negative_results": "Für technische Registerorganisationsnormen wurde bisher keine ausreichend spezifische zusätzliche Entscheidung als Beleg aufgenommen. Daraus folgt keine Aussage, dass keine Rechtsprechung existiert."
+}

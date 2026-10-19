@@ -1,0 +1,170 @@
+{
+  "authoring_started_at": "2026-10-19T19:28:19.754954+00:00",
+  "decisive_date": "2026-10-19",
+  "fetches": [
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-19T19:28:18.496559+00:00",
+      "http_status": 200,
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "path": "sources/hgb-2026-10-19.zip",
+      "bytes": 218961,
+      "expected_format": "zip",
+      "format_valid": true,
+      "headers": {
+        "Date": "Mon, 19 Oct 2026 19:28:18 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Thu, 09 Jul 2026 19:55:15 GMT",
+        "ETag": "\"35751-6563300b392bf\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "218961",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "application/zip",
+        "Connection": "close"
+      },
+      "members": [
+        "BJNR002190897.xml"
+      ],
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/",
+      "accessed_at": "2026-10-19T19:28:18.853213+00:00",
+      "http_status": 200,
+      "sha256": "810430435a9544bd9249cfb2d8ff09442deaa3c4211a2e5e0002c0715c41bcc0",
+      "path": "sources/hgb-index-2026-10-19.html",
+      "bytes": 139611,
+      "expected_format": "html",
+      "format_valid": true,
+      "headers": {
+        "Date": "Mon, 19 Oct 2026 19:28:19 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Mon, 19 Oct 2026 00:15:33 GMT",
+        "ETag": "\"2215b-65e2669903c1c\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "139611",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/BJNR002190897.html",
+      "accessed_at": "2026-10-19T19:28:19.173481+00:00",
+      "http_status": 200,
+      "sha256": "87685f8f870b2c19d9787e251222ff6d448ae426408acb56791429cf1b73c87e",
+      "path": "sources/hgb-full-2026-10-19.html",
+      "bytes": 1355853,
+      "expected_format": "html",
+      "format_valid": true,
+      "headers": {
+        "Date": "Mon, 19 Oct 2026 19:28:19 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Mon, 19 Oct 2026 00:15:27 GMT",
+        "ETag": "\"14b04d-65e26693dbaca\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "1355853",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      }
+    },
+    {
+      "url": "https://www.recht.bund.de/bgbl/1/2026/33/regelungstext.pdf?__blob=publicationFile",
+      "path": "sources/bgbl-2026-33.pdf",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T19:29:14.975462+00:00",
+      "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af",
+      "expected_format": "pdf",
+      "format_valid": true,
+      "content_type": "application/pdf"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "path": "sources/aktualitaet-2026-10-19.html",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T19:29:15.640744+00:00",
+      "sha256": "f2c92645e935e53c51e5f69a06756484133dff26f032251a8b6db1d778bb045c",
+      "expected_format": "html",
+      "format_valid": true,
+      "content_type": "text/html"
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE315292010.zip",
+      "path": "sources/case-KORE315292010.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T19:29:15.803973+00:00",
+      "sha256": "f07fc319c3183207aea534e6f55b8acff67f849a41b384f3e2a8ce40f63e48bb",
+      "expected_format": "zip",
+      "format_valid": true,
+      "content_type": "application/zip",
+      "members": [
+        "jb-KORE315292010.xml"
+      ]
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE700252024.zip",
+      "path": "sources/case-KORE700252024.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T19:32:37.247027+00:00",
+      "sha256": "c183149cb8bdde30da938b993243023d72272c4287cfc5ea7f104873971bda10",
+      "expected_format": "zip",
+      "format_valid": true,
+      "members": [
+        "jb-KORE700252024.xml"
+      ]
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-JURE140005306.zip",
+      "path": "sources/case-JURE140005306.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T19:32:37.495855+00:00",
+      "sha256": "d24620d725b18f4945cf16d777ff6bf3a9e8c54a5111ba62a05fe6975b58e2a8",
+      "expected_format": "zip",
+      "format_valid": true,
+      "members": [
+        "jb-JURE140005306.xml"
+      ]
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/wp-content/uploads/2021/01/10-AZR-260-14.pdf",
+      "path": "sources/BAG-10-AZR-260-14.pdf",
+      "http_status": 200,
+      "accessed_at": "2026-10-19T19:41:25.565966+00:00",
+      "sha256": "f316e8160b2d33f81fb397e1eed1c1c5b171670cf985f041e973eb1778557036",
+      "expected_format": "pdf",
+      "format_valid": true
+    }
+  ],
+  "version_information": {
+    "decisive_date": "2026-10-19",
+    "official_xml_builddate": "20260709215513",
+    "stand": [
+      "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
+      "Mittelbare Änderung durch Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt"
+    ],
+    "commencement_evidence": "sources/bgbl-2026-33.pdf",
+    "commencement_provision": "Artikel 64 Absätze 5, 7 und 8",
+    "effective_amendment_on_2026_07_10": "Artikel 3 Nummer 2 Buchstaben a und b, Nummern 3 und 4",
+    "future_changes_excluded": [
+      "Artikel 3 Nummern 1, 5 und 6: 2028-01-10",
+      "Artikel 4: 2030-01-10"
+    ],
+    "comparison_with_intake": "Keine Wortlautabweichung nach Leerraumnormalisierung; siehe change-map.json",
+    "currentness_limit": "Zusätzlicher amtlicher Aktualitätendienst und selektive Änderungssuche; keine behauptete vollständige manuelle Bundesgesetzblatt-Jahresauswertung."
+  },
+  "derived_canonical": {
+    "path": "sources/hgb-canonical.md",
+    "sha256": "17a087db86f00c3cf7880a5f818c01dc0c2de8c66d34761f3387492735cfc7ec",
+    "from_xml": "sources/hgb-2026-10-19.xml",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361"
+  }
+}

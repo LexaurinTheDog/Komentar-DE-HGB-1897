@@ -1,0 +1,723 @@
+{
+  "export_type": "explicit_partial_checkpoint",
+  "shared_full_build_success": false,
+  "total_units": 696,
+  "exported_units": 233,
+  "authored_units": 233,
+  "exported_chapters": [
+    {
+      "chapter": 1,
+      "path": "01-hgb-01.md",
+      "units": 7
+    },
+    {
+      "chapter": 2,
+      "path": "02-hgb-02.md",
+      "units": 24
+    },
+    {
+      "chapter": 3,
+      "path": "03-hgb-03.md",
+      "units": 22
+    },
+    {
+      "chapter": 4,
+      "path": "04-hgb-04.md",
+      "units": 1
+    },
+    {
+      "chapter": 5,
+      "path": "05-hgb-05.md",
+      "units": 11
+    },
+    {
+      "chapter": 6,
+      "path": "06-hgb-06.md",
+      "units": 25
+    },
+    {
+      "chapter": 7,
+      "path": "07-hgb-07.md",
+      "units": 23
+    },
+    {
+      "chapter": 8,
+      "path": "08-hgb-08.md",
+      "units": 12
+    },
+    {
+      "chapter": 9,
+      "path": "09-hgb-09.md",
+      "units": 1
+    },
+    {
+      "chapter": 10,
+      "path": "10-hgb-10.md",
+      "units": 25
+    },
+    {
+      "chapter": 11,
+      "path": "11-hgb-11.md",
+      "units": 24
+    },
+    {
+      "chapter": 12,
+      "path": "12-hgb-12.md",
+      "units": 22
+    },
+    {
+      "chapter": 13,
+      "path": "13-hgb-13.md",
+      "units": 8
+    },
+    {
+      "chapter": 14,
+      "path": "14-hgb-14.md",
+      "units": 25
+    },
+    {
+      "chapter": 15,
+      "path": "15-hgb-15.md",
+      "units": 3
+    }
+  ],
+  "not_exported": [
+    {
+      "n": 16,
+      "title": "Drittes Buch — Handelsbücher / Zweiter Abschnitt — Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften (§ 264–§ 286)",
+      "missing_ids": [
+        "p264",
+        "p264a",
+        "p264b",
+        "p264c",
+        "p264d",
+        "p265",
+        "p266",
+        "p267",
+        "p267a",
+        "p268",
+        "p269",
+        "p270",
+        "p271",
+        "p272",
+        "p273",
+        "p274",
+        "p274a",
+        "p275",
+        "p276",
+        "p277",
+        "p278",
+        "p279-283",
+        "p284",
+        "p285",
+        "p286"
+      ]
+    },
+    {
+      "n": 17,
+      "title": "Drittes Buch — Handelsbücher / Zweiter Abschnitt — Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften (§ 287–§ 304)",
+      "missing_ids": [
+        "p287",
+        "p288",
+        "p289",
+        "p289a",
+        "p289b",
+        "p289c",
+        "p289d",
+        "p289e",
+        "p289f",
+        "p290",
+        "p291",
+        "p292",
+        "p292a",
+        "p293",
+        "p294",
+        "p295",
+        "p296",
+        "p297",
+        "p298",
+        "p299",
+        "p300",
+        "p301",
+        "p302",
+        "p303",
+        "p304"
+      ]
+    },
+    {
+      "n": 18,
+      "title": "Drittes Buch — Handelsbücher / Zweiter Abschnitt — Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften (§ 305–§ 320)",
+      "missing_ids": [
+        "p305",
+        "p306",
+        "p307",
+        "p308",
+        "p308a",
+        "p309",
+        "p310",
+        "p311",
+        "p312",
+        "p313",
+        "p314",
+        "p315",
+        "p315a",
+        "p315b",
+        "p315c",
+        "p315d",
+        "p315e",
+        "p316",
+        "p316a",
+        "p317",
+        "p318",
+        "p319",
+        "p319a",
+        "p319b",
+        "p320"
+      ]
+    },
+    {
+      "n": 19,
+      "title": "Drittes Buch — Handelsbücher / Zweiter Abschnitt — Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften (§ 321–§ 335c)",
+      "missing_ids": [
+        "p321",
+        "p321a",
+        "p322",
+        "p323",
+        "p324",
+        "p324a",
+        "p325",
+        "p325a",
+        "p326",
+        "p327",
+        "p327a",
+        "p328",
+        "p329",
+        "p330",
+        "p331",
+        "p331a",
+        "p332",
+        "p333",
+        "p333a",
+        "p334",
+        "p335",
+        "p335a",
+        "p335b",
+        "p335c"
+      ]
+    },
+    {
+      "n": 20,
+      "title": "Drittes Buch — Handelsbücher / Dritter Abschnitt — Ergänzende Vorschriften für eingetragene Genossenschaften (§ 336–§ 339)",
+      "missing_ids": [
+        "p336",
+        "p337",
+        "p338",
+        "p339"
+      ]
+    },
+    {
+      "n": 21,
+      "title": "Drittes Buch — Handelsbücher / Vierter Abschnitt — Ergänzende Vorschriften für bestimmte Unternehmen (§ 340–§ 341h)",
+      "missing_ids": [
+        "p340",
+        "p340a",
+        "p340b",
+        "p340c",
+        "p340d",
+        "p340e",
+        "p340f",
+        "p340g",
+        "p340h",
+        "p340i",
+        "p340j",
+        "p340k",
+        "p340l",
+        "p340m",
+        "p340n",
+        "p340o",
+        "p341",
+        "p341a",
+        "p341b",
+        "p341c",
+        "p341d",
+        "p341e",
+        "p341f",
+        "p341g",
+        "p341h"
+      ]
+    },
+    {
+      "n": 22,
+      "title": "Drittes Buch — Handelsbücher / Vierter Abschnitt — Ergänzende Vorschriften für bestimmte Unternehmen (§ 341i–§ 342g)",
+      "missing_ids": [
+        "p341i",
+        "p341j",
+        "p341k",
+        "p341l",
+        "p341m",
+        "p341n",
+        "p341o",
+        "p341p",
+        "p341q",
+        "p341r",
+        "p341s",
+        "p341t",
+        "p341u",
+        "p341v",
+        "p341w",
+        "p341x",
+        "p341y",
+        "p342",
+        "p342a",
+        "p342b",
+        "p342c",
+        "p342d",
+        "p342e",
+        "p342f",
+        "p342g"
+      ]
+    },
+    {
+      "n": 23,
+      "title": "Drittes Buch — Handelsbücher / Vierter Abschnitt — Ergänzende Vorschriften für bestimmte Unternehmen (§ 342h–§ 342p)",
+      "missing_ids": [
+        "p342h",
+        "p342i",
+        "p342j",
+        "p342k",
+        "p342l",
+        "p342m",
+        "p342n",
+        "p342o",
+        "p342p"
+      ]
+    },
+    {
+      "n": 24,
+      "title": "Drittes Buch — Handelsbücher / Fünfter Abschnitt — Privates Rechnungslegungsgremium; Rechnungslegungsbeirat (§ 342q–§ 342r)",
+      "missing_ids": [
+        "p342q",
+        "p342r"
+      ]
+    },
+    {
+      "n": 25,
+      "title": "Viertes Buch — Handelsgeschäfte / Erster Abschnitt — Allgemeine Vorschriften (§ 343–§ 365a)",
+      "missing_ids": [
+        "p343",
+        "p344",
+        "p345",
+        "p346",
+        "p347",
+        "p348",
+        "p349",
+        "p350",
+        "p351",
+        "p352",
+        "p353",
+        "p354",
+        "p354a",
+        "p355",
+        "p356",
+        "p357",
+        "p358",
+        "p359",
+        "p360",
+        "p361",
+        "p362",
+        "p363",
+        "p364",
+        "p365",
+        "p365a"
+      ]
+    },
+    {
+      "n": 26,
+      "title": "Viertes Buch — Handelsgeschäfte / Erster Abschnitt — Allgemeine Vorschriften (§ 366–§ 372)",
+      "missing_ids": [
+        "p366",
+        "p367",
+        "p368",
+        "p369",
+        "p370",
+        "p371",
+        "p372"
+      ]
+    },
+    {
+      "n": 27,
+      "title": "Viertes Buch — Handelsgeschäfte / Zweiter Abschnitt — Handelskauf (§ 373–§ 382)",
+      "missing_ids": [
+        "p373",
+        "p374",
+        "p375",
+        "p376",
+        "p377",
+        "p378",
+        "p379",
+        "p380",
+        "p381",
+        "p382"
+      ]
+    },
+    {
+      "n": 28,
+      "title": "Viertes Buch — Handelsgeschäfte / Dritter Abschnitt — Kommissionsgeschäft (§ 383–§ 406)",
+      "missing_ids": [
+        "p383",
+        "p384",
+        "p385",
+        "p386",
+        "p387",
+        "p388",
+        "p389",
+        "p390",
+        "p391",
+        "p392",
+        "p393",
+        "p394",
+        "p395",
+        "p396",
+        "p397",
+        "p398",
+        "p399",
+        "p400",
+        "p401",
+        "p402",
+        "p403",
+        "p404",
+        "p405",
+        "p406"
+      ]
+    },
+    {
+      "n": 29,
+      "title": "Viertes Buch — Handelsgeschäfte / Vierter Abschnitt — Frachtgeschäft (§ 407–§ 431)",
+      "missing_ids": [
+        "p407",
+        "p408",
+        "p409",
+        "p410",
+        "p411",
+        "p412",
+        "p413",
+        "p414",
+        "p415",
+        "p416",
+        "p417",
+        "p418",
+        "p419",
+        "p420",
+        "p421",
+        "p422",
+        "p423",
+        "p424",
+        "p425",
+        "p426",
+        "p427",
+        "p428",
+        "p429",
+        "p430",
+        "p431"
+      ]
+    },
+    {
+      "n": 30,
+      "title": "Viertes Buch — Handelsgeschäfte / Vierter Abschnitt — Frachtgeschäft (§ 432–§ 451e)",
+      "missing_ids": [
+        "p432",
+        "p433",
+        "p434",
+        "p435",
+        "p436",
+        "p437",
+        "p438",
+        "p439",
+        "p440",
+        "p441",
+        "p442",
+        "p443",
+        "p444",
+        "p445",
+        "p446",
+        "p447",
+        "p448",
+        "p449",
+        "p450",
+        "p451",
+        "p451a",
+        "p451b",
+        "p451c",
+        "p451d",
+        "p451e"
+      ]
+    },
+    {
+      "n": 31,
+      "title": "Viertes Buch — Handelsgeschäfte / Vierter Abschnitt — Frachtgeschäft (§ 451f–§ 452d)",
+      "missing_ids": [
+        "p451f",
+        "p451g",
+        "p451h",
+        "p452",
+        "p452a",
+        "p452b",
+        "p452c",
+        "p452d"
+      ]
+    },
+    {
+      "n": 32,
+      "title": "Viertes Buch — Handelsgeschäfte / Fünfter Abschnitt — Speditionsgeschäft (§ 453–§ 466)",
+      "missing_ids": [
+        "p453",
+        "p454",
+        "p455",
+        "p456",
+        "p457",
+        "p458",
+        "p459",
+        "p460",
+        "p461",
+        "p462",
+        "p463",
+        "p464",
+        "p465",
+        "p466"
+      ]
+    },
+    {
+      "n": 33,
+      "title": "Viertes Buch — Handelsgeschäfte / Sechster Abschnitt — Lagergeschäft (§ 467–§ 475h)",
+      "missing_ids": [
+        "p467",
+        "p468",
+        "p469",
+        "p470",
+        "p471",
+        "p472",
+        "p473",
+        "p474",
+        "p475",
+        "p475a",
+        "p475b",
+        "p475c",
+        "p475d",
+        "p475e",
+        "p475f",
+        "p475g",
+        "p475h"
+      ]
+    },
+    {
+      "n": 34,
+      "title": "Fünftes Buch — Seehandel / Erster Abschnitt — Personen der Schifffahrt (§ 476–§ 480)",
+      "missing_ids": [
+        "p476",
+        "p477",
+        "p478",
+        "p479",
+        "p480"
+      ]
+    },
+    {
+      "n": 35,
+      "title": "Fünftes Buch — Seehandel / Zweiter Abschnitt — Beförderungsverträge (§ 481–§ 505)",
+      "missing_ids": [
+        "p481",
+        "p482",
+        "p483",
+        "p484",
+        "p485",
+        "p486",
+        "p487",
+        "p488",
+        "p489",
+        "p490",
+        "p491",
+        "p492",
+        "p493",
+        "p494",
+        "p495",
+        "p496",
+        "p497",
+        "p498",
+        "p499",
+        "p500",
+        "p501",
+        "p502",
+        "p503",
+        "p504",
+        "p505"
+      ]
+    },
+    {
+      "n": 36,
+      "title": "Fünftes Buch — Seehandel / Zweiter Abschnitt — Beförderungsverträge (§ 506–§ 530)",
+      "missing_ids": [
+        "p506",
+        "p507",
+        "p508",
+        "p509",
+        "p510",
+        "p511",
+        "p512",
+        "p513",
+        "p514",
+        "p515",
+        "p516",
+        "p517",
+        "p518",
+        "p519",
+        "p520",
+        "p521",
+        "p522",
+        "p523",
+        "p524",
+        "p525",
+        "p526",
+        "p527",
+        "p528",
+        "p529",
+        "p530"
+      ]
+    },
+    {
+      "n": 37,
+      "title": "Fünftes Buch — Seehandel / Zweiter Abschnitt — Beförderungsverträge (§ 531–§ 552)",
+      "missing_ids": [
+        "p531",
+        "p532",
+        "p533",
+        "p534",
+        "p535",
+        "p536",
+        "p537",
+        "p538",
+        "p539",
+        "p540",
+        "p541",
+        "p542",
+        "p543",
+        "p544",
+        "p545",
+        "p546",
+        "p547",
+        "p548",
+        "p549",
+        "p550",
+        "p551",
+        "p552"
+      ]
+    },
+    {
+      "n": 38,
+      "title": "Fünftes Buch — Seehandel / Dritter Abschnitt — Schiffsüberlassungsverträge (§ 553–§ 569)",
+      "missing_ids": [
+        "p553",
+        "p554",
+        "p555",
+        "p556",
+        "p557",
+        "p558",
+        "p559",
+        "p560",
+        "p561",
+        "p562",
+        "p563",
+        "p564",
+        "p565",
+        "p566",
+        "p567",
+        "p568",
+        "p569"
+      ]
+    },
+    {
+      "n": 39,
+      "title": "Fünftes Buch — Seehandel / Vierter Abschnitt — Schiffsnotlagen (§ 570–§ 594)",
+      "missing_ids": [
+        "p570",
+        "p571",
+        "p572",
+        "p573",
+        "p574",
+        "p575",
+        "p576",
+        "p577",
+        "p578",
+        "p579",
+        "p580",
+        "p581",
+        "p582",
+        "p583",
+        "p584",
+        "p585",
+        "p586",
+        "p587",
+        "p588",
+        "p589",
+        "p590",
+        "p591",
+        "p592",
+        "p593",
+        "p594"
+      ]
+    },
+    {
+      "n": 40,
+      "title": "Fünftes Buch — Seehandel / Vierter Abschnitt — Schiffsnotlagen (§ 595–§ 595)",
+      "missing_ids": [
+        "p595"
+      ]
+    },
+    {
+      "n": 41,
+      "title": "Fünftes Buch — Seehandel / Fünfter Abschnitt — Schiffsgläubiger (§ 596–§ 604)",
+      "missing_ids": [
+        "p596",
+        "p597",
+        "p598",
+        "p599",
+        "p600",
+        "p601",
+        "p602",
+        "p603",
+        "p604"
+      ]
+    },
+    {
+      "n": 42,
+      "title": "Fünftes Buch — Seehandel / Sechster Abschnitt — Verjährung (§ 605–§ 610)",
+      "missing_ids": [
+        "p605",
+        "p606",
+        "p607",
+        "p608",
+        "p609",
+        "p610"
+      ]
+    },
+    {
+      "n": 43,
+      "title": "Fünftes Buch — Seehandel / Siebter Abschnitt — Allgemeine Haftungsbeschränkung (§ 611–§ 617)",
+      "missing_ids": [
+        "p611",
+        "p612",
+        "p613",
+        "p614",
+        "p615",
+        "p616",
+        "p617"
+      ]
+    },
+    {
+      "n": 44,
+      "title": "Fünftes Buch — Seehandel / Achter Abschnitt — Verfahrensvorschriften (§ 618–§ 619)",
+      "missing_ids": [
+        "p618",
+        "p619"
+      ]
+    }
+  ]
+}

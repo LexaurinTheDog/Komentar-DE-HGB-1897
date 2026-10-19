@@ -1,0 +1,12 @@
+{
+  "original_path": "/Volumes/LaCie/law-intake/eu/de/gesetze/gii-hgb.md",
+  "original_sha256": "98eab8061d2d34ad9276c296082299c5951b1599738134cf80bafb724bf05f77",
+  "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "old_stand": "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
+  "new_stand": [
+    "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
+    "Mittelbare Änderung durch Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt"
+  ],
+  "unmatched_units": [],
+  "unit_count_explanation": "813 Intake-Einheiten = 696 Normeinheiten + 117 Gliederungsknoten. Die zusätzliche XML-Kopfnorm führt zu insgesamt 814 XML-norm-Knoten."
+}

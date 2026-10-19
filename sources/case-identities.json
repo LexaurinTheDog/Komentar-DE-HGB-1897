@@ -1,0 +1,20 @@
+[
+  {
+    "document": "KORE700252024",
+    "path": "sources/case-KORE700252024.xml",
+    "sha256": "65b9c7772797ee30480bd9a5e58953ee655356444701a8dbdccaf13014e05663",
+    "court": "BGH",
+    "date": "20240109",
+    "docket": "II ZR 220/22",
+    "ecli": "ECLI:DE:BGH:2024:090124UIIZR220.22.0"
+  },
+  {
+    "document": "JURE140005306",
+    "path": "sources/case-JURE140005306.xml",
+    "sha256": "c81f724568985eb2e78db0a58105f4b8c4335538e668b7ff4e4a4a65c574fe13",
+    "court": "BGH",
+    "date": "20131217",
+    "docket": "II ZR 140/13",
+    "ecli": null
+  }
+]

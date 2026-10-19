@@ -1,0 +1,60 @@
+{
+  "country": "de",
+  "identifier": "HGB",
+  "title": "Handelsgesetzbuch",
+  "stage": "authoring",
+  "complete": false,
+  "updated_at": "2026-10-19T20:03:56.769707+00:00",
+  "decisive_date": "2026-10-19",
+  "total_units": 696,
+  "completed_units": 233,
+  "remaining_units": 463,
+  "completed_scope": "Erstes und Zweites Buch sowie Erster Abschnitt des Dritten Buchs, §§ 1–263 einschließlich Sammelleerstellen",
+  "next_unit": "p264",
+  "commentary_chars": 290299,
+  "source_checks": {
+    "official_xml_http": 200,
+    "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "canonical_verbatim_ratio": 1.0,
+    "independent_xml_text_mismatches": [],
+    "independent_html_missing": [],
+    "independent_html_unexpected": [],
+    "expected_vs_extracted": "696/696; keine fehlenden oder doppelten Kennungen",
+    "commencement_checked": true,
+    "commencement_evidence": "sources/commencement.md",
+    "intake_changed": false,
+    "verification": "sources/verification.json"
+  },
+  "case_law_sources": [
+    "BGH 2024-01-09 II ZR 220/22",
+    "BGH 2013-12-17 II ZR 140/13 (Hinweisbeschluss)",
+    "BAG 2015-07-07 10 AZR 260/14"
+  ],
+  "case_law_coverage": "Selektiv; drei amtliche Volltexte gelesen. Keine umfassende Rechtsprechungsübersicht.",
+  "build_result": {
+    "success": false,
+    "evidence": "build-result.json"
+  },
+  "validation_result": {
+    "ok": false,
+    "reason": "463 Kommentare fehlen; Gesamtvalidierung wird am vollständigen Normbestand ausgeführt.",
+    "evidence": "validation.json"
+  },
+  "independent_second_pass": false,
+  "unresolved_blockers": [
+    "Die Originalkommentierung zu 463 Normeinheiten ab § 264 ist noch nicht geschrieben. Dies ist offene Autorenarbeit, kein Quellenbeschaffungsfehler."
+  ],
+  "remaining_limitations": [
+    "Gesamtmanuskript unvollständig; kein Abschlussstatus.",
+    "Keine unabhängige Zweitprüfung.",
+    "Aktualitätsabgleich anhand amtlichem Volltext, Inkrafttreten und ergänzender Recherche; keine behauptete lückenlose manuelle Auswertung aller BGBl.-Ausgaben.",
+    "Spezielle fremdgesetzliche Übergangs- und Anwendungsregeln sind bei konkreten Altfällen zusätzlich zu prüfen."
+  ],
+  "external_actions": {
+    "published": false,
+    "pushed": false,
+    "github_writes": false,
+    "messages_sent": false
+  },
+  "output_type": "Ausdrücklich unvollständiger lesbarer Export der 15 vollständig kommentierten Kapitel"
+}
