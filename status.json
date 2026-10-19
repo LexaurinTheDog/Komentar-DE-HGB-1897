@@ -4,7 +4,7 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-19T20:05:03.139049+00:00",
+  "updated_at": "2026-10-19T20:05:34.112068+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
   "completed_units": 233,
@@ -39,7 +39,7 @@
     "repo": "Komentar-DE-HGB-1897",
     "units": 696,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 290299,
+    "commentary_chars": 290696,
     "errors": [
       "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']"
     ],
@@ -63,5 +63,11 @@
     "github_writes": false,
     "messages_sent": false
   },
-  "output_type": "Ausdrücklich unvollständiger lesbarer Export der 15 vollständig kommentierten Kapitel"
+  "output_type": "Ausdrücklich unvollständiger lesbarer Export der 15 vollständig kommentierten Kapitel",
+  "link_check": {
+    "checked_local_markdown_links": 97,
+    "missing": [],
+    "ok": true,
+    "scope": "Lokale Markdown-Dateiverknüpfungen; keine behauptete Erreichbarkeitsprüfung sämtlicher aus amtlichen Quellen übernommener externer URLs."
+  }
 }
