@@ -4,14 +4,14 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-19T20:03:56.769707+00:00",
+  "updated_at": "2026-10-19T20:05:03.139049+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
   "completed_units": 233,
   "remaining_units": 463,
   "completed_scope": "Erstes und Zweites Buch sowie Erster Abschnitt des Dritten Buchs, §§ 1–263 einschließlich Sammelleerstellen",
   "next_unit": "p264",
-  "commentary_chars": 290299,
+  "commentary_chars": 290696,
   "source_checks": {
     "official_xml_http": 200,
     "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
@@ -36,8 +36,15 @@
     "evidence": "build-result.json"
   },
   "validation_result": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 696,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 290299,
+    "errors": [
+      "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']"
+    ],
+    "warnings": [],
     "ok": false,
-    "reason": "463 Kommentare fehlen; Gesamtvalidierung wird am vollständigen Normbestand ausgeführt.",
     "evidence": "validation.json"
   },
   "independent_second_pass": false,

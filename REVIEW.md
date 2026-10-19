@@ -7,7 +7,7 @@ Stand: 19. Oktober 2026. Dieser Bericht dokumentiert die eigene Arbeitskontrolle
 - Amtliches HGB-XML und HTML-Inhaltsverzeichnis enthalten dieselben 696 Normkennungen; kein fehlender oder doppelter Eintrag im Parsergebnis.
 - 117 Gliederungsknoten sind von Vorschriften getrennt; amtliche Sammelleerstellen und interne Wegfallmarker bleiben erhalten. Keine eigene Anlage im amtlichen HGB-XML.
 - Sämtlicher extrahierter Gesetzestext stimmt ohne Leerraum mit dem XML überein. Die strenge Wortlautprüfung gegen die kanonische Quelle ergibt 100 Prozent. Gegenüber dem erhaltenen Intake besteht nach Leerraumnormalisierung keine Textabweichung.
-- 233 Kommentare mit 290.299 Zeichen sind vorhanden. Es gibt keine doppelte Kommentarzuordnung, keinen unbekannten Einheitenbezeichner, keinen zu kurzen vorhandenen Kommentar nach den technischen Mindestgrenzen und keinen exakt identischen wiederholten längeren Prosaabsatz.
+- 233 Kommentare mit 290.696 Zeichen sind vorhanden. Es gibt keine doppelte Kommentarzuordnung, keinen unbekannten Einheitenbezeichner, keinen zu kurzen vorhandenen Kommentar nach den technischen Mindestgrenzen und keinen exakt identischen wiederholten längeren Prosaabsatz.
 
 Die Berichte [audit-report.json](audit-report.json) und [completeness-report.json](completeness-report.json) enthalten Einzelkennungen und Quellenhashes. Die Längen- und Wiederholungsprüfung beweist keine rechtliche Qualität und erkennt nicht jede semantische Ähnlichkeit.
 

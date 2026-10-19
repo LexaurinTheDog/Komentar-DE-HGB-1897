@@ -29,6 +29,11 @@
       "query": "site.bundesarbeitsgericht.de \"75 Abs. 3\"",
       "result": "10 AZR 260/14; vollständiges amtliches PDF gelesen; § 75 Absatz 3 trotz Abdruck als nichtig behandelt.",
       "evidence": "research/case-search-p75-bag.json"
+    },
+    {
+      "query": "site.rechtsprechung-im-internet.de HGB Firmenfortführung 25",
+      "result": "Keine neue amtliche Bundesentscheidung ausgewählt; lokale RII-Metadaten lieferten den passenden Volltext.",
+      "evidence": "research/case-search-firmenfortfuehrung.json"
     }
   ],
   "negative_results": "Für technische Registerorganisationsnormen wurde bisher keine ausreichend spezifische zusätzliche Entscheidung als Beleg aufgenommen. Daraus folgt keine Aussage, dass keine Rechtsprechung existiert."

@@ -12,12 +12,12 @@
 - [Erstes Buch — Handelsstand / Erster Abschnitt — Kaufleute (§ 1–§ 7)](01-hgb-01.md) — 7 Normeinheiten
 - [Erstes Buch — Handelsstand / Zweiter Abschnitt — Handelsregister; Unternehmensregister (§ 8–§ 16)](02-hgb-02.md) — 24 Normeinheiten
 - [Erstes Buch — Handelsstand / Dritter Abschnitt — Handelsfirma (§ 17–§ 37a)](03-hgb-03.md) — 22 Normeinheiten
-- [Erstes Buch — Handelsstand / Vierter Abschnitt — Handelsbücher (§§ 38 bis 47b–§§ 38 bis 47b)](04-hgb-04.md) — 1 Normeinheiten
+- [Erstes Buch — Handelsstand / Vierter Abschnitt — Handelsbücher (§§ 38 bis 47b)](04-hgb-04.md) — 1 Normeinheiten
 - [Erstes Buch — Handelsstand / Fünfter Abschnitt — Prokura und Handlungsvollmacht (§ 48–§ 58)](05-hgb-05.md) — 11 Normeinheiten
 - [Erstes Buch — Handelsstand / Sechster Abschnitt — Handlungsgehilfen und Handlungslehrlinge (§ 59–§ 83)](06-hgb-06.md) — 25 Normeinheiten
 - [Erstes Buch — Handelsstand / Siebenter Abschnitt — Handelsvertreter (§ 84–§ 92c)](07-hgb-07.md) — 23 Normeinheiten
 - [Erstes Buch — Handelsstand / Achter Abschnitt — Handelsmakler (§ 93–§ 104)](08-hgb-08.md) — 12 Normeinheiten
-- [Erstes Buch — Handelsstand / Neunter Abschnitt — Bußgeldvorschriften (§ 104a–§ 104a)](09-hgb-09.md) — 1 Normeinheiten
+- [Erstes Buch — Handelsstand / Neunter Abschnitt — Bußgeldvorschriften (§ 104a)](09-hgb-09.md) — 1 Normeinheiten
 - [Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Erster Abschnitt — Offene Handelsgesellschaft (§ 105–§ 129)](10-hgb-10.md) — 25 Normeinheiten
 - [Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Erster Abschnitt — Offene Handelsgesellschaft (§ 130–§§ 153 bis 160)](11-hgb-11.md) — 24 Normeinheiten
 - [Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Zweiter Abschnitt — Kommanditgesellschaft (§ 161–§§ 180 bis 229)](12-hgb-12.md) — 22 Normeinheiten
@@ -53,7 +53,7 @@
 - Kapitel 37: Fünftes Buch — Seehandel / Zweiter Abschnitt — Beförderungsverträge (§ 531–§ 552) — 22 Kommentare fehlen.
 - Kapitel 38: Fünftes Buch — Seehandel / Dritter Abschnitt — Schiffsüberlassungsverträge (§ 553–§ 569) — 17 Kommentare fehlen.
 - Kapitel 39: Fünftes Buch — Seehandel / Vierter Abschnitt — Schiffsnotlagen (§ 570–§ 594) — 25 Kommentare fehlen.
-- Kapitel 40: Fünftes Buch — Seehandel / Vierter Abschnitt — Schiffsnotlagen (§ 595–§ 595) — 1 Kommentare fehlen.
+- Kapitel 40: Fünftes Buch — Seehandel / Vierter Abschnitt — Schiffsnotlagen (§ 595) — 1 Kommentare fehlen.
 - Kapitel 41: Fünftes Buch — Seehandel / Fünfter Abschnitt — Schiffsgläubiger (§ 596–§ 604) — 9 Kommentare fehlen.
 - Kapitel 42: Fünftes Buch — Seehandel / Sechster Abschnitt — Verjährung (§ 605–§ 610) — 6 Kommentare fehlen.
 - Kapitel 43: Fünftes Buch — Seehandel / Siebter Abschnitt — Allgemeine Haftungsbeschränkung (§ 611–§ 617) — 7 Kommentare fehlen.

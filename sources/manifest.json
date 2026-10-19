@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:03:34.240167+00:00",
+  "generated_at": "2026-10-19T20:05:03.184454+00:00",
   "files": [
     {
       "path": "sources/BAG-10-AZR-260-14.pdf",
@@ -181,6 +181,13 @@
       "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
     },
     {
+      "path": "sources/research/case-search-firmenfortfuehrung.json",
+      "bytes": 1768,
+      "sha256": "ed29ce5cc6243cb0ce948bb917038abd2fbca978a3bfc75dc2c53595156f7200",
+      "origin": "research_search_or_web_extraction",
+      "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
+    },
+    {
       "path": "sources/research/case-search-p25.json",
       "bytes": 965,
       "sha256": "d8e2ab038eab7d7b81a415f4183bf5ca8430d0706b35c302ae9caeefe43d5dfb",
@@ -224,8 +231,8 @@
     },
     {
       "path": "sources/search-log.json",
-      "bytes": 1794,
-      "sha256": "b2988e1757669ba3315fb71b1d49f2e88e9334c113eee3da03110d025aa69cd5",
+      "bytes": 2077,
+      "sha256": "8c04f5805d83e88d60cf0934ff4969ed623f82f849623c2299cdbb1d32efa298",
       "origin": "derived_evidence_or_documentation"
     },
     {
