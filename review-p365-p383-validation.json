@@ -1,0 +1,1 @@
+{"repo": "Komentar-DE-HGB-1897", "units": 696, "verbatim_ratio": 1.0, "commentary_chars": 764219, "errors": ["krátký/chybějící komentář u 256 jednotek: ['p384(0<400)', 'p385(0<400)', 'p386(0<400)', 'p387(0<400)', 'p388(0<400)', 'p389(0<400)', 'p390(0<400)', 'p391(0<400)']"], "warnings": [], "ok": false}
