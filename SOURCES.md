@@ -1,83 +1,10 @@
 # Quellen und Nachweise
 
-Verifiziert am 19. Oktober 2026. Vollständige URLs, Abrufzeiten, HTTP-Ergebnisse und Prüfsummen: [verification.json](sources/verification.json). Hashinventar sämtlicher Quellen- und Belegdateien: [manifest.json](sources/manifest.json).
+- [Amtliche HGB-Seite](https://www.gesetze-im-internet.de/hgb/), [XML-Ausgangsfassung](sources/hgb-2026-10-19.xml), [erneuter XML-Abruf](sources/hgb-finalize.xml).
+- [Abrufnachweise](sources/verification.json), [Inkrafttreten](sources/commencement.md), [Verkündung](sources/bgbl-2026-33.pdf).
+- [Erhaltener Intake](sources/intake-2026-10-01.md), [Versionsvergleich](sources/change-map.json), [kanonischer Text](sources/hgb-canonical.md).
+- [Vollständige Knotenzuordnung](sources/preflight-coverage.json), [Vollständigkeitsbericht](completeness-report.json), [Parser](_parse.py).
+- [Fallkarten](cases/INDEX.md), [Prüfbericht](REVIEW.md), [Chargenprüfungen](batch-review-ledger.json).
+- [Dateimanifest mit SHA-256](source-manifest.json). Die Einzelabrufe enthalten tatsächliche URLs, Zeitstempel, HTTP- und Formatkontrollen; abgeleitete Dateien sind als solche nachvollziehbar.
 
-## Amtlicher Normbestand
-
-- [HGB, Gesetze im Internet](https://www.gesetze-im-internet.de/hgb/): [Original-ZIP](sources/hgb-2026-10-19.zip), [extrahiertes amtliches XML](sources/hgb-2026-10-19.xml), [HTML-Inhaltsverzeichnis](sources/hgb-index-2026-10-19.html), [HTML-Volltext](sources/hgb-full-2026-10-19.html).
-- [Mechanische kanonische Lesefassung](sources/hgb-canonical.md), [Gliederung](sources/structure.json), [übergreifende amtliche Hinweise](sources/global-notes.json).
-- [Unverändert erhaltener Intake vom 1. Oktober 2026](sources/intake-2026-10-01.md) und [Änderungs-/Formatvergleich](sources/change-map.json).
-- [Kennungsgenaue Vollständigkeitsprüfung](completeness-report.json) und [zusätzlicher XML-/HTML- und Kommentarabgleich](audit-report.json).
-
-## Zeitliche Wirksamkeit
-
-Das [verkündete Standortfördergesetz, BGBl. 2026 I Nr. 33](https://www.recht.bund.de/bgbl/1/2026/33/VO.html) wurde als [PDF](sources/bgbl-2026-33.pdf) gesichert und als [vollständiger Text](sources/bgbl-2026-33.txt) ausgelesen. Artikel 64 ist von den materiellen Änderungsartikeln zu unterscheiden. [Prüfprotokoll](sources/commencement.md).
-
-Der [amtliche Aktualitätendienst](sources/aktualitaet-2026-10-19.html) wurde ergänzend geprüft. [Suchprotokoll](sources/search-log.json) und gesicherte Rechercheergebnisse dokumentieren auch erfolglose oder nicht als Autorität verwendete Funde. Eine bloße Suchbeschreibung ist kein Beleg für den Inhalt eines Urteils.
-
-## Rechtsprechung
-
-Die aufgenommenen Entscheidungen sind in [Fallkarten](cases/INDEX.md) erschlossen. Amtliche XML- beziehungsweise PDF-Rohdateien und die jeweiligen Lesefassungen sind verlinkt. Der BGH-Hinweisbeschluss vom 17. Dezember 2013 wird ausdrücklich von einem abschließenden Urteil unterschieden. Frühere im Entscheidungstext zitierte Fälle werden nicht automatisch als selbständig geprüft behandelt.
-
-## Grenzen
-
-Der gesamte Gesetzestext ist erfasst. Kommentiert sind 233/696 Einheiten; die Gesamtvalidierung ist wegen der übrigen 463 Einheiten negativ. Die selektive Rechtsprechungsrecherche ist keine umfassende Übersicht. Redaktionelle Hinweise und Rohquellen sind ihrer Herkunft zugeordnet; die Apache-Lizenz für den eigenständigen Kommentar definiert ihre rechtliche Behandlung nicht um. [Prüfstand](REVIEW.md).
-
-## Teilprüfung §§ 75b–87d
-
-[Erneuter HGB-Abruf](sources/review-p75b-p87d-fetch.json), [amtliches XML](sources/hgb-review-p75b-p87d.xml), [Einzelprüfung](review-p75b-p87d.json). Ergänzend: [BGH I ZR 245/12](cases/BGH-2014-I-ZR-245-12.md), [amtlicher XML-Abruf mit SHA-256](sources/BGH-2014-I-ZR-245-12-fetch.json), [Rechercheprotokoll](sources/research/case-search-p75b-p87d.json).
-
-## Teilprüfung §§ 88–99
-
-[Erneuter HGB-Abruf](sources/review-p88-p99-fetch.json), [amtliches XML](sources/hgb-review-p88-p99.xml), [Einzelprüfung](review-p88-p99.json), [erneuter vollständiger XML-Abgleich](review-p88-p99-coverage.json). Zu § 89b: [BGH VII ZR 328/12](cases/BGH-2016-VII-ZR-328-12.md), [amtlicher Abruf](sources/BGH-2016-VII-ZR-328-12-xml-fetch.json), [selektives Rechercheprotokoll](sources/research/case-search-p88-p99.json).
-
-## Teilprüfung §§ 100–118
-
-[Amtlicher erneuter HGB-Abruf](sources/review-p100-p118-fetch.json), [XML](sources/hgb-review-p100-p118.xml), [Einzelprüfung](review-p100-p118.json), [vollständiger XML-Abgleich](review-p100-p118-coverage.json), [selektives Rechercheprotokoll](sources/research/case-search-p100-p118.json). Ergänzende amtliche Gesetzestexte: [§ 10 OWiG](sources/review-p100-p118-owig-10.html), [§ 671 BGB](sources/review-p100-p118-bgb-671.html), [§ 126a BGB](sources/review-p100-p118-bgb-126a.html); URL, HTTP-Ergebnis und SHA-256 im [Verifikationsprotokoll](sources/verification.json).
-
-### Teilprüfung §§ 119–138
-
-Erneuter amtlicher [HGB-XML-Abruf](sources/hgb-review-p119-p138.xml), [Abrufprotokoll](sources/review-p119-p138-fetch.json), [externe BGB-Quellen](sources/review-p119-p138-external.json), [selektives Suchprotokoll](sources/research/case-search-p119-p138.json) und [Einzelbefunde](review-p119-p138.json). Maßgeblicher Beginn der Titelbearbeitung bleibt der 19. Oktober 2026; Abruf am 21. Oktober. Die Quellenfassung ist unverändert. Neue Rechtsprechungsbelege wurden in diesem Teilauftrag nicht aufgenommen.
-
-Begrenzte Zweitprüfung §§ 166–232: [Abrufnachweis](sources/review-p166-p232-fetch.json), [amtliches XML](sources/hgb-review-p166-p232.xml), [Abdeckung](review-p166-p232-coverage.json), [Einzelbefunde](review-p166-p232.json), [Suchprotokoll](sources/research/case-search-p166-p232.json).
-
-
-Prüfgruppe §§ 233–251: [XML-Abruf](sources/review-p233-p251-fetch.json), [Fallkarte BFH](cases/BFH-2023-IV-R-22-20.md), [Suchprotokoll](sources/research/case-search-p233-p251.json), [Prüfbericht](review-p233-p251.json).
-
-Quellen der Charge §§ 264–266: [amtliches XML](sources/hgb-author-p264-p266.xml), [Fallkarte OLG Köln](cases/OLG-Koeln-2023-28-Wx-21-22.md), [Suchprotokoll](sources/research/case-search-p264-p266.json).
-
-Prüfgruppe §§ 252–266: [amtlicher erneuter XML-Abruf](sources/review-p252-p266-fetch.json), [XML](sources/hgb-review-p252-p266.xml), [Einzelprüfung](review-p252-p266.json), [Abdeckungsnachweis](review-p252-p266-coverage.json), [vorhandene selektive Fallrecherche](sources/research/case-search-p264-p266.json), [erneut geprüfter OLG-Volltext mit Fallkarte](cases/OLG-Koeln-2023-28-Wx-21-22.md).
-
-Charge §§ 267–288: [amtlicher Wiederabruf](sources/hgb-author-p267-p288.xml), [Verifikation](sources/verification-p267-p288.json), [Rechtsprechungssuche einschließlich lokalem Korpus](sources/research/case-search-p267-p288.json), [Fallkarte BGH Xa ZR 175/07](cases/BGH-2010-Xa-ZR-175-07.md).
-
-Charge §§ 289–301: [amtliche XML-Quelle](sources/hgb-author-p289-p301.xml), [Verifikation](sources/verification-p289-p301.json), [selektives Suchprotokoll](sources/research/case-search-p289-p301.json), [Fallkarte BAG](cases/BAG-2022-3-AZR-505-21.md).
-
-Charge §§ 302–315e: [amtliches XML](sources/hgb-author-p302-p315e.xml), [Abrufnachweise](sources/verification-p302-p315e.json), [Suchprotokoll mit verworfenem Entscheidungsabruf](sources/research/case-search-p302-p315e.json). In dieser Charge keine zusätzliche Volltextentscheidung verifiziert.
-
-Charge §§ 316–328: [amtliches XML](sources/hgb-author-p316-p328.xml), [Abrufnachweise](sources/verification-p316-p328.json), [Suchprotokoll](sources/research/case-search-p316-p328.json). Eine amtliche Volltextentscheidung selektiv verifiziert; siehe [Fallkarte](cases/BGH-2020-VII-ZR-236-19.md).
-
-Charge §§ 329–340c: [amtliches XML](sources/hgb-author-p329-p340c.xml), [Abrufnachweise](sources/verification-p329-p340c.json), [Suchprotokoll](sources/research/case-search-p329-p340c.json), [BVerfG-Fallkarte](cases/BVerfG-2014-1-BvR-299-13.md).
-
-Charge §§ 340d–341g: [amtliches XML](sources/hgb-author-p340d-p341g.xml), [Abrufnachweise](sources/verification-p340d-p341g.json), [Suchprotokoll](sources/research/case-search-p340d-p341g.json), [FG-Fallkarte](cases/FG-BB-2025-8K8017-23.md).
-
-Charge §§ 341h–342a: [amtlicher XML-Wiederabruf](sources/hgb-author-p341h-p342a.xml), [HTTP- und Hashnachweise](sources/verification-p341h-p342a.json), [selektive Fallsuche](sources/research/case-search-p341h-p342a.json), [BFH-Fallkarte](cases/BFH-2016-IR23-15.md).
-
-Zweitprüfung §§ 341h–342a: [amtlicher Wiederabruf](sources/hgb-review-p341h-p342a.xml), [HTTP/Hash](sources/review-p341h-p342a-fetch.json), [BFH-Wiederabruf](sources/BFH-review-p341h-p342a.html). Vollständige Entscheidung mit Rn. 1–21 erneut gelesen. Selektive Autoritätenprüfung.
-
-Charge §§ 342b–345: [amtlicher XML-Wiederabruf](sources/hgb-author-p342b-p345.xml), [HTTP-/Hashnachweise](sources/verification-p342b-p345.json), [EGHGB](sources/eghgb-p342b-p345.xml), [selektive Fallsuche](sources/research/case-search-p342b-p345.json), [BGH-Fallkarte](cases/BGH-2018-VIZR121-17.md).
-
-Zweitprüfung §§ 342b–345: [amtlicher HGB-Wiederabruf](sources/hgb-review-p342b-p345.xml), [EGHGB Art. 90](sources/eghgb-review-p342b-p345.xml), [BGH-Volltext](sources/BGH-review-p342b-p345.xml), [HTTP und Hashes](sources/review-p342b-p345-fetch.json).
-
-Charge §§ 346–364: [XML](sources/hgb-p346-p364.xml), [Abrufnachweis](sources/verification-p346-p364.json), [selektive Fallsuche](sources/research/case-search-p346-p364.json). BGH VI ZR 121/17 für § 353 vollständig erneut gelesen; bestehende Fallkarte genutzt.
-
-Zweitprüfung §§ 346–364: [amtliches XML](sources/hgb-review-p346-p364.xml), [BGH-Volltext](sources/BGH-review-p346-p364.xml), [HTTP/Hashes](sources/review-p346-p364-fetch.json).
-
-Zweitprüfung §§ 365–383: [amtliches XML](sources/hgb-review-p365-p383.xml), [BGH-Volltext](sources/BGH-review-p365-p383.xml), [HTTP/Hashes](sources/review-p365-p383-fetch.json), [BGB-/WG-Verweisungen](sources/review-p365-p383-external.json).
-
-Charge §§ 404–423: [XML](sources/hgb-p404-p423.xml), [Abruf](sources/verification-p404-p423.json), [Suchprotokoll](sources/research/case-search-p404-p423.json), [BGH-Fallkarte](cases/BGH-2010-IZR37-09.md).
-
-Charge §§ 424–443: [XML](sources/hgb-p424-p443.xml), [Abruf](sources/verification-p424-p443.json), [Suchprotokoll](sources/research/case-search-p424-p443.json), [BGH-Fallkarte zur früheren Formanforderung](cases/BGH-2012-IZR75-11.md).
-
-## Autorencharge §§ 452d–471, 21. Oktober 2026
-
-20 von 20 zugewiesenen Einheiten ausgearbeitet; Rechtsstand zum Titelbeginn 19. Oktober 2026, amtlicher Wiederabruf bytegleich. [Quellenprüfung](sources/verification-p452d-p471.json), [Abdeckung](author-p452d-p471-coverage.json), [Fallkarte BGH I ZR 150/10](cases/bgh-I-ZR-150-10-p454-p461.md). Selektive Rechtsprechung, keine erschöpfende Übersicht. Teilbuild und strenge Teilvalidierung; Gesamtband mit 156 noch fehlenden Kommentaren unvollständig. Unabhängige Zweitprüfung dieser Charge steht aus. Originalkommentar © 2026 Vojtěch Říha, Apache-2.0.
+Recherche und Rechtsprechungsauswahl sind selektiv. Quellenkopien und ältere Chargenberichte dienen der Nachvollziehbarkeit und sind keine zusätzlichen, gleichzeitig geltenden Gesetzesfassungen.

@@ -1,0 +1,35 @@
+{
+  "repo": "Komentar-DE-HGB-1897",
+  "units": 696,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 290696,
+  "errors": [
+    "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']"
+  ],
+  "warnings": [],
+  "ok": false,
+  "independent_coverage": {
+    "ok": false,
+    "official_xml": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-HGB-1897/sources/hgb-2026-10-19.xml",
+    "expected_units": 696,
+    "parsed_units": 696,
+    "missing": [
+      "(XXXX) §§ 13b u. 13c",
+      "(XXXX) §§ 38 bis 47b",
+      "(XXXX) §§ 66 bis 72",
+      "(XXXX) §§ 76 bis 82",
+      "(XXXX) §§ 153 bis 160",
+      "(XXXX) §§ 180 bis 229",
+      "(XXXX) §§ 279 bis 283"
+    ],
+    "extra": [
+      "§§ 13b u. 13c",
+      "§§ 38 bis 47b",
+      "§§ 66 bis 72",
+      "§§ 76 bis 82",
+      "§§ 153 bis 160",
+      "§§ 180 bis 229",
+      "§§ 279 bis 283"
+    ]
+  }
+}

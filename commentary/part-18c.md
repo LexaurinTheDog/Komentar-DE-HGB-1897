@@ -6,7 +6,7 @@ Absatz 2 behandelt den Konzernabschluss und Konzernlagebericht eigenständig. Be
 
 Nach Absatz 3 löst eine Änderung nach Vorlage des Prüfungsberichts eine auf den Änderungsbedarf bezogene Nachtragsprüfung aus. Der Prüfer berichtet darüber und ergänzt den Vermerk. Die Regel erfasst unter den genannten Emittentenvoraussetzungen auch Änderungen der für die Offenlegung erstellten Wiedergabe. Ein unverändert übernommener alter Vermerk darf somit keine nachträgliche Fassung scheinbar bestätigen.
 
-Beispiel: Eine mittelgroße GmbH ändert nach dem Prüfungsbericht eine wesentliche Rückstellung. Vor Feststellung ist zu klären, welche Prüfungshandlungen die Änderung erfordert; der bisherige Bericht darf nicht schlicht mit den neuen Zahlen verbunden werden. Zur Grenze zwischen handelsrechtlicher Pflichtprüfung und prospektbedingtem Prüfungsanlass siehe die [Fallkarte BGH VII ZR 236/19](cases/BGH-2020-VII-ZR-236-19.md), insbesondere Rn. 13–22; sie betrifft historisches Prospektrecht und begründet keine allgemeine Haftungsfreiheit freiwilliger Prüfer.
+Beispiel: Eine mittelgroße GmbH ändert nach dem Prüfungsbericht eine wesentliche Rückstellung. Vor Feststellung ist zu klären, welche Prüfungshandlungen die Änderung erfordert; der bisherige Bericht darf nicht schlicht mit den neuen Zahlen verbunden werden. Zur Grenze zwischen handelsrechtlicher Pflichtprüfung und prospektbedingtem Prüfungsanlass siehe die [Fallkarte BGH VII ZR 236/19](../cases/BGH-2020-VII-ZR-236-19.md), insbesondere Rn. 13–22; sie betrifft historisches Prospektrecht und begründet keine allgemeine Haftungsfreiheit freiwilliger Prüfer.
 
 === p316a
 
@@ -26,7 +26,7 @@ Absatz 3 belässt die Verantwortung für einbezogene Abschlüsse und Konsolidier
 
 Absätze 5 und 6 knüpfen an von der Kommission angenommene internationale Prüfungsstandards und mögliche zusätzliche Rechtsverordnungsanforderungen an. Eine privat veröffentlichte Standardfassung ist nicht allein aufgrund ihrer Bezeichnung bereits eine nach Absatz 5 angenommene Fassung.
 
-Beispiel: Eine Tochter wurde von einem anderen Prüfer geprüft, während die Mutter intern bekannte Absatzrisiken im Konzernlagebericht verschweigt. Der Konzernprüfer darf weder ungeprüft auf den Tochtervermerk vertrauen noch seine Lageberichtsprüfung auf rechnerische Übereinstimmung reduzieren. Zur Bedeutung erkannter Abweichungen im Lagebericht: [BGH VII ZR 236/19, Rn. 26–36](cases/BGH-2020-VII-ZR-236-19.md).
+Beispiel: Eine Tochter wurde von einem anderen Prüfer geprüft, während die Mutter intern bekannte Absatzrisiken im Konzernlagebericht verschweigt. Der Konzernprüfer darf weder ungeprüft auf den Tochtervermerk vertrauen noch seine Lageberichtsprüfung auf rechnerische Übereinstimmung reduzieren. Zur Bedeutung erkannter Abweichungen im Lagebericht: [BGH VII ZR 236/19, Rn. 26–36](../cases/BGH-2020-VII-ZR-236-19.md).
 
 === p318
 

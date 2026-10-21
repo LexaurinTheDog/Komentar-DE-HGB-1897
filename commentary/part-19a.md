@@ -28,7 +28,7 @@ Bei Einwendungen verlangt Absatz 4 Einschränkung oder Versagung mit Begründung
 
 Absatz 6 erstreckt die Beurteilung auf Konsistenz, Gesetzmäßigkeit, Gesamtbild und Zukunftsdarstellung des Lageberichts. Absatz 6a strebt bei gemeinsamer Bestellung ein einheitliches Urteil an; verbleibende Unterschiede sind gesondert und begründet darzustellen. Absatz 7 verlangt Ort, Datum, erforderliche Unterschriften und Aufnahme in den Prüfungsbericht. Bei einer Prüfungsgesellschaft muss zumindest der durchführende Wirtschaftsprüfer unterzeichnen.
 
-Beispiel: Wesentliche Lagerbestände bleiben trotz angemessener alternativer Prüfungshandlungen unbelegbar. Der Prüfer darf nicht lediglich einen unverbindlichen Hinweis an das Ende eines uneingeschränkten Vermerks setzen. Er muss die Tragweite des Hemmnisses für sein Urteil beurteilen. Erkennt er hingegen, dass ein wesentliches Geschäftsmodellrisiko im Lagebericht verschwiegen wird, geht es um eine inhaltliche Einwendung. Dazu [BGH VII ZR 236/19, Rn. 26–36](cases/BGH-2020-VII-ZR-236-19.md); das Urteil betrifft zusätzlich besondere Voraussetzungen einer Anlegerhaftung.
+Beispiel: Wesentliche Lagerbestände bleiben trotz angemessener alternativer Prüfungshandlungen unbelegbar. Der Prüfer darf nicht lediglich einen unverbindlichen Hinweis an das Ende eines uneingeschränkten Vermerks setzen. Er muss die Tragweite des Hemmnisses für sein Urteil beurteilen. Erkennt er hingegen, dass ein wesentliches Geschäftsmodellrisiko im Lagebericht verschwiegen wird, geht es um eine inhaltliche Einwendung. Dazu [BGH VII ZR 236/19, Rn. 26–36](../cases/BGH-2020-VII-ZR-236-19.md); das Urteil betrifft zusätzlich besondere Voraussetzungen einer Anlegerhaftung.
 
 === p323
 
@@ -38,7 +38,7 @@ Absatz 2 staffelt die Haftungsgrenzen für eine Prüfung nach Unternehmensart un
 
 Absatz 3 hält die Verschwiegenheit auch gegenüber Aufsichtsorganen der Prüfungsgesellschaft aufrecht. Absatz 4 verbietet den vertraglichen Ausschluss oder die Beschränkung dieser Ersatzpflicht. Absatz 5 bestimmt die Adressaten der bezeichneten europäischen Mitteilung: BaFin und bei Straftat- oder Ordnungswidrigkeitenverdacht zusätzlich die zuständige Verfolgungsbehörde.
 
-Beispiel: Ein Prüfer einer gewöhnlichen nicht kapitalmarktorientierten GmbH verursacht durch grob fahrlässige Prüfung einen nachweisbaren Schaden von fünf Millionen Euro. Die allgemeine Grenze von eineinhalb Millionen ist für ihn nicht maßgeblich; nach Absatz 2 Satz 4 liegt die Grenze bei zwölf Millionen. Eine Vertragsklausel von 500 000 Euro ändert daran nichts. Ansprüche außenstehender Anleger folgen dagegen nicht bereits aus ihrer Eigenschaft als Abschlussleser. Die [Fallkarte BGH VII ZR 236/19](cases/BGH-2020-VII-ZR-236-19.md) erläutert die gesonderte Haftung aus § 826 BGB; sie ist kein Beleg für die heutigen Haftungsbeträge.
+Beispiel: Ein Prüfer einer gewöhnlichen nicht kapitalmarktorientierten GmbH verursacht durch grob fahrlässige Prüfung einen nachweisbaren Schaden von fünf Millionen Euro. Die allgemeine Grenze von eineinhalb Millionen ist für ihn nicht maßgeblich; nach Absatz 2 Satz 4 liegt die Grenze bei zwölf Millionen. Eine Vertragsklausel von 500 000 Euro ändert daran nichts. Ansprüche außenstehender Anleger folgen dagegen nicht bereits aus ihrer Eigenschaft als Abschlussleser. Die [Fallkarte BGH VII ZR 236/19](../cases/BGH-2020-VII-ZR-236-19.md) erläutert die gesonderte Haftung aus § 826 BGB; sie ist kein Beleg für die heutigen Haftungsbeträge.
 
 === p324
 

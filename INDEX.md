@@ -1,74 +1,47 @@
-# Arbeitsindex
+# INDEX — Kommentar zum Handelsgesetzbuch
 
-Der vollständige Normbestand steht in units.jsonl. Vorhandene Autorenbatches:
-
-- [part-01.md](01-hgb-01.md)
-- [part-02.md](02-hgb-02.md)
-- [part-03.md](03-hgb-03.md)
-- [part-04.md](05-hgb-05.md)
-- [part-05.md](06-hgb-06.md)
-- [part-05a.md](06-hgb-06.md)
-- [part-06.md](07-hgb-07.md)
-- [part-07.md](07-hgb-07.md)
-- [part-08.md](10-hgb-10.md)
-- [part-09.md](10-hgb-10.md)
-- [part-10.md](11-hgb-11.md)
-- [part-11.md](12-hgb-12.md)
-- [part-12.md](14-hgb-14.md)
-- [part-13.md](14-hgb-14.md)
-
-[Status](status.json) · [Quellen](SOURCES.md) · [Autorenkontrolle](REVIEW.md)
-
-- [Teilkapitel 16: §§ 264–266](16-hgb-16-teil-p264-p266.md) — sieben zusätzliche Kommentare; ab § 267 bleiben 456 Einheiten offen.
-
-- [Kapitel 16 §§ 264–286](16-hgb-16.md) — vollständig kommentiert.
-- [Teilkapitel 17 §§ 287–288](17-hgb-17-teil-p287-p288.md) — ab § 289 fehlen noch 436 Kommentare.
-
-- [Teilkapitel §§ 289–301](17-hgb-17-teil-p289-p301.md) — 20 zusätzliche Normeinheiten; 280/696 kommentiert.
-
-- [Teilkapitel §§ 302–315e](18-hgb-18-teil-p302-p315e.md) — 20 weitere Normeinheiten; kumulativ 300/696 kommentiert.
-
-- [Teilkapitel §§ 316–328](19-hgb-19-teil-p316-p328.md) — 20 weitere Normeinheiten; kumulativ 320/696 kommentiert.
-
-- [Teilkapitel §§ 329–340c](19-21-hgb-teil-p329-p340c.md) — 20 neue Normeinheiten; Gesamtstand 340/696.
-
-- [Teilkapitel §§ 340d–341g](21-hgb-teil-p340d-p341g.md) — 20 neue Normeinheiten; aktueller Gesamtstand 360/696.
-
-- [Teilkapitel §§ 341h–342a](22-hgb-teil-p341h-p342a.md) — 20 neue Normeinheiten.
-
-- [Teilkapitel §§ 342b–345](22-hgb-teil-p342b-p345.md) — 20 neue Normeinheiten.
-
-- [Teilkapitel §§ 346–364](25-hgb-teil-p346-p364.md) — 20 Normeinheiten einschließlich § 354a und Leerstelle § 351.
-
-- [§§ 384–403: Kommissionsgeschäft](28-hgb-28-teil-p384-p403.md)
-
-- [§§ 404–406](28-hgb-teil-404-406.md)
-- [§§ 407–423](29-hgb-teil-407-423.md)
-
-- [§§ 424–431](29-hgb-teil-424-431.md)
-- [§§ 432–443](30-hgb-teil-432-443.md)
-
-- [§ 452d](31-hgb-teil-p452d.md)
-- [Speditionsgeschäft §§ 453–466](32-hgb-teil-p453-p466.md)
-- [Lagergeschäft §§ 467–471](33-hgb-teil-p467-p471.md)
-
-Autorencharge §§ 472–483: genau 20 zusätzliche Einheiten. [Teilstandsübersicht](README-p472-p483.md), [Ergebnis](author-p472-p483-result.json), [Quellen](batch-p472-p483-SOURCES.md). 560 von 696 Einheiten sind nun kommentiert; 136 ab § 484 bleiben offen. Der Teilstandsbuild und die strenge Teilstandsvalidierung sind erfolgreich, Wortlautübereinstimmung 100 %. Keine unabhängige Zweitprüfung dieser Charge.
-
-Autorencharge §§ 484–503: genau 20 weitere Vorschriften ausgearbeitet. [Teilstandsübersicht](README-p484-p503.md), [Kapitel](35-hgb-teil-p484-p503.md), [Quellen](batch-p484-p503-SOURCES.md), [Autorenkontrolle](batch-p484-p503-REVIEW.md). Nun 580 von 696 Einheiten kommentiert; 116 ab § 504 fehlen weiterhin. Wortlaut und vollständiges XML-Inventar geprüft; keine Gesamtfertigstellung und keine unabhängige Zweitprüfung dieser Charge.
-
-- [Autorencharge §§ 504–505](35-hgb-teil-p504-p505.md)
-
-- [Autorencharge §§ 506–523](36-hgb-teil-p506-p523.md)
-
-### Autorencharge §§ 524–543
-
-- [§§ 524–530](36-hgb-teil-p524-p530.md)
-- [§§ 531–543](37-hgb-teil-p531-p543.md)
-- [Quellen und Prüfstand](README-p524-p543.md)
-
-- [§§ 544–552](37-hgb-teil-p544-p563.md) — Personenbeförderung, Abschluss
-- [§§ 553–563](38-hgb-teil-p544-p563.md) — Schiffsmiete und Zeitcharter, erster Teil
-
-- [Autorencharge §§ 564–583](README-p564-p583.md)
-- [§§ 564–569](38-hgb-teil-p564-p569.md)
-- [§§ 570–583](39-hgb-teil-p570-p583.md)
+- [00-einleitung.md](00-einleitung.md) — Geltungsstand, Systematik und Arbeitsmethode
+- [01-hgb-01.md](01-hgb-01.md) — Kommentarkapitel 01: Erstes Buch — Handelsstand / Erster Abschnitt — Kaufleute (§ 1–§ 7)
+- [02-hgb-02.md](02-hgb-02.md) — Kommentarkapitel 02: Erstes Buch — Handelsstand / Zweiter Abschnitt — Handelsregister; Unternehmensregister (§ 8–§ 16)
+- [03-hgb-03.md](03-hgb-03.md) — Kommentarkapitel 03: Erstes Buch — Handelsstand / Dritter Abschnitt — Handelsfirma (§ 17–§ 37a)
+- [04-hgb-04.md](04-hgb-04.md) — Kommentarkapitel 04: Erstes Buch — Handelsstand / Vierter Abschnitt — Handelsbücher ((XXXX) §§ 38 bis 47b)
+- [05-hgb-05.md](05-hgb-05.md) — Kommentarkapitel 05: Erstes Buch — Handelsstand / Fünfter Abschnitt — Prokura und Handlungsvollmacht (§ 48–§ 58)
+- [06-hgb-06.md](06-hgb-06.md) — Kommentarkapitel 06: Erstes Buch — Handelsstand / Sechster Abschnitt — Handlungsgehilfen und Handlungslehrlinge (§ 59–§ 83)
+- [07-hgb-07.md](07-hgb-07.md) — Kommentarkapitel 07: Erstes Buch — Handelsstand / Siebenter Abschnitt — Handelsvertreter (§ 84–§ 92c)
+- [08-hgb-08.md](08-hgb-08.md) — Kommentarkapitel 08: Erstes Buch — Handelsstand / Achter Abschnitt — Handelsmakler (§ 93–§ 104)
+- [09-hgb-09.md](09-hgb-09.md) — Kommentarkapitel 09: Erstes Buch — Handelsstand / Neunter Abschnitt — Bußgeldvorschriften (§ 104a)
+- [10-hgb-10.md](10-hgb-10.md) — Kommentarkapitel 10: Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Erster Abschnitt — Offene Handelsgesellschaft (§ 105–§ 129)
+- [11-hgb-11.md](11-hgb-11.md) — Kommentarkapitel 11: Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Erster Abschnitt — Offene Handelsgesellschaft (§ 130–(XXXX) §§ 153 bis 160)
+- [12-hgb-12.md](12-hgb-12.md) — Kommentarkapitel 12: Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Zweiter Abschnitt — Kommanditgesellschaft (§ 161–(XXXX) §§ 180 bis 229)
+- [13-hgb-13.md](13-hgb-13.md) — Kommentarkapitel 13: Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Dritter Abschnitt — Stille Gesellschaft (§ 230–§ 237)
+- [14-hgb-14.md](14-hgb-14.md) — Kommentarkapitel 14: Drittes Buch — Handelsbücher / Erster Abschnitt — Vorschriften für alle Kaufleute (§ 238–§ 260)
+- [15-hgb-15.md](15-hgb-15.md) — Kommentarkapitel 15: Drittes Buch — Handelsbücher / Erster Abschnitt — Vorschriften für alle Kaufleute (§ 261–§ 263)
+- [16-hgb-16.md](16-hgb-16.md) — Kommentarkapitel 16: Drittes Buch — Handelsbücher / Zweiter Abschnitt — Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften (§ 264–§ 286)
+- [17-hgb-17.md](17-hgb-17.md) — Kommentarkapitel 17: Drittes Buch — Handelsbücher / Zweiter Abschnitt — Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften (§ 287–§ 304)
+- [18-hgb-18.md](18-hgb-18.md) — Kommentarkapitel 18: Drittes Buch — Handelsbücher / Zweiter Abschnitt — Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften (§ 305–§ 320)
+- [19-hgb-19.md](19-hgb-19.md) — Kommentarkapitel 19: Drittes Buch — Handelsbücher / Zweiter Abschnitt — Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften (§ 321–§ 335c)
+- [20-hgb-20.md](20-hgb-20.md) — Kommentarkapitel 20: Drittes Buch — Handelsbücher / Dritter Abschnitt — Ergänzende Vorschriften für eingetragene Genossenschaften (§ 336–§ 339)
+- [21-hgb-21.md](21-hgb-21.md) — Kommentarkapitel 21: Drittes Buch — Handelsbücher / Vierter Abschnitt — Ergänzende Vorschriften für bestimmte Unternehmen (§ 340–§ 341h)
+- [22-hgb-22.md](22-hgb-22.md) — Kommentarkapitel 22: Drittes Buch — Handelsbücher / Vierter Abschnitt — Ergänzende Vorschriften für bestimmte Unternehmen (§ 341i–§ 342g)
+- [23-hgb-23.md](23-hgb-23.md) — Kommentarkapitel 23: Drittes Buch — Handelsbücher / Vierter Abschnitt — Ergänzende Vorschriften für bestimmte Unternehmen (§ 342h–§ 342p)
+- [24-hgb-24.md](24-hgb-24.md) — Kommentarkapitel 24: Drittes Buch — Handelsbücher / Fünfter Abschnitt — Privates Rechnungslegungsgremium; Rechnungslegungsbeirat (§ 342q–§ 342r)
+- [25-hgb-25.md](25-hgb-25.md) — Kommentarkapitel 25: Viertes Buch — Handelsgeschäfte / Erster Abschnitt — Allgemeine Vorschriften (§ 343–§ 365a)
+- [26-hgb-26.md](26-hgb-26.md) — Kommentarkapitel 26: Viertes Buch — Handelsgeschäfte / Erster Abschnitt — Allgemeine Vorschriften (§ 366–§ 372)
+- [27-hgb-27.md](27-hgb-27.md) — Kommentarkapitel 27: Viertes Buch — Handelsgeschäfte / Zweiter Abschnitt — Handelskauf (§ 373–§ 382)
+- [28-hgb-28.md](28-hgb-28.md) — Kommentarkapitel 28: Viertes Buch — Handelsgeschäfte / Dritter Abschnitt — Kommissionsgeschäft (§ 383–§ 406)
+- [29-hgb-29.md](29-hgb-29.md) — Kommentarkapitel 29: Viertes Buch — Handelsgeschäfte / Vierter Abschnitt — Frachtgeschäft (§ 407–§ 431)
+- [30-hgb-30.md](30-hgb-30.md) — Kommentarkapitel 30: Viertes Buch — Handelsgeschäfte / Vierter Abschnitt — Frachtgeschäft (§ 432–§ 451e)
+- [31-hgb-31.md](31-hgb-31.md) — Kommentarkapitel 31: Viertes Buch — Handelsgeschäfte / Vierter Abschnitt — Frachtgeschäft (§ 451f–§ 452d)
+- [32-hgb-32.md](32-hgb-32.md) — Kommentarkapitel 32: Viertes Buch — Handelsgeschäfte / Fünfter Abschnitt — Speditionsgeschäft (§ 453–§ 466)
+- [33-hgb-33.md](33-hgb-33.md) — Kommentarkapitel 33: Viertes Buch — Handelsgeschäfte / Sechster Abschnitt — Lagergeschäft (§ 467–§ 475h)
+- [34-hgb-34.md](34-hgb-34.md) — Kommentarkapitel 34: Fünftes Buch — Seehandel / Erster Abschnitt — Personen der Schifffahrt (§ 476–§ 480)
+- [35-hgb-35.md](35-hgb-35.md) — Kommentarkapitel 35: Fünftes Buch — Seehandel / Zweiter Abschnitt — Beförderungsverträge (§ 481–§ 505)
+- [36-hgb-36.md](36-hgb-36.md) — Kommentarkapitel 36: Fünftes Buch — Seehandel / Zweiter Abschnitt — Beförderungsverträge (§ 506–§ 530)
+- [37-hgb-37.md](37-hgb-37.md) — Kommentarkapitel 37: Fünftes Buch — Seehandel / Zweiter Abschnitt — Beförderungsverträge (§ 531–§ 552)
+- [38-hgb-38.md](38-hgb-38.md) — Kommentarkapitel 38: Fünftes Buch — Seehandel / Dritter Abschnitt — Schiffsüberlassungsverträge (§ 553–§ 569)
+- [39-hgb-39.md](39-hgb-39.md) — Kommentarkapitel 39: Fünftes Buch — Seehandel / Vierter Abschnitt — Schiffsnotlagen (§ 570–§ 594)
+- [40-hgb-40.md](40-hgb-40.md) — Kommentarkapitel 40: Fünftes Buch — Seehandel / Vierter Abschnitt — Schiffsnotlagen (§ 595)
+- [41-hgb-41.md](41-hgb-41.md) — Kommentarkapitel 41: Fünftes Buch — Seehandel / Fünfter Abschnitt — Schiffsgläubiger (§ 596–§ 604)
+- [42-hgb-42.md](42-hgb-42.md) — Kommentarkapitel 42: Fünftes Buch — Seehandel / Sechster Abschnitt — Verjährung (§ 605–§ 610)
+- [43-hgb-43.md](43-hgb-43.md) — Kommentarkapitel 43: Fünftes Buch — Seehandel / Siebter Abschnitt — Allgemeine Haftungsbeschränkung (§ 611–§ 617)
+- [44-hgb-44.md](44-hgb-44.md) — Kommentarkapitel 44: Fünftes Buch — Seehandel / Achter Abschnitt — Verfahrensvorschriften (§ 618–§ 619)

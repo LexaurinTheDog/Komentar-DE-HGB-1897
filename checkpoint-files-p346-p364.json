@@ -1,0 +1,20 @@
+[
+  "commentary/part-25b.md",
+  "status.json",
+  "preflight-result.json",
+  "author-p346-p364-result.json",
+  "author-p346-p364-coverage.json",
+  "author-p346-p364-links.json",
+  "author-p346-p364-build.txt",
+  "sources/verification.json",
+  "sources/verification-p346-p364.json",
+  "sources/hgb-p346-p364.xml",
+  "sources/hgb-p346-p364.zip",
+  "sources/research/case-search-p346-p364.json",
+  "README.md",
+  "INDEX.md",
+  "SOURCES.md",
+  "REVIEW.md",
+  "25-hgb-teil-p346-p364.md",
+  "author-p346-p364-bounded-validation.json"
+]

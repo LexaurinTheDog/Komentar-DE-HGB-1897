@@ -8,7 +8,7 @@ Absatz 2 konkretisiert zusätzliche Themen. Bei Finanzinstrumenten stehen Risiko
 
 Fiktives Beispiel: Eine große Maschinenbau-GmbH erwartet steigende Erlöse, benötigt dafür aber eine noch ungesicherte Kreditverlängerung. Der Lagebericht muss die Finanzierungsannahme und das daraus folgende wesentliche Liquiditätsrisiko erläutern. Erhebliche Personalengpässe können außerdem als nichtfinanzielle Leistungsgröße bedeutsam sein. Ein bloßer Satz über eine „insgesamt positive Entwicklung“ lässt diese Zusammenhänge offen.
 
-Das BAG grenzt im Urteil vom 15. November 2022 – 3 AZR 505/21, Rn. 42–44, den Lagebericht vom Jahresabschluss ab. Im dortigen Betriebsrentenfall entkräftete der positive Lageberichtsausblick die anhand der Abschlussdaten begründete negative Prognose nicht. Das ist keine allgemeine Unbeachtlichkeit des Lageberichts; siehe [Fallkarte](cases/BAG-2022-3-AZR-505-21.md).
+Das BAG grenzt im Urteil vom 15. November 2022 – 3 AZR 505/21, Rn. 42–44, den Lagebericht vom Jahresabschluss ab. Im dortigen Betriebsrentenfall entkräftete der positive Lageberichtsausblick die anhand der Abschlussdaten begründete negative Prognose nicht. Das ist keine allgemeine Unbeachtlichkeit des Lageberichts; siehe [Fallkarte](../cases/BAG-2022-3-AZR-505-21.md).
 
 === p289a
 

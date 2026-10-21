@@ -23,7 +23,7 @@ Absatz 2 betrifft zusätzliche vereinbarte Leistungen. Versicherung, Verpackung,
 
 Beispiel: Bei empfindlichen Messgeräten vereinbart der Versender eine feuchtigkeitsgeschützte Verpackung durch den Spediteur. Die Beauftragung eines Verpackungsbetriebs allein beantwortet noch nicht, ob nur dessen Auswahl oder ein bestimmter Verpackungserfolg geschuldet ist. Das Angebot und die vorangegangene Korrespondenz sind dafür gemeinsam auszuwerten.
 
-Der vollständig geprüfte BGH-Fall I ZR 150/10, Rn. 20–25 und 31–38, zeigt die Bedeutung dieser Vertragsauslegung: Eine transportbezogene Verpackungsnebenpflicht kann dem Speditionsrecht unterliegen; ihr genauer Umfang folgt aber nicht allein aus dem Interesse an unbeschädigter Ankunft. [Fallkarte](cases/bgh-I-ZR-150-10-p454-p461.md). Das Urteil ersetzt keine Prüfung der konkreten Abrede.
+Der vollständig geprüfte BGH-Fall I ZR 150/10, Rn. 20–25 und 31–38, zeigt die Bedeutung dieser Vertragsauslegung: Eine transportbezogene Verpackungsnebenpflicht kann dem Speditionsrecht unterliegen; ihr genauer Umfang folgt aber nicht allein aus dem Interesse an unbeschädigter Ankunft. [Fallkarte](../cases/bgh-I-ZR-150-10-p454-p461.md). Das Urteil ersetzt keine Prüfung der konkreten Abrede.
 
 === p455
 Der Versender muss dem Spediteur die sachlichen und informatorischen Voraussetzungen der Versendung verschaffen. Absatz 1 verlangt erforderliche Verpackung und Kennzeichnung, benötigte Urkunden und Auskünfte. Bei Gefahrgut sind die genaue Gefahr und nötige Vorsichtsmaßnahmen rechtzeitig in Textform mitzuteilen. Eine Information erst nach der Beauftragung eines ungeeigneten Beförderers kann zu spät kommen. Anders als § 468 für die Lagerung enthält § 455 keine allgemeine Übertragung der Verpackungspflicht auf den Spediteur bei Verbraucherverträgen. Eine besondere Leistungsübernahme nach § 454 Abs. 2 bleibt möglich.
@@ -66,7 +66,7 @@ Das Wort „soweit“ verlangt eine genaue Bestimmung des vereinbarten Leistungs
 
 Beispiel: Für Organisation und Straßenbeförderung einer Maschine werden insgesamt 1.800 Euro vereinbart. Der Spediteur beauftragt einen Subunternehmer. Geht die Maschine auf der Fahrt verloren, wird seine Beförderungshaftung nicht dadurch vermieden, dass der Auftrag „Spedition“ überschrieben ist.
 
-Von dieser Beförderung ist eine zusätzlich übernommene Verpackungsnebenpflicht zu unterscheiden. Der BGH hat diese Trennung in I ZR 150/10, Rn. 18–25, bestätigt. [Fallkarte](cases/bgh-I-ZR-150-10-p454-p461.md). Die dortige Aussage trägt keine pauschale Einordnung aller Zusatzleistungen; die konkrete vertragliche Verpflichtung bleibt ausschlaggebend.
+Von dieser Beförderung ist eine zusätzlich übernommene Verpackungsnebenpflicht zu unterscheiden. Der BGH hat diese Trennung in I ZR 150/10, Rn. 18–25, bestätigt. [Fallkarte](../cases/bgh-I-ZR-150-10-p454-p461.md). Die dortige Aussage trägt keine pauschale Einordnung aller Zusatzleistungen; die konkrete vertragliche Verpflichtung bleibt ausschlaggebend.
 
 === p460
 Die Sammelladung bündelt Sendungen mehrerer Versender in einem für Rechnung des Spediteurs geschlossenen Frachtvertrag. Absatz 1 gestattet dieses wirtschaftliche Organisationsmodell. Die bloße Tatsache, dass ein beauftragter Frachtführer verschiedene Kunden auf einem Fahrzeug bedient, beweist jedoch noch nicht sämtliche Voraussetzungen des § 460: Entscheidend sind die Zusammenfassung durch den Spediteur und der für dessen Rechnung über die Sammelladung geschlossene Vertrag. Weisungen und besondere Interessenbindungen aus § 454 Abs. 4 bleiben bei der Durchführung zu beachten.
@@ -84,7 +84,7 @@ Absatz 2 betrifft Schäden außerhalb der in Absatz 1 geregelten Obhutshaftung i
 
 Beispiel: Werden Geräte im Umschlagslager des Spediteurs zerstört, steht die Obhutshaftung im Vordergrund. Versäumt er dagegen nach ordnungsgemäßer Ablieferung die rechtzeitige Sicherung eines erkennbaren Anspruchs gegen einen Beförderer, ist die Organisationspflichtverletzung und deren Schaden nach Absatz 2 zu untersuchen.
 
-Für eine übernommene Verpackungsnebenpflicht bestätigt BGH I ZR 150/10, Rn. 18–29, die Anwendung des Absatzes 2 und grundsätzlich den vom Anspruchsteller zu führenden Kausalitätsnachweis. Eine mangelhafte Verpackung bewies dort nicht schon den Zeitpunkt der Rostentstehung. [Fallkarte](cases/bgh-I-ZR-150-10-p454-p461.md). Das Urteil hob auf und verwies zurück; es sprach keinen abschließenden vollen Ersatz zu.
+Für eine übernommene Verpackungsnebenpflicht bestätigt BGH I ZR 150/10, Rn. 18–29, die Anwendung des Absatzes 2 und grundsätzlich den vom Anspruchsteller zu führenden Kausalitätsnachweis. Eine mangelhafte Verpackung bewies dort nicht schon den Zeitpunkt der Rostentstehung. [Fallkarte](../cases/bgh-I-ZR-150-10-p454-p461.md). Das Urteil hob auf und verwies zurück; es sprach keinen abschließenden vollen Ersatz zu.
 
 === p462
 § 462 rechnet dem Spediteur das Verhalten der Personen zu, mit denen er seine Besorgungsleistung erfüllt. Für seine Leute gilt dies, wenn sie in Ausübung ihrer Verrichtungen handeln. Die bloße Zugehörigkeit zum Betrieb ist deshalb ebenso wenig ausreichend wie die Behauptung, ein betrieblicher Fehler sei ein rein fremdes Geschehen. Ein Mitarbeiter, der eine zum Auftrag gehörende Weisung nicht weitergibt, handelt typischerweise innerhalb des erfassten Aufgabenbereichs.

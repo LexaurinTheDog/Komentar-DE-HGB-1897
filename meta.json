@@ -1,0 +1,240 @@
+{
+  "cc": "de",
+  "lang": "de",
+  "repo": "Komentar-DE-HGB-1897",
+  "repo_dir": "/Volumes/LaCie/open-commentary/de/Komentar-DE-HGB-1897",
+  "title": "Kommentar zum Handelsgesetzbuch",
+  "source_path": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-HGB-1897/sources/hgb-canonical.md",
+  "intro_file": "00-einleitung.md",
+  "intro_desc": "Geltungsstand, Systematik und Arbeitsmethode",
+  "labels": {
+    "text": "Wortlaut der Vorschrift",
+    "chapter": "Kommentarkapitel",
+    "notes": "Redaktioneller Quellenhinweis"
+  },
+  "chapters": [
+    {
+      "n": 1,
+      "slug": "hgb-01",
+      "title": "Erstes Buch — Handelsstand / Erster Abschnitt — Kaufleute (§ 1–§ 7)"
+    },
+    {
+      "n": 2,
+      "slug": "hgb-02",
+      "title": "Erstes Buch — Handelsstand / Zweiter Abschnitt — Handelsregister; Unternehmensregister (§ 8–§ 16)"
+    },
+    {
+      "n": 3,
+      "slug": "hgb-03",
+      "title": "Erstes Buch — Handelsstand / Dritter Abschnitt — Handelsfirma (§ 17–§ 37a)"
+    },
+    {
+      "n": 4,
+      "slug": "hgb-04",
+      "title": "Erstes Buch — Handelsstand / Vierter Abschnitt — Handelsbücher ((XXXX) §§ 38 bis 47b)"
+    },
+    {
+      "n": 5,
+      "slug": "hgb-05",
+      "title": "Erstes Buch — Handelsstand / Fünfter Abschnitt — Prokura und Handlungsvollmacht (§ 48–§ 58)"
+    },
+    {
+      "n": 6,
+      "slug": "hgb-06",
+      "title": "Erstes Buch — Handelsstand / Sechster Abschnitt — Handlungsgehilfen und Handlungslehrlinge (§ 59–§ 83)"
+    },
+    {
+      "n": 7,
+      "slug": "hgb-07",
+      "title": "Erstes Buch — Handelsstand / Siebenter Abschnitt — Handelsvertreter (§ 84–§ 92c)"
+    },
+    {
+      "n": 8,
+      "slug": "hgb-08",
+      "title": "Erstes Buch — Handelsstand / Achter Abschnitt — Handelsmakler (§ 93–§ 104)"
+    },
+    {
+      "n": 9,
+      "slug": "hgb-09",
+      "title": "Erstes Buch — Handelsstand / Neunter Abschnitt — Bußgeldvorschriften (§ 104a)"
+    },
+    {
+      "n": 10,
+      "slug": "hgb-10",
+      "title": "Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Erster Abschnitt — Offene Handelsgesellschaft (§ 105–§ 129)"
+    },
+    {
+      "n": 11,
+      "slug": "hgb-11",
+      "title": "Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Erster Abschnitt — Offene Handelsgesellschaft (§ 130–(XXXX) §§ 153 bis 160)"
+    },
+    {
+      "n": 12,
+      "slug": "hgb-12",
+      "title": "Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Zweiter Abschnitt — Kommanditgesellschaft (§ 161–(XXXX) §§ 180 bis 229)"
+    },
+    {
+      "n": 13,
+      "slug": "hgb-13",
+      "title": "Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Dritter Abschnitt — Stille Gesellschaft (§ 230–§ 237)"
+    },
+    {
+      "n": 14,
+      "slug": "hgb-14",
+      "title": "Drittes Buch — Handelsbücher / Erster Abschnitt — Vorschriften für alle Kaufleute (§ 238–§ 260)"
+    },
+    {
+      "n": 15,
+      "slug": "hgb-15",
+      "title": "Drittes Buch — Handelsbücher / Erster Abschnitt — Vorschriften für alle Kaufleute (§ 261–§ 263)"
+    },
+    {
+      "n": 16,
+      "slug": "hgb-16",
+      "title": "Drittes Buch — Handelsbücher / Zweiter Abschnitt — Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften (§ 264–§ 286)"
+    },
+    {
+      "n": 17,
+      "slug": "hgb-17",
+      "title": "Drittes Buch — Handelsbücher / Zweiter Abschnitt — Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften (§ 287–§ 304)"
+    },
+    {
+      "n": 18,
+      "slug": "hgb-18",
+      "title": "Drittes Buch — Handelsbücher / Zweiter Abschnitt — Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften (§ 305–§ 320)"
+    },
+    {
+      "n": 19,
+      "slug": "hgb-19",
+      "title": "Drittes Buch — Handelsbücher / Zweiter Abschnitt — Ergänzende Vorschriften für Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien und Gesellschaften mit beschränkter Haftung) sowie bestimmte Personenhandelsgesellschaften (§ 321–§ 335c)"
+    },
+    {
+      "n": 20,
+      "slug": "hgb-20",
+      "title": "Drittes Buch — Handelsbücher / Dritter Abschnitt — Ergänzende Vorschriften für eingetragene Genossenschaften (§ 336–§ 339)"
+    },
+    {
+      "n": 21,
+      "slug": "hgb-21",
+      "title": "Drittes Buch — Handelsbücher / Vierter Abschnitt — Ergänzende Vorschriften für bestimmte Unternehmen (§ 340–§ 341h)"
+    },
+    {
+      "n": 22,
+      "slug": "hgb-22",
+      "title": "Drittes Buch — Handelsbücher / Vierter Abschnitt — Ergänzende Vorschriften für bestimmte Unternehmen (§ 341i–§ 342g)"
+    },
+    {
+      "n": 23,
+      "slug": "hgb-23",
+      "title": "Drittes Buch — Handelsbücher / Vierter Abschnitt — Ergänzende Vorschriften für bestimmte Unternehmen (§ 342h–§ 342p)"
+    },
+    {
+      "n": 24,
+      "slug": "hgb-24",
+      "title": "Drittes Buch — Handelsbücher / Fünfter Abschnitt — Privates Rechnungslegungsgremium; Rechnungslegungsbeirat (§ 342q–§ 342r)"
+    },
+    {
+      "n": 25,
+      "slug": "hgb-25",
+      "title": "Viertes Buch — Handelsgeschäfte / Erster Abschnitt — Allgemeine Vorschriften (§ 343–§ 365a)"
+    },
+    {
+      "n": 26,
+      "slug": "hgb-26",
+      "title": "Viertes Buch — Handelsgeschäfte / Erster Abschnitt — Allgemeine Vorschriften (§ 366–§ 372)"
+    },
+    {
+      "n": 27,
+      "slug": "hgb-27",
+      "title": "Viertes Buch — Handelsgeschäfte / Zweiter Abschnitt — Handelskauf (§ 373–§ 382)"
+    },
+    {
+      "n": 28,
+      "slug": "hgb-28",
+      "title": "Viertes Buch — Handelsgeschäfte / Dritter Abschnitt — Kommissionsgeschäft (§ 383–§ 406)"
+    },
+    {
+      "n": 29,
+      "slug": "hgb-29",
+      "title": "Viertes Buch — Handelsgeschäfte / Vierter Abschnitt — Frachtgeschäft (§ 407–§ 431)"
+    },
+    {
+      "n": 30,
+      "slug": "hgb-30",
+      "title": "Viertes Buch — Handelsgeschäfte / Vierter Abschnitt — Frachtgeschäft (§ 432–§ 451e)"
+    },
+    {
+      "n": 31,
+      "slug": "hgb-31",
+      "title": "Viertes Buch — Handelsgeschäfte / Vierter Abschnitt — Frachtgeschäft (§ 451f–§ 452d)"
+    },
+    {
+      "n": 32,
+      "slug": "hgb-32",
+      "title": "Viertes Buch — Handelsgeschäfte / Fünfter Abschnitt — Speditionsgeschäft (§ 453–§ 466)"
+    },
+    {
+      "n": 33,
+      "slug": "hgb-33",
+      "title": "Viertes Buch — Handelsgeschäfte / Sechster Abschnitt — Lagergeschäft (§ 467–§ 475h)"
+    },
+    {
+      "n": 34,
+      "slug": "hgb-34",
+      "title": "Fünftes Buch — Seehandel / Erster Abschnitt — Personen der Schifffahrt (§ 476–§ 480)"
+    },
+    {
+      "n": 35,
+      "slug": "hgb-35",
+      "title": "Fünftes Buch — Seehandel / Zweiter Abschnitt — Beförderungsverträge (§ 481–§ 505)"
+    },
+    {
+      "n": 36,
+      "slug": "hgb-36",
+      "title": "Fünftes Buch — Seehandel / Zweiter Abschnitt — Beförderungsverträge (§ 506–§ 530)"
+    },
+    {
+      "n": 37,
+      "slug": "hgb-37",
+      "title": "Fünftes Buch — Seehandel / Zweiter Abschnitt — Beförderungsverträge (§ 531–§ 552)"
+    },
+    {
+      "n": 38,
+      "slug": "hgb-38",
+      "title": "Fünftes Buch — Seehandel / Dritter Abschnitt — Schiffsüberlassungsverträge (§ 553–§ 569)"
+    },
+    {
+      "n": 39,
+      "slug": "hgb-39",
+      "title": "Fünftes Buch — Seehandel / Vierter Abschnitt — Schiffsnotlagen (§ 570–§ 594)"
+    },
+    {
+      "n": 40,
+      "slug": "hgb-40",
+      "title": "Fünftes Buch — Seehandel / Vierter Abschnitt — Schiffsnotlagen (§ 595)"
+    },
+    {
+      "n": 41,
+      "slug": "hgb-41",
+      "title": "Fünftes Buch — Seehandel / Fünfter Abschnitt — Schiffsgläubiger (§ 596–§ 604)"
+    },
+    {
+      "n": 42,
+      "slug": "hgb-42",
+      "title": "Fünftes Buch — Seehandel / Sechster Abschnitt — Verjährung (§ 605–§ 610)"
+    },
+    {
+      "n": 43,
+      "slug": "hgb-43",
+      "title": "Fünftes Buch — Seehandel / Siebter Abschnitt — Allgemeine Haftungsbeschränkung (§ 611–§ 617)"
+    },
+    {
+      "n": 44,
+      "slug": "hgb-44",
+      "title": "Fünftes Buch — Seehandel / Achter Abschnitt — Verfahrensvorschriften (§ 618–§ 619)"
+    }
+  ],
+  "decisive_date": "2026-10-19",
+  "source_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "status": "drafted_technical_validation"
+}
