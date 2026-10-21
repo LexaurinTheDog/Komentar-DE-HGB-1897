@@ -1,0 +1,31 @@
+{
+  "links": [
+    {
+      "source": "README-p544-p563.md",
+      "target": "preflight-p544-p563-result.json",
+      "exists": true
+    },
+    {
+      "source": "README-p544-p563.md",
+      "target": "sources/verification-p544-p563.json",
+      "exists": true
+    },
+    {
+      "source": "README-p544-p563.md",
+      "target": "sources/commencement.md",
+      "exists": true
+    },
+    {
+      "source": "README-p544-p563.md",
+      "target": "author-p544-p563-coverage.json",
+      "exists": true
+    },
+    {
+      "source": "README-p544-p563.md",
+      "target": "sources/research/case-search-p544-p563.json",
+      "exists": true
+    }
+  ],
+  "ok": true,
+  "duplicate_paragraphs": 0
+}

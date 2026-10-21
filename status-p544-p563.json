@@ -1,0 +1,50 @@
+{
+  "kind": "bounded_author",
+  "stage": "bounded_batch_drafted_technical_validation",
+  "scope": [
+    "p544",
+    "p545",
+    "p546",
+    "p547",
+    "p548",
+    "p549",
+    "p550",
+    "p551",
+    "p552",
+    "p553",
+    "p554",
+    "p555",
+    "p556",
+    "p557",
+    "p558",
+    "p559",
+    "p560",
+    "p561",
+    "p562",
+    "p563"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "book_total_units": 696,
+  "book_completed_units": 640,
+  "source_checks": "Official HTTP 200 ZIP/XML format validated, SHA-256 identical to title-start source; scope matches independent official identifier enumeration.",
+  "case_law_sources": [],
+  "case_law_limits": "Selective online and local corpus search; tax decision candidate preserved but not used as private-law authority.",
+  "validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 29664,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "completeness": "author-p544-p563-coverage.json",
+  "remaining_limitations": [
+    "Independent second pass pending.",
+    "56 units outside this assignment still lack commentary; whole-book build and validation cannot pass.",
+    "No exhaustive judicial or gazette survey."
+  ],
+  "full_book_complete": false,
+  "updated_at": "2026-10-21T07:08:55.769784+00:00"
+}
