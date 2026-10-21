@@ -1,0 +1,37 @@
+{
+  "stage": "bounded_second_pass_complete",
+  "complete": true,
+  "reviewed_ids": [
+    "p604",
+    "p605",
+    "p606",
+    "p607",
+    "p608",
+    "p609",
+    "p610",
+    "p611",
+    "p612",
+    "p613",
+    "p614",
+    "p615",
+    "p616",
+    "p617",
+    "p618",
+    "p619"
+  ],
+  "units_reviewed": 16,
+  "corrected_ids": [
+    "p604",
+    "p616",
+    "p617"
+  ],
+  "source_http_status": 200,
+  "source_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "statutory_agreement": 1.0,
+  "batch_validation": "validation-review-p604-p619.json",
+  "whole_validation": "validation-whole-after-review-p604-p619.json",
+  "limitations": [
+    "Whole output retains unrelated pre-existing uncommitted files; whole validation fails only its clean-git requirement. No whole-book completion claimed.",
+    "Selective authority coverage; no external professional approval."
+  ]
+}
