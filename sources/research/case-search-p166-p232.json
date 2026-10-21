@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-21",
+  "scope": [
+    "p166",
+    "p167",
+    "p168",
+    "p169",
+    "p170",
+    "p171",
+    "p172",
+    "p172a",
+    "p173",
+    "p174",
+    "p175",
+    "p176",
+    "p177",
+    "p177a",
+    "p178",
+    "p179",
+    "p180-229",
+    "p230",
+    "p231",
+    "p232"
+  ],
+  "searches": [
+    {
+      "provider": "official web search",
+      "query": "site.bundesgerichtshof.de \"172\" \"Kommanditist\" \"Einlage\" Rückzahlung",
+      "candidate_urls": [
+        "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-10-10&Gericht=bgh&anz=31&nr=80390&pos=15",
+        "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2016&Gericht=bgh&Seite=96&anz=3286&nr=73923&pos=2881"
+      ],
+      "result": "Ältere Treffer; ohne vollständige Volltext- und Fassungsprüfung nicht als Autorität übernommen."
+    },
+    {
+      "provider": "local judicial manifest",
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "query": "Kommandit|172 HGB|stille Gesellschaft",
+      "result": "rg: keine Treffer"
+    },
+    {
+      "provider": "official current law search",
+      "query": "site.gesetze-im-internet.de/hgb \"2026\" \"Stand\"",
+      "result": "Amtlicher Volltext nennt weiterhin Artikel 4 Gesetz vom 4.2.2026; eigenständiger formatgeprüfter XML-Abruf identisch."
+    }
+  ],
+  "selected_cases": [],
+  "limitations": "Selektive Suche; keine Entscheidung in diesem Prüfauftrag als Volltext ausgewertet oder zitiert; keine Aussage über Nichtexistenz einschlägiger Rechtsprechung."
+}

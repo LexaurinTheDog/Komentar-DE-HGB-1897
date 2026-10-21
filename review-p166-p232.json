@@ -1,0 +1,180 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p166",
+    "p167",
+    "p168",
+    "p169",
+    "p170",
+    "p171",
+    "p172",
+    "p172a",
+    "p173",
+    "p174",
+    "p175",
+    "p176",
+    "p177",
+    "p177a",
+    "p178",
+    "p179",
+    "p180-229",
+    "p230",
+    "p231",
+    "p232"
+  ],
+  "unresolved_blockers": [],
+  "reviewed_at": "2026-10-21T03:21:14.882646+00:00",
+  "source_evidence": "sources/hgb-review-p166-p232.xml",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "findings": [
+    {
+      "id": "p166",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft: Abschlussabschrift und prüfungsbezogene Einsicht neben erforderlicher Auskunft; Unredlichkeitsverdacht nur Beispiel, zwingende Vertragsgrenze zutreffend.",
+      "official_doknr": "BJNR002190897BJNE020202360",
+      "commentary_sha256": "08069f93cd3e48caca7ad954680c807e602ef8c5500f77136a14aa54826d3244"
+    },
+    {
+      "id": "p167",
+      "result": "checked_unchanged",
+      "finding": "Geleistete vereinbarte Einlage und anteiliger Ausschluss der §§ 136/149 geprüft; Verlustzuweisung, Nachschussabrede und Außenhaftung korrekt getrennt.",
+      "official_doknr": "BJNR002190897BJNE020301360",
+      "commentary_sha256": "0029af837ef6d65bf6cd0f6224a4f6e37d98a6be0859e0802470ea033d2bd325"
+    },
+    {
+      "id": "p168",
+      "result": "checked_unchanged",
+      "finding": "Leeres amtliches Textfeld und Wegfallnachweis zum 1.1.2024 geprüft; keine historische Gewinnquote als geltendes Recht übernommen.",
+      "official_doknr": "BJNR002190897BJNE020401360",
+      "commentary_sha256": "9d10c276695139bbeed0e96a7c44526b9095795bdd827bb00e9bf5160de3160e"
+    },
+    {
+      "id": "p169",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft; geleistete Einlage als Auszahlungsschwelle, Verlustauffüllung und Behaltendürfen bei späteren Verlusten von Außenhaftung getrennt.",
+      "official_doknr": "BJNR002190897BJNE020501360",
+      "commentary_sha256": "c5a64c0a4a296e3932be9c93027cccb4dc7ebe59dab04a3d5a717aa5e9b5814f"
+    },
+    {
+      "id": "p170",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft; Ausschluss organschaftlicher Vertretung und abdingbare Gesellschafterrechtswahrnehmung in der Einheitsgesellschaft korrekt.",
+      "official_doknr": "BJNR002190897BJNE020601360",
+      "commentary_sha256": "861897be92bd57bf25cb9d4094c4b195af7fe861af5297e62e4c049d09f0b8b5"
+    },
+    {
+      "id": "p171",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft; unmittelbare begrenzte Außenhaftung mit Leistungsbefreiung und Einziehungszuständigkeit bei Insolvenz richtig.",
+      "official_doknr": "BJNR002190897BJNE020702360",
+      "commentary_sha256": "fc0000d21128a0a02453fdebb25a0a402b928457595dbe4699a1a4c822d6c702"
+    },
+    {
+      "id": "p172",
+      "result": "corrected",
+      "finding": "Alle fünf Absätze geprüft; Kapitalanteilstest mit Haftsumme statt interner Einlage, beide bilanziellen Verweise und genaue Beteiligungskettenausnahme ergänzt.",
+      "official_doknr": "BJNR002190897BJNE020802360",
+      "commentary_sha256": "7abca024916ba433e92e91e7d8b6fcee2d7f5dc8ce7b1b1b99f0e1e2b5f6d4b0"
+    },
+    {
+      "id": "p172a",
+      "result": "checked_unchanged",
+      "finding": "Amtliches Strich-Textfeld erhalten; keine aktuelle Sonderhaftungsregel aus früherer Nummer abgeleitet.",
+      "official_doknr": "BJNR002190897BJNE038201140",
+      "commentary_sha256": "3d11df3319bd9879dcd4847041c6874045ef709d0f88c468248ed0fd09565ef1"
+    },
+    {
+      "id": "p173",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft; Altverbindlichkeiten unabhängig von Firmenwechsel und Drittunwirksamkeit entgegenstehender Eintrittsabrede richtig; § 176 zeitlich abgegrenzt.",
+      "official_doknr": "BJNR002190897BJNE020900300",
+      "commentary_sha256": "0a9f9b60107b01fa4652ec3a83e5a5a6527b34abba14b8b5c9c74f0a525a91cf"
+    },
+    {
+      "id": "p174",
+      "result": "checked_unchanged",
+      "finding": "Eintragung als Außenwirksamkeitsschwelle und Schutz bereits begründeter Forderungen geprüft; Fälligkeit korrekt unterschieden.",
+      "official_doknr": "BJNR002190897BJNE021001360",
+      "commentary_sha256": "e3ce8adc234da137dea601983dfe262397c6104365bf6152ff0c86fcf2f19b78"
+    },
+    {
+      "id": "p175",
+      "result": "checked_unchanged",
+      "finding": "Anmeldung durch sämtliche Gesellschafter und Trennung von Haftsumme, interner Einlage, Antrag und Eintragung geprüft.",
+      "official_doknr": "BJNR002190897BJNE114400360",
+      "commentary_sha256": "f6ff153c39094ccad7275ab7016c4c8c204dd2b03884994bd598df15757b4bfb"
+    },
+    {
+      "id": "p176",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft; handelsgewerblicher Zweck, Teilnahme, Zustimmung, Kenntnis und Zwischenphase bei Eintritt zutreffend; Beispiel setzt Zustimmung ausdrücklich voraus.",
+      "official_doknr": "BJNR002190897BJNE021202360",
+      "commentary_sha256": "d79d73509e93b70e7ddc0424fbac9ba0a334c08ccd6630824bb6fdb7c1ee97d4"
+    },
+    {
+      "id": "p177",
+      "result": "checked_unchanged",
+      "finding": "Gesetzliche Erbenfortsetzung vorbehaltlich Vertrag geprüft; kein automatischer Übergang zur Komplementärhaftung behauptet; Register- und Erbfragen vorbehalten.",
+      "official_doknr": "BJNR002190897BJNE021301307",
+      "commentary_sha256": "46f31a9d67aec0efb77d7ce0f20507a91ef08c5741f0936acc8c1d6f8e21455d"
+    },
+    {
+      "id": "p177a",
+      "result": "corrected",
+      "finding": "Beide Sätze und § 125 geprüft; Ausnahme für Personengesellschaften in der Haftungskette sowie Absatz 2 zu Vordrucken, Bestellscheinen und Zwangsgeld ergänzt.",
+      "official_doknr": "BJNR002190897BJNE021404360",
+      "commentary_sha256": "9d8b5a2a34b13d13a2a25299ff7b7d372cfb638cf34c1a45427cfe3128cd1769"
+    },
+    {
+      "id": "p178",
+      "result": "checked_unchanged",
+      "finding": "Ausschluss allein des § 144 Abs. 1 geprüft; besondere Berufung nach Abs. 4 und fortbestehende Beteiligungsrechte zutreffend getrennt.",
+      "official_doknr": "BJNR002190897BJNE114900360",
+      "commentary_sha256": "b1959ddcbe8aef6d4ab4983607787de7cf1cfadaf4a54edffef66408a4812c62"
+    },
+    {
+      "id": "p179",
+      "result": "checked_unchanged",
+      "finding": "Beide Alternativen und Rechtskraftfolge geprüft; einziger Komplementär, dessen Insolvenz und eröffnete/begründet beantragte KG-Insolvenz korrekt kumuliert.",
+      "official_doknr": "BJNR002190897BJNE115000360",
+      "commentary_sha256": "eb1ba2582d678bd680a6ea81fb855fb1696dced83275fc8ab746b5dafbafd2b7"
+    },
+    {
+      "id": "p180-229",
+      "result": "checked_unchanged",
+      "finding": "Leere Sammelstelle §§ 180 bis 229 statt fünfzig rekonstruierter historischer Vorschriften geprüft; spezifische KG-Schlusscheckliste erhalten.",
+      "official_doknr": "BJNR002190897BJNE021602360",
+      "commentary_sha256": "98c8dcd5931df3ebe3eb6f21e1479414f4d14afb34c8bf4bb9b73a17a37d484a"
+    },
+    {
+      "id": "p230",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft; Einlageübergang und alleinige Außenberechtigung/-verpflichtung des Inhabers zutreffend; Beispiel keine zusätzliche Haftungsimmunität.",
+      "official_doknr": "BJNR002190897BJNE022001306",
+      "commentary_sha256": "e4fed907d8936d07906be5a28abee1234fce4e0a9b5d19c73abeebaae38df6d0"
+    },
+    {
+      "id": "p231",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft; angemessene Ersatzquote, möglicher Verlustausschluss und zwingende Gewinnteilnahme zutreffend; keine erfundene Prozentquote.",
+      "official_doknr": "BJNR002190897BJNE022101306",
+      "commentary_sha256": "626f75023fef56ee3919e8069a8f335bb269d7d06568a18262350bcd9929d43a"
+    },
+    {
+      "id": "p232",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze geprüft; Jahresabrechnung, Verlustgrenze, kein Gewinnrückruf allein wegen späterer Verluste, Verlustdeckung und keine automatische Einlageerhöhung zutreffend.",
+      "official_doknr": "BJNR002190897BJNE022201306",
+      "commentary_sha256": "c1afc770944da0240092343132ea2c22308d6ee2f2c81b059a5817dbdd7aa453"
+    }
+  ],
+  "case_law_sources": [],
+  "case_search_log": "sources/research/case-search-p166-p232.json",
+  "limitations": [
+    "Nur die 20 genannten Einheiten geprüft; keine Gesamtfreigabe oder externe anwaltliche Prüfung.",
+    "Selektive Rechtsprechungssuche; keine neue Entscheidung als Beleg übernommen. Ältere Treffer ohne vollständige Volltext- und Fassungsprüfung nicht als Autorität verwendet.",
+    "463 fehlende Kommentare außerhalb des Auftrags verhindern den vollständigen Build; die betroffenen vollständigen Kapitel werden als Teilcheckpoint erzeugt."
+  ]
+}
