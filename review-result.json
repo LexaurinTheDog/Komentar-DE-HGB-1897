@@ -3,121 +3,121 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p346",
-    "p347",
-    "p348",
-    "p349",
-    "p350",
-    "p351",
-    "p352",
-    "p353",
-    "p354",
-    "p354a",
-    "p355",
-    "p356",
-    "p357",
-    "p358",
-    "p359",
-    "p360",
-    "p361",
-    "p362",
-    "p363",
-    "p364"
+    "p365",
+    "p365a",
+    "p366",
+    "p367",
+    "p368",
+    "p369",
+    "p370",
+    "p371",
+    "p372",
+    "p373",
+    "p374",
+    "p375",
+    "p376",
+    "p377",
+    "p378",
+    "p379",
+    "p380",
+    "p381",
+    "p382",
+    "p383"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p346",
-      "result": "Handlungen und Unterlassungen, beiderseitiger Kaufmannsverkehr und Grenzen geprüft. Ergänzende und dispositives Recht verdrängende Wirkung sowie fehlendes individuelles Kenntniserfordernis präzisiert."
+      "id": "p365",
+      "result": "Beide Absätze gelesen; entsprechende WG-Verweisungen einzeln amtlich überprüft. Form, Blankoindossament, ununterbrochene Kette, Herausgabe bei Bösgläubigkeit/grober Fahrlässigkeit und begrenzte Prüfungspflicht konkretisiert. Kraftloserklärung und vorläufige Leistung gegen Sicherheit zutreffend."
     },
     {
-      "id": "p347",
-      "result": "Beide Absätze geprüft: Pflichtgrundlage, Handelsgeschäft des Sorgfaltsschuldners, objektiver Maßstab und vorbehaltene BGB-Haftungsprivilegien zutreffend."
+      "id": "p365a",
+      "result": "Beide Sätze geprüft: ausschließlich elektronische Transportversicherungspolice, Funktionsgleichheit, Authentizität und Integrität; Ermächtigung ist kein Erlassnachweis. Kein unüberprüfter Verordnungsbestand behauptet."
     },
     {
-      "id": "p348",
-      "result": "Betriebliches Strafversprechen des Kaufmanns und eng begrenzter Ausschluss des § 343 BGB geprüft; Wirksamkeit und Verfall zutreffend getrennt."
+      "id": "p366",
+      "result": "Alle drei Absätze geprüft: Verfügungsbefugnis von Vollmacht getrennt; Lastenfreiheit und Ausnahme für inkonnexe Forderungen zutreffend. § 935 BGB als fortbestehende Erwerbssperre und Kenntnis/grobe Fahrlässigkeit im Beispiel präzisiert."
     },
     {
-      "id": "p349",
-      "result": "Beide Sätze geprüft: Handelsgeschäft des Bürgen, Ausschluss der Vorausklage und gleichgestellter Kreditauftrag; keine Umdeutung zur Garantie."
+      "id": "p367",
+      "result": "Alle drei Absätze geprüft: maßgeblicher Jahresablauf, vor-2007-Veröffentlichungen und Blankoindossament zutreffend. Ausnahme für Ertragsscheine auf den nächsten folgenden Einlösungstermin präzisiert."
     },
     {
-      "id": "p350",
-      "result": "Drei Verpflichtungstypen und genaue gesetzliche Formbefreiung geprüft; Vertragsabschluss, Vertretungsmacht und vereinbarte Form bleiben gesondert."
+      "id": "p368",
+      "result": "Beide Absätze geprüft: beiderseitiges Handelsgeschäft, spezielle einseitige Erweiterung nur für Frachtführer/Verfrachter/Spediteur. Fristbeginn bei untunlicher Androhung anhand § 1234 Absatz 2 BGB ergänzt."
     },
     {
-      "id": "p351",
-      "result": "Amtliche Leerstelle ohne operativen Text geprüft und erhalten; keine historische Norm als geltend rekonstruiert."
+      "id": "p369",
+      "result": "Alle vier Absätze geprüft: fällige beiderseitige Handelsforderung, Besitz mit Schuldnerwillen, rückzuübertragendes Eigentum einschließlich Erwerb von Dritten, begrenzte Drittwirkung, Zweckbindung und Ausschluss der Bürgensicherheit zutreffend."
     },
     {
-      "id": "p352",
-      "result": "Beide Absätze geprüft: fünf Prozent, beiderseitiges Handelsgeschäft, Ausschluss der Verzugszinsen und besondere HGB-Zinsanordnungen zutreffend getrennt."
+      "id": "p370",
+      "result": "Amtliche leere Norm und Wegfallbezeichnung geprüft; kein historischer Inhalt als gegenwärtiges Recht ausgegeben."
     },
     {
-      "id": "p353",
-      "result": "Beide Sätze geprüft. BGH VI ZR 121/17 vollständig, Tenor und Rn. 1–21 gelesen; Rn. 8–10 als Vorinstanz, 11–20 als Senatsbegründung und 21 als offene andere Ersatzgrundlage richtig wiedergegeben."
+      "id": "p371",
+      "result": "Alle vier Absätze geprüft: Vorrang begrenzt, Pfandverwertung, Wochenfrist und Titel gegen richtigen Beteiligten zutreffend. Entsprechende Anwendung der Eigentümerschutzregeln auf Schuldner bei Gläubigereigentum ergänzt."
     },
     {
-      "id": "p354",
-      "result": "Beide Absätze geprüft: Geschäftsbesorgung/Dienste, ortsübliche Provision/Lagergeld und Zinsen ab Leistung auf einzelne Verwendungen; kein Entgelt für aufgedrängte Leistungen."
+      "id": "p372",
+      "result": "Beide Absätze geprüft: Eigentum bei Besitzerwerb, positive Kenntnis vom späteren Wechsel und eigenständiger Kenntniszeitpunkt der Rechtshängigkeit bei Urteilsbindung sauber unterschieden."
     },
     {
-      "id": "p354a",
-      "result": "Beide Absätze geprüft: Geldforderung, alternative Schuldnergruppen, befreiende Zahlung ohne Unkenntnisvorbehalt, Abweichungsverbot und Bankdarlehensausnahme zutreffend."
+      "id": "p373",
+      "result": "Alle fünf Absätze geprüft: Annahmeverzug, sichere Lagerung, Androhung/Notverkauf, Rechnung des Käufers, Mitbieten und Nachrichtenpflichten zutreffend. Aktuelle BGB-Verweisungsziele für Zeitpunkt, Ort und virtuelle/hybride Zugangsdaten konkretisiert."
     },
     {
-      "id": "p355",
-      "result": "Drei Absätze geprüft: Kontokorrentabrede, mindestens ein Kaufmann, Abschlusszins einschließlich Zinsen, jährliche Auffangperiode und Kündigung im Zweifel zutreffend."
+      "id": "p374",
+      "result": "Erhaltung der BGB-Befugnisse zutreffend; keine automatische Vertragsbeendigung oder verschuldensunabhängiger Schadensersatz aus Annahmeverzug behauptet."
     },
     {
-      "id": "p356",
-      "result": "Beide Absätze geprüft: Sicherheitenfortbestand bei Anerkennung nur in Deckung mit Forderung/Guthaben; gesamtschuldnerisch haftender Dritter und Zahlenbeispiel richtig."
+      "id": "p375",
+      "result": "Beide Absätze geprüft: Bestimmungspflicht, Verzug, alternative Rechtsbehelfe, Mitteilung der Eigenbestimmung und angemessene Änderungsfrist zutreffend; Vertragsrahmen bleibt bindend."
     },
     {
-      "id": "p357",
-      "result": "Beide Sätze geprüft: Pfändung und Überweisung, relative Unwirksamkeit neuer Belastungen und Ausnahme für vorherige Rechte/Pflichten des Drittschuldners; Buchungsdatum allein reicht nicht."
+      "id": "p376",
+      "result": "Alle vier Absätze geprüft: qualifizierte Fixabrede, Verzug nur für Schadensersatz, sofortige Erfüllungsanzeige, abstrakte Differenz, besonderer Deckungsvorgang, Mitbieten und Nachrichtenpflicht zutreffend."
     },
     {
-      "id": "p358",
-      "result": "Bewirken und Fordern zu gewöhnlicher Geschäftszeit, Branchenbezug und besondere Vereinbarung geprüft; nicht mit allgemeinem Erklärungszugang gleichgesetzt."
+      "id": "p377",
+      "result": "Alle fünf Absätze geprüft: Obliegenheit, Tunlichkeit, verborgene Mängel, rechtzeitige Absendung und Arglist zutreffend. BGH VIII ZR 246/16 vollständig erneut gelesen, Vorinstanz/Parteivortrag von Senatsbegründung und LFGB aF von allgemeinen §-377-Aussagen getrennt."
     },
     {
-      "id": "p359",
-      "result": "Beide Absätze geprüft: Handelsgebrauch am Leistungsort bei saisonaler Zeitbestimmung; volle acht Tage statt umgangssprachlicher Woche."
+      "id": "p378",
+      "result": "Amtliche leere Norm und Wegfallbezeichnung geprüft; frühere Falsch-/Mengenlieferungsregel nicht als geltendes Recht fortgeschrieben."
     },
     {
-      "id": "p360",
-      "result": "Gattung, Handelsgut mittlerer Art/Güte und Vorrang konkreter Qualitätsvereinbarung geprüft; § 377 als gesonderte Obliegenheit zutreffend."
+      "id": "p379",
+      "result": "Beide Absätze geprüft: beiderseitiger Handelskauf und Fernübersendung, einstweilige Obhut, Verderbsgefahr plus Gefahr im Verzug und §-373-Verfahrensbindung zutreffend."
     },
     {
-      "id": "p361",
-      "result": "Alle fünf Bezugsgrößen geprüft: örtliche Zweifelsregel setzt ermittelten Erfüllungsort und offene Vertragsauslegung voraus."
+      "id": "p380",
+      "result": "Beide Absätze geprüft: Nettogewichtsregel, abweichender Vertrag/örtlicher Handelsbrauch, pauschale Tara, Gutgewicht und Refaktie zutreffend; kein allgemeiner Pauschalsatz erfunden."
     },
     {
-      "id": "p362",
-      "result": "Beide Alternativen des Absatzes 1 und Absatz 2 geprüft: Geschäftsbesorgungsgewerbe/Verbindung versus konkretes Erbieten; unverzügliche Antwort, Annahmefiktion und begrenzte Verwahrung bei Kostendeckung."
+      "id": "p381",
+      "result": "Beide Absätze geprüft: Wertpapierkauf und Lieferung herzustellender beweglicher Sachen; Voraussetzungen einzelner Handelskaufnormen und Einordnung gemischter Verträge bleiben erhalten."
     },
     {
-      "id": "p363",
-      "result": "Beide Absätze geprüft: Angewiesener versus Aussteller, Gegenleistungsfreiheit, Orderklausel und vier weitere Papierarten; Sonderrecht der Transportpapiere vorbehalten."
+      "id": "p382",
+      "result": "Amtliche leere Norm und Wegfallbezeichnung geprüft; Abschnittsgrenze zwischen § 381 und § 383 zutreffend. Abschnittscheckliste konkret und sachgerecht."
     },
     {
-      "id": "p364",
-      "result": "Alle drei Absätze geprüft. Erforderliche Übergabe ergänzt; formelle Legitimation von materieller Berechtigung deutlicher getrennt. Drei Einwendungsgruppen und Aushändigung der quittierten Urkunde zutreffend."
+      "id": "p383",
+      "result": "Beide Absätze geprüft: gewerbsmäßiges Kaufen/Verkaufen im eigenen Namen für fremde Rechnung; Kleingewerbe ohne §-2-Eintragung und begrenzte Erweiterung mit Ausnahme §§ 348–350 zutreffend."
     }
   ],
   "limitations": [
-    "Ausschließlich diese 20 Einheiten zweitgeprüft; kein Gesamtbuchabschluss.",
-    "276 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung.",
-    "Selektive Rechtsprechungsprüfung: vorhandene BGH-Entscheidung vollständig erneut gelesen, keine zusätzliche Entscheidung für technische Einheiten behauptet.",
-    "Amtlicher Wiederabruf und dokumentierte Verkündungs-/Inkrafttretensnachweise geprüft; keine lückenlose eigene BGBl-Jahresauswertung.",
-    "Keine externe anwaltliche Freigabe; technische Prüfung beweist keine juristische Fehlerfreiheit."
+    "Ausschließlich die zugewiesenen 20 Einheiten inhaltlich zweitgeprüft; kein Gesamtbuchabschluss.",
+    "256 fehlende Kommentare außerhalb der Charge verhindern Gesamtbuild und Gesamtvalidierung.",
+    "Selektive Rechtsprechungsprüfung: vorhandenes BGH-Urteil vollständig erneut gelesen; keine erschöpfende Nachverfolgung aller Folgeentscheidungen. Für übrige Einheiten keine zusätzliche verifizierte Entscheidung übernommen.",
+    "Aktualitätskontrolle anhand amtlichem Wiederabruf und erhaltener Verkündung; keine lückenlose eigene BGBl-Jahresauswertung.",
+    "Keine externe anwaltliche Freigabe; technische Validierung ist kein Nachweis juristischer Fehlerfreiheit."
   ],
-  "verified_at": "2026-10-21T05:08:35.132760+00:00",
+  "verified_at": "2026-10-21T05:20:39.787591+00:00",
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
   "statutory_text_agreement": 1.0,
-  "coverage_evidence": "review-p346-p364-coverage.json",
+  "coverage_evidence": "review-p365-p383-coverage.json",
   "full_book_complete": false,
   "bounded_build_success": true,
   "shared_build_success": false,
@@ -125,7 +125,7 @@
     "repo": "Komentar-DE-HGB-1897",
     "units": 20,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 35175,
+    "commentary_chars": 35335,
     "errors": [],
     "warnings": [],
     "ok": true

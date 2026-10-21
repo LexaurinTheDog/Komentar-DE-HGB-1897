@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__383.html",
+    "path": "sources/review-p365-p383-bgb-__383.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T05:18:54.648683+00:00",
+    "sha256": "f795eb6ffbcb35b75b2520effd76ed8bb205d2c0d8875fcb86175ec9e8fc152c",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__932.html",
+    "path": "sources/review-p365-p383-bgb-__932.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T05:18:54.646060+00:00",
+    "sha256": "c8e3ad106622b7178a9e3ffd48b3e9e2b9a79a6ad56274362d61f7bf0587abc5",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__935.html",
+    "path": "sources/review-p365-p383-bgb-__935.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T05:18:54.648825+00:00",
+    "sha256": "c0dc0f9473cde1e9675066327b2d34517212ae4ec0dca633e4ac832f48a196b8",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__1234.html",
+    "path": "sources/review-p365-p383-bgb-__1234.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T05:18:54.640766+00:00",
+    "sha256": "f56e72a8e16d3f01727045364fafe04e5cbe636ff15f36335549507f198adc6d",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/wg/art_13.html",
+    "path": "sources/review-p365-p383-wg-art_13.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T05:18:54.768832+00:00",
+    "sha256": "0937a4d9fb20ae3d8f4b55ec0cd0fc4ea16c2650f4ad3943ffeb9fd254b5a8bd",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/wg/art_14.html",
+    "path": "sources/review-p365-p383-wg-art_14.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T05:18:54.768784+00:00",
+    "sha256": "131675489b606bd7bbc917306bd96d65debb477e6223a8bf2e7a118833d2aaf8",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/wg/art_16.html",
+    "path": "sources/review-p365-p383-wg-art_16.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T05:18:54.775395+00:00",
+    "sha256": "3188465a361bbb2a6ed663278b01f1c157f20e933e3b77bf922bdad759782cf3",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/wg/art_40.html",
+    "path": "sources/review-p365-p383-wg-art_40.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T05:18:54.767306+00:00",
+    "sha256": "f3fb6b9d7953d66368a8689b3b6d236f5941f547b41e3f3800733054453601b3",
+    "format_valid": true
+  }
+]

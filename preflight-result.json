@@ -435,5 +435,20 @@
     "historical_versions_checked": "696 eindeutige amtliche Normkennungen und sämtliche Texte gegen Parser geprüft; keine historischen Fassungen verkettet; Intake bewahrt.",
     "annexes_checked": "814 XML-Knoten vollständig zugeordnet: 696 Normeinheiten, 117 Gliederungen, nichtoperative Kopfnorm. Keine eigene operative Anlage oder ausgelassene Eingangsformel; § 351 als leere Stelle erhalten.",
     "unresolved_blockers": []
+  },
+  "bounded_review_p365_p383": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T05:20:39.787591+00:00",
+    "version_evidence": {
+      "fetch": "sources/review-p365-p383-fetch.json",
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "commencement": "sources/bgbl-2026-33.txt Art. 3/4 und Art. 64 erneut gelesen: 2026 wirksame Änderungen gegenüber 2028/2030 abgegrenzt; Charge nicht betroffen.",
+      "change_map": "sources/change-map.json; identisch mit Titelbeginn und bewahrtem Intake"
+    },
+    "historical_versions_checked": "696 eindeutige amtliche Kennungen und Texte vollständig mit Parser abgeglichen; keine historischen Fassungen verkettet.",
+    "annexes_checked": "814 Knoten: 696 Normeinheiten, 117 Gliederungen, nichtoperative Kopfnorm. Keine eigene operative Anlage oder ausgelassene Eingangsformel. §§ 370, 378, 382 als Leerstellen erhalten.",
+    "unresolved_blockers": []
   }
 }
