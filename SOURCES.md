@@ -53,3 +53,5 @@ Charge §§ 267–288: [amtlicher Wiederabruf](sources/hgb-author-p267-p288.xml)
 Charge §§ 289–301: [amtliche XML-Quelle](sources/hgb-author-p289-p301.xml), [Verifikation](sources/verification-p289-p301.json), [selektives Suchprotokoll](sources/research/case-search-p289-p301.json), [Fallkarte BAG](cases/BAG-2022-3-AZR-505-21.md).
 
 Charge §§ 302–315e: [amtliches XML](sources/hgb-author-p302-p315e.xml), [Abrufnachweise](sources/verification-p302-p315e.json), [Suchprotokoll mit verworfenem Entscheidungsabruf](sources/research/case-search-p302-p315e.json). In dieser Charge keine zusätzliche Volltextentscheidung verifiziert.
+
+Charge §§ 316–328: [amtliches XML](sources/hgb-author-p316-p328.xml), [Abrufnachweise](sources/verification-p316-p328.json), [Suchprotokoll](sources/research/case-search-p316-p328.json). Eine amtliche Volltextentscheidung selektiv verifiziert; siehe [Fallkarte](cases/BGH-2020-VII-ZR-236-19.md).

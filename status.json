@@ -4,14 +4,14 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T04:06:32.968186+00:00",
+  "updated_at": "2026-10-21T04:14:42.710238+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
-  "completed_units": 300,
-  "remaining_units": 396,
-  "completed_scope": "§§ 1–315e einschließlich Buchstabenparagraphen und amtlicher Sammelleerstellen",
-  "next_unit": "p316",
-  "commentary_chars": 463242,
+  "completed_units": 320,
+  "remaining_units": 376,
+  "completed_scope": "§§ 1–328 einschließlich Buchstabenparagraphen und amtlicher Sammelleerstellen",
+  "next_unit": "p329",
+  "commentary_chars": 509547,
   "source_checks": {
     "official_xml_http": 200,
     "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
@@ -32,28 +32,29 @@
     "BGH 2013-12-17 II ZR 140/13 (Hinweisbeschluss)",
     "BAG 2015-07-07 10 AZR 260/14",
     "BGH 2010-01-21 Xa ZR 175/07",
-    "BAG 2022-11-15 3 AZR 505/21"
+    "BAG 2022-11-15 3 AZR 505/21",
+    "BGH 2020-03-12 VII ZR 236/19"
   ],
   "case_law_coverage": "Selektive Recherche; Nachweise und Umfang je Fallkarte und Chargenprotokoll, keine erschöpfende Übersicht.",
   "build_result": {
     "success": false,
-    "evidence": "author-p302-p315e-build.txt",
-    "reason": "396 fehlende Kommentare außerhalb der Charge"
+    "evidence": "author-p316-p328-build.txt",
+    "reason": "376 fehlende Kommentare außerhalb der Charge"
   },
   "validation_result": {
     "repo": "Komentar-DE-HGB-1897",
     "units": 696,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 463242,
+    "commentary_chars": 509547,
     "errors": [
-      "krátký/chybějící komentář u 396 jednotek: ['p316(0<400)', 'p316a(0<400)', 'p317(0<400)', 'p318(0<400)', 'p319(0<400)', 'p319a(0<120)', 'p319b(0<400)', 'p320(0<400)']"
+      "krátký/chybějící komentář u 376 jednotek: ['p329(0<400)', 'p330(0<400)', 'p331(0<400)', 'p331a(0<400)', 'p332(0<400)', 'p333(0<400)', 'p333a(0<400)', 'p334(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
   "independent_second_pass": false,
   "unresolved_blockers": [
-    "396 noch nicht geschriebene Kommentare ab p316 außerhalb dieser Charge."
+    "376 fehlende Kommentare ab p329 außerhalb der Charge."
   ],
   "remaining_limitations": [
     "Gesamtmanuskript unvollständig; kein Abschlussstatus.",
@@ -67,7 +68,7 @@
     "github_writes": false,
     "messages_sent": false
   },
-  "output_type": "Unvollständiger Export mit weiteren 20 kommentierten Normeinheiten §§ 302–315e",
+  "output_type": "Unvollständiger Export mit weiteren 20 kommentierten Normeinheiten §§ 316–328",
   "link_check": {
     "checked_local_markdown_links": 195,
     "missing": [],
@@ -615,5 +616,109 @@
     "units_reviewed": 20,
     "result": "review-p302-p315e.json",
     "full_book_complete": false
+  },
+  "bounded_author_p316_p328": {
+    "kind": "author",
+    "complete": true,
+    "assigned_ids": [
+      "p316",
+      "p316a",
+      "p317",
+      "p318",
+      "p319",
+      "p319a",
+      "p319b",
+      "p320",
+      "p321",
+      "p321a",
+      "p322",
+      "p323",
+      "p324",
+      "p324a",
+      "p325",
+      "p325a",
+      "p326",
+      "p327",
+      "p327a",
+      "p328"
+    ],
+    "completed_ids": [
+      "p316",
+      "p316a",
+      "p317",
+      "p318",
+      "p319",
+      "p319a",
+      "p319b",
+      "p320",
+      "p321",
+      "p321a",
+      "p322",
+      "p323",
+      "p324",
+      "p324a",
+      "p325",
+      "p325a",
+      "p326",
+      "p327",
+      "p327a",
+      "p328"
+    ],
+    "units_authored": 20,
+    "total_units": 696,
+    "completed_units": 320,
+    "remaining_units": 376,
+    "commentary_chars": {
+      "p316": 2129,
+      "p316a": 1810,
+      "p317": 2716,
+      "p318": 2714,
+      "p319": 2619,
+      "p319a": 1069,
+      "p319b": 1728,
+      "p320": 2020,
+      "p321": 2400,
+      "p321a": 2045,
+      "p322": 2692,
+      "p323": 2594,
+      "p324": 2073,
+      "p324a": 1938,
+      "p325": 3025,
+      "p325a": 2161,
+      "p326": 1728,
+      "p327": 2024,
+      "p327a": 1546,
+      "p328": 3329
+    },
+    "statutory_text_agreement": 1.0,
+    "official_identifiers": 696,
+    "missing_official_identifiers": [],
+    "duplicate_ids": [],
+    "exact_repeated_paragraphs": [],
+    "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "case_cards": [
+      "cases/BGH-2020-VII-ZR-236-19.md"
+    ],
+    "shared_build_success": false,
+    "build_evidence": "author-p316-p328-build.txt",
+    "bounded_export": "19-hgb-19-teil-p316-p328.md",
+    "validation": {
+      "repo": "Komentar-DE-HGB-1897",
+      "units": 696,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 509547,
+      "errors": [
+        "krátký/chybějící komentář u 376 jednotek: ['p329(0<400)', 'p330(0<400)', 'p331(0<400)', 'p331a(0<400)', 'p332(0<400)', 'p333(0<400)', 'p333a(0<400)', 'p334(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "full_book_complete": false,
+    "unresolved_blockers": [],
+    "limitations": [
+      "Nur zugewiesene 20 Einheiten verfasst; keine unabhängige Zweitprüfung.",
+      "Selektive Rechtsprechung: eine vollständig gelesene Entscheidung, keine erschöpfende Übersicht.",
+      "376 fehlende Kommentare außerhalb der Charge verhindern den Gesamtbuild."
+    ]
   }
 }

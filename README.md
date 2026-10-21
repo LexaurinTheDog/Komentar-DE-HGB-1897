@@ -1,10 +1,10 @@
 # Kommentar zum Handelsgesetzbuch
 
-**Unvollständiger Arbeitsentwurf vom 19. Oktober 2026.** Ausgearbeitet sind 300 von 696 amtlichen Normeinheiten: das gesamte Erste und Zweite Buch sowie der Erste Abschnitt des Dritten Buchs, §§ 1–263 einschließlich der amtlichen Sammelleerstellen. Zusätzlich sind §§ 264–315e kommentiert; ab § 316 fehlen noch 396 Kommentare. Dieser Teilstand ist kein fertiges Gesamtmanuskript.
+**Unvollständiger Arbeitsentwurf vom 19. Oktober 2026.** Ausgearbeitet sind 320 von 696 amtlichen Normeinheiten: das gesamte Erste und Zweite Buch sowie der Erste Abschnitt des Dritten Buchs, §§ 1–263 einschließlich der amtlichen Sammelleerstellen. Zusätzlich sind §§ 264–328 kommentiert; ab § 329 fehlen noch 376 Kommentare. Dieser Teilstand ist kein fertiges Gesamtmanuskript.
 
 Gegenstand des Gesamtprojekts ist das gesamte Handelsgesetzbuch vom 10. Mai 1897 (RGBl. S. 219), mit allen fünf Büchern, erhaltenen leeren und weggefallenen Stellen. Die 696 Normeinheiten und 117 Gliederungsknoten sind vollständig aus amtlichem XML extrahiert; die Intake-Zahl 813 zählt beide Kategorien zusammen. Gruppen wie §§ 180–229 bleiben als amtliche Sammelstelle erhalten und werden nicht als fünfzig gegenwärtig operative Vorschriften ausgegeben. Das EGHGB ist ein gesondertes Gesetz und wird nicht in das HGB eingemischt.
 
-Der lesbare Teilstand enthält 16 vollständige Kommentarkapitel und Teilkapitel (§§ 287–301). Die Gesamtgliederung sieht 44 Kapitel vor. [INDEX](INDEX.md) und [Einleitung](00-einleitung.md) erschließen den vorhandenen Text. [Bearbeitungsstatus](status.json), [Autorenkontrolle](REVIEW.md) und [Quellennachweise](SOURCES.md) zeigen die Grenzen.
+Der lesbare Teilstand enthält 16 vollständige Kommentarkapitel und Teilkapitel (§§ 287–328). Die Gesamtgliederung sieht 44 Kapitel vor. [INDEX](INDEX.md) und [Einleitung](00-einleitung.md) erschließen den vorhandenen Text. [Bearbeitungsstatus](status.json), [Autorenkontrolle](REVIEW.md) und [Quellennachweise](SOURCES.md) zeigen die Grenzen.
 
 ## Gesetzesstand und Quellen
 
@@ -18,7 +18,7 @@ Der Gesetzeswortlaut wird mechanisch aus amtlichem XML übernommen; `_parse.py` 
 
 Die vorhandenen Erläuterungen sind eigenständige deutsche Texte mit konkreten Tatbestandsunterscheidungen, systematischen Bezügen, fiktiven Beispielen und praktischen Prüflisten. Verifizierte Rechtsprechung wird selektiv verwendet, nicht als erschöpfende Rechtsprechungsübersicht. Die [Fallkarten](cases/INDEX.md) dokumentieren vollständige amtliche Entscheidungen, tragende Randnummern und Grenzen. Besonders § 75 Absatz 3 zeigt, warum der Abdruck eines Gesetzestexts nicht dessen unbesehene Anwendbarkeit beweist.
 
-Die Quellenabdeckung beträgt 696/696 ohne fehlende oder doppelte Kennung. Der Wortlaut stimmt zu 100 % mit der kanonischen Quelle und auf Zeichenebene ohne Leerraum mit dem amtlichen XML überein. Diese technischen Befunde beweisen weder die Vollständigkeit der Kommentierung noch juristische Fehlerfreiheit. Der gemeinsame Vollständigkeits-Build und die strenge Gesamtvalidierung bleiben wegen der 396 fehlenden Kommentare erfolglos. Es gab keine unabhängige Zweitprüfung und keine externe fachliche Freigabe.
+Die Quellenabdeckung beträgt 696/696 ohne fehlende oder doppelte Kennung. Der Wortlaut stimmt zu 100 % mit der kanonischen Quelle und auf Zeichenebene ohne Leerraum mit dem amtlichen XML überein. Diese technischen Befunde beweisen weder die Vollständigkeit der Kommentierung noch juristische Fehlerfreiheit. Der gemeinsame Vollständigkeits-Build und die strenge Gesamtvalidierung bleiben wegen der 376 fehlenden Kommentare erfolglos. Die bisherigen begrenzten Zweitprüfungen sind in REVIEW.md dokumentiert; für die neue Charge §§ 316–328 steht sie aus. Es gibt keine externe fachliche Freigabe.
 
 ## Rechte und Nutzung
 
@@ -37,3 +37,5 @@ Charge §§ 289–301 vom 21. Oktober 2026: genau 20 weitere Normeinheiten einsc
 Charge §§ 302–315e vom 21. Oktober 2026: 20 weitere Normeinheiten; [Chargenprüfung](author-p302-p315e-result.json). 300/696 Einheiten sind kommentiert; 396 ab § 316 bleiben offen. Keine unabhängige Zweitprüfung dieser Charge.
 
 Begrenzte unabhängige Zweitprüfung §§ 302–315e abgeschlossen: [Einzelbefunde](review-p302-p315e.json), [Prüfbericht](REVIEW.md). Nur diese 20 Einheiten; Gesamtbuch weiterhin unvollständig.
+
+Charge §§ 316–328 vom 21. Oktober 2026: 20 weitere Normeinheiten; [Chargenprüfung](author-p316-p328-result.json). 320/696 Einheiten sind kommentiert; 376 ab § 329 bleiben offen. Keine unabhängige Zweitprüfung dieser Charge.

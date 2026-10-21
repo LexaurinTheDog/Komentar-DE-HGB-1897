@@ -27,3 +27,5 @@ Der vollständige Normbestand steht in units.jsonl. Vorhandene Autorenbatches:
 - [Teilkapitel §§ 289–301](17-hgb-17-teil-p289-p301.md) — 20 zusätzliche Normeinheiten; 280/696 kommentiert.
 
 - [Teilkapitel §§ 302–315e](18-hgb-18-teil-p302-p315e.md) — 20 weitere Normeinheiten; kumulativ 300/696 kommentiert.
+
+- [Teilkapitel §§ 316–328](19-hgb-19-teil-p316-p328.md) — 20 weitere Normeinheiten; kumulativ 320/696 kommentiert.

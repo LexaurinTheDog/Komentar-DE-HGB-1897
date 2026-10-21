@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T04:09:35.948980+00:00",
+    "path": "sources/hgb-author-p316-p328.zip",
+    "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T04:09:35.949588+00:00",
+    "path": "sources/hgb-author-p316-p328.xml",
+    "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "format_valid": true
+  }
+]

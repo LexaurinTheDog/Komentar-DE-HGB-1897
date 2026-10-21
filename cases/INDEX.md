@@ -17,3 +17,5 @@ Die Rohdatei zu II ZR 61/09 ist lediglich ein verworfener Recherchefund zur GmbH
 - [BGH 21.01.2010 – Xa ZR 175/07](BGH-2010-Xa-ZR-175-07.md): eigenständige Informationsfunktion des Anhangs; historische Prüfungsvertragsfrage abgegrenzt.
 
 - [BAG 15.11.2022 – 3 AZR 505/21](BAG-2022-3-AZR-505-21.md): Lagebericht und Jahresabschluss im Betriebsrentenanpassungsfall.
+
+- [BGH 12.03.2020 – VII ZR 236/19](BGH-2020-VII-ZR-236-19.md): Prüfungsanlass, Lageberichtstestat und gesonderte Anlegerhaftung.

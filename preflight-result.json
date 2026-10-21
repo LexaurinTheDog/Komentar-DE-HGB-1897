@@ -273,5 +273,15 @@
     "historical_versions_checked": "814 eindeutige XML-Knoten; 696 eindeutige amtliche Normkennungen und sämtliche Texte verglichen. Keine historischen Versionen verkettet. Originalintake und Fassungen erhalten.",
     "annexes_checked": "Keine eigenständige operative Gesetzesanlage; alle 814 Knoten zugeordnet. Kopfnorm ohne operative Eingangsformel. Rechnungslegungsanhang kein Gesetzesanhang.",
     "unresolved_blockers": []
+  },
+  "bounded_author_p316_p328": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T04:09:35.948980+00:00",
+    "version_evidence": "Amtlicher Wiederabruf identisch zum maßgeblichen XML. Stand- und Inkrafttretensnachweis sources/commencement.md sowie bestehende Verifikation gelesen: geltende Änderungen 2026 von 2028/2030 getrennt. Titelstichtag bleibt 2026-10-19.",
+    "historical_versions_checked": "Alle 696 eindeutigen Normkennungen und Wortlaute erneut gegen amtliches XML geprüft; kein Zusammenführen historischer Fassungen. § 319a als weggefallene Leerstelle erhalten.",
+    "annexes_checked": "Knotendisposition sources/preflight-coverage.json geprüft: keine operative Gesetzesanlage, keine unzugeordnete Eingangsformel. Konzernanhang ist Abschlussbestandteil, keine Gesetzesanlage.",
+    "unresolved_blockers": []
   }
 }
