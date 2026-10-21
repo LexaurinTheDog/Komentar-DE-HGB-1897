@@ -65,3 +65,5 @@ Charge §§ 341h–342a: [amtlicher XML-Wiederabruf](sources/hgb-author-p341h-p3
 Zweitprüfung §§ 341h–342a: [amtlicher Wiederabruf](sources/hgb-review-p341h-p342a.xml), [HTTP/Hash](sources/review-p341h-p342a-fetch.json), [BFH-Wiederabruf](sources/BFH-review-p341h-p342a.html). Vollständige Entscheidung mit Rn. 1–21 erneut gelesen. Selektive Autoritätenprüfung.
 
 Charge §§ 342b–345: [amtlicher XML-Wiederabruf](sources/hgb-author-p342b-p345.xml), [HTTP-/Hashnachweise](sources/verification-p342b-p345.json), [EGHGB](sources/eghgb-p342b-p345.xml), [selektive Fallsuche](sources/research/case-search-p342b-p345.json), [BGH-Fallkarte](cases/BGH-2018-VIZR121-17.md).
+
+Zweitprüfung §§ 342b–345: [amtlicher HGB-Wiederabruf](sources/hgb-review-p342b-p345.xml), [EGHGB Art. 90](sources/eghgb-review-p342b-p345.xml), [BGH-Volltext](sources/BGH-review-p342b-p345.xml), [HTTP und Hashes](sources/review-p342b-p345-fetch.json).

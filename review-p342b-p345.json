@@ -1,0 +1,125 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p342b",
+    "p342c",
+    "p342d",
+    "p342e",
+    "p342f",
+    "p342g",
+    "p342h",
+    "p342i",
+    "p342j",
+    "p342k",
+    "p342l",
+    "p342m",
+    "p342n",
+    "p342o",
+    "p342p",
+    "p342q",
+    "p342r",
+    "p343",
+    "p344",
+    "p345"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p342b",
+      "result": "Vier Absätze geprüft. Branchenspezifische Umsatzdefinition präzisiert: einzeln erfasste Institutsgruppen, Postensummen, Versicherungsunternehmen und Pensionsfonds; kein allgemeiner Finanzunternehmensbegriff. Eintritt/Erlöschen und EGHGB Art. 90 geprüft."
+    },
+    {
+      "id": "p342c",
+      "result": "Alle Absätze geprüft: Konzernschwelle, institutsbezogene Offenlegungsbefreiung mit vollständigem Konsolidierungskreis, Erlöschen und IFRS-/sonstige Umsatzermittlung; erhalten."
+    },
+    {
+      "id": "p342d",
+      "result": "Fünf Absätze geprüft. Befreiung präzisiert: andere inländische Tochter mit deutscher Registerübermittlung innerhalb Jahresfrist oder Tochter in anderem EU/EWR-Staat mit nationaler richtlinienkonformer Offenlegung. Aufforderung, beide Ersatzdokumente, Wechselkurs und Währung geprüft."
+    },
+    {
+      "id": "p342e",
+      "result": "Fünf Absätze geprüft. Befreiungsschritte konkretisiert: Jahresfrist, EU-Amtssprache, andere inländische Zweigniederlassung mit deutscher Registerübermittlung oder ausländische EU/EWR-Offenlegung. Personen, Ersatzbericht und Währung geprüft."
+    },
+    {
+      "id": "p342f",
+      "result": "Fünf Absätze geprüft. Inländische Zweigniederlassungsalternative und differenzierte Befreiungsoffenlegung ergänzt; Fehlen berichtspflichtiger Tochter, Konzernumfang, Ersatzbericht und Konzernwährung geprüft."
+    },
+    {
+      "id": "p342g",
+      "result": "Beide Nummern geprüft: unverbundenes Gesamtunternehmen versus konsolidierter Mutter-/Tochterkreis; Abgrenzung zu eingeschränkter Namensliste und begrenzter Informationsbeschaffbarkeit zutreffend."
+    },
+    {
+      "id": "p342h",
+      "result": "Fünf Absätze mit sämtlichen Datenfeldern und Definitionen geprüft; Methodenwahl insgesamt, Dividenden-/Wertanpassungsausschluss, Quellensteuer, Gewinnbestand und unterschiedliche Listenstichtage zutreffend."
+    },
+    {
+      "id": "p342i",
+      "result": "Beide Absätze geprüft: EU/EWR-Einzelstaat, Anhang I ein Stichtag, Anhang II zwei Stichtage, Restaggregation, Tätigkeitszuordnung, Gewinnsonderregel und Doppelzählungsverbot; erhalten."
+    },
+    {
+      "id": "p342j",
+      "result": "Alle drei Absätze und alle Berichtswege geprüft; Euro-Ersatzbericht der Tochter von fremdwährungsgebundenen Zweigniederlassungsberichten richtig getrennt."
+    },
+    {
+      "id": "p342k",
+      "result": "Beide Absätze geprüft: erheblicher Nachteil, Listenstaatensperre, Begründung und viertes Folgegeschäftsjahr; Beispiel 2026/2030 zutreffend."
+    },
+    {
+      "id": "p342l",
+      "result": "Beide kumulativen Anforderungen geprüft: Formblatt und maschinenlesbares Format. Erläuterung behauptet keine nicht verifizierte technische Spezifikation; technische EU-Umsetzung bleibt ausdrücklich begrenzt."
+    },
+    {
+      "id": "p342m",
+      "result": "Vier Absätze geprüft: Jahresfrist, Sprache, getrennte Adressaten und Ersatzdokumente, genaue Auskunfts- und Vermutungstatbestände; erhalten."
+    },
+    {
+      "id": "p342n",
+      "result": "Alle drei Absätze geprüft: eigene/verbundene Websites, jeweils erforderliche Dokumente, Jahresfrist und fünfjährige Dauer, beide Registerhinweisaussagen; erhalten."
+    },
+    {
+      "id": "p342o",
+      "result": "Drei Absätze geprüft: genaue inhaltliche Tatbestandsverweise, Websiteverstöße, 250.000-Euro-Höchstbuße, BfJ und allgemeine Verantwortlichkeit; erhalten."
+    },
+    {
+      "id": "p342p",
+      "result": "Alle Sätze geprüft: Organ-/Anmeldepersonen, optionale Gesellschaftsadressierung, genaue §-335-Verweisung, Ordnungsgeldobergrenze und Abgrenzung zu Bußgeld; erhalten."
+    },
+    {
+      "id": "p342q",
+      "result": "Beide Absätze geprüft: vier Aufgaben, Satzungs-/Rechnungslegeranforderungen, Öffentlichkeit und begrenzte Vermutungswirkung bekanntgemachter Empfehlungen; keine unbelegte aktuelle Anerkennung behauptet."
+    },
+    {
+      "id": "p342r",
+      "result": "Alle neun Absätze geprüft: institutioneller Vorbehalt, 13 Mitglieder, Sollberufung, Unabhängigkeit, Geschäftsordnung, Ausschüsse, Zweidrittelquorum, Mehrheiten und Empfehlung; erhalten."
+    },
+    {
+      "id": "p343",
+      "result": "Beide Absätze einschließlich weggefallenem Absatz 2 geprüft. BGH VI ZR 121/17 Tenor und Rn. 1–21 vollständig erneut gelesen und mit amtlichem Wiederabruf verglichen; Vorinstanz und Senat sowie deliktische Zinsforderung zutreffend getrennt."
+    },
+    {
+      "id": "p344",
+      "result": "Beide Absätze geprüft: Betriebszuordnungsvermutung setzt Kaufmann voraus; besondere Urkundenregel für Schuldscheine vom allgemeinen Gegenbeweis getrennt; erhalten."
+    },
+    {
+      "id": "p345",
+      "result": "Gesamtsatz und Sonderregelvorbehalt geprüft; interne Gegenproben §§ 347 und 377 bestätigen personenbezogene Sorgfalt und beiderseitiges Handelsgeschäft als besondere Voraussetzung; erhalten."
+    }
+  ],
+  "limitations": [
+    "Nur diese 20 Einheiten inhaltlich zweitgeprüft; kein Gesamtbuchabschluss.",
+    "296 noch fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und erfolgreiche Gesamtvalidierung.",
+    "Selektive Autoritätenprüfung: vorhandene BGH-Entscheidung erneut vollständig gelesen; keine zusätzliche Entscheidung für andere Einheiten behauptet.",
+    "Keine eigenständige technische Anleitung zur unionsrechtlichen Formatimplementierung bei § 342l.",
+    "Amtlicher aktueller Text und dokumentierte Verkündungs-/Inkrafttretensnachweise geprüft; keine lückenlose eigene Auswertung aller BGBl-Ausgaben.",
+    "Keine externe anwaltliche Freigabe; technische Prüfungen beweisen keine juristische Fehlerfreiheit."
+  ],
+  "verified_at": "2026-10-21T05:01:07.617754+00:00",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "statutory_text_agreement": 1.0,
+  "coverage_evidence": "review-p342b-p345-coverage.json",
+  "full_book_complete": false,
+  "bounded_build_success": true,
+  "shared_build_success": false
+}

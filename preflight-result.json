@@ -395,5 +395,20 @@
     "historical_versions_checked": "696 offizielle Kennungen eindeutig, alle Texte und Labels gegen aktuellen XML-Abruf geprüft. Historische Bilanzkontrollnormen nicht mit heutigen Steuerberichten verwechselt. Keine historischen Fassungen verkettet.",
     "annexes_checked": "814 Normknoten, davon 696 nummerierte Einheiten einschließlich Sammelleerstellen. Übrige 118 Knoten ohne operativen Text: Gliederung und Kopfnorm. Keine operative Anlage oder fehlende Eingangsformel. In Bezug genommene EU-Anhänge sind keine HGB-Anlagen.",
     "unresolved_blockers": []
+  },
+  "bounded_review_p342b_p345": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T05:01:07.617754+00:00",
+    "version_evidence": {
+      "fetch": "sources/review-p342b-p345-fetch.json",
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "commencement": "sources/commencement.md; BGBl. 2026 I Nr. 33 Art. 3/4 und Art. 64 erneut gelesen: 2028/2030 nicht vorgezogen. EGHGB Art. 90 Abs. 1 Satz 2 im aktuellen XML erneut gelesen: Geschäftsjahre nach 21.06.2024.",
+      "change_map": "sources/change-map.json; amtlicher HGB-Wiederabruf unverändert gegenüber Titelbeginn"
+    },
+    "historical_versions_checked": "696 eindeutige amtliche Normkennungen und ihre Texte gegen 696 Parser-Einheiten geprüft. Historische Bilanzkontrollvorschriften nicht mit heutigen Steuerberichtsvorschriften verkettet.",
+    "annexes_checked": "814 XML-Knoten vollständig zugeordnet: 696 nummerierte Normeinheiten, 117 Gliederungsknoten und eine textlose Kopfnorm. Keine operative Anlage oder ausgelassene Eingangsformel. Verweise auf fremde Richtlinienanhänge sind keine eigenen HGB-Anlagen.",
+    "unresolved_blockers": []
   }
 }

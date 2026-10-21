@@ -802,6 +802,60 @@
       "sha256": "49733ef1600a543bfa654466ed901879ca4f3bc5b247d982fc746e627f20c849",
       "accessed_at": "2026-10-21T04:56:47.379231+00:00",
       "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "path": "sources/hgb-review-p342b-p345.zip",
+      "accessed_at": "2026-10-21T04:59:51.686299+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "path": "sources/hgb-review-p342b-p345.xml",
+      "accessed_at": "2026-10-21T04:59:51.702140+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgbeg/xml.zip",
+      "path": "sources/eghgb-review-p342b-p345.zip",
+      "accessed_at": "2026-10-21T04:59:51.859454+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "62f7e65747efc0f5b34567a099679da12e153d35458d22be70acb4dd8b1823a2",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgbeg/xml.zip",
+      "path": "sources/eghgb-review-p342b-p345.xml",
+      "accessed_at": "2026-10-21T04:59:51.884288+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "49733ef1600a543bfa654466ed901879ca4f3bc5b247d982fc746e627f20c849",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300782018.zip",
+      "path": "sources/BGH-review-p342b-p345.zip",
+      "accessed_at": "2026-10-21T04:59:52.071526+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "e8a2b884bba93e0c9698deb98617e70df484048d308ca338dd3c8706f0cbe9f7",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300782018.zip",
+      "path": "sources/BGH-review-p342b-p345.xml",
+      "accessed_at": "2026-10-21T04:59:52.081342+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "cb9bd3048d2f510e06adca834ca1508e514b09c302a10d59f8dc7dbc7694acfa",
+      "format_valid": true
     }
   ],
   "version_information": {

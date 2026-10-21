@@ -3,143 +3,123 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p341h",
-    "p341i",
-    "p341j",
-    "p341k",
-    "p341l",
-    "p341m",
-    "p341n",
-    "p341o",
-    "p341p",
-    "p341q",
-    "p341r",
-    "p341s",
-    "p341t",
-    "p341u",
-    "p341v",
-    "p341w",
-    "p341x",
-    "p341y",
-    "p342",
-    "p342a"
+    "p342b",
+    "p342c",
+    "p342d",
+    "p342e",
+    "p342f",
+    "p342g",
+    "p342h",
+    "p342i",
+    "p342j",
+    "p342k",
+    "p342l",
+    "p342m",
+    "p342n",
+    "p342o",
+    "p342p",
+    "p342q",
+    "p342r",
+    "p343",
+    "p344",
+    "p345"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p341h",
-      "result": "Beide Absätze, verbleibendes Zufallsrisiko und gesonderter Ausweis geprüft; BFH I R 23/15 Rn. 1–21 vollständig gelesen, historische Bemessung zutreffend begrenzt."
+      "id": "p342b",
+      "result": "Vier Absätze geprüft. Branchenspezifische Umsatzdefinition präzisiert: einzeln erfasste Institutsgruppen, Postensummen, Versicherungsunternehmen und Pensionsfonds; kein allgemeiner Finanzunternehmensbegriff. Eintritt/Erlöschen und EGHGB Art. 90 geprüft."
     },
     {
-      "id": "p341i",
-      "result": "Alle vier Absätze geprüft; Hauptversammlungsbezug präzisiert: nächste nach Fristablauf einzuberufende Versammlung mit Entgegennahme oder Feststellung eines Mutter-Jahresabschlusses."
+      "id": "p342c",
+      "result": "Alle Absätze geprüft: Konzernschwelle, institutsbezogene Offenlegungsbefreiung mit vollständigem Konsolidierungskreis, Erlöschen und IFRS-/sonstige Umsatzermittlung; erhalten."
     },
     {
-      "id": "p341j",
-      "result": "Alle fünf Absätze geprüft; pauschales Überschreiten von Größenmerkmalen durch genaue Nicht-Erfüllung der Befreiungsvoraussetzungen des § 293 ersetzt. IFRS-Ausnahmen und kumulative Voraussetzungen Absatz 2 geprüft."
+      "id": "p342d",
+      "result": "Fünf Absätze geprüft. Befreiung präzisiert: andere inländische Tochter mit deutscher Registerübermittlung innerhalb Jahresfrist oder Tochter in anderem EU/EWR-Staat mit nationaler richtlinienkonformer Offenlegung. Aufforderung, beide Ersatzdokumente, Wechselkurs und Währung geprüft."
     },
     {
-      "id": "p341k",
-      "result": "Größenunabhängige Prüfung, Feststellungssperre, EU-Vorrang, Aufsichtsinformation und Ausschussregime geprüft; erhalten."
+      "id": "p342e",
+      "result": "Fünf Absätze geprüft. Befreiungsschritte konkretisiert: Jahresfrist, EU-Amtssprache, andere inländische Zweigniederlassung mit deutscher Registerübermittlung oder ausländische EU/EWR-Offenlegung. Personen, Ersatzbericht und Währung geprüft."
     },
     {
-      "id": "p341l",
-      "result": "Offenlegungsunterlagen, 15-/Viermonatsfristen und sämtliche vier Maßgaben des Absatzes 2 geprüft; erhalten. Künftige ESAP-Änderung 2028 nicht vorgezogen."
+      "id": "p342f",
+      "result": "Fünf Absätze geprüft. Inländische Zweigniederlassungsalternative und differenzierte Befreiungsoffenlegung ergänzt; Fehlen berichtspflichtiger Tochter, Konzernumfang, Ersatzbericht und Konzernwährung geprüft."
     },
     {
-      "id": "p341m",
-      "result": "Rechtsformerstreckung, Hauptbevollmächtigter, Vorteils-/Beharrlichkeitsalternativen und begrenzter Informationsverweis geprüft; erhalten."
+      "id": "p342g",
+      "result": "Beide Nummern geprüft: unverbundenes Gesamtunternehmen versus konsolidierter Mutter-/Tochterkreis; Abgrenzung zu eingeschränkter Namensliste und begrenzter Informationsbeschaffbarkeit zutreffend."
     },
     {
-      "id": "p341n",
-      "result": "Alle Kataloggruppen, Prüfer-/Ausschussdelikte, persönliche und Verbandsrahmen, Umsatzdefinition und Behördenzuständigkeiten geprüft; erhalten."
+      "id": "p342h",
+      "result": "Fünf Absätze mit sämtlichen Datenfeldern und Definitionen geprüft; Methodenwahl insgesamt, Dividenden-/Wertanpassungsausschluss, Quellensteuer, Gewinnbestand und unterschiedliche Listenstichtage zutreffend."
     },
     {
-      "id": "p341o",
-      "result": "Offenlegungsadressaten und §§ 335–335b mit gesonderter Branchenumsatzdefinition geprüft; erhalten."
+      "id": "p342i",
+      "result": "Beide Absätze geprüft: EU/EWR-Einzelstaat, Anhang I ein Stichtag, Anhang II zwei Stichtage, Restaggregation, Tätigkeitszuordnung, Gewinnsonderregel und Doppelzählungsverbot; erhalten."
     },
     {
-      "id": "p341p",
-      "result": "Genaue Verweisungsziele für Pensionsfonds und fehlende pauschale Erstreckung der Ausschussdelikte geprüft; erhalten."
+      "id": "p342j",
+      "result": "Alle drei Absätze und alle Berichtswege geprüft; Euro-Ersatzbericht der Tochter von fremdwährungsgebundenen Zweigniederlassungsberichten richtig getrennt."
     },
     {
-      "id": "p341q",
-      "result": "Rechtsform, Inlandssitz, Tätigkeits- und Großgesellschaftsmaßstab sowie § 264a geprüft; erhalten."
+      "id": "p342k",
+      "result": "Beide Absätze geprüft: erheblicher Nachteil, Listenstaatensperre, Begründung und viertes Folgegeschäftsjahr; Beispiel 2026/2030 zutreffend."
     },
     {
-      "id": "p341r",
-      "result": "Alle acht Definitionen einschließlich sieben Zahlungsgründen, Primärwaldmerkmalen, kontrollierten Empfängern und Projektbegriff geprüft; erhalten."
+      "id": "p342l",
+      "result": "Beide kumulativen Anforderungen geprüft: Formblatt und maschinenlesbares Format. Erläuterung behauptet keine nicht verifizierte technische Spezifikation; technische EU-Umsetzung bleibt ausdrücklich begrenzt."
     },
     {
-      "id": "p341s",
-      "result": "Jahrespflicht, tatsächliche Konzerneinbeziehung/Anhangshinweis und Drittstaatengleichwertigkeit samt Sprachverweisung geprüft; erhalten."
+      "id": "p342m",
+      "result": "Vier Absätze geprüft: Jahresfrist, Sprache, getrennte Adressaten und Ersatzdokumente, genaue Auskunfts- und Vermutungstatbestände; erhalten."
     },
     {
-      "id": "p341t",
-      "result": "Alle sechs Absätze geprüft; Stimmrechtsvoraussetzung der Ausschüttungsausnahme ergänzt. 100.000-Euro-Grenze, verbundene Zahlungen, Sachleistungen und Umgehungsverbot erhalten."
+      "id": "p342n",
+      "result": "Alle drei Absätze geprüft: eigene/verbundene Websites, jeweils erforderliche Dokumente, Jahresfrist und fünfjährige Dauer, beide Registerhinweisaussagen; erhalten."
     },
     {
-      "id": "p341u",
-      "result": "Staaten-/Empfängergliederung, Zahlungsgrundsummen, Mehrprojektfall und nicht projektbezogene Verpflichtungen geprüft; erhalten."
+      "id": "p342o",
+      "result": "Drei Absätze geprüft: genaue inhaltliche Tatbestandsverweise, Websiteverstöße, 250.000-Euro-Höchstbuße, BfJ und allgemeine Verantwortlichkeit; erhalten."
     },
     {
-      "id": "p341v",
-      "result": "Alle fünf Absätze geprüft; EU/EWR-Unterkonzernbefreiung von Einzelberichtsbefreiung getrennt, Datenkosten-Ausnahme und Ausschluss nicht einschlägiger Tätigkeiten erhalten."
+      "id": "p342p",
+      "result": "Alle Sätze geprüft: Organ-/Anmeldepersonen, optionale Gesellschaftsadressierung, genaue §-335-Verweisung, Ordnungsgeldobergrenze und Abgrenzung zu Bußgeld; erhalten."
     },
     {
-      "id": "p341w",
-      "result": "Organpflichten, Sprache, Jahres-/Sechsmonatsfrist und genaue Verweisung geprüft; 2028 wirksame Weiterleitungspflicht nicht als aktuell behandelt."
+      "id": "p342q",
+      "result": "Beide Absätze geprüft: vier Aufgaben, Satzungs-/Rechnungslegeranforderungen, Öffentlichkeit und begrenzte Vermutungswirkung bekanntgemachter Empfehlungen; keine unbelegte aktuelle Anerkennung behauptet."
     },
     {
-      "id": "p341x",
-      "result": "Beide Tatbestandsverweisungen einschließlich ungewöhnlichem § 341v Absatz 4 Satz 1, 50.000-Euro-Rahmen, Behörde und Personengesellschaftserstreckung geprüft; erhalten."
+      "id": "p342r",
+      "result": "Alle neun Absätze geprüft: institutioneller Vorbehalt, 13 Mitglieder, Sollberufung, Unabhängigkeit, Geschäftsordnung, Ausschüsse, Zweidrittelquorum, Mehrheiten und Empfehlung; erhalten."
     },
     {
-      "id": "p341y",
-      "result": "Ordnungsgeldadressaten, begründete Anfrage, angemessene Frist und nur für Einleitung geltende Vermutung geprüft; erhalten."
+      "id": "p343",
+      "result": "Beide Absätze einschließlich weggefallenem Absatz 2 geprüft. BGH VI ZR 121/17 Tenor und Rn. 1–21 vollständig erneut gelesen und mit amtlichem Wiederabruf verglichen; Vorinstanz und Senat sowie deliktische Zinsforderung zutreffend getrennt."
     },
     {
-      "id": "p342",
-      "result": "Beide Absätze einschließlich Umgehungsalternativen, Drittstaatensitz und Zwölfmillionengrenze sowie Verweise §§ 342b–342f geprüft; erhalten."
+      "id": "p344",
+      "result": "Beide Absätze geprüft: Betriebszuordnungsvermutung setzt Kaufmann voraus; besondere Urkundenregel für Schuldscheine vom allgemeinen Gegenbeweis getrennt; erhalten."
     },
     {
-      "id": "p342a",
-      "result": "Alle sechs Definitionen, größter Konzernkreis, EWR-Ausnahme, Fiskalautonomie, Vertretungskette und Berichtsjahr geprüft; erhalten."
+      "id": "p345",
+      "result": "Gesamtsatz und Sonderregelvorbehalt geprüft; interne Gegenproben §§ 347 und 377 bestätigen personenbezogene Sorgfalt und beiderseitiges Handelsgeschäft als besondere Voraussetzung; erhalten."
     }
   ],
   "limitations": [
-    "Ausschließlich zugewiesene 20 Einheiten geprüft; kein abgeschlossenes Gesamtbuch.",
-    "316 noch fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und erfolgreiche Gesamtvalidierung.",
-    "Selektive Rechtsprechung; nur bereits verwendeten BFH-Volltext erneut geprüft. Keine zusätzliche Rechtsprechung für die anderen 19 Einheiten behauptet.",
-    "Amtlicher Wiederabruf und vorhandene Verkündung mit Inkrafttreten abgeglichen; keine lückenlose eigene Auswertung aller BGBl-Ausgaben.",
+    "Nur diese 20 Einheiten inhaltlich zweitgeprüft; kein Gesamtbuchabschluss.",
+    "296 noch fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und erfolgreiche Gesamtvalidierung.",
+    "Selektive Autoritätenprüfung: vorhandene BGH-Entscheidung erneut vollständig gelesen; keine zusätzliche Entscheidung für andere Einheiten behauptet.",
+    "Keine eigenständige technische Anleitung zur unionsrechtlichen Formatimplementierung bei § 342l.",
+    "Amtlicher aktueller Text und dokumentierte Verkündungs-/Inkrafttretensnachweise geprüft; keine lückenlose eigene Auswertung aller BGBl-Ausgaben.",
     "Keine externe anwaltliche Freigabe; technische Prüfungen beweisen keine juristische Fehlerfreiheit."
   ],
-  "verified_at": "2026-10-21T04:51:23.842026+00:00",
+  "verified_at": "2026-10-21T05:01:07.617754+00:00",
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
   "statutory_text_agreement": 1.0,
-  "coverage_evidence": "review-p341h-p342a-coverage.json",
+  "coverage_evidence": "review-p342b-p345-coverage.json",
   "full_book_complete": false,
   "bounded_build_success": true,
-  "shared_build_success": false,
-  "validation": {
-    "repo": "Komentar-DE-HGB-1897",
-    "units": 696,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 652687,
-    "errors": [
-      "krátký/chybějící komentář u 316 jednotek: ['p342b(0<400)', 'p342c(0<400)', 'p342d(0<400)', 'p342e(0<400)', 'p342f(0<400)', 'p342g(0<400)', 'p342h(0<400)', 'p342i(0<400)']"
-    ],
-    "warnings": [],
-    "ok": false
-  },
-  "bounded_validation": {
-    "repo": "Komentar-DE-HGB-1897",
-    "units": 20,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 43797,
-    "errors": [],
-    "warnings": [],
-    "ok": true
-  },
-  "bounded_validation_ok": true
+  "shared_build_success": false
 }
