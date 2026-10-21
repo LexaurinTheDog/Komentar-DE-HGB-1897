@@ -227,5 +227,15 @@
     "historical_versions_checked": "814 eindeutige Knoten, 696 amtliche Kennungen und alle Texte mit Parser verglichen; keine historischen Fassungen verkettet. Originalintake erhalten.",
     "annexes_checked": "Alle 814 Knoten zugeordnet: 696 Normen, 117 Gliederungen, Kopfnorm ohne operativen Inhalt. Keine eigene Gesetzesanlage oder fehlende operative Eingangsformel. Alle leeren Stellen dieser Charge ausdrücklich gelesen.",
     "unresolved_blockers": []
+  },
+  "bounded_author_p289_p301": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T03:47:19.493583+00:00",
+    "version_evidence": "Wiederabruf identisch mit maßgeblichem XML; sources/commencement.md und Artikel 64 in sources/bgbl-2026-33.txt gelesen: 2026 wirksame Änderungen von 2028/2030 getrennt. Keine Änderung des Titelstichtags.",
+    "historical_versions_checked": "696 eindeutige amtliche Normkennungen gegen sämtliche geparsten Einheiten und deren Wortlaut geprüft. Kein Vermischen historischer Fassungen; Originalintake und amtliche Fassungen erhalten.",
+    "annexes_checked": "Knotendisposition sources/preflight-coverage.json: keine operative Gesetzesanlage; Rechnungslegungsanhang ist kein Gesetzesanhang. In dieser Charge keine Anlagen. Keine Eingangsformel in der amtlichen Kopfnorm ausgelassen.",
+    "unresolved_blockers": []
   }
 }

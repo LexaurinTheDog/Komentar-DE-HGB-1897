@@ -1,0 +1,15 @@
+{
+  "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+  "accessed_at": "2026-10-21T03:47:19.493583+00:00",
+  "http_status": 200,
+  "path": "sources/hgb-author-p289-p301.xml",
+  "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "zip_sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+  "format_valid": true,
+  "scope": "p289-p301",
+  "prior_xml_identical": true,
+  "version_evidence": [
+    "Stand Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
+    "Sonst Mittelbare Änderung durch Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt"
+  ]
+}

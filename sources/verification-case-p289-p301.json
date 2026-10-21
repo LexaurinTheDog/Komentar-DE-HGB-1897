@@ -1,0 +1,15 @@
+{
+  "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-505-21/",
+  "http_status": 200,
+  "accessed_at": "2026-10-21T03:52:28.581693+00:00",
+  "sha256": "2abb7a5e2f21de13357c20e72e1f86d8047599a0083b054bd13ab183e04d2ede",
+  "path": "sources/BAG-2022-3-AZR-505-21.html",
+  "format_valid": true,
+  "read_scope": "Tatbestand und Entscheidungsgründe Rn. 1–56",
+  "rejected_fetch": {
+    "path": "sources/BGH-p289-p301-111231-rejected.html",
+    "http_status": 200,
+    "format_valid": false,
+    "reason": "HTML statt PDF; nicht als Entscheidung verwendet"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-21",
+  "scope": [
+    "p289",
+    "p289a",
+    "p289b",
+    "p289c",
+    "p289d",
+    "p289e",
+    "p289f",
+    "p290",
+    "p291",
+    "p292",
+    "p292a",
+    "p293",
+    "p294",
+    "p295",
+    "p296",
+    "p297",
+    "p298",
+    "p299",
+    "p300",
+    "p301"
+  ],
+  "web_queries": [
+    "site.bundesgerichtshof.de \"§ 290\" \"Konzernabschluss\"",
+    "site.bundesgerichtshof.de \"§ 289\" \"Lagebericht\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_query": "rg -l --glob *.md --glob *.jsonl 3 AZR 505/21",
+  "local_results": [
+    "KARE600065245: identische Entscheidung",
+    "KARE600071597: spätere zitierende Entscheidung, nicht als Volltextautorität verwendet"
+  ],
+  "full_text_read": "BAG 15.11.2022 3 AZR 505/21, Rn. 1–56, amtlicher BAG-Volltext",
+  "rejected": "BGH nr=111231: HTTP 200 mit HTML statt erwarteter PDF, keine verwertete Entscheidung",
+  "limits": "Selektive Recherche. Für die übrigen zugewiesenen Normen keine weitere hinreichend relevante Entscheidung im amtlichen Volltext verifiziert. Kein Anspruch auf erschöpfende Rechtsprechung."
+}
