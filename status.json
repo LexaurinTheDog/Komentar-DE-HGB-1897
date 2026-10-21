@@ -77,5 +77,74 @@
     "complete": true,
     "units_reviewed": 20,
     "evidence": "review-result.json"
+  },
+  "bounded_review_p75b_p87d": {
+    "complete": true,
+    "reviewed_ids": [
+      "p75b",
+      "p75c",
+      "p75d",
+      "p75e",
+      "p75f",
+      "p75g",
+      "p75h",
+      "p76-82",
+      "p82a",
+      "p83",
+      "p84",
+      "p85",
+      "p86",
+      "p86a",
+      "p86b",
+      "p87",
+      "p87a",
+      "p87b",
+      "p87c",
+      "p87d"
+    ],
+    "completed_units": 20,
+    "total_assigned_units": 20,
+    "corrected_units": 6,
+    "source_checks": "preflight-result.json#bounded_review_p75b_p87d",
+    "case_law_sources": [
+      {
+        "court": "BGH",
+        "date": "2014-04-30",
+        "docket": "I ZR 245/12",
+        "full_text_read": true,
+        "paragraphs": "1–42; besonders 12–14,20–41",
+        "evidence": "sources/BGH-2014-I-ZR-245-12.xml",
+        "card": "cases/BGH-2014-I-ZR-245-12.md"
+      }
+    ],
+    "validation_result": {
+      "assigned_units": 20,
+      "assigned_complete": true,
+      "official_xml_coverage": 696,
+      "statutory_verbatim_ratio": 1.0,
+      "local_links_ok": true,
+      "repeated_exact_prose_paragraphs": 0,
+      "full_build_ok": false,
+      "full_build_blocker": "CHYBÍ komentář k 463 jednotkám, např.: ['p264', 'p264a', 'p264b', 'p264c', 'p264d', 'p265', 'p266', 'p267', 'p267a', 'p268']",
+      "partial_checkpoint_exported": true,
+      "strict_validator": {
+        "repo": "Komentar-DE-HGB-1897",
+        "units": 696,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 298404,
+        "errors": [
+          "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']",
+          "necommitnuté změny v repu"
+        ],
+        "warnings": [],
+        "ok": false
+      },
+      "strict_validator_exit_code": 1
+    },
+    "remaining_limitations": [
+      "Nur exakt die 20 beauftragten Einheiten; keine Gesamtfreigabe oder externe anwaltliche Prüfung.",
+      "Selektive Rechtsprechungsprüfung: ein vollständig verifiziertes Urteil zu § 75f; keine erschöpfende Rechtsprechungsabdeckung.",
+      "Gesamtbuch weiterhin mit 463 fehlenden Kommentaren außerhalb dieses Auftrags unvollständig."
+    ]
   }
 }

@@ -7,3 +7,5 @@ Die Auswahl ist selektiv und umfasst drei im Volltext gelesene amtliche Entschei
 - [BAG, 7. Juli 2015, 10 AZR 260/14](BAG-2015-10-AZR-260-14.md): § 75, ergänzend § 74a; Nichtanwendbarkeit des abgedruckten Absatzes 3 und konkrete Konkurrenzförderung.
 
 Die Rohdatei zu II ZR 61/09 ist lediglich ein verworfener Recherchefund zur GmbH-Mantelverwendung. Sie wird nicht als unterstützende Autorität des Kommentars verwendet.
+
+- [BGH 30.04.2014 — I ZR 245/12: § 75f](BGH-2014-I-ZR-245-12.md)

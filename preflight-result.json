@@ -90,5 +90,18 @@
     "historical_versions_checked": "696 eindeutige offizielle IDs; keine historischen Dubletten; § 75 Abs. 3 speziell mit dem im BAG-Urteil von 2015 wiedergegebenen früheren Regelungsgehalt verglichen.",
     "annexes_checked": "Alle 814 Normknoten zugeordnet: 696 Einheiten, 117 Gliederungsknoten, eine Kopfnorm ohne operativen Text. Keine separate Gesetzesanlage, keine fehlende Eingangsformel; Rechnungslegungsanhänge sind keine Gesetzesanlagen.",
     "unresolved_blockers": []
+  },
+  "bounded_review_p75b_p87d": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T03:02:33.525097+00:00",
+    "http_status": 200,
+    "source_evidence": "sources/hgb-review-p75b-p87d.xml",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "version_evidence": "Identischer amtlicher XML-Text; sources/commencement.md und BGBl. 2026 I Nr. 33 Artikel 64 Absätze 5, 7, 8 erneut gelesen: 2026 wirksame Änderungen von zukünftigen Änderungen 2028/2030 getrennt. Quellenvergleich zum Intake in sources/change-map.json; keine Änderung der beauftragten Normen.",
+    "historical_versions_checked": "814 eindeutige XML-Knoten, 696 eindeutige amtliche Normkennungen; vollständiger Kennungsvergleich mit units.jsonl; keine historischen Fassungen verkettet.",
+    "annexes_checked": "696 Normen, 117 Gliederungsknoten und eine Kopfnorm ohne operativen Inhalt; keine gesonderte Anlage und keine ausgelassene Eingangsformel. Leere Sammelstelle §§ 76 bis 82 und §§ 75b/75e ausdrücklich geprüft.",
+    "unresolved_blockers": []
   }
 }

@@ -22,3 +22,7 @@ Die drei aufgenommenen Entscheidungen sind in [Fallkarten](cases/INDEX.md) ersch
 ## Grenzen
 
 Der gesamte Gesetzestext ist erfasst. Kommentiert sind 233/696 Einheiten; die Gesamtvalidierung ist wegen der übrigen 463 Einheiten negativ. Die selektive Rechtsprechungsrecherche ist keine umfassende Übersicht. Redaktionelle Hinweise und Rohquellen sind ihrer Herkunft zugeordnet; die Apache-Lizenz für den eigenständigen Kommentar definiert ihre rechtliche Behandlung nicht um. [Prüfstand](REVIEW.md).
+
+## Teilprüfung §§ 75b–87d
+
+[Erneuter HGB-Abruf](sources/review-p75b-p87d-fetch.json), [amtliches XML](sources/hgb-review-p75b-p87d.xml), [Einzelprüfung](review-p75b-p87d.json). Ergänzend: [BGH I ZR 245/12](cases/BGH-2014-I-ZR-245-12.md), [amtlicher XML-Abruf mit SHA-256](sources/BGH-2014-I-ZR-245-12-fetch.json), [Rechercheprotokoll](sources/research/case-search-p75b-p87d.json).

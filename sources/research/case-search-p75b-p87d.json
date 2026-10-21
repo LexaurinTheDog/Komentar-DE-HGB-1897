@@ -1,0 +1,21 @@
+{
+  "query": "site.bundesgerichtshof.de I ZR 245/12 75f Abwerbeverbot 2014",
+  "candidate": "BGH 30.04.2014 I ZR 245/12",
+  "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=68900&Blank=1.pdf",
+  "http_status": 200,
+  "accessed_at": "2026-10-21T03:02:34.274701+00:00",
+  "path": "sources/BGH-p75f-fetch-rejected.html",
+  "sha256": "5d3189a8e70a6f612f1a3130b4e92fc71caf594b81f86a36859df26fe67a58f3",
+  "format_valid": false,
+  "result": "HTML statt angefordertem Entscheidungs-PDF; amtlicher Volltext nicht erfolgreich verifiziert. Keine Entscheidungsbehauptung aus Suchsnippet übernommen.",
+  "local_corpus": "Volltext über manifest.jsonl exakt unter I ZR 245/12 gefunden: rii-kore301182014.md; alle Absätze des amtlichen XML mit lokalem Volltext abgeglichen.",
+  "final_result": "Amtliches ZIP-XML über Rechtsprechung im Internet erfolgreich: HTTP 200; vollständig gelesen und als Fallkarte aufgenommen.",
+  "successful_fetch": {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE301182014.zip",
+    "path": "sources/BGH-2014-I-ZR-245-12.zip",
+    "accessed_at": "2026-10-21T03:04:26.058416+00:00",
+    "http_status": 200,
+    "sha256": "cebfc5114b5ca02b62ee551fba57fa70558149b0846075dcced965305078c548",
+    "format_valid": true
+  }
+}
