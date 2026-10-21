@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "path": "sources/hgb-review-p472-p483.zip",
+    "accessed_at": "2026-10-21T06:18:11.161912+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "path": "sources/hgb-review-p472-p483.xml",
+    "accessed_at": "2026-10-21T06:18:11.162660+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300012019.zip",
+    "path": "sources/BGH-review-p472-p483.zip",
+    "accessed_at": "2026-10-21T06:18:11.385512+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "b5e7cbbfd100131c18d357b8d1ab290803dc226e721a93df318d0ec0be6d97f2",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300012019.zip",
+    "path": "sources/BGH-review-p472-p483.xml",
+    "accessed_at": "2026-10-21T06:18:11.385890+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "9d869cea956311c57dd296f9bac01e5d240bf0c0a8f9885abc0203bed2790fe4",
+    "format_valid": true
+  }
+]

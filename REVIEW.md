@@ -219,3 +219,7 @@ Alle 20 zugewiesenen Einheiten einschließlich der weggefallenen Nummer § 451c 
 ## Begrenzte Zweitprüfung §§ 452d–471, 21. Oktober 2026
 
 Alle 20 zugewiesenen Vorschriften einzeln am amtlichen Wortlaut geprüft; Zuordnung des Erlangten (§ 457), Abgrenzung der Obhutshaftung (§ 461), wiederholte Anspruchserklärung (§ 463) und Lagerscheinadressat (§ 471) präzisiert. BGH I ZR 150/10 vollständig erneut gelesen; historische ADSp und Kollisionsregeln nicht als heutiges Recht übernommen. [Einzelergebnisse](review-p452d-p471.json), [Abdeckung](review-p452d-p471-coverage.json), [Teilvalidierung](review-p452d-p471-bounded-validation.json). Gesamtband wegen 156 außerhalb der Charge fehlender Kommentare unvollständig; frühere Aussage zur ausstehenden Zweitprüfung dieser Charge ist durch diesen Prüfstand überholt. Keine externe fachliche Freigabe.
+
+## Begrenzte Zweitprüfung §§ 472–483, 21. Oktober 2026
+
+Genau 20 zugewiesene Vorschriften am amtlichen Wortlaut geprüft. Fristbeginn (§ 475a), Gefahrgutbezeichnung (§ 475c), Vertretungsrolle (§ 479) und Verweisung auf § 509 Absatz 5 (§ 480) präzisiert. BGH I ZR 146/17 einschließlich Berichtigung vollständig gelesen; Vorsatzbehauptung und gerichtliche Feststellung getrennt. [Einzelergebnisse](review-p472-p483.json), [Abdeckung](review-p472-p483-coverage.json), [Teilvalidierung](review-p472-p483-bounded-validation.json). Frühere Hinweise auf die noch ausstehende Zweitprüfung dieser Charge sind durch diesen Prüfstand überholt. Gesamtband weiterhin unvollständig; keine externe fachliche Freigabe.

@@ -1,0 +1,26 @@
+{
+  "checked_local_links": 4,
+  "missing": [],
+  "links": [
+    {
+      "file": "33-hgb-teil-p472-p475h.md",
+      "target": "cases/bgh-I-ZR-146-17-p475.md",
+      "exists": true
+    },
+    {
+      "file": "cases/bgh-I-ZR-146-17-p475.md",
+      "target": "../sources/bgh-I-ZR-146-17-p472-p483.xml",
+      "exists": true
+    },
+    {
+      "file": "cases/bgh-I-ZR-146-17-p475.md",
+      "target": "../sources/bgh-I-ZR-146-17-p472-p483.md",
+      "exists": true
+    },
+    {
+      "file": "cases/bgh-I-ZR-146-17-p475.md",
+      "target": "../sources/case-verification-p472-p483.json",
+      "exists": true
+    }
+  ]
+}

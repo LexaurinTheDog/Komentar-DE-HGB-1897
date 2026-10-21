@@ -1,0 +1,14 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+  "verified_at": "2026-10-21T06:19:43.396101+00:00",
+  "version_evidence": {
+    "fetch": "sources/review-p472-p483-fetch.json",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "commencement": "commencement.md, change-map.json und BGBl. 2026 I Nr. 33 Art. 3/4, 64 geprüft: 2026 wirksame Änderungen von künftigen 2028/2030 getrennt. Identischer Wiederabruf gegenüber Titelbeginn und Intake; Charge unverändert."
+  },
+  "historical_versions_checked": "696 eindeutige amtliche Kennungen und alle Texte gegen Parser geprüft; keine historischen Versionen verkettet, beide Quellstände erhalten.",
+  "annexes_checked": "814 Knoten: 696 Normeinheiten, 117 Gliederungen, nichtoperative textlose Kopfnorm. Keine operative Anlage oder fehlende Eingangsformel; keine Leerstellen in zugewiesener Charge.",
+  "unresolved_blockers": []
+}

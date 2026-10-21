@@ -1,0 +1,121 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p472",
+    "p473",
+    "p474",
+    "p475",
+    "p475a",
+    "p475b",
+    "p475c",
+    "p475d",
+    "p475e",
+    "p475f",
+    "p475g",
+    "p475h",
+    "p476",
+    "p477",
+    "p478",
+    "p479",
+    "p480",
+    "p481",
+    "p482",
+    "p483"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p472",
+      "result": "Beide Absätze geprüft: Versicherungsverlangen, Verbraucherhinweis und ausdrückliche Drittverwahrung; eigene Haftung nach § 475 bleibt zutreffend bestehen."
+    },
+    {
+      "id": "p473",
+      "result": "Alle drei Absätze geprüft: jederzeitige Herausgabe von Kündigung und Vergütungsfolgen unterschieden; feste/unbestimmte Dauer, wichtiger Grund und letzter bekannter legitimierter Scheinbesitzer korrekt."
+    },
+    {
+      "id": "p474",
+      "result": "Erforderlichkeitsmaßstab aus damaliger Sicht und Vergütungsabgrenzung geprüft; Ersatzkühlungsbeispiel begründet keinen pauschalen Ersatz eigener Fehlerkosten."
+    },
+    {
+      "id": "p475",
+      "result": "Beide Sätze und BGH I ZR 146/17 vollständig geprüft: Obhutszeitraum, kaufmännische Sorgfalt, keine gesetzliche Gewichtshöchsthaftung; Vorsatz nur revisionsrechtlich unterstellt, Zurückverweisung korrekt."
+    },
+    {
+      "id": "p475a",
+      "result": "§ 439 vollständig gelesen; normalen Fristbeginn mit Auslieferung und ausbleibender geschuldeter Auslieferung ergänzt. Gänzlicher Verlust, Anzeigeadressat, Rückgriff, Hemmung und Verbrauchergrenze geprüft."
+    },
+    {
+      "id": "p475b",
+      "result": "Alle drei Absätze geprüft: Fremdgut nur mit Zustimmung, Altansprüche nur an Einlagerergut, Versicherungsforderung/Papiere, Erwerberschutz des indossierten Orderscheins und fortbestehender Besitz korrekt."
+    },
+    {
+      "id": "p475c",
+      "result": "Alle vier Absätze samt acht Nummern geprüft. Gefahrgutbezeichnung auf vorgeschriebene beziehungsweise allgemein anerkannte Bezeichnung präzisiert; elektronische Funktionsgleichheit und Ermächtigung zutreffend getrennt."
+    },
+    {
+      "id": "p475d",
+      "result": "Alle drei Absätze und drei Legitimationsalternativen geprüft: überprüfte Menge/Inhalt von bloßen Angaben unterschieden; Unwiderleglichkeit und Bösgläubigkeit, Anspruchsberechtigung und formelle Legitimation korrekt."
+    },
+    {
+      "id": "p475e",
+      "result": "Alle vier Absätze geprüft: Rückgabe mit Auslieferungsbescheinigung, keine Echtheitsprüfung der Indossamente, Kenntnis/grobe Fahrlässigkeit, unterschriebene Teilabschreibung und kausaler Schaden korrekt."
+    },
+    {
+      "id": "p475f",
+      "result": "Alle drei Einwendungsgruppen und Verweisungsverbot geprüft; Fallbeispiel trennt Ursprungsklausel und unmittelbare Erwerbervereinbarung."
+    },
+    {
+      "id": "p475g",
+      "result": "Beide Sätze geprüft: Besitzvoraussetzung, Begebung und Drittübertragung; Übergabefunktion ersetzt keine weiteren Verfügungsvoraussetzungen. Beispiel rechtlich begrenzt."
+    },
+    {
+      "id": "p475h",
+      "result": "Gezielt zwingender Verbraucherschutz für §§ 475a/475e Abs. 4 geprüft; kein allgemeiner Ausschluss vertraglicher Gestaltung behauptet. Abschnittscheck sachgerecht."
+    },
+    {
+      "id": "p476",
+      "result": "Eigentum und eigener Erwerbsbetrieb durch Seefahrt geprüft; Reeder von Ausrüster und Verfrachter getrennt. Freizeit- und Überlassungsbeispiele schlüssig."
+    },
+    {
+      "id": "p477",
+      "result": "Alle drei Absätze geprüft: fremdes Schiff, Außenstellung, unverzügliche Mitteilung von Namen und Anschrift; keine pauschale Freistellung des Eigentümers behauptet."
+    },
+    {
+      "id": "p478",
+      "result": "Personengruppen, Anstellung/Überlassung und Kapitänsunterstellung geprüft; Lotsen separat nach § 480, kein pauschaler Besatzungsstatus externer Besucher."
+    },
+    {
+      "id": "p479",
+      "result": "Beide Absätze geprüft: gewöhnlicher Betriebsbereich, Frachtvertrag/Konnossement, bekannte/kennenmüssende Beschränkung; Stellvertretungsaussage präzisiert. Tagebuchpflicht nur vorausgesetzt, Unfallumfang und beglaubigte Abschrift korrekt."
+    },
+    {
+      "id": "p480",
+      "result": "Beide Sätze geprüft; § 509 vollständig gelesen und Absatz 5 mit § 508 ergänzt. Haftung des Handelnden, Tätigkeitszusammenhang, Ladungssonderregel und Gesamtschuld unterschieden."
+    },
+    {
+      "id": "p481",
+      "result": "Alle drei Absätze geprüft: Beförderung und Ablieferung, Frachtschuld, gewerblicher Betrieb und Kleingewerbe mit ausdrücklicher Ausnahme §§ 348–350. Rollenbeispiel zutreffend."
+    },
+    {
+      "id": "p482",
+      "result": "Beide Absätze geprüft: erforderliche Angaben vor Übergabe, Textform für bezeichnete Daten, Anforderung gegenüber benanntem Dritten; kein automatischer Vertragsbeitritt."
+    },
+    {
+      "id": "p483",
+      "result": "Alle drei Absätze geprüft: Textform und Rechtzeitigkeit, Unkenntnis gegenüber bekannten Gefahren, Verschuldensgrenze und Vernichtungserforderlichkeit; besondere Angabenbedingung des anliefernden Dritten beim Aufwandersatz korrekt."
+    }
+  ],
+  "limitations": [
+    "Nur zugewiesene 20 Einheiten; keine Gesamtbuchfertigstellung.",
+    "136 fehlende Kommentare außerhalb der Charge verhindern Gesamtvalidierung.",
+    "Selektive Rechtsprechung; BGH I ZR 146/17 vollständig mit Berichtigung erneut gelesen; keine erschöpfende Folgeentscheidungsrecherche. ADSp 2003 nicht als heutige gesetzliche Regel übernommen.",
+    "Amtlicher Wiederabruf und dokumentierte Inkrafttretensbelege geprüft, keine eigene lückenlose BGBl-Jahresauswertung.",
+    "Keine externe fachliche Freigabe; technische Validierung beweist keine juristische Fehlerfreiheit."
+  ],
+  "verified_at": "2026-10-21T06:19:43.396101+00:00",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "statutory_text_agreement": 1.0,
+  "full_book_complete": false
+}
