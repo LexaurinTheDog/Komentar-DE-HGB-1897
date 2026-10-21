@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-21",
+  "scope": [
+    "p341h",
+    "p341i",
+    "p341j",
+    "p341k",
+    "p341l",
+    "p341m",
+    "p341n",
+    "p341o",
+    "p341p",
+    "p341q",
+    "p341r",
+    "p341s",
+    "p341t",
+    "p341u",
+    "p341v",
+    "p341w",
+    "p341x",
+    "p341y",
+    "p342",
+    "p342a"
+  ],
+  "queries": [
+    "site.bundesfinanzhof.de Schwankungsrückstellung 341h",
+    "site.bundesgerichtshof.de 341w 341y",
+    "site.bundesfinanzhof.de 341s Zahlungsbericht",
+    "site.bundesgerichtshof.de 342a Ertragsteuer"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_hits": [
+    "rii-stre201610266.md",
+    "rii-stre201710006.md",
+    "rii-stre202410163.md"
+  ],
+  "fully_read": [
+    "BFH 07.09.2016 I R 23/15, Rn. 1–21, amtlicher HTML-Volltext und lokaler Corpus"
+  ],
+  "case_cards": [
+    "cases/BFH-2016-IR23-15.md"
+  ],
+  "limits": "Selektive Recherche. Für die übrigen 19 Einheiten keine zusätzliche hinreichend einschlägige vollständig verifizierte Entscheidung verwendet. Suchtreffer und Gesetzesentwürfe sind keine weiteren Autoritäten.",
+  "version_search": "Amtliche aktuelle Konsolidierung erneut unverändert. Suche site.recht.bund.de HGB Handelsgesetzbuch Oktober 2026 Änderung erbrachte keinen verifizierten neueren Änderungsakt. Keine lückenlose BGBl-Auswertung behauptet."
+}

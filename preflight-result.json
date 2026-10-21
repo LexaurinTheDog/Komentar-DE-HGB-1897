@@ -348,5 +348,21 @@
     "historical_versions_checked": "696 eindeutige amtliche Kennungen und Texte gegen JSONL verglichen, keine historischen Versionen verkettet; beide Quellstände erhalten.",
     "annexes_checked": "Alle 814 XML-Knoten zugeordnet, 117 Strukturknoten, nichtoperative Kopfnorm. Keine operative Anlage oder ausgelassene Eingangsformel.",
     "unresolved_blockers": []
+  },
+  "bounded_author_p341h_p342a": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T04:44:25.149340+00:00",
+    "version_evidence": {
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "unchanged_since_title_start": true,
+      "commencement": "sources/commencement.md",
+      "promulgation": "sources/bgbl-2026-33.txt, Artikel 64: 2026 wirksame Regeln getrennt von 2028/2030; gelesen",
+      "change_map": "sources/change-map.json"
+    },
+    "historical_versions_checked": "Alle amtlichen Kennungen eindeutig; 696 Texte und Labels gegen aktuellen XML-Abruf verglichen. Keine historischen Versionen verkettet. Intake und Titelstichtag erhalten.",
+    "annexes_checked": "814 Normknoten: 696 nummerierte Einheiten einschließlich Sammelleerstellen, 117 Gliederungsknoten und nichtoperative Kopfnorm. Keine gesonderte operative Anlage oder fehlende Eingangsformel im amtlichen XML. Bezugnahmen auf fremde Verordnungsanhänge sind keine Anlagen des HGB.",
+    "unresolved_blockers": []
   }
 }

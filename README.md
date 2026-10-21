@@ -47,3 +47,5 @@ Charge §§ 329–340c: genau 20 weitere Normeinheiten; [Chargenprüfung](author
 Begrenzte unabhängige Zweitprüfung §§ 329–340c: [20 Einzelbefunde](review-p329-p340c.json), [Prüfbericht](REVIEW.md). Gesamtbuch weiterhin unvollständig.
 
 Aktueller Autorencheckpoint §§ 340d–341g: genau 20 neue Normeinheiten; [Chargenprüfung](author-p340d-p341g-result.json). Gesamtstand 360/696, 336 Kommentare ab § 341h offen. Zweitprüfung dieser Charge ausstehend. Ältere Zahlen in den nachstehenden beziehungsweise vorangehenden Chargennotizen dokumentieren frühere Zwischenstände.
+
+Autorencheckpoint §§ 341h–342a: 20 neue Normeinheiten, Gesamtstand 380/696; 316 Kommentare ab § 342b offen. [Chargenbericht](author-p341h-p342a-result.json), [Teilkapitel](22-hgb-teil-p341h-p342a.md). Titelstichtag weiterhin 19. Oktober 2026, amtlicher Wiederabruf vom 21. Oktober unverändert. Zweitprüfung dieser Charge ausstehend; Gesamtbuch nicht abgeschlossen.

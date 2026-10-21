@@ -59,3 +59,5 @@ Charge §§ 316–328: [amtliches XML](sources/hgb-author-p316-p328.xml), [Abruf
 Charge §§ 329–340c: [amtliches XML](sources/hgb-author-p329-p340c.xml), [Abrufnachweise](sources/verification-p329-p340c.json), [Suchprotokoll](sources/research/case-search-p329-p340c.json), [BVerfG-Fallkarte](cases/BVerfG-2014-1-BvR-299-13.md).
 
 Charge §§ 340d–341g: [amtliches XML](sources/hgb-author-p340d-p341g.xml), [Abrufnachweise](sources/verification-p340d-p341g.json), [Suchprotokoll](sources/research/case-search-p340d-p341g.json), [FG-Fallkarte](cases/FG-BB-2025-8K8017-23.md).
+
+Charge §§ 341h–342a: [amtlicher XML-Wiederabruf](sources/hgb-author-p341h-p342a.xml), [HTTP- und Hashnachweise](sources/verification-p341h-p342a.json), [selektive Fallsuche](sources/research/case-search-p341h-p342a.json), [BFH-Fallkarte](cases/BFH-2016-IR23-15.md).

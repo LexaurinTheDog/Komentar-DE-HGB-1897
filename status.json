@@ -4,14 +4,14 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T04:42:51.341868+00:00",
+  "updated_at": "2026-10-21T04:49:03.176733+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
-  "completed_units": 360,
-  "remaining_units": 336,
-  "completed_scope": "§§ 1–341g einschließlich Buchstabenparagraphen und amtlicher Sammelleerstellen",
-  "next_unit": "p341h",
-  "commentary_chars": 608890,
+  "completed_units": 380,
+  "remaining_units": 316,
+  "completed_scope": "§§ 1–342a einschließlich Buchstabenparagraphen und amtlicher Sammelleerstellen",
+  "next_unit": "p342b",
+  "commentary_chars": 652008,
   "source_checks": {
     "official_xml_http": 200,
     "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
@@ -26,7 +26,8 @@
     "verification": "sources/verification.json",
     "preflight_complete": true,
     "rechecked_at": "2026-10-21",
-    "bounded_author_p340d_p341g": "sources/verification-p340d-p341g.json"
+    "bounded_author_p340d_p341g": "sources/verification-p340d-p341g.json",
+    "bounded_author_p341h_p342a": "sources/verification-p341h-p342a.json"
   },
   "case_law_sources": [
     "BGH 2024-01-09 II ZR 220/22",
@@ -40,19 +41,14 @@
   "case_law_coverage": "Selektive Recherche; Nachweise und Umfang je Fallkarte und Chargenprotokoll, keine erschöpfende Übersicht.",
   "build_result": {
     "success": false,
-    "evidence": "author-p340d-p341g-build.txt",
-    "reason": "336 fehlende Kommentare außerhalb der Charge"
+    "evidence": "author-p341h-p342a-build.txt",
+    "reason": "316 Kommentare außerhalb der Charge fehlen"
   },
   "validation_result": {
-    "repo": "Komentar-DE-HGB-1897",
-    "units": 696,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 606972,
-    "errors": [
-      "krátký/chybějící komentář u 336 jednotek: ['p341h(0<400)', 'p341i(0<400)', 'p341j(0<400)', 'p341k(0<400)', 'p341l(0<400)', 'p341m(0<400)', 'p341n(0<400)', 'p341o(0<400)']"
-    ],
-    "warnings": [],
-    "ok": false
+    "bounded_ok": true,
+    "bounded_units": 20,
+    "evidence": "author-p341h-p342a-bounded-validation.json",
+    "whole_book_complete": false
   },
   "independent_second_pass": "Begrenzte frühere Zweitprüfungen siehe REVIEW.md und jeweilige Chargenergebnisse; neue Charge §§ 340d–341g ausstehend, keine Gesamtprüfung.",
   "unresolved_blockers": [
@@ -954,5 +950,76 @@
     "units_reviewed": 20,
     "complete": true,
     "evidence": "review-p340d-p341g.json"
+  },
+  "bounded_author_p341h_p342a": {
+    "kind": "bounded_author",
+    "complete": true,
+    "assigned_ids": [
+      "p341h",
+      "p341i",
+      "p341j",
+      "p341k",
+      "p341l",
+      "p341m",
+      "p341n",
+      "p341o",
+      "p341p",
+      "p341q",
+      "p341r",
+      "p341s",
+      "p341t",
+      "p341u",
+      "p341v",
+      "p341w",
+      "p341x",
+      "p341y",
+      "p342",
+      "p342a"
+    ],
+    "units_authored": 20,
+    "total_units": 696,
+    "completed_units": 380,
+    "remaining_units": 316,
+    "commentary_chars": {
+      "p341h": 2302,
+      "p341i": 2175,
+      "p341j": 2324,
+      "p341k": 1991,
+      "p341l": 1987,
+      "p341m": 1962,
+      "p341n": 2732,
+      "p341o": 1945,
+      "p341p": 1677,
+      "p341q": 2020,
+      "p341r": 2297,
+      "p341s": 2084,
+      "p341t": 2463,
+      "p341u": 1997,
+      "p341v": 2367,
+      "p341w": 1951,
+      "p341x": 1938,
+      "p341y": 2118,
+      "p342": 2545,
+      "p342a": 2243
+    },
+    "statutory_text_agreement": 1.0,
+    "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "missing_official_identifiers": [],
+    "duplicate_ids": [],
+    "exact_repeated_paragraphs": [],
+    "case_cards": [
+      "cases/BFH-2016-IR23-15.md"
+    ],
+    "bounded_build_success": true,
+    "shared_build_success": false,
+    "bounded_export": "22-hgb-teil-p341h-p342a.md",
+    "full_book_complete": false,
+    "unresolved_blockers": [],
+    "limitations": [
+      "Unabhängige Zweitprüfung der Charge ausstehend.",
+      "Selektive Rechtsprechung; historische Atomanlagen-Bemessung nicht als heutiges allgemeines Berechnungsschema übernommen.",
+      "316 fehlende Kommentare außerhalb des Auftrags; Gesamtbuild bleibt unvollständig.",
+      "Mindestlängen und technische Prüfungen sind kein Nachweis juristischer Fehlerfreiheit."
+    ]
   }
 }

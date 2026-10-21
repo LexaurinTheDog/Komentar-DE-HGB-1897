@@ -701,6 +701,30 @@
       "path": "sources/hgb-review-p340d-p341g.xml",
       "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
       "format_valid": true
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE201610266/",
+      "path": "sources/BFH-2016-IR23-15.html",
+      "accessed_at": "2026-10-21T04:44:13.560364+00:00",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e56cdafbe095897134e86f4b77cb19a41246b133d30b527646f0ac4c68d19213"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "path": "sources/hgb-author-p341h-p342a.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T04:44:25.144152+00:00",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "path": "sources/hgb-author-p341h-p342a.xml",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T04:44:25.149340+00:00",
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "format_valid": true
     }
   ],
   "version_information": {

@@ -23,3 +23,5 @@ Die Rohdatei zu II ZR 61/09 ist lediglich ein verworfener Recherchefund zur GmbH
 - [BVerfG 09.01.2014 – 1 BvR 299/13](BVerfG-2014-1-BvR-299-13.md): § 335, Bestimmtheitsgrenze bei fehlendem Aufsichtsratsbericht.
 
 - [FG Berlin-Brandenburg 18.11.2025 – 8 K 8017/23](FG-BB-2025-8K8017-23.md): Nachreservierung und Stichtag, §§ 341e–341f; Revision zugelassen, historische Steuerstreitjahre.
+
+- [BFH 07.09.2016 – I R 23/15](BFH-2016-IR23-15.md): § 341h, Risikoausgleich und historische Atomanlagenrückstellung.
