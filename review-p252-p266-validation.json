@@ -1,0 +1,22 @@
+{
+  "scope": "bounded_review_p252_p266",
+  "bounded_review_complete": true,
+  "reviewed_units": 20,
+  "full_book_validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 696,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 329778,
+    "errors": [
+      "krátký/chybějící komentář u 456 jednotek: ['p267(0<400)', 'p267a(0<400)', 'p268(0<400)', 'p269(0<120)', 'p270(0<400)', 'p271(0<400)', 'p272(0<400)', 'p273(0<120)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "standard_build": {
+    "ok": false,
+    "reason": "456 missing comments outside assigned scope; bounded chapters rebuilt with _export_review_p252_p266.py"
+  },
+  "links_checked": true,
+  "limitations": "No whole-book completion. All statutory text agrees; minimum length is not legal quality."
+}
