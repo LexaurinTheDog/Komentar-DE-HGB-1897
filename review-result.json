@@ -195,6 +195,18 @@
     "repeated_exact_prose_paragraphs": 0,
     "full_build_ok": false,
     "full_build_blocker": "463 Kommentare außerhalb dieses begrenzten Auftrags fehlen.",
-    "partial_checkpoint_exported": true
+    "partial_checkpoint_exported": true,
+    "strict_validator": {
+      "repo": "Komentar-DE-HGB-1897",
+      "units": 696,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 297109,
+      "errors": [
+        "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_validator_exit_code": 1
   }
 }
