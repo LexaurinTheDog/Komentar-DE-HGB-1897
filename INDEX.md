@@ -39,3 +39,5 @@ Der vollständige Normbestand steht in units.jsonl. Vorhandene Autorenbatches:
 - [Teilkapitel §§ 342b–345](22-hgb-teil-p342b-p345.md) — 20 neue Normeinheiten.
 
 - [Teilkapitel §§ 346–364](25-hgb-teil-p346-p364.md) — 20 Normeinheiten einschließlich § 354a und Leerstelle § 351.
+
+- [§§ 384–403: Kommissionsgeschäft](28-hgb-28-teil-p384-p403.md)

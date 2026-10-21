@@ -1,0 +1,25 @@
+{
+  "searched_at": "2026-10-21T05:26:58.349364+00:00",
+  "queries": [
+    "site.bundesgerichtshof.de \"§ 392\" Kommission",
+    "site.bundesgerichtshof.de \"§ 400\" \"Kommissionär\"",
+    "site.rechtsprechung-im-internet.de \"I ZR 229/15\"",
+    "local rii/manifest.jsonl: I ZR 229/15"
+  ],
+  "selected": "KORE300012017",
+  "full_text_read": true,
+  "fresh_xml_paragraphs_compared": 112,
+  "fresh_xml_mismatches": [],
+  "rejected_fetch": {
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Gericht=bgh&nr=77029",
+    "reason": "HTML statt PDF; nicht als Entscheidungsnachweis benutzt",
+    "body": "sources/case-I-ZR-229-15-p384-p403-rejected.html"
+  },
+  "other_leads_not_cited": [
+    "II ZR 128/58",
+    "VIII ZR 79/87",
+    "II ZR 152/87",
+    "XI ZR 316/11"
+  ],
+  "limitations": "Selektive Recherche; keine Vollständigkeit für jede Norm. Ungeprüfte Suchtreffer nicht als Autoritäten verwendet."
+}

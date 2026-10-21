@@ -1071,5 +1071,37 @@
     "same_xml_sha256": true,
     "coverage": "sources/preflight-coverage.json",
     "commencement": "sources/commencement.md"
+  },
+  "bounded_author_fetches": {
+    "p384-p403": [
+      {
+        "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+        "http_status": 200,
+        "accessed_at": "2026-10-21T05:25:27.857594+00:00",
+        "path": "sources/hgb-p384-p403.zip",
+        "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+        "xml_path": "sources/hgb-p384-p403.xml",
+        "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+        "format_valid": true
+      },
+      {
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300012017.zip",
+        "http_status": 200,
+        "accessed_at": "2026-10-21T05:25:28.034380+00:00",
+        "path": "sources/case-KORE300012017-p384-p403.zip",
+        "sha256": "60a9c89dcc3992a635fc0720834078d6037437526abf9c8136993580a747e58c",
+        "xml_path": "sources/case-KORE300012017-p384-p403.xml",
+        "xml_sha256": "6b88f57b77ca031cc6eb52e70ebcc7e41db54114393548a1d5cb08782be91dd9",
+        "format_valid": true
+      },
+      {
+        "url": "https://www.gesetze-im-internet.de/bgb/__665.html",
+        "http_status": 200,
+        "accessed_at": "2026-10-21T05:26:58.186456+00:00",
+        "path": "sources/bgb-665-p384-p403.html",
+        "sha256": "9a8d980d07b0d4a929c2d8b8f34d24b3d92b1f42d5faab024190f31a839cd2b9",
+        "format_valid": true
+      }
+    ]
   }
 }
