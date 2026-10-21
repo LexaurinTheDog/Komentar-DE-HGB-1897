@@ -1,0 +1,9 @@
+{
+  "url": "https://www.gesetze-im-internet.de/hgbeg/xml.zip",
+  "http_status": 200,
+  "content_type": "application/zip",
+  "path": "sources/eghgb-p342b-p345.xml",
+  "sha256": "49733ef1600a543bfa654466ed901879ca4f3bc5b247d982fc746e627f20c849",
+  "accessed_at": "2026-10-21T04:56:47.379231+00:00",
+  "format_valid": true
+}

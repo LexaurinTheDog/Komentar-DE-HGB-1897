@@ -379,5 +379,21 @@
     "historical_versions_checked": "Alle 696 amtlichen Kennungen gegen eindeutige aktuelle XML-Normen geprüft; keine historischen Doppeltexte verkettet.",
     "annexes_checked": "814 Knoten unabhängig abgeglichen: 696 Normen, 117 Strukturknoten, eine nichtoperative Kopfnorm; keine eigene operative Anlage oder übergangene Eingangsformel. Fremde Verordnungsanhänge sind Verweisungsziele.",
     "unresolved_blockers": []
+  },
+  "bounded_author_p342b_p345": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T04:52:07.474536+00:00",
+    "version_evidence": {
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "unchanged_since_title_start": true,
+      "commencement": "sources/commencement.md; zusätzlich Art. 90 Abs. 1 Satz 2 EGHGB: Geschäftsjahre nach 21.06.2024",
+      "eghgb_evidence": "sources/eghgb-p342b-p345.xml",
+      "change_map": "sources/change-map.json"
+    },
+    "historical_versions_checked": "696 offizielle Kennungen eindeutig, alle Texte und Labels gegen aktuellen XML-Abruf geprüft. Historische Bilanzkontrollnormen nicht mit heutigen Steuerberichten verwechselt. Keine historischen Fassungen verkettet.",
+    "annexes_checked": "814 Normknoten, davon 696 nummerierte Einheiten einschließlich Sammelleerstellen. Übrige 118 Knoten ohne operativen Text: Gliederung und Kopfnorm. Keine operative Anlage oder fehlende Eingangsformel. In Bezug genommene EU-Anhänge sind keine HGB-Anlagen.",
+    "unresolved_blockers": []
   }
 }

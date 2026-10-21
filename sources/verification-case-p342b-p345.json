@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300782018.zip",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "e8a2b884bba93e0c9698deb98617e70df484048d308ca338dd3c8706f0cbe9f7",
+    "accessed_at": "2026-10-21T04:56:29.831961+00:00",
+    "path": "sources/BGH-VIZR121-17.zip",
+    "format_valid": true
+  },
+  {
+    "path": "sources/BGH-VIZR121-17.xml",
+    "sha256": "cb9bd3048d2f510e06adca834ca1508e514b09c302a10d59f8dc7dbc7694acfa",
+    "format_valid": true
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "path": "sources/hgb-author-p342b-p345.zip",
+    "accessed_at": "2026-10-21T04:52:07.192021+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "path": "sources/hgb-author-p342b-p345.xml",
+    "accessed_at": "2026-10-21T04:52:07.197519+00:00",
+    "http_status": 200,
+    "content_type": "application/zip",
+    "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/hgb/",
+    "path": "sources/hgb-index-p342b-p345.html",
+    "accessed_at": "2026-10-21T04:52:07.474536+00:00",
+    "http_status": 200,
+    "content_type": "text/html",
+    "sha256": "810430435a9544bd9249cfb2d8ff09442deaa3c4211a2e5e0002c0715c41bcc0",
+    "format_valid": true
+  }
+]

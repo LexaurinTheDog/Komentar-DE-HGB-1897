@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-21",
+  "scope": [
+    "p342b",
+    "p342c",
+    "p342d",
+    "p342e",
+    "p342f",
+    "p342g",
+    "p342h",
+    "p342i",
+    "p342j",
+    "p342k",
+    "p342l",
+    "p342m",
+    "p342n",
+    "p342o",
+    "p342p",
+    "p342q",
+    "p342r",
+    "p343",
+    "p344",
+    "p345"
+  ],
+  "queries": [
+    "site.bundesgerichtshof.de \"344\" \"Handelsgewerbes\" Darlehen",
+    "site.bundesgerichtshof.de \"342\" \"Ertragsteuerinformationsbericht\"",
+    "site.recht.bund.de HGB Oktober 2026 Änderung Handelsgesetzbuch"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_query": "Ein Handelsgeschäft im Sinne|Handelsgeschäft.*343.*344",
+  "local_hits": [
+    "KORE300362016",
+    "KORE300782018",
+    "KORE302502022",
+    "KORE308562018",
+    "STRE202050180",
+    "STRE202410064",
+    "STRE202520253"
+  ],
+  "fully_read": [
+    "BGH 27.02.2018 VI ZR 121/17: Rn. 1–21, lokaler Text und amtlicher XML-Volltext"
+  ],
+  "case_cards": [
+    "cases/BGH-2018-VIZR121-17.md"
+  ],
+  "rejected_fetch": {
+    "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2018-2-27&Gericht=bgh&anz=29&nr=83449&pos=15",
+    "path": "sources/BGH-2018-83449-rejected.html",
+    "reason": "HTML statt PDF; nicht als Entscheidungsbeleg benutzt; amtlicher RII-XML-Abruf anschließend erfolgreich",
+    "sha256": "d60bd7290c3c08fa0811ebe18e05d16b3acc25644b88ae8ec55e34798039b77e"
+  },
+  "limits": "Selektive Recherche; für §§ 342b–342r, 344 und 345 keine zusätzliche vollständig geprüfte Entscheidung aufgenommen. Weitere Korpustreffer sind keine eigenständig verifizierten Autoritäten.",
+  "version_search": "Wiederabruf unverändert; ergänzende Suche ohne verifizierten neueren Änderungsakt. Keine lückenlose BGBl-Auswertung. EGHGB Art. 90 und historische Verweise in Art. 56, 62, 77, 84, 86 gelesen; heutige und frühere §§ 342b ff. unterschieden."
+}

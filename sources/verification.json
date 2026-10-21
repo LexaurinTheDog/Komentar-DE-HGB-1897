@@ -752,6 +752,56 @@
       "content_type": "text/html; charset=utf-8",
       "sha256": "e56cdafbe095897134e86f4b77cb19a41246b133d30b527646f0ac4c68d19213",
       "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "path": "sources/hgb-author-p342b-p345.zip",
+      "accessed_at": "2026-10-21T04:52:07.192021+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "path": "sources/hgb-author-p342b-p345.xml",
+      "accessed_at": "2026-10-21T04:52:07.197519+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/",
+      "path": "sources/hgb-index-p342b-p345.html",
+      "accessed_at": "2026-10-21T04:52:07.474536+00:00",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "810430435a9544bd9249cfb2d8ff09442deaa3c4211a2e5e0002c0715c41bcc0",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300782018.zip",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "e8a2b884bba93e0c9698deb98617e70df484048d308ca338dd3c8706f0cbe9f7",
+      "accessed_at": "2026-10-21T04:56:29.831961+00:00",
+      "path": "sources/BGH-VIZR121-17.zip",
+      "format_valid": true
+    },
+    {
+      "path": "sources/BGH-VIZR121-17.xml",
+      "sha256": "cb9bd3048d2f510e06adca834ca1508e514b09c302a10d59f8dc7dbc7694acfa",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgbeg/xml.zip",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "path": "sources/eghgb-p342b-p345.xml",
+      "sha256": "49733ef1600a543bfa654466ed901879ca4f3bc5b247d982fc746e627f20c849",
+      "accessed_at": "2026-10-21T04:56:47.379231+00:00",
+      "format_valid": true
     }
   ],
   "version_information": {

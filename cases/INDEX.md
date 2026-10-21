@@ -25,3 +25,5 @@ Die Rohdatei zu II ZR 61/09 ist lediglich ein verworfener Recherchefund zur GmbH
 - [FG Berlin-Brandenburg 18.11.2025 – 8 K 8017/23](FG-BB-2025-8K8017-23.md): Nachreservierung und Stichtag, §§ 341e–341f; Revision zugelassen, historische Steuerstreitjahre.
 
 - [BFH 07.09.2016 – I R 23/15](BFH-2016-IR23-15.md): § 341h, Risikoausgleich und historische Atomanlagenrückstellung.
+
+- [BGH 27.02.2018 – VI ZR 121/17](BGH-2018-VIZR121-17.md): § 343 und Grenze deliktischer Fälligkeitszinsen.
