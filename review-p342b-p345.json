@@ -121,5 +121,27 @@
   "coverage_evidence": "review-p342b-p345-coverage.json",
   "full_book_complete": false,
   "bounded_build_success": true,
-  "shared_build_success": false
+  "shared_build_success": false,
+  "validation": {
+    "bounded": {
+      "repo": "Komentar-DE-HGB-1897",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 41022,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "whole_book": {
+      "repo": "Komentar-DE-HGB-1897",
+      "units": 696,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 693709,
+      "errors": [
+        "krátký/chybějící komentář u 296 jednotek: ['p346(0<400)', 'p347(0<400)', 'p348(0<400)', 'p349(0<400)', 'p350(0<400)', 'p351(0<120)', 'p352(0<400)', 'p353(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    }
+  }
 }

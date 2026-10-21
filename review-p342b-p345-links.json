@@ -1,4 +1,34 @@
 {
-  "checked_local_links": 1,
+  "checked_local_links": 7,
+  "links": [
+    {
+      "file": "commentary/part-22b.md",
+      "target": "../sources/eghgb-p342b-p345.xml"
+    },
+    {
+      "file": "commentary/part-25a.md",
+      "target": "../cases/BGH-2018-VIZR121-17.md"
+    },
+    {
+      "file": "22-hgb-teil-p342b-p345.md",
+      "target": "sources/eghgb-p342b-p345.xml"
+    },
+    {
+      "file": "cases/BGH-2018-VIZR121-17.md",
+      "target": "../sources/BGH-VIZR121-17.xml"
+    },
+    {
+      "file": "cases/BGH-2018-VIZR121-17.md",
+      "target": "../sources/BGH-VIZR121-17.zip"
+    },
+    {
+      "file": "cases/BGH-2018-VIZR121-17.md",
+      "target": "../sources/BGH-VIZR121-17.txt"
+    },
+    {
+      "file": "cases/BGH-2018-VIZR121-17.md",
+      "target": "../sources/verification-case-p342b-p345.json"
+    }
+  ],
   "missing": []
 }
