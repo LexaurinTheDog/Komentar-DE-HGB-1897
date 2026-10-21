@@ -1,0 +1,20 @@
+{
+  "verified_at": "2026-10-21T06:45:42.377751+00:00",
+  "queries": [
+    "site.rechtsprechung-im-internet.de \"Konnossement\" \"522\"",
+    "site.rechtsprechung-im-internet.de \"504\" \"Container\" \"HGB\"",
+    "site.rechtsprechung-im-internet.de \"Konnossement\" \"I ZR\"",
+    "site.bundesgerichtshof.de \"Konnossement\" \"2017\"",
+    "site.rechtsprechung-im-internet.de \"I ZR 40/04\"",
+    "site.bundesgerichtshof.de \"I ZR 40/04\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search": "rg case_number for I ZR 40/04 and 6 U 86/16; read existing full local source rii-kore318202010.md, compared with re-fetched official XML",
+  "candidates": [
+    "LG Hamburg 19.04.2016 411 HKO 99/14 and OLG Hamburg 02.03.2017 6 U 86/16: secondary discovery only; not cited without primary full-text verification",
+    "BGH 15.02.2007 I ZR 40/04: official PDF endpoint returned HTML, rejected and saved; no holding attributed in commentary",
+    "BGH 06.04.2017 I ZB 69/16: arbitration discovery result; not used as substantive authority"
+  ],
+  "used_case": "BGH 18.03.2010 I ZR 181/08, full text Rn.1–64; historical comparison for p507 only",
+  "limits": "Selective research. No current-case authority claimed for other technical units. No exhaustive coverage."
+}

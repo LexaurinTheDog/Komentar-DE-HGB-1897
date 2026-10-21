@@ -1,0 +1,14 @@
+{
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE318202010.zip",
+  "http_status": 200,
+  "accessed_at": "2026-10-21T06:42:35.936482+00:00",
+  "zip_sha256": "a8c00cfd06e02d4400105120b126bfa6509b5158836c856a7ddf4a530f277b1e",
+  "xml_sha256": "c8263eeffd6ea4c358f39599121407c32639a6c4e2b49e30c978d76c07b8b0da",
+  "format": "parsed official judicial XML in ZIP",
+  "full_text_read": true,
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore318202010.md",
+  "identical_to_previously_verified": true,
+  "numbered_paragraphs_compared": 64,
+  "unmatched_paragraphs": [],
+  "comparison": "All numbered official XML paragraphs versus read local full text; whitespace only normalization"
+}
