@@ -3,117 +3,116 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p524",
-    "p525",
-    "p526",
-    "p527",
-    "p528",
-    "p529",
-    "p530",
-    "p531",
-    "p532",
-    "p533",
-    "p534",
-    "p535",
-    "p536",
-    "p537",
-    "p538",
-    "p539",
-    "p540",
-    "p541",
-    "p542",
-    "p543"
+    "p564",
+    "p565",
+    "p566",
+    "p567",
+    "p568",
+    "p569",
+    "p570",
+    "p571",
+    "p572",
+    "p573",
+    "p574",
+    "p575",
+    "p576",
+    "p577",
+    "p578",
+    "p579",
+    "p580",
+    "p581",
+    "p582",
+    "p583"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p524",
-      "result": "Beide Sätze geprüft: Besitz des Verfrachters, Begebung an Empfänger und Übertragung an Dritte; Übergabeersatz von weiteren dinglichen Erwerbsvoraussetzungen getrennt."
+      "id": "p564",
+      "result": "Beide Absätze: fixe und variable Kosten, Grund-/Mehrversicherung und Beschaffung handelsüblichen Treibstoffs geprüft."
     },
     {
-      "id": "p525",
-      "result": "Alle drei Sätze und §§ 512/522 geprüft. Zweifache Wirksamkeitsschranke und Erwerberschutz zutreffend. Ausnahme ausdrücklich um Feuer/Explosion und Ladungsinteresse-Grenze ergänzt."
+      "id": "p565",
+      "result": "Beide Absätze: dispositive halbmonatliche Vorauszahlung; vollständiger und teilweiser Ausfall, Risikobereich ohne Verschuldensvoraussetzung geprüft."
     },
     {
-      "id": "p526",
-      "result": "Alle vier Absätze geprüft: Ersatz des Abladers durch Befrachter, widerlegliche Beweiswirkung, § 517 und elektronische Funktionsgleichheit. Pflicht zur Unterzeichnung ausdrücklich ergänzt; Verordnungsermächtigung nicht als erlassene Verordnung dargestellt."
+      "id": "p566",
+      "result": "Alle drei Absätze: Eigentum und Bordbezug, ausgeschlossene Gutglaubensvorschriften, Forderungspfandrecht, Kenntnis/Anzeige/Hinterlegung, künftige Entschädigung und nicht fällige Zeitfracht geprüft."
     },
     {
-      "id": "p527",
-      "result": "Beide Absätze geprüft: bestimmtes Schiff, Raum und bestimmte Reisen; Beurkundungsanspruch ohne konstitutive Schriftform. Ausgenommene §§ 512/526 im Verweisungskatalog korrekt erkannt."
+      "id": "p567",
+      "result": "Gesamter Satz: beiderseitige Pflichtverletzungen, BGB-Verweisung und Vorrang besonderer Zeitcharterregeln geprüft; kein selbständiger Garantieanspruch."
     },
     {
-      "id": "p528",
-      "result": "Beide Absätze geprüft: Bereitstellungspflicht und nachträgliche sichere Hafen-/Platzauswahl mit Sorgfaltsmaßstab. Kein unbegründetes Garantieversprechen."
+      "id": "p568",
+      "result": "Fällige Zeitfracht als ausschließlicher Anlass des besonderen Verweigerungsrechts, Einnahme von Gut/Konnossemente und Ende bei Erfüllung geprüft."
     },
     {
-      "id": "p529",
-      "result": "Beide Absätze geprüft: Bereitschaft am Ladeplatz, Ausnahme bei ausstehender Benennung, ortsübliche Geschäftsstunden. Freitags-/Montagsbeispiel stimmt mit § 530 überein."
+      "id": "p569",
+      "result": "Beide Absätze: vereinbarter Rückgabeort, Sonderort bei außerordentlicher Kündigung und zurechenbarer Beendigungsschaden geprüft."
     },
     {
-      "id": "p530",
-      "result": "Alle vier Absätze geprüft: Folgetag, Vergütungsfreiheit, angemessenes Liegegeld, Empfängervoraussetzungen, fortlaufende Fristen und Verfrachterrisiko. Beispiel unterbricht Zeitrechnung zutreffend."
+      "id": "p570",
+      "result": "Beide Sätze: Reeder, Kausalität, geschädigtes anderes Schiff und Personen/Sachen an Bord beider Schiffe; Verschulden und § 480 gegengelesen."
     },
     {
-      "id": "p531",
-      "result": "Beide Absätze geprüft: Verladezuständigkeit, Umstände/Verkehrssitte, fortbestehende Seetüchtigkeitsverantwortung und Umladeverbot. Keine Gleichsetzung von Ladepflicht und Schiffssicherheit."
+      "id": "p571",
+      "result": "Beide Absätze: Verschuldensquote, subsidiär gleiche Teile und Gesamtschuld ausschließlich Tod/Körperverletzung samt Innenausgleich geprüft."
     },
     {
-      "id": "p532",
-      "result": "Beide Absätze und § 489 geprüft: jederzeitige Kündigung, konkrete Abrechnung und Zusatz von Liegegeld nur für genannte Alternative. Abzüge im Beispiel berücksichtigt."
+      "id": "p572",
+      "result": "Gesamter Satz: ausgeführte/unterlassene Manöver sowie Schifffahrtsregel, Fernschaden und entsprechende Anwendung §§ 570/571 geprüft."
     },
     {
-      "id": "p533",
-      "result": "Beide Absätze mit sämtlichen Sätzen geprüft: volle Fracht/Aufwendungen, tatsächlich genutzte erlaubte Ersatzladung, Sicherheit, Verfrachterrisiko und Teilbeförderung nach Nachfrist; § 490 Absatz 4 gegengelesen."
+      "id": "p573",
+      "result": "Gesamter Satz: entsprechende Anwendung bei Binnenschiffsbeteiligung, keine behauptete generelle Aufhebung sonstigen Binnenrechts."
     },
     {
-      "id": "p534",
-      "result": "Beide Absätze und §§ 489/490 geprüft: keine Ladung versus Teilladung, Nachfrist und Ausnahmen, vorzeitige Offensichtlichkeit, Kündigungsfolgen. Keine automatische Vertragsbeendigung behauptet."
+      "id": "p574",
+      "result": "Alle vier Absätze einschließlich drei räumlicher Alternativen, zwei Ausnahmen, Frachtanspruch, weitere Berger und Rücknahmepflicht geprüft."
     },
     {
-      "id": "p535",
-      "result": "Beide Absätze geprüft: entsprechende Anwendung §§ 528–531, Lösch-Liegegeld auch ohne Betragsmitteilung und ortsübliche öffentliche Bekanntmachung bei unbekanntem Empfänger. Lade-/Löschhaftung sauber getrennt."
+      "id": "p575",
+      "result": "Beide Absätze: wechselseitige unabdingbare Sorgfaltspflichten geprüft; Schutzgüter, Räume und erhebliche physische Schädigung im Kommentar ausdrücklich benannt."
     },
     {
-      "id": "p536",
-      "result": "Beide Absätze einschließlich Nuklearausnahme geprüft. EU-/Vertragsvorrang und vorbehaltene globale Beschränkung zutreffend. Kein unbelegter Anwendungsbereich der EU-Verordnung festgelegt."
+      "id": "p576",
+      "result": "Alle drei Absätze: Erfolg, gleiches Eigentum, Aufwendungen versus Bergungskosten, anteilige Eigentümerlast geprüft."
     },
     {
-      "id": "p537",
-      "result": "Alle sechs Nummern mit Buchstaben geprüft: Vertragspartner, Tier-/Fahrzeugbegleitung, Gepäck/Kabinengepäck, abschließende Schifffahrtsereignisse und funktionsgebundener Schiffsmangel. Fahrzeuggepäckgrenze zutreffend abgegrenzt."
+      "id": "p577",
+      "result": "Beide Absätze mit allen zehn Kriterien: Kriterien im Kommentar vervollständigt; Wertgrenze und ausgeklammerte Zinsen/Kosten geprüft."
     },
     {
-      "id": "p538",
-      "result": "Alle drei Absätze geprüft: Verschuldensvermutung, 250.000-Schwelle und Beförderungszeiträume. Feindseligkeiten/Krieg/Bürgerkrieg/Aufstand und absichtliche Unterlassung Dritter ausdrücklich ergänzt; ausschließliche Kausalität beibehalten."
+      "id": "p578",
+      "result": "Alle drei Absätze: Umweltgefahr, alleiniger Eigentümerschuldner, angemessene Unkosten, Kriterienverweisung und Differenz zum Bergelohn geprüft; alternative Zuschlagsobergrenzen und Berechnungsbasis präzisiert."
     },
     {
-      "id": "p539",
-      "result": "Alle vier Absätze geprüft: unterschiedliche Vermutungen, angemessene Wiederaushändigung, Arbeitsstreitigkeiten, sämtliche Wertsachenkategorien und Hinterlegung, Fahrzeuggepäck sowie übernommenes Terminalgepäck. Beispiel wahrt Wertsachenausnahme."
+      "id": "p579",
+      "result": "Beide Absätze: zeitlich vor Gefahr eingegangene Vorpflicht, überschießende Leistung, ausdrückliches vernünftiges Verbot und besonderer Ausschluss für Ladungseigentümer geprüft."
     },
     {
-      "id": "p540",
-      "result": "Beide Sätze geprüft: Leute/Besatzung in Verrichtung und sonstige eingesetzte Personen. Funktionaler Bezug, Verschuldenszurechnung und eigene ausführende Haftung nach § 546 getrennt."
+      "id": "p580",
+      "result": "Beide Absätze: verschuldete Notwendigkeit/Erschwerung, Betrug/Unredlichkeit und nachlässig versäumter Umweltschutz, Ermessen und kausaler Zusammenhang geprüft."
     },
     {
-      "id": "p541",
-      "result": "Alle drei Absätze geprüft: 400.000, Rentenkapitalwert, 250.000 und 340 Millionen korrekt. Alle fünf besonderen Gefahrengruppen ausdrücklich erläutert. Gesamtgrenze nur bei niedrigeren, proportional verteilbaren Ansprüchen."
+      "id": "p581",
+      "result": "Alle vier Absätze: Vorwegabzug, zwei Drittel/je ein Sechstel, leistungsbezogener Mannschaftsplan und Bekanntgabe, Nichtigkeit und Bergungs-/Schleppschiffausnahme geprüft."
     },
     {
-      "id": "p542",
-      "result": "Alle fünf Absätze geprüft: 2.250/12.700/3.375, Einheiten je Fahrgast/Fahrzeug/Beförderung, vereinbarter Selbstbehalt 330/149, Wertsachenausnahme und Mobilitätshilfen. Reparaturkosten sprachlich präzisiert."
+      "id": "p582",
+      "result": "Beide Absätze: anteilige Lohnverteilung nach § 577, § 581 unberührt; voller Lohn bei unvernünftigem Eigentümerersuchen geprüft."
     },
     {
-      "id": "p543",
-      "result": "Gesamten Satz geprüft: Zinsen/Kosten zusätzlich zu genannten Beträgen, keine selbständige Verzinsungsgrundlage. Zwischenprüfliste ergänzt, Folgevorschriften bleiben ausdrücklich zu prüfen."
+      "id": "p583",
+      "result": "Beide Absätze: keine Schuld der Lebensgeretteten, angemessene Beteiligung gegen Berger und begrenzter Ausfallanspruch wegen § 580 gegen Eigentümer nach Wertanteilen geprüft."
     }
   ],
   "limitations": [
-    "Zweitprüfung ausschließlich §§ 524–543, keine Gesamtbuchfertigstellung.",
-    "Selektives vorhandenes Suchprotokoll überprüft; kein hinreichend einschlägiger amtlicher Entscheidungsvolltext für diese Charge verifiziert, keine Entscheidung als Autorität angeführt. Keine erschöpfende Rechtsprechungsrecherche.",
-    "Amtlicher Wiederabruf mit unverändertem XML, Inkrafttretensbelege und Änderungskarte geprüft; keine eigene lückenlose Sichtung aller Bundesgesetzblätter.",
-    "Keine externe fachliche Freigabe; technische Prüfungen beweisen keine juristische Fehlerfreiheit."
+    "Ausschließlich §§ 564–583 einzeln geprüft; keine Gesamtbuchfertigstellung.",
+    "Vorhandenes selektives Rechtsprechungssuchprotokoll gelesen; keine Gerichtsentscheidung in diesen Kommentaren als Autorität verwendet. Keine erschöpfende Rechtsprechungsrecherche.",
+    "Keine externe fachliche Freigabe. Technische Prüfungen beweisen keine juristische Fehlerfreiheit."
   ],
-  "verified_at": "2026-10-21T07:00:19.702112+00:00",
+  "verified_at": "2026-10-21T07:20:07.688727+00:00",
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
   "full_book_complete": false
 }

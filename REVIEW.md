@@ -243,3 +243,7 @@ Alle 20 zugewiesenen Einheiten einzeln am erneut abgerufenen amtlichen XML gepr�
 ## Begrenzte Zweitprüfung §§ 544–563, 21. Oktober 2026
 
 Alle 20 zugewiesenen Einheiten einzeln gegen erneut abgerufenes amtliches XML geprüft. § 547 zum Fortbestand sachlicher Einreden und § 549 zu den drei Fristanknüpfungspunkten präzisiert. [Einzelprüfung](review-p544-p563.json), [Abdeckung](review-p544-p563-coverage.json), [Teilvalidierung](review-p544-p563-bounded-validation.json). Selektive Recherche ohne für diese Erläuterungen verwendete Gerichtsentscheidung. Gesamtband weiterhin in Bearbeitung; keine externe fachliche Freigabe.
+
+## Begrenzte Zweitprüfung §§ 564–583, 21. Oktober 2026
+
+Alle 20 zugewiesenen Vorschriften einzeln gegen erneut abgerufenes amtliches XML geprüft. Umweltdefinition (§ 575), sämtliche Bemessungskriterien (§ 577) und Berechnungsbasis sowie alternative Zuschlagsgrenzen (§ 578) präzisiert. [Einzelprüfung](review-p564-p583.json), [Abdeckung](review-p564-p583-coverage.json), [Teilvalidierung](review-p564-p583-bounded-validation.json), [Quellenabruf](sources/review-p564-p583-fetch.json). Frühere Vermerke über die ausstehende Zweitprüfung dieser Charge geben den damaligen Stand wieder. Gesamtband weiter in Bearbeitung. Keine externe fachliche Freigabe; selektive Recherche ohne hier angeführte Gerichtsentscheidung. Originalkommentar © 2026 Vojtěch Říha.

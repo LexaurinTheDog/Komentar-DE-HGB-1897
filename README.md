@@ -119,3 +119,7 @@ Alle 20 zugewiesenen Einheiten einzeln am erneut abgerufenen amtlichen XML gepr�
 ## Autorencharge §§ 564–583
 
 20 Vorschriften individuell kommentiert; [Teilmanuskript und Quellen](README-p564-p583.md), [Abdeckung](author-p564-p583-coverage.json), [Autorendurchsicht](REVIEW-p564-p583.md). Gesamtband weiterhin in Bearbeitung; unabhängige Zweitprüfung der Charge ausstehend.
+
+## Begrenzte Zweitprüfung §§ 564–583, 21. Oktober 2026
+
+Alle 20 zugewiesenen Vorschriften einzeln gegen erneut abgerufenes amtliches XML geprüft. Umweltdefinition (§ 575), sämtliche Bemessungskriterien (§ 577) und Berechnungsbasis sowie alternative Zuschlagsgrenzen (§ 578) präzisiert. [Einzelprüfung](review-p564-p583.json), [Abdeckung](review-p564-p583-coverage.json), [Teilvalidierung](review-p564-p583-bounded-validation.json), [Quellenabruf](sources/review-p564-p583-fetch.json). Frühere Vermerke über die ausstehende Zweitprüfung dieser Charge geben den damaligen Stand wieder. Gesamtband weiter in Bearbeitung. Keine externe fachliche Freigabe; selektive Recherche ohne hier angeführte Gerichtsentscheidung. Originalkommentar © 2026 Vojtěch Říha.
