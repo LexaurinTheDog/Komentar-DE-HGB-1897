@@ -467,5 +467,45 @@
       "Selektive Rechtsprechung: eine amtliche Entscheidung vollständig gelesen, begrenzte Verwendung zu § 289.",
       "416 noch fehlende Kommentare außerhalb dieser Charge verhindern Gesamtbuild und Gesamtvalidierung."
     ]
+  },
+  "bounded_review_p289_p301": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "p289",
+      "p289a",
+      "p289b",
+      "p289c",
+      "p289d",
+      "p289e",
+      "p289f",
+      "p290",
+      "p291",
+      "p292",
+      "p292a",
+      "p293",
+      "p294",
+      "p295",
+      "p296",
+      "p297",
+      "p298",
+      "p299",
+      "p300",
+      "p301"
+    ],
+    "findings": "review-p289-p301.json",
+    "unresolved_blockers": [],
+    "validation": {
+      "repo": "Komentar-DE-HGB-1897",
+      "units": 696,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 419686,
+      "errors": [
+        "krátký/chybějící komentář u 416 jednotek: ['p302(0<120)', 'p303(0<400)', 'p304(0<400)', 'p305(0<400)', 'p306(0<400)', 'p307(0<400)', 'p308(0<400)', 'p308a(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "full_book_complete": false
   }
 }
