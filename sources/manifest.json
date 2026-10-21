@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:51:01.109654+00:00",
+  "generated_at": "2026-10-21T02:57:31.241309+00:00",
   "files": [
     {
       "path": "sources/BAG-10-AZR-260-14.pdf",
@@ -203,6 +203,51 @@
       "http_status": 200
     },
     {
+      "path": "sources/hgb-review-p1-p13.xml",
+      "bytes": 1120900,
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/hgb-review-p1-p13.zip",
+      "bytes": 218961,
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "origin": "direct_http_response",
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-21T02:52:16.579623+00:00",
+      "http_status": 200
+    },
+    {
+      "path": "sources/hgb-review-p13a-p25.xml",
+      "bytes": 1120900,
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/hgb-review-p13a-p25.zip",
+      "bytes": 218961,
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "origin": "direct_http_response",
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-21T02:54:22.019928+00:00",
+      "http_status": 200
+    },
+    {
+      "path": "sources/hgb-review-p26-p53.xml",
+      "bytes": 1120900,
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/hgb-review-p26-p53.zip",
+      "bytes": 218961,
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "origin": "direct_http_response",
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-21T02:56:16.126153+00:00",
+      "http_status": 200
+    },
+    {
       "path": "sources/intake-2026-10-01.md",
       "bytes": 842097,
       "sha256": "98eab8061d2d34ad9276c296082299c5951b1599738134cf80bafb724bf05f77",
@@ -285,6 +330,12 @@
       "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
     },
     {
+      "path": "sources/review-p26-p53-fetch.json",
+      "bytes": 377,
+      "sha256": "5d29f75cee3f2eb3b769c85911302af9f46e339840b209262378575be483e6bf",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
       "path": "sources/search-log.json",
       "bytes": 2077,
       "sha256": "8c04f5805d83e88d60cf0934ff4969ed623f82f849623c2299cdbb1d32efa298",
@@ -298,8 +349,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 10602,
-      "sha256": "10da59d0fbd63a6bc87be7a7d7822b215bffb17495eb3600dec0c616e779cfc0",
+      "bytes": 12540,
+      "sha256": "8ff2c7accdb97415bab62ef4bb3fc73a6de913b48c76c74bdd58783bafe782b4",
       "origin": "derived_evidence_or_documentation"
     }
   ]

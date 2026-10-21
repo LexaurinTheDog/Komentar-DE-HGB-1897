@@ -1,0 +1,193 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p34",
+    "p35",
+    "p36",
+    "p37",
+    "p37a",
+    "p38-47b",
+    "p48",
+    "p49",
+    "p50",
+    "p51",
+    "p52",
+    "p53"
+  ],
+  "decisive_date": "2026-10-19",
+  "reviewed_at": "2026-10-21T02:56:16.126153+00:00",
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p26",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze, Fälligkeit, Sicherungstatbestände, Fristbeginn und schriftliches Anerkenntnis geprüft.",
+      "official_doknr": "BJNR002190897BJNE003302377",
+      "commentary_sha256": "47392b75f590b946d9fa3ae42ac50ea5bf63ba659a0cabac502a49d36763802b"
+    },
+    {
+      "id": "p27",
+      "result": "checked_unchanged",
+      "finding": "Entsprechende Anwendung des § 25, Kenntnisfrist, § 210 BGB und Verlängerung bis Ausschlagungsfrist geprüft.",
+      "official_doknr": "BJNR002190897BJNE003401377",
+      "commentary_sha256": "bc97e913118f031fe89d89fb0a30bc5566a3aa627345401b02755c6afe9bd4e6"
+    },
+    {
+      "id": "p28",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze; Haftung ohne Firmenfortführung, Forderungszuordnung und getrennte Kommanditistenhaftung geprüft.",
+      "official_doknr": "BJNR002190897BJNE003501307",
+      "commentary_sha256": "f1844e5d620522cf4280bb3bb590f6bd26b10cf5bda253591dc2218366ed84df"
+    },
+    {
+      "id": "p29",
+      "result": "checked_unchanged",
+      "finding": "Anmeldegegenstände, Zuständigkeit sowie Abgrenzung zu §§ 1, 2, 12, 14 und 31 geprüft.",
+      "official_doknr": "BJNR002190897BJNE003603140",
+      "commentary_sha256": "483aa2c5a9d96fc67c2f5419778276d19570a772362d3666117f183a14eca65a"
+    },
+    {
+      "id": "p30",
+      "result": "checked_unchanged",
+      "finding": "Alle vier Absätze einschließlich registerübergreifendem Vergleich, Namensgleichheit und Landesregelung geprüft.",
+      "official_doknr": "BJNR002190897BJNE003702360",
+      "commentary_sha256": "318bf5ae2073f73aeb00b17c9c79b782099c0ae688e05154c6a848414f63cec5"
+    },
+    {
+      "id": "p31",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze einschließlich gebundener Eintragung des Erlöschens von Amts wegen geprüft.",
+      "official_doknr": "BJNR002190897BJNE003801140",
+      "commentary_sha256": "b376ba9f4d7705607d0712db54e9a196325b027bb06cd65b82e76e69bc74577d"
+    },
+    {
+      "id": "p32",
+      "result": "corrected",
+      "finding": "Aufhebungsereignisse und Ende der Sicherungsmaßnahmen ausdrücklich ergänzt; § 15-Ausschluss geprüft.",
+      "official_doknr": "BJNR002190897BJNE003903360",
+      "commentary_sha256": "e0e9c1f92acaf2f8fe8f93a74508a873231500e2985fd47f617a19a354dc8e0f"
+    },
+    {
+      "id": "p33",
+      "result": "corrected",
+      "finding": "Eintragungskatalog und Form der Urkunden ausdrücklich ergänzt; sämtliche Absätze geprüft.",
+      "official_doknr": "BJNR002190897BJNE004002377",
+      "commentary_sha256": "2fe9c7ecb0365edaf8f929f1d4876a205192cd50e76a192bbff96d9ee19db1db"
+    },
+    {
+      "id": "p34",
+      "result": "corrected",
+      "finding": "Zeitpunkt des Zuständigkeitswechsels anhand Anmeldung der ersten Liquidatoren präzisiert; alle fünf Absätze geprüft.",
+      "official_doknr": "BJNR002190897BJNE004104377",
+      "commentary_sha256": "f074dd8f66993cbd4131dd158d4a22ea0e57bd2f962635d76f2d40cec03b5109"
+    },
+    {
+      "id": "p35",
+      "result": "checked_unchanged",
+      "finding": "Amtlicher Strich und Wegfallvermerk geprüft; keine frühere Sachregel ergänzt.",
+      "official_doknr": "BJNR002190897BJNE004201377",
+      "commentary_sha256": "061656d2db8008490ae0ab0fd441d958f591898ba3c9f2f954d3bfd410e0764c"
+    },
+    {
+      "id": "p36",
+      "result": "checked_unchanged",
+      "finding": "Leerer amtlicher Textkörper und Wegfallvermerk geprüft.",
+      "official_doknr": "BJNR002190897BJNE097300307",
+      "commentary_sha256": "821ba0c370d2494abd2d731202cd61b91ffca6ea40f4d80ef7702445aaefd5e2"
+    },
+    {
+      "id": "p37",
+      "result": "corrected",
+      "finding": "Gebundene registergerichtliche Durchsetzung in Regelbeschreibung und Beispiel korrigiert; privater Anspruch und Schadensersatzvorbehalt geprüft.",
+      "official_doknr": "BJNR002190897BJNE004400300",
+      "commentary_sha256": "9c365a398e2fe80d8792dd9d6f724fb858abe3debc8521a497fa4e7cf9a246b0"
+    },
+    {
+      "id": "p37a",
+      "result": "checked_unchanged",
+      "finding": "Alle vier Absätze einschließlich kumulativer Voraussetzungen der Ausnahme und Ausschluss für Bestellscheine geprüft.",
+      "official_doknr": "BJNR002190897BJNE097201377",
+      "commentary_sha256": "c927df813eaa8a32dd9e670dc04eda36013ecfdc9600919a7e0e089426af544d"
+    },
+    {
+      "id": "p38-47b",
+      "result": "checked_unchanged",
+      "finding": "Amtliche Sammelleerstelle (XXXX) §§ 38 bis 47b geprüft, keine historische Einzelvorschrift eingefügt.",
+      "official_doknr": "BJNR002190897BJNE004601306",
+      "commentary_sha256": "0b95f3baffdab3704ee6d0a62a95b2ee9375b68dd22b956bdab27fbad713e96a"
+    },
+    {
+      "id": "p48",
+      "result": "checked_unchanged",
+      "finding": "Ausdrückliche Erteilung, Erteilungsberechtigung und Gesamtprokura geprüft; Registeranmeldung getrennt.",
+      "official_doknr": "BJNR002190897BJNE005900300",
+      "commentary_sha256": "f59aa7cf2e529e216e70e82d4aaddf608a517cd8fb9b485548ff265d35d3254a"
+    },
+    {
+      "id": "p49",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze; typisierter Umfang, Abgrenzung zu § 54 und besondere Grundstücksbefugnis geprüft.",
+      "official_doknr": "BJNR002190897BJNE006000300",
+      "commentary_sha256": "d0a4c5437b7f2db60f363a36e4647bbd4403ebc57e25856fd76ec94250ddd25f"
+    },
+    {
+      "id": "p50",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze; Außenwirkung interner Grenzen, Niederlassungsfirma und Abgrenzung zu Gesamtprokura geprüft.",
+      "official_doknr": "BJNR002190897BJNE006100300",
+      "commentary_sha256": "d894d17820fc8a9d7215110dab0d519ab07c918b5b247a0c6ebc99c65ca5d7c6"
+    },
+    {
+      "id": "p51",
+      "result": "checked_unchanged",
+      "finding": "Zeichnungserfordernis, fehlende Erteilungswirkung des Zusatzes und Abgrenzung zu § 57 geprüft; kein ungeschriebener Wirksamkeitstatbestand behauptet.",
+      "official_doknr": "BJNR002190897BJNE006200300",
+      "commentary_sha256": "551a0116c8c4585488162f794f96748a06cbed276472f2e5411bada28b6db164"
+    },
+    {
+      "id": "p52",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze; Widerruf, Vergütung, Nichtübertragbarkeit und Tod des Inhabers geprüft.",
+      "official_doknr": "BJNR002190897BJNE006300300",
+      "commentary_sha256": "4905e096dd12aa89837ee32a772a62c72854cb9e8c6e295caf3d4a5c5e6ba9c1"
+    },
+    {
+      "id": "p53",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze; Anmeldung von Erteilung, Gesamtprokura und Erlöschen sowie Trennung zu § 48 geprüft.",
+      "official_doknr": "BJNR002190897BJNE006402377",
+      "commentary_sha256": "ced79b6f44ecb442589670f97e6d766ef0e5d3ed659e78ba1ddf79ba36b3745b"
+    }
+  ],
+  "source_evidence": "sources/hgb-review-p26-p53.xml",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "case_law_checked": [],
+  "limitations": [
+    "Ausschließlich die 20 zugewiesenen Einheiten inhaltlich geprüft; keine Gesamtfreigabe.",
+    "Die geprüften Kommentare zitieren keine konkreten Entscheidungen; keine neue erschöpfende Rechtsprechungsrecherche oder externe anwaltliche Prüfung.",
+    "463 Kommentare außerhalb des Auftrags fehlen; Gesamtbuild und Gesamtvalidierung bleiben negativ.",
+    "Verweisungen im Normzusammenhang geprüft, keine Vollkommentierung fremder Gesetze."
+  ],
+  "technical_verification": {
+    "assigned_units_checked": 20,
+    "statutory_verbatim_ratio": 1.0,
+    "official_coverage_missing": [],
+    "official_coverage_duplicates": [],
+    "full_build_ok": false,
+    "full_validation_ok": false,
+    "reason": "463 fehlende Kommentare außerhalb des Prüfauftrags",
+    "partial_export": "checkpoint-export.json",
+    "local_markdown_links_ok": true,
+    "exact_repeated_prose_paragraphs": []
+  }
+}

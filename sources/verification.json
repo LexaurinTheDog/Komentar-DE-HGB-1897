@@ -280,6 +280,16 @@
       "members": [
         "BJNR002190897.xml"
       ]
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-21T02:56:16.126153+00:00",
+      "http_status": 200,
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "path": "sources/hgb-review-p26-p53.zip",
+      "expected_format": "zip",
+      "format_valid": true,
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361"
     }
   ],
   "version_information": {
