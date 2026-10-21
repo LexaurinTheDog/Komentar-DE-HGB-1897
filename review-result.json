@@ -142,5 +142,18 @@
   "exact_repeated_paragraphs": [],
   "full_book_complete": false,
   "bounded_build_success": true,
-  "shared_build_success": false
+  "shared_build_success": false,
+  "validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 696,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 608890,
+    "errors": [
+      "krátký/chybějící komentář u 336 jednotek: ['p341h(0<400)', 'p341i(0<400)', 'p341j(0<400)', 'p341k(0<400)', 'p341l(0<400)', 'p341m(0<400)', 'p341n(0<400)', 'p341o(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "bounded_validation_ok": true,
+  "validation_scope": "Strikte Gesamtvalidierung: einziger Fehler sind 336 fehlende Kommentare außerhalb dieser Charge; alle 20 zugewiesenen Kommentare vorhanden und einzeln inhaltlich geprüft."
 }
