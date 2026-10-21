@@ -11,7 +11,7 @@
   "remaining_units": 156,
   "completed_scope": "Durch § 471; neue Autorencharge §§ 452d–471, Zweitprüfung ausstehend.",
   "next_unit": "p472",
-  "commentary_chars": 728305,
+  "commentary_chars": 931068,
   "source_checks": {
     "official_xml_http": 200,
     "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
@@ -45,18 +45,18 @@
   "case_law_coverage": "Selektive Recherche; Nachweise und Umfang je Fallkarte und Chargenprotokoll, keine erschöpfende Übersicht.",
   "build_result": {
     "success": false,
-    "evidence": "author-p346-p364-build.txt",
-    "reason": "276 Kommentare außerhalb der Charge fehlen"
+    "evidence": "author-p452d-p471-full-build.txt",
+    "reason": "156 missing comments outside this batch"
   },
   "validation_result": {
     "bounded_ok": true,
     "bounded_units": 20,
-    "evidence": "author-p341h-p342a-bounded-validation.json",
+    "evidence": "author-p452d-p471-bounded-validation.json",
     "whole_book_complete": false
   },
-  "independent_second_pass": "Begrenzte frühere Zweitprüfungen siehe REVIEW.md und jeweilige Chargenergebnisse; neue Charge §§ 340d–341g ausstehend, keine Gesamtprüfung.",
+  "independent_second_pass": "Earlier bounded reviews retained; author batch §§ 452d–471 requires fresh independent second pass.",
   "unresolved_blockers": [
-    "356 fehlende Kommentare ab p340d außerhalb dieser Charge."
+    "156 missing comments from p472 outside this batch."
   ],
   "remaining_limitations": [
     "Gesamtmanuskript unvollständig; kein Abschlussstatus.",
