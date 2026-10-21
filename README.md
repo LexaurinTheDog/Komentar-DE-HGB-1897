@@ -42,4 +42,6 @@ Charge §§ 316–328 vom 21. Oktober 2026: 20 weitere Normeinheiten; [Chargenpr
 
 Begrenzte unabhängige Zweitprüfung §§ 316–328: [20 Einzelbefunde](review-p316-p328.json), [Prüfbericht](REVIEW.md). Gesamtbuch weiterhin unvollständig.
 
-Charge §§ 329–340c: genau 20 weitere Normeinheiten; [Chargenprüfung](author-p329-p340c-result.json). Aktueller Gesamtstand 340/696; 356 Kommentare ab § 340d fehlen. Keine unabhängige Zweitprüfung dieser Charge.
+Charge §§ 329–340c: genau 20 weitere Normeinheiten; [Chargenprüfung](author-p329-p340c-result.json). Aktueller Gesamtstand 340/696; 356 Kommentare ab § 340d fehlen. Unabhängige Zweitprüfung dieser Charge: review-p329-p340c.json.
+
+Begrenzte unabhängige Zweitprüfung §§ 329–340c: [20 Einzelbefunde](review-p329-p340c.json), [Prüfbericht](REVIEW.md). Gesamtbuch weiterhin unvollständig.

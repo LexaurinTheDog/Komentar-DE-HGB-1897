@@ -825,5 +825,13 @@
       "356 fehlende Kommentare außerhalb der Charge verhindern den Gesamtbuild.",
       "Längen- und Textprüfungen ersetzen keine juristische Qualitätsprüfung."
     ]
+  },
+  "bounded_review_p329_p340c": {
+    "complete": true,
+    "units_reviewed": 20,
+    "result": "review-p329-p340c.json",
+    "corrected_units": 6,
+    "unresolved_blockers": [],
+    "full_book_complete": false
   }
 }

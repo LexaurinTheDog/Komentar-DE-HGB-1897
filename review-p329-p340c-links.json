@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "checked": [
+    "cases/BVerfG-2014-1-BvR-299-13.md",
+    "../sources/BVerfG-2014-1-BvR-299-13.xml",
+    "../sources/BVerfG-2014-1-BvR-299-13-local.md",
+    "../sources/verification-case-p329-p340c.json"
+  ],
+  "missing": [],
+  "scope": "Neues Teilkapitel und einschlägige Fallkarte; amtliche Gesetzesquelle tatsächlich abgerufen."
+}

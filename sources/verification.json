@@ -638,6 +638,29 @@
       "accessed_at": "2026-10-21T04:23:45.428890+00:00",
       "sha256": "be806c945c5b9a23329b975d11c89f0ca439044b13f6f8bc03074e540ff32bfa",
       "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-21T04:31:38.491179+00:00",
+      "http_status": 200,
+      "headers": {
+        "Date": "Wed, 21 Oct 2026 04:31:38 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Thu, 09 Jul 2026 19:55:15 GMT",
+        "ETag": "\"35751-6563300b392bf\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "218961",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "application/zip",
+        "Connection": "close"
+      },
+      "path": "sources/hgb-review-p329-p340c.zip",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "xml_path": "sources/hgb-review-p329-p340c.xml",
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "format_validated": "ZIP magic, CRC/decompression, XML parser, jurabk HGB"
     }
   ],
   "version_information": {

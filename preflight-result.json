@@ -309,5 +309,18 @@
     "historical_versions_checked": "814 eindeutige Knoten; 696 eindeutige amtliche Normkennungen und sämtliche Texte verglichen; keine historischen Fassungen verkettet. Beide Quellenversionen und Änderungskarte erhalten.",
     "annexes_checked": "Knotendisposition preflight-coverage.json erneut geprüft: keine separate operative Anlage, keine ausgelassene Eingangsformel, kein unzugeordneter operativer Text. Rechnungslegungsanhänge sind Abschlussbestandteile.",
     "unresolved_blockers": []
+  },
+  "bounded_review_p329_p340c": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T04:31:38.491179+00:00",
+    "http_status": 200,
+    "source_evidence": "sources/hgb-review-p329-p340c.xml",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "version_evidence": "Amtlicher Wiederabruf identisch mit Fassung des Titelstichtags. commencement.md, change-map.json und Artikel 64 BGBl. 2026 I Nr. 33 erneut gelesen: Artikel 3 Nr. 2 a/b, 3, 4 wirksam seit 10.07.2026; Artikel 3 Nr. 1, 5, 6 erst 2028, Artikel 4 erst 2030. § 329 in wirksamer 2026-Fassung; historischer Verweis in § 340c Abs. 3 unverändert. Keine Änderung seit Intake.",
+    "historical_versions_checked": "814 eindeutige XML-Knoten; 696 eindeutige amtliche Normkennungen und alle Texte verglichen. Keine historischen Fassungen verkettet; beide Quellenfassungen und change-map.json erhalten.",
+    "annexes_checked": "814 Knoten vollständig zugeordnet: 696 Normen, 117 Gliederungen, Kopfnorm ohne operativen Content. Keine operative Gesetzesanlage oder ausgelassene Eingangsformel. Rechnungslegungsanhänge sind Abschlussbestandteile.",
+    "unresolved_blockers": []
   }
 }
