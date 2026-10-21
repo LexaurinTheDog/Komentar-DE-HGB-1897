@@ -1,0 +1,46 @@
+{
+  "ok": true,
+  "local_links": [
+    {
+      "file": "INDEX.md",
+      "target": "00-einleitung.md",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "38-hgb-teil-p564-p569.md",
+      "exists": true
+    },
+    {
+      "file": "INDEX.md",
+      "target": "39-hgb-teil-p570-p583.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "sources/verification-p564-p583.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "author-p564-p583-coverage.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "sources/commencement.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "sources/research/case-search-p564-p583.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "LICENSE",
+      "exists": true
+    }
+  ],
+  "limits": "Lokale Links des Teilmanuskripts geprüft; externe URLs nicht vollständig geprüft."
+}

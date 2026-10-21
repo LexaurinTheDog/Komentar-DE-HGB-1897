@@ -1,0 +1,57 @@
+{
+  "kind": "bounded_author",
+  "stage": "bounded_batch_drafted_technical_validation",
+  "scope": [
+    "p564",
+    "p565",
+    "p566",
+    "p567",
+    "p568",
+    "p569",
+    "p570",
+    "p571",
+    "p572",
+    "p573",
+    "p574",
+    "p575",
+    "p576",
+    "p577",
+    "p578",
+    "p579",
+    "p580",
+    "p581",
+    "p582",
+    "p583"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "book_total_units": 696,
+  "book_completed_units": 660,
+  "source_checks": {
+    "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "accessed_at": "2026-10-21T07:11:59.582299+00:00",
+    "http_status": 200,
+    "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "format": "Validated ZIP and HGB XML",
+    "same_as_title_start": true,
+    "version_evidence": "commencement.md; change-map.json; bgbl-2026-33.txt Artikel 3, 4, 64"
+  },
+  "case_law_sources": [],
+  "case_law_search": "sources/research/case-search-p564-p583.json",
+  "validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 28170,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "remaining_limitations": [
+    "Unabhängige Zweitprüfung ausstehend.",
+    "Keine erschöpfende Rechtsprechungsabdeckung.",
+    "Gesamtband außerhalb dieser Charge unvollständig."
+  ],
+  "full_book_complete": false
+}

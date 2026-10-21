@@ -1,0 +1,15 @@
+{
+  "verified_at": "2026-10-21T07:11:59.582299+00:00",
+  "queries": [
+    "site.rechtsprechung-im-internet.de Bergelohn § 577 Bergung",
+    "site.rechtsprechung-im-internet.de Zeitcharter § 565",
+    "site.rechtsprechung-im-internet.de Schiffszusammenstoß",
+    "site.juris.bundesgerichtshof.de Bergelohn 2013",
+    "site.gesetze-im-internet.de HGB Änderung Oktober 2026"
+  ],
+  "result": "Kein ausreichend einschlägiger amtlicher Entscheidungs-Volltext verifiziert. Historische Drittanbieter-Fundstellen nicht als Autorität übernommen; keine Entscheidungsaussagen zitiert.",
+  "local_corpus": "Keine nationale gerichtliche Sammlung unter den sichtbaren Intake-Wurzeln gefunden; keine Behauptung einer vollständigen lokalen Korpussuche.",
+  "limits": "Selektive Websuche; keine erschöpfende Rechtsprechungs- oder Bundesgesetzblattauswertung.",
+  "official_statute": "https://www.gesetze-im-internet.de/hgb/BJNR002190897.html",
+  "version": "Erneuter amtlicher XML-Abruf bytegleich; erhaltene Inkrafttretensbelege geprüft."
+}

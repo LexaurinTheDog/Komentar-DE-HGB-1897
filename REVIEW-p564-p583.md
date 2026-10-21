@@ -1,0 +1,3 @@
+# Autorendurchsicht §§ 564–583
+
+Alle 20 Erläuterungen am amtlichen Wortlaut durchgesehen: Absatzunterschiede, Kosten- und Risikozuordnung, Pfandrecht und Fälligkeit, Quoten und Gesamtschuld, Bergungsgebiet und Ausnahmen, Vergütungsschranken und interne Verteilungen. Bei § 579 ist die besondere Beschränkung der Verbotsbefugnis des Eigentümers anderer Vermögensgegenstände beachtet. § 578 erläutert den nur überschießenden Zusatzbetrag; § 581 den Vorwegabzug und die Ausnahme für Bergungs- und Schleppschiffe. Keine identischen längeren Absätze gefunden. Dies ist eine Autorendurchsicht und keine unabhängige Zweitprüfung. Technische Prüfungen ersetzen keine fachliche Prüfung.
