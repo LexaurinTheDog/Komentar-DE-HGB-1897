@@ -345,6 +345,39 @@
       "sha256": "05c76bc57a21c40357b67120c2b5541b51ae4e1ae9166a31d1236870a5bc08ba",
       "xml_sha256": "1db65b8150384620126ee1f1de8a7c330f61083cce608f690d1a3409714f9aad",
       "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "path": "sources/hgb-review-p100-p118.xml",
+      "accessed_at": "2026-10-21T03:11:28.869833+00:00",
+      "http_status": 200,
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "zip_sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "format_validated": "ZIP signature, XML parser and jurabk HGB"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/owig_1968/__10.html",
+      "path": "sources/review-p100-p118-owig-10.html",
+      "accessed_at": "2026-10-21T03:12:57.587479+00:00",
+      "http_status": 200,
+      "sha256": "ce013250c990cbffabee86a043b180228bd1a458419ef6a2a076d7d49a64fb8a",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__671.html",
+      "path": "sources/review-p100-p118-bgb-671.html",
+      "accessed_at": "2026-10-21T03:12:57.686696+00:00",
+      "http_status": 200,
+      "sha256": "c37f64b0825c097a47baaf12b522adb3b3dc7d66a55b664ee7ba237b02f9fd62",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__126a.html",
+      "path": "sources/review-p100-p118-bgb-126a.html",
+      "accessed_at": "2026-10-21T03:13:10.646260+00:00",
+      "http_status": 200,
+      "sha256": "764cd5c3686f32db43c7435ad2edab7bfb3465ab9b1a6bc6ba793d09baca971c",
+      "format_valid": true
     }
   ],
   "version_information": {

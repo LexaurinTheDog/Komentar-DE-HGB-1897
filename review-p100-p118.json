@@ -1,0 +1,205 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p100",
+    "p101",
+    "p102",
+    "p103",
+    "p104",
+    "p104a",
+    "p105",
+    "p106",
+    "p107",
+    "p108",
+    "p109",
+    "p110",
+    "p111",
+    "p112",
+    "p113",
+    "p114",
+    "p115",
+    "p116",
+    "p117",
+    "p118"
+  ],
+  "unresolved_blockers": [],
+  "reviewed_at": "2026-10-21T03:11:28.869833+00:00",
+  "source_evidence": "sources/hgb-review-p100-p118.xml",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "findings": [
+    {
+      "id": "p100",
+      "result": "corrected",
+      "finding": "Täglichkeit, Zeitfolge, Inhalt nach § 94 sowie §§ 239/257 geprüft; Signaturstandard präzisiert.",
+      "official_doknr": "BJNR002190897BJNE012502377",
+      "commentary_sha256": "c2574ae9a1bef0f94ef2f60734c5999b843fd151eda02c5e1d1f3d135bbf22fa"
+    },
+    {
+      "id": "p101",
+      "result": "checked_unchanged",
+      "finding": "Jederzeitiger geschäftsbezogener vollständiger und unterzeichneter Auszug geprüft; keine Gesamteinsicht zugesagt.",
+      "official_doknr": "BJNR002190897BJNE012600300",
+      "commentary_sha256": "bb30b4f13d998bbdb1eac911b5a49f4f438220819290afd0ab1c07662729c41d"
+    },
+    {
+      "id": "p102",
+      "result": "checked_unchanged",
+      "finding": "Gerichtliche Vorlage im laufenden Rechtsstreit auch ohne Antrag und Vergleichszweck geprüft; keine Beweisverbindlichkeit unterstellt.",
+      "official_doknr": "BJNR002190897BJNE012700300",
+      "commentary_sha256": "f14a4126b9a62543dfb802d027ce8d775df0f75ecf6b168a0abc0c85a6e4ca14"
+    },
+    {
+      "id": "p103",
+      "result": "corrected",
+      "finding": "Fahrlässigkeit auf Nummer 1 begrenzt; Nummer 2 mit amtlichem § 10 OWiG abgeglichen und korrigiert; Bußgeldhöchstbetrag richtig.",
+      "official_doknr": "BJNR002190897BJNE012801311",
+      "commentary_sha256": "f29e28440598e84209a4adc454a1b06433b069766371ee7c1e014b879f82d3bb"
+    },
+    {
+      "id": "p104",
+      "result": "checked_unchanged",
+      "finding": "Unterschied der Ausnahmen Kleinverkehr und Versicherungs-/Bausparvermittlung sowie nicht befreite Pflichten geprüft.",
+      "official_doknr": "BJNR002190897BJNE012901309",
+      "commentary_sha256": "723329ae4fb98f274a1ba3a783f87052350383994b1e713c7bb7b3a0c98fa057"
+    },
+    {
+      "id": "p104a",
+      "result": "checked_unchanged",
+      "finding": "Verweis auf § 8b Abs. 3 Satz 1 Nr. 2, Vorsatz/Leichtfertigkeit, 200.000 Euro und BaFin geprüft.",
+      "official_doknr": "BJNR002190897BJNE099200377",
+      "commentary_sha256": "8ce5add272fb78fbd7fa5749baaf761439c25265d1c94cf8811f245fd02784ae"
+    },
+    {
+      "id": "p105",
+      "result": "checked_unchanged",
+      "finding": "Rechtsfähigkeit, unbeschränkte Außenhaftung und ergänzende BGB-Anwendung geprüft; § 107 und § 123 richtig eingeordnet.",
+      "official_doknr": "BJNR002190897BJNE013304360",
+      "commentary_sha256": "67856002b8df47805ad2ed1e252556fb0a400ef9639fd91a6e461cefb90694a6"
+    },
+    {
+      "id": "p106",
+      "result": "corrected",
+      "finding": "Alle sieben Absätze geprüft; Anmeldedaten und Versicherung ergänzt, Statuswechselkette, Folgeänderungen und Anmeldepersonen getrennt.",
+      "official_doknr": "BJNR002190897BJNE013408360",
+      "commentary_sha256": "9ae4aebb22d5073adb79418df1c64744466dee3106b918eb04fa8b6194f893d0"
+    },
+    {
+      "id": "p107",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze geprüft; Berufsrechtsvorbehalt, konstitutiver Registerzugang und Rückwechsel nur ohne Handelsgewerbe erläutert.",
+      "official_doknr": "BJNR002190897BJNE013511360",
+      "commentary_sha256": "ee6fed8ee29357074ed71b45c7af8f0cf9b997dab011c33d5780cb104d2180cc"
+    },
+    {
+      "id": "p108",
+      "result": "checked_unchanged",
+      "finding": "Öffnung auf Innenrechtstitel beschränkt, besondere zwingende Grenze des § 112 und Außenwirkung getrennt geprüft.",
+      "official_doknr": "BJNR002190897BJNE013604360",
+      "commentary_sha256": "834943a841df1a2e9232cf0c8fb8117c918e2f88592eb7cce24f5807a08bd00e"
+    },
+    {
+      "id": "p109",
+      "result": "checked_unchanged",
+      "finding": "Alle vier Absätze geprüft; Versammlung, Einberufung, Einstimmigkeit und Beschlussfähigkeit trotz fehlender Stimmberechtigung getrennt.",
+      "official_doknr": "BJNR002190897BJNE013801360",
+      "commentary_sha256": "d11f758dcc93818deb251fb48bd42e414cfd53d007f62f2decc1badd9a26fc6b"
+    },
+    {
+      "id": "p110",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze und beide Nichtigkeitsalternativen geprüft; Inhaltsverstoß gegen unabdingbares Recht nicht mit jedem Verfahrensfehler gleichgesetzt.",
+      "official_doknr": "BJNR002190897BJNE013901360",
+      "commentary_sha256": "e2d4a40dea8a7dc7acfe6db8623aa2a15d513da41234275d443eba2e6c2eaa8f"
+    },
+    {
+      "id": "p111",
+      "result": "checked_unchanged",
+      "finding": "Mitgliedschaftskette zum Beschlusszeitpunkt und berechtigtes Interesse des ausgeschiedenen Rechtsvorgängers geprüft.",
+      "official_doknr": "BJNR002190897BJNE014001360",
+      "commentary_sha256": "3d2c2cb4344bd2af1e08aaaecafda0adad55eb3f18b12197209e0254e69b4ac1"
+    },
+    {
+      "id": "p112",
+      "result": "checked_unchanged",
+      "finding": "Drei Monate, vertragliche Monatsuntergrenze, Bekanntgabe und Hemmung einschließlich Monatsnachlauf geprüft.",
+      "official_doknr": "BJNR002190897BJNE014101360",
+      "commentary_sha256": "d2a686b21b006c4e0e6e9d240b671e814653a0464fdc646c56b46dfc1ce18979"
+    },
+    {
+      "id": "p113",
+      "result": "checked_unchanged",
+      "finding": "Alle sechs Absätze geprüft; Landgericht, Gesellschaft als Beklagte, Ersatzvertretung, Information, Verbindung, Streitwert und Erstreckung richtig.",
+      "official_doknr": "BJNR002190897BJNE014202360",
+      "commentary_sha256": "ad95ac3a5b5900b1b7e18e887d8eb55a305a3cd4ba8cd148db3ed18049aec345"
+    },
+    {
+      "id": "p114",
+      "result": "checked_unchanged",
+      "finding": "Verweis auf §§ 111/113 ohne § 112 und zwingende Prozessverbindung geprüft; keine allgemeine Fristfreiheit für bloß umbenannte Anfechtung behauptet.",
+      "official_doknr": "BJNR002190897BJNE014301360",
+      "commentary_sha256": "0b99f3c710bb1ebcf1d7d5e605fd2221b356b63d5779e5d682c87d072e568dfa"
+    },
+    {
+      "id": "p115",
+      "result": "checked_unchanged",
+      "finding": "Verbindung mit positiver Beschlussfeststellung und entsprechende Anfechtungsregeln geprüft; kein richterlicher Zweckmäßigkeitsersatz zugesagt.",
+      "official_doknr": "BJNR002190897BJNE014401360",
+      "commentary_sha256": "dd11d926261bfb044520e611805983b83d75aa3303c39d2a3dd351c0ce80ef89"
+    },
+    {
+      "id": "p116",
+      "result": "corrected",
+      "finding": "Alle sechs Absätze geprüft; Einzel-/Gesamtgeschäftsführung, Widerspruch und Prokura unterschieden; Entziehungsgründe und Kündigungsverweis vertieft.",
+      "official_doknr": "BJNR002190897BJNE014501360",
+      "commentary_sha256": "3152883c144a40790733549a38378acdddea84568f79652eaf8024c2849342f6"
+    },
+    {
+      "id": "p117",
+      "result": "checked_unchanged",
+      "finding": "Beide Verbotsalternativen und Einwilligungsfiktion nur bei bekannter Altbeteiligung geprüft.",
+      "official_doknr": "BJNR002190897BJNE014601360",
+      "commentary_sha256": "6d8f6245dc3f6136cef06b3de1c9b4eb46e92b542208a9db6d9bd2321409997a"
+    },
+    {
+      "id": "p118",
+      "result": "checked_unchanged",
+      "finding": "Alle vier Absätze geprüft; Anspruchsinhaber, Geschäftsrechnungsübernahme/Vergütung, Beschluss der anderen, beide Fristen und gesonderte Ausschlussvoraussetzungen richtig.",
+      "official_doknr": "BJNR002190897BJNE014702360",
+      "commentary_sha256": "bbfc6ed37244ab0e1b335c8faf94b4ef0a6a6f3053fd52ea96f72f58129a6a20"
+    }
+  ],
+  "case_law_sources": [],
+  "case_search_log": "sources/research/case-search-p100-p118.json",
+  "limitations": [
+    "Nur die 20 beauftragten Einheiten; keine Gesamtfreigabe oder externe anwaltliche Prüfung.",
+    "Selektive Recherche in amtlicher Websuche und lokalem Justizmanifest ergab keine für diese Gruppe übernommene verifizierte Entscheidung; keine erschöpfende Rechtsprechungsabdeckung.",
+    "Gesamtbuch bleibt mit 463 fehlenden Kommentaren außerhalb dieses Auftrags unvollständig."
+  ],
+  "technical_validation": {
+    "assigned_units": 20,
+    "assigned_complete": true,
+    "official_xml_coverage": 696,
+    "statutory_verbatim_ratio": 1.0,
+    "local_links_checked": 56,
+    "local_links_ok": true,
+    "repeated_exact_prose_paragraphs": 0,
+    "full_build_ok": false,
+    "full_build_blocker": "463 fehlende Kommentare außerhalb des Auftrags",
+    "partial_checkpoint_exported": true,
+    "strict_validator": {
+      "repo": "Komentar-DE-HGB-1897",
+      "units": 696,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 300979,
+      "errors": [
+        "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']",
+        "necommitnuté změny v repu"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_validator_exit_code": 1
+  }
+}

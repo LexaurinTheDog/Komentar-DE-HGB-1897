@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-21",
+  "scope": [
+    "p100",
+    "p101",
+    "p102",
+    "p103",
+    "p104",
+    "p104a",
+    "p105",
+    "p106",
+    "p107",
+    "p108",
+    "p109",
+    "p110",
+    "p111",
+    "p112",
+    "p113",
+    "p114",
+    "p115",
+    "p116",
+    "p117",
+    "p118"
+  ],
+  "searches": [
+    {
+      "query": "site.bundesgerichtshof.de \"§ 117\" \"Wettbewerbsverbot\" Gesellschafter",
+      "result": "Kein geeigneter Entscheidungs-Volltext im zurückgegebenen Ergebnis; MoPeG-Gesetzesmaterial gefunden, nicht als Urteil behandelt."
+    },
+    {
+      "query": "Wettbewerbsverbot.*Gesellschafter|Beschlussmängel.*Personen|Beschlussfeststellung.*Gesellschaft in /Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "result": "Keine Treffer. Suchwortauswahl begrenzt; keine Behauptung fehlender Rechtsprechung."
+    }
+  ],
+  "selected_cases": [],
+  "limitations": "Keine Entscheidung neu zitiert. Ältere Beschlussmängelentscheidungen ohne Prüfung des neuen gesetzlichen Regimes nicht übertragen."
+}
