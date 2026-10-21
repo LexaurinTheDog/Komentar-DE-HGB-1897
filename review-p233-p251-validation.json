@@ -1,0 +1,21 @@
+{
+  "bounded_review_complete": true,
+  "reviewed_units": 20,
+  "verbatim_ratio": 1.0,
+  "whole_book_validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 696,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 308306,
+    "errors": [
+      "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "build": {
+    "ok": false,
+    "reason": "463 missing commentaries outside assigned review; complete chapters 13 and 14 exported with _export_review_p233_p251.py"
+  },
+  "limitations": "No whole-book completion. Strict validator unchanged."
+}
