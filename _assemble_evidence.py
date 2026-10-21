@@ -6,7 +6,8 @@ for base in [W,O]:
  d=base/'sources/assembly-history'
  for p in d.glob('*.md'):p.rename(p.with_suffix('.md.txt'))
 for d in ['sources','cases']:shutil.copytree(W/d,O/d,dirs_exist_ok=True)
-changes=[]
+previous=W/'export-link-normalization.json'
+changes=json.loads(previous.read_text()).get('changes',[]) if previous.exists() else []
 for p in O.rglob('*.md'):
  if '.git' in p.parts:continue
  def fix(m):

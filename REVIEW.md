@@ -48,4 +48,4 @@ Die technische Kontrolle ergab 100 % Wortlautübereinstimmung, keine fehlenden K
 
 Selektive Rechtsprechungsrecherche und fallbezogene Grenzen bleiben maßgeblich. Der Stichtag wird durch den erneuten Abruf nicht verschoben. Frühere Teilstandsvermerke sind chronologische Nachweise; der aktuelle Entwurfsumfang ergibt sich aus diesem Bericht. Weitere unabhängige Gesamtprüfung bleibt möglich und ist durch diese Zusammenstellung nicht vorweggenommen. Keine externe anwaltliche Freigabe.
 
-Relative Pfade von 23 Exportverknüpfungen wurden technisch angepasst; die geprüften Kommentartexte in WORK bleiben unverändert. [Änderungsnachweis](export-link-normalization.json). Lokale Verknüpfungen: 377 geprüft, keine fehlend.
+Relative Pfade von 23 Exportverknüpfungen wurden technisch angepasst; die geprüften Kommentartexte in WORK bleiben unverändert. [Änderungsnachweis](export-link-normalization.json). Lokale Verknüpfungen: 378 geprüft, keine fehlend.
