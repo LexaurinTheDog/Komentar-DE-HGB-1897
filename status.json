@@ -4,7 +4,7 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T04:39:18.084021+00:00",
+  "updated_at": "2026-10-21T04:40:04.531657+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
   "completed_units": 360,
@@ -34,7 +34,8 @@
     "BAG 2015-07-07 10 AZR 260/14",
     "BGH 2010-01-21 Xa ZR 175/07",
     "BAG 2022-11-15 3 AZR 505/21",
-    "BGH 2020-03-12 VII ZR 236/19"
+    "BGH 2020-03-12 VII ZR 236/19",
+    "FG Berlin-Brandenburg 2025-11-18 8 K 8017/23 (Revision zugelassen; historische Steuerstreitjahre)"
   ],
   "case_law_coverage": "Selektive Recherche; Nachweise und Umfang je Fallkarte und Chargenprotokoll, keine erschöpfende Übersicht.",
   "build_result": {
@@ -46,14 +47,14 @@
     "repo": "Komentar-DE-HGB-1897",
     "units": 696,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 557897,
+    "commentary_chars": 606972,
     "errors": [
-      "krátký/chybějící komentář u 356 jednotek: ['p340d(0<400)', 'p340e(0<400)', 'p340f(0<400)', 'p340g(0<400)', 'p340h(0<400)', 'p340i(0<400)', 'p340j(0<400)', 'p340k(0<400)']"
+      "krátký/chybějící komentář u 336 jednotek: ['p341h(0<400)', 'p341i(0<400)', 'p341j(0<400)', 'p341k(0<400)', 'p341l(0<400)', 'p341m(0<400)', 'p341n(0<400)', 'p341o(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
-  "independent_second_pass": false,
+  "independent_second_pass": "Begrenzte frühere Zweitprüfungen siehe REVIEW.md und jeweilige Chargenergebnisse; neue Charge §§ 340d–341g ausstehend, keine Gesamtprüfung.",
   "unresolved_blockers": [
     "356 fehlende Kommentare ab p340d außerhalb dieser Charge."
   ],
@@ -61,7 +62,8 @@
     "Gesamtmanuskript unvollständig; kein Abschlussstatus.",
     "Unabhängige Zweitprüfung nur der 20 Einheiten p1–p13 einschließlich Buchstabenparagraphen; keine Gesamtprüfung.",
     "Aktualitätsabgleich anhand amtlichem Volltext, Inkrafttreten und ergänzender Recherche; keine behauptete lückenlose manuelle Auswertung aller BGBl.-Ausgaben.",
-    "Spezielle fremdgesetzliche Übergangs- und Anwendungsregeln sind bei konkreten Altfällen zusätzlich zu prüfen."
+    "Spezielle fremdgesetzliche Übergangs- und Anwendungsregeln sind bei konkreten Altfällen zusätzlich zu prüfen.",
+    "Neue Autorencharge §§ 340d–341g noch ohne unabhängige Zweitprüfung; 336 Kommentare ab § 341h offen."
   ],
   "external_actions": {
     "published": false,
@@ -907,6 +909,23 @@
       "Selektive Rechtsprechung mit einer vollständig gelesenen Entscheidung; Verfahrensfortgang nicht geprüft.",
       "336 fehlende Kommentare außerhalb der Charge verhindern den Gesamtbuild.",
       "Technische Prüfungen und Mindestlängen beweisen keine juristische Fehlerfreiheit."
-    ]
+    ],
+    "link_check": {
+      "checked_local_links": 7,
+      "missing": []
+    },
+    "validation": {
+      "repo": "Komentar-DE-HGB-1897",
+      "units": 696,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 606972,
+      "errors": [
+        "krátký/chybějící komentář u 336 jednotek: ['p341h(0<400)', 'p341i(0<400)', 'p341j(0<400)', 'p341k(0<400)', 'p341l(0<400)', 'p341m(0<400)', 'p341n(0<400)', 'p341o(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "validation_scope": "Strenge Gesamtvalidierung; einziger Fehler: 336 außerhalb dieser Charge noch fehlende Kommentare.",
+    "independent_second_pass": "ausstehend"
   }
 }

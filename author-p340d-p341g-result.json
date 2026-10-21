@@ -74,5 +74,18 @@
   "link_check": {
     "checked_local_links": 7,
     "missing": []
-  }
+  },
+  "validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 696,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 606972,
+    "errors": [
+      "krátký/chybějící komentář u 336 jednotek: ['p341h(0<400)', 'p341i(0<400)', 'p341j(0<400)', 'p341k(0<400)', 'p341l(0<400)', 'p341m(0<400)', 'p341n(0<400)', 'p341o(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "validation_scope": "Strenge Gesamtvalidierung; einziger Fehler: 336 außerhalb dieser Charge noch fehlende Kommentare.",
+  "independent_second_pass": "ausstehend"
 }
