@@ -1,0 +1,21 @@
+{
+  "repo": "Komentar-DE-HGB-1897",
+  "units": 696,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 304656,
+  "errors": [
+    "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']"
+  ],
+  "warnings": [],
+  "ok": false,
+  "exit_code": 1,
+  "scope_note": "20/20 assigned units reviewed; full-book failure is 463 absent comments outside batch.",
+  "full_build": {
+    "exit_code": 1,
+    "reason": "463 missing comments outside assigned scope",
+    "partial_export": "_export_review_p139_p165.py; chapters 11 and 12"
+  },
+  "bounded_coverage": "review-p139-p165-coverage.json",
+  "local_batch_links_ok": true,
+  "checked_at": "2026-10-21T03:20:35.525724+00:00"
+}
