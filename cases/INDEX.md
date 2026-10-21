@@ -9,3 +9,5 @@ Die Auswahl ist selektiv und umfasst drei im Volltext gelesene amtliche Entschei
 Die Rohdatei zu II ZR 61/09 ist lediglich ein verworfener Recherchefund zur GmbH-Mantelverwendung. Sie wird nicht als unterstützende Autorität des Kommentars verwendet.
 
 - [BGH 30.04.2014 — I ZR 245/12: § 75f](BGH-2014-I-ZR-245-12.md)
+
+- [BGH, 6. Oktober 2016 – VII ZR 328/12](BGH-2016-VII-ZR-328-12.md): produktbezogener Neukundenbegriff bei § 89b; Rn. 11–14, historische Fassung und Zurückverweisung berücksichtigt.

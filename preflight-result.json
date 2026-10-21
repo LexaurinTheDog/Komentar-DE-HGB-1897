@@ -103,5 +103,18 @@
     "historical_versions_checked": "814 eindeutige XML-Knoten, 696 eindeutige amtliche Normkennungen; vollständiger Kennungsvergleich mit units.jsonl; keine historischen Fassungen verkettet.",
     "annexes_checked": "696 Normen, 117 Gliederungsknoten und eine Kopfnorm ohne operativen Inhalt; keine gesonderte Anlage und keine ausgelassene Eingangsformel. Leere Sammelstelle §§ 76 bis 82 und §§ 75b/75e ausdrücklich geprüft.",
     "unresolved_blockers": []
+  },
+  "bounded_review_p88_p99": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T03:06:53.772904+00:00",
+    "http_status": 200,
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "source_evidence": "sources/hgb-review-p88-p99.xml",
+    "version_evidence": "Amtliches XML identisch zur wirksamkeitsgeprüften Fassung; sources/commencement.md, sources/change-map.json und BGBl. 2026 I Nr. 33 Artikel 64 erneut geprüft. Wirksame Änderungen 10.07.2026 getrennt von zukünftigen Änderungen 10.01.2028/2030; keine Änderung im zugewiesenen Abschnitt.",
+    "historical_versions_checked": "814 eindeutige XML-Knoten und 696 eindeutige Normkennungen; sämtliche Kennungen und Texte mit units.jsonl verglichen; keine historischen Versionen verkettet.",
+    "annexes_checked": "696 Normeinheiten, 117 Gliederungsknoten, ein Metadatenkopf ohne operativen Text. Keine gesonderte Anlage oder ausgelassene operative Eingangsformel. Leerer § 88 explizit enthalten.",
+    "unresolved_blockers": []
   }
 }

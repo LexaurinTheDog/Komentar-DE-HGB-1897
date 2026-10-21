@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-21",
+  "scope": "Selektive Recherche zu § 89b innerhalb der zugewiesenen 20 Einheiten",
+  "searches": [
+    {
+      "query": "site.rechtsprechung-im-internet.de \"89b\" \"Neukunden\"",
+      "result": "Kandidat BGH VII ZR 328/12, 06.10.2016"
+    },
+    {
+      "query": "site.rechtsprechung-im-internet.de \"VII ZR 328/12\"",
+      "result": "Amtlicher BGH-PDF-Link ermittelt; HTTP 200 aber HTML, verworfen"
+    },
+    {
+      "query": "VII ZR 328/12 in /Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "result": "KORE311002014 (Vorlage 2014) und KORE314382016 (Urteil 2016); Urteil ausgewählt"
+    },
+    {
+      "query": "Amtliches ZIP KORE314382016",
+      "result": "HTTP 200; ZIP und XML validiert; Volltext Rn. 1–14 gelesen"
+    }
+  ],
+  "local_corpus_path": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore314382016.md",
+  "selected_case": "cases/BGH-2016-VII-ZR-328-12.md",
+  "limitations": "Keine erschöpfende Recherche; keine zusätzliche Entscheidung für technische Maklernormen aufgenommen."
+}

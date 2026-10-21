@@ -17,7 +17,7 @@ Der [amtliche Aktualitätendienst](sources/aktualitaet-2026-10-19.html) wurde er
 
 ## Rechtsprechung
 
-Die drei aufgenommenen Entscheidungen sind in [Fallkarten](cases/INDEX.md) erschlossen. Amtliche XML- beziehungsweise PDF-Rohdateien und die jeweiligen Lesefassungen sind verlinkt. Der BGH-Hinweisbeschluss vom 17. Dezember 2013 wird ausdrücklich von einem abschließenden Urteil unterschieden. Frühere im Entscheidungstext zitierte Fälle werden nicht automatisch als selbständig geprüft behandelt.
+Die aufgenommenen Entscheidungen sind in [Fallkarten](cases/INDEX.md) erschlossen. Amtliche XML- beziehungsweise PDF-Rohdateien und die jeweiligen Lesefassungen sind verlinkt. Der BGH-Hinweisbeschluss vom 17. Dezember 2013 wird ausdrücklich von einem abschließenden Urteil unterschieden. Frühere im Entscheidungstext zitierte Fälle werden nicht automatisch als selbständig geprüft behandelt.
 
 ## Grenzen
 
@@ -26,3 +26,7 @@ Der gesamte Gesetzestext ist erfasst. Kommentiert sind 233/696 Einheiten; die Ge
 ## Teilprüfung §§ 75b–87d
 
 [Erneuter HGB-Abruf](sources/review-p75b-p87d-fetch.json), [amtliches XML](sources/hgb-review-p75b-p87d.xml), [Einzelprüfung](review-p75b-p87d.json). Ergänzend: [BGH I ZR 245/12](cases/BGH-2014-I-ZR-245-12.md), [amtlicher XML-Abruf mit SHA-256](sources/BGH-2014-I-ZR-245-12-fetch.json), [Rechercheprotokoll](sources/research/case-search-p75b-p87d.json).
+
+## Teilprüfung §§ 88–99
+
+[Erneuter HGB-Abruf](sources/review-p88-p99-fetch.json), [amtliches XML](sources/hgb-review-p88-p99.xml), [Einzelprüfung](review-p88-p99.json), [erneuter vollständiger XML-Abgleich](review-p88-p99-coverage.json). Zu § 89b: [BGH VII ZR 328/12](cases/BGH-2016-VII-ZR-328-12.md), [amtlicher Abruf](sources/BGH-2016-VII-ZR-328-12-xml-fetch.json), [selektives Rechercheprotokoll](sources/research/case-search-p88-p99.json).

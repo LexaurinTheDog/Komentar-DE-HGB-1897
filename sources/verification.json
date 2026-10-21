@@ -326,6 +326,25 @@
       "http_status": 200,
       "sha256": "cebfc5114b5ca02b62ee551fba57fa70558149b0846075dcced965305078c548",
       "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-21T03:06:53.772904+00:00",
+      "http_status": 200,
+      "path": "sources/hgb-review-p88-p99.zip",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "xml_path": "sources/hgb-review-p88-p99.xml",
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "format_validated": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE314382016.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T03:07:32.821585+00:00",
+      "path": "sources/BGH-2016-VII-ZR-328-12.zip",
+      "sha256": "05c76bc57a21c40357b67120c2b5541b51ae4e1ae9166a31d1236870a5bc08ba",
+      "xml_sha256": "1db65b8150384620126ee1f1de8a7c330f61083cce608f690d1a3409714f9aad",
+      "format_valid": true
     }
   ],
   "version_information": {

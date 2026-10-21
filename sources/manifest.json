@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:57:31.241309+00:00",
+  "generated_at": "2026-10-21T03:10:05.748094+00:00",
   "files": [
     {
       "path": "sources/BAG-10-AZR-260-14.pdf",
@@ -15,6 +15,78 @@
       "bytes": 27592,
       "sha256": "0db7388f61789d896e2204daa5f1e4a7e049c830f30aaef9724f04e0fb8395bb",
       "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/BAG-review-p54-p75a.html",
+      "origin": "bounded_review_evidence",
+      "bytes": 129479,
+      "sha256": "89e9b71501df8cb938199398ac278883b530bfca1ccba311c387be7ec565bdb3"
+    },
+    {
+      "path": "sources/BGH-2014-I-ZR-245-12-fetch.json",
+      "origin": "bounded_review_evidence",
+      "bytes": 322,
+      "sha256": "83ebffafb09e0d78e1aa8b0e25edfc5ad42dcac46875283dd5995d995f14d94b"
+    },
+    {
+      "path": "sources/BGH-2014-I-ZR-245-12-intake.md",
+      "origin": "bounded_review_evidence",
+      "bytes": 26998,
+      "sha256": "8c80f857690bf6b05e77794b9f86bd8786bc69bb99d416728fd0b697de9efb98"
+    },
+    {
+      "path": "sources/BGH-2014-I-ZR-245-12.xml",
+      "origin": "bounded_review_evidence",
+      "bytes": 41385,
+      "sha256": "c26b13723a2161997b23018e64b205ae588aec67f3f14c6a00e35902d8c95003"
+    },
+    {
+      "path": "sources/BGH-2014-I-ZR-245-12.zip",
+      "origin": "bounded_review_evidence",
+      "bytes": 10541,
+      "sha256": "cebfc5114b5ca02b62ee551fba57fa70558149b0846075dcced965305078c548"
+    },
+    {
+      "path": "sources/BGH-2016-VII-ZR-328-12-fetch.json",
+      "origin": "bounded_review_evidence",
+      "bytes": 408,
+      "sha256": "1785191c716cab559a6ea1f77ec823a3c338042b4212ed6dddb8e208504c34c3"
+    },
+    {
+      "path": "sources/BGH-2016-VII-ZR-328-12-intake.md",
+      "origin": "bounded_review_evidence",
+      "bytes": 14214,
+      "sha256": "c69c50794c38c3b7c1a4aede8d153e7ecb5b990fc09f9b634723cf7d0d81efba"
+    },
+    {
+      "path": "sources/BGH-2016-VII-ZR-328-12-rejected.html",
+      "origin": "bounded_review_evidence",
+      "bytes": 51650,
+      "sha256": "8f0935c3177a0344a771adee0213131e1481e4cc8a506dc27e30c3b4e0ea77a8"
+    },
+    {
+      "path": "sources/BGH-2016-VII-ZR-328-12-xml-fetch.json",
+      "origin": "bounded_review_evidence",
+      "bytes": 408,
+      "sha256": "f9195b5f2c26696e53f9da8db137b3400043374f9a3ea13b778e5c621a7c2f62"
+    },
+    {
+      "path": "sources/BGH-2016-VII-ZR-328-12.xml",
+      "origin": "bounded_review_evidence",
+      "bytes": 20152,
+      "sha256": "1db65b8150384620126ee1f1de8a7c330f61083cce608f690d1a3409714f9aad"
+    },
+    {
+      "path": "sources/BGH-2016-VII-ZR-328-12.zip",
+      "origin": "bounded_review_evidence",
+      "bytes": 5471,
+      "sha256": "05c76bc57a21c40357b67120c2b5541b51ae4e1ae9166a31d1236870a5bc08ba"
+    },
+    {
+      "path": "sources/BGH-p75f-fetch-rejected.html",
+      "origin": "bounded_review_evidence",
+      "bytes": 51650,
+      "sha256": "5d3189a8e70a6f612f1a3130b4e92fc71caf594b81f86a36859df26fe67a58f3"
     },
     {
       "path": "sources/aktualitaet-2026-10-19.html",
@@ -248,6 +320,42 @@
       "http_status": 200
     },
     {
+      "path": "sources/hgb-review-p54-p75a.xml",
+      "origin": "bounded_review_evidence",
+      "bytes": 1120900,
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361"
+    },
+    {
+      "path": "sources/hgb-review-p54-p75a.zip",
+      "origin": "bounded_review_evidence",
+      "bytes": 218961,
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944"
+    },
+    {
+      "path": "sources/hgb-review-p75b-p87d.xml",
+      "origin": "bounded_review_evidence",
+      "bytes": 1120900,
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361"
+    },
+    {
+      "path": "sources/hgb-review-p75b-p87d.zip",
+      "origin": "bounded_review_evidence",
+      "bytes": 218961,
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944"
+    },
+    {
+      "path": "sources/hgb-review-p88-p99.xml",
+      "origin": "bounded_review_evidence",
+      "bytes": 1120900,
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361"
+    },
+    {
+      "path": "sources/hgb-review-p88-p99.zip",
+      "origin": "bounded_review_evidence",
+      "bytes": 218961,
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944"
+    },
+    {
       "path": "sources/intake-2026-10-01.md",
       "bytes": 842097,
       "sha256": "98eab8061d2d34ad9276c296082299c5951b1599738134cf80bafb724bf05f77",
@@ -302,6 +410,18 @@
       "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
     },
     {
+      "path": "sources/research/case-search-p75b-p87d.json",
+      "origin": "bounded_review_evidence",
+      "bytes": 1322,
+      "sha256": "49fbc4b6498636d30ec50944c20e161f16c61a476df5a6a0bf84b3aeb95bf6de"
+    },
+    {
+      "path": "sources/research/case-search-p88-p99.json",
+      "origin": "bounded_review_evidence",
+      "bytes": 1040,
+      "sha256": "659069d03a25282465ae912bba340df49ba5256fbc095f2c852bff4784a37ad9"
+    },
+    {
       "path": "sources/research/changes-october.json",
       "bytes": 1618,
       "sha256": "2db6fa3cc7f0fe00a3f5df540144b1f4e1edcd92bed46a89e2361fdce6d5cf4d",
@@ -336,6 +456,24 @@
       "origin": "derived_evidence_or_documentation"
     },
     {
+      "path": "sources/review-p54-p75a-fetch.json",
+      "origin": "bounded_review_evidence",
+      "bytes": 329,
+      "sha256": "c8f7a418a8fb1dcbc3c6b7db1f7f01b0fb5ca018a45429b88021ec7e3b0410e0"
+    },
+    {
+      "path": "sources/review-p75b-p87d-fetch.json",
+      "origin": "bounded_review_evidence",
+      "bytes": 371,
+      "sha256": "9b0a09b4eba0556fddef33cf414b315da451780b06f8f4e813485c1d5e0ec875"
+    },
+    {
+      "path": "sources/review-p88-p99-fetch.json",
+      "origin": "bounded_review_evidence",
+      "bytes": 421,
+      "sha256": "132fc017bbee5508d59525b1f38e04b87073053e9f12c17d50f334817e197355"
+    },
+    {
       "path": "sources/search-log.json",
       "bytes": 2077,
       "sha256": "8c04f5805d83e88d60cf0934ff4969ed623f82f849623c2299cdbb1d32efa298",
@@ -349,8 +487,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 12540,
-      "sha256": "8ff2c7accdb97415bab62ef4bb3fc73a6de913b48c76c74bdd58783bafe782b4",
+      "bytes": 15028,
+      "sha256": "c75ed11b8048a28b7eeef1c23b08db2fe9542869fcb36b91381c41afc176b5a3",
       "origin": "derived_evidence_or_documentation"
     }
   ]
