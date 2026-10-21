@@ -1,0 +1,122 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p452d",
+    "p453",
+    "p454",
+    "p455",
+    "p456",
+    "p457",
+    "p458",
+    "p459",
+    "p460",
+    "p461",
+    "p462",
+    "p463",
+    "p464",
+    "p465",
+    "p466",
+    "p467",
+    "p468",
+    "p469",
+    "p470",
+    "p471"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p452d",
+      "result": "Alle drei Absätze einschließlich beider Formularalternativen, ausgehandelter Verjährung und international zwingendem Teilstreckenrecht geprüft; Beispiel und Abschlusscheck zutreffend."
+    },
+    {
+      "id": "p453",
+      "result": "Alle drei Absätze, Organisationsleistung, Vergütung und Kleingewerbe mit Ausnahme §§ 348–350 geprüft. Beispiel unterscheidet Gesamtpreis und bloße Besorgung."
+    },
+    {
+      "id": "p454",
+      "result": "Alle vier Absätze und jede Organisationsaufgabe geprüft; Ausführung/Vertragsschluss, Vollmacht und Weisungen korrekt. BGH Rn. 20–25 und 31–38 vollständig gegen Volltext geprüft."
+    },
+    {
+      "id": "p455",
+      "result": "Alle drei Absätze und drei Ersatzursachen geprüft; amtliche Dokumentation von sonstigen Auskünften, Mitverursachung und Verbraucherverschulden zutreffend unterschieden."
+    },
+    {
+      "id": "p456",
+      "result": "Übergabe statt Buchung als Fälligkeitsereignis, fortbestehende Pflichten und Sonderrollen §§ 458–460 geprüft. Beispiel Mittwoch/Freitag schlüssig."
+    },
+    {
+      "id": "p457",
+      "result": "Beide Sätze geprüft. Zuordnung des bereits Erlangten gegenüber Gläubigern präzisiert; Abtretung der noch bestehenden Forderung von Zuordnung des Erfüllten unterschieden."
+    },
+    {
+      "id": "p458",
+      "result": "Alle drei Sätze geprüft: Selbsteintritt, beschränkte Befördererrolle und gewöhnliche Fracht neben Speditionsentgelt. Keine automatische doppelte Vergütung behauptet."
+    },
+    {
+      "id": "p459",
+      "result": "Beide Sätze und Reichweite von soweit geprüft; Üblichkeit des Aufwendungsersatzes, Beförderung und zusätzliche Verpackung getrennt. BGH Rn. 18–25 trägt die Aussage."
+    },
+    {
+      "id": "p460",
+      "result": "Beide Absätze geprüft: eigene Rechnung, Zusammenfassung verschiedener Versender, Befördererhaftung sowie Angemessenheit und Einzelbeförderungsobergrenze zutreffend."
+    },
+    {
+      "id": "p461",
+      "result": "Alle drei Absätze und Verweisungskette geprüft. Absatz 2 ausdrücklich auf Schäden außerhalb der Obhutshaftung bezogen; kann auch spätere Güterschäden aus Verpackungsfehlern erfassen. BGH Rn. 18–29 und Zurückverweisung zutreffend."
+    },
+    {
+      "id": "p462",
+      "result": "Beide Sätze geprüft: Leute in Ausübung und sonstige Besorgungsgehilfen, kein bloßer Auswahlentlastungsbeweis; Befördererstellung gesondert behandelt."
+    },
+    {
+      "id": "p463",
+      "result": "Verweisung auf sämtliche Absätze des § 439 geprüft. Wiederholte Erklärung hemmt denselben Ersatzanspruch nach Sonderregel nicht erneut; bisherige unbestimmte Einschränkung korrigiert. Fristbeginn und Rückgriff zutreffend."
+    },
+    {
+      "id": "p464",
+      "result": "Beide Sicherungsbereiche und § 440 Abs. 1 Satz 3, Abs. 2–4 geprüft. Drittgut mit Zustimmung, unbestrittene Altforderungen nur an Versendergut, Besitz und Drei-Tages-Fortwirkung zutreffend."
+    },
+    {
+      "id": "p465",
+      "result": "Beide Absätze mit § 441 Abs. 1 abgeglichen: Einziehungsauftrag, Pfandrechtsfortdauer und gesetzlicher Übergang bei Befriedigung korrekt; keine allgemeine Forderungseinziehungspflicht behauptet."
+    },
+    {
+      "id": "p466",
+      "result": "Alle fünf Absätze und beide Formularvarianten geprüft: Gewichtsbandbreite, Hinweis, versenderseitige Begrenzung, Befördererstellung, Verbraucher und inländische Orte korrekt. Abschnittscheck sinnvoll."
+    },
+    {
+      "id": "p467",
+      "result": "Alle drei Absätze geprüft: selbständige Aufbewahrung gegenüber Transportstandzeit, Vergütung und Kleingewerbe mit §§-348–350-Ausnahme. Beispiel und Verweise §§ 474/475 zutreffend."
+    },
+    {
+      "id": "p468",
+      "result": "Alle vier Absätze und sämtliche Nummern geprüft: Textform im Grundfall, Verbraucherinformation ohne Form, Verpackung durch Lagerhalter, amtliche Dokumentation, Verschulden und Mitverursachung korrekt."
+    },
+    {
+      "id": "p469",
+      "result": "Alle drei Absätze geprüft: gleiche Art/Güte und ausdrückliches Einverständnis, Bruchteilsmiteigentum der Eigentümer ab Einlagerung, anteilige Auslieferung ohne übrige Genehmigung. Mengenbeispiel korrekt."
+    },
+    {
+      "id": "p470",
+      "result": "Äußerlich erkennbare Empfangsmängel, Anspruchssicherung und unverzügliche Nachricht vollständig geprüft. Keine allgemeine Öffnungspflicht oder universelle Rügefrist erfunden."
+    },
+    {
+      "id": "p471",
+      "result": "Beide Absätze geprüft: Geschäftsstunden, Proben, Erhaltungsarbeiten und Sammellagerpflicht; Gefahrenanzeige/Weisungen, angemessene Selbsthilfe und §-373-Verkauf. Adressat präzisiert: letzter dem Lagerhalter bekannt gewordener legitimierter Besitzer."
+    }
+  ],
+  "limitations": [
+    "Genau 20 zugewiesene Einheiten geprüft; keine Gesamtbuchfertigstellung.",
+    "156 fehlende Kommentare außerhalb der Charge verhindern Gesamtvalidierung.",
+    "Selektive Rechtsprechung: BGH I ZR 150/10, Rn. 1–42, vollständig erneut gelesen; keine erschöpfende Folgeentscheidungsrecherche. Historisches Kollisionsrecht und ADSp nicht als heutige allgemeine Regeln übernommen.",
+    "Amtlicher Wiederabruf und dokumentierte Inkrafttretens-/Änderungsnachweise geprüft; keine lückenlose eigene BGBl-Jahresauswertung.",
+    "Keine externe fachliche Freigabe; technische Prüfung beweist keine juristische Fehlerfreiheit."
+  ],
+  "verified_at": "2026-10-21T06:06:58.579934+00:00",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "statutory_text_agreement": 1.0,
+  "coverage_evidence": "review-p452d-p471-coverage.json",
+  "full_book_complete": false
+}

@@ -215,3 +215,7 @@ Alle 20 zugewiesenen Einheiten einschließlich der weggefallenen Nummer § 451c 
 ## Autorencharge §§ 452d–471, 21. Oktober 2026
 
 20 von 20 zugewiesenen Einheiten ausgearbeitet; Rechtsstand zum Titelbeginn 19. Oktober 2026, amtlicher Wiederabruf bytegleich. [Quellenprüfung](sources/verification-p452d-p471.json), [Abdeckung](author-p452d-p471-coverage.json), [Fallkarte BGH I ZR 150/10](cases/bgh-I-ZR-150-10-p454-p461.md). Selektive Rechtsprechung, keine erschöpfende Übersicht. Teilbuild und strenge Teilvalidierung; Gesamtband mit 156 noch fehlenden Kommentaren unvollständig. Unabhängige Zweitprüfung dieser Charge steht aus. Originalkommentar © 2026 Vojtěch Říha, Apache-2.0.
+
+## Begrenzte Zweitprüfung §§ 452d–471, 21. Oktober 2026
+
+Alle 20 zugewiesenen Vorschriften einzeln am amtlichen Wortlaut geprüft; Zuordnung des Erlangten (§ 457), Abgrenzung der Obhutshaftung (§ 461), wiederholte Anspruchserklärung (§ 463) und Lagerscheinadressat (§ 471) präzisiert. BGH I ZR 150/10 vollständig erneut gelesen; historische ADSp und Kollisionsregeln nicht als heutiges Recht übernommen. [Einzelergebnisse](review-p452d-p471.json), [Abdeckung](review-p452d-p471-coverage.json), [Teilvalidierung](review-p452d-p471-bounded-validation.json). Gesamtband wegen 156 außerhalb der Charge fehlender Kommentare unvollständig; frühere Aussage zur ausstehenden Zweitprüfung dieser Charge ist durch diesen Prüfstand überholt. Keine externe fachliche Freigabe.
