@@ -509,5 +509,20 @@
     "historical_versions_checked": "696 eindeutige aktuelle Kennungen und Texte gegen Parser geprüft; keine historischen Versionen verkettet; ursprünglicher Intake unverändert bewahrt.",
     "annexes_checked": "814 XML-Knoten geprüft: 696 Normen einschließlich Sammelleerstellen, 117 Gliederungen und eine nichtoperative Kopfnorm ohne Content. Keine eigene operative Anlage oder ausgelassene Eingangsformel.",
     "unresolved_blockers": []
+  },
+  "bounded_author_p424_p443": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T05:38:18.996494+00:00",
+    "version_evidence": {
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "unchanged_since_title_start": true,
+      "commencement": "sources/commencement.md; BGBl. 2026 I Nr. 33 Art. 3/4 und 64 erneut gelesen: wirksame 2026 von künftigen 2028/2030-Fassungen getrennt; Charge unberührt.",
+      "change_map": "sources/change-map.json; original intake unchanged"
+    },
+    "historical_versions_checked": "696 eindeutige offizielle Kennungen und sämtliche Texte erneut gegen aktuellen XML-Abruf abgeglichen; keine historischen Fassungen verkettet.",
+    "annexes_checked": "Alle 814 XML-Knoten geprüft: 696 nummerierte Einheiten einschließlich Sammelleerstellen, 117 Gliederungen und textlose Kopfnorm; keine operative Anlage oder Eingangsformel ausgelassen. Jahresabschluss-Anhang ist Normgegenstand, keine Gesetzesanlage.",
+    "unresolved_blockers": []
   }
 }

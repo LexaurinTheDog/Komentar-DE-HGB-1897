@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-21T05:38:18.996494+00:00",
+  "assigned_ids": [
+    "p424",
+    "p425",
+    "p426",
+    "p427",
+    "p428",
+    "p429",
+    "p430",
+    "p431",
+    "p432",
+    "p433",
+    "p434",
+    "p435",
+    "p436",
+    "p437",
+    "p438",
+    "p439",
+    "p440",
+    "p441",
+    "p442",
+    "p443"
+  ],
+  "web_queries": [
+    "site.bundesgerichtshof.de \"§ 435\" \"I ZR\" Transport Schaden",
+    "site.bundesgerichtshof.de \"§ 438\" Schadensanzeige",
+    "\"20. September 2012\" \"Schadensanzeige\" BGH",
+    "\"BGH\" \"20.9.2012\" \"I ZR\" Schadensanzeige"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_query": "manifest.jsonl: I ZR 75/11, I ZR 158/99, I ZR 176/05; vollständiger Text rii-kore305582013.md gelesen",
+  "fully_read": [
+    "KORE305582013: Tenor, Tatbestand und Entscheidungsgründe Rn. 1–17; neu abgerufenes amtliches XML und lokaler Intake"
+  ],
+  "accepted": [
+    "cases/BGH-2012-IZR75-11.md"
+  ],
+  "rejected_downloads": [
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=63404&Blank=1.pdf",
+      "http_status": 200,
+      "received_format": "HTML instead of PDF",
+      "evidence": "sources/rejected-case-p424-p443.html",
+      "sha256": "a7a08fd5b6da746b47aeb907a70cb317a0724ae0a0e081cfc439a056954078a3",
+      "used_as_authority": false
+    }
+  ],
+  "limitations": "Selektive Recherche. Ältere Entscheidung nur mit ausdrücklicher Abgrenzung zum heutigen Textformerfordernis verwendet. Für die übrigen Einheiten keine zusätzliche ausreichend geprüfte Entscheidung in dieser Charge aufgenommen."
+}

@@ -4,13 +4,13 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T05:30:37.720932+00:00",
+  "updated_at": "2026-10-21T05:38:18.996494+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
-  "completed_units": 480,
-  "remaining_units": 216,
-  "completed_scope": "Durch § 423; frühere Prüfstände bleiben gesondert dokumentiert.",
-  "next_unit": "p424",
+  "completed_units": 500,
+  "remaining_units": 196,
+  "completed_scope": "Durch § 443; frühere Prüfstände bleiben gesondert dokumentiert.",
+  "next_unit": "p444",
   "commentary_chars": 728305,
   "source_checks": {
     "official_xml_http": 200,
@@ -29,7 +29,8 @@
     "bounded_author_p340d_p341g": "sources/verification-p340d-p341g.json",
     "bounded_author_p341h_p342a": "sources/verification-p341h-p342a.json",
     "bounded_author_p346_p364": "sources/verification-p346-p364.json",
-    "bounded_author_p404_p423": "sources/verification-p404-p423.json"
+    "bounded_author_p404_p423": "sources/verification-p404-p423.json",
+    "bounded_author_p424_p443": "sources/verification-p424-p443.json"
   },
   "case_law_sources": [
     "BGH 2024-01-09 II ZR 220/22",
@@ -1326,5 +1327,78 @@
       "ok": true
     },
     "validation_scope": "Exactly 20 assigned units; whole-book completion not asserted."
+  },
+  "bounded_author_p424_p443": {
+    "kind": "bounded_author",
+    "complete": true,
+    "assigned_ids": [
+      "p424",
+      "p425",
+      "p426",
+      "p427",
+      "p428",
+      "p429",
+      "p430",
+      "p431",
+      "p432",
+      "p433",
+      "p434",
+      "p435",
+      "p436",
+      "p437",
+      "p438",
+      "p439",
+      "p440",
+      "p441",
+      "p442",
+      "p443"
+    ],
+    "units_authored": 20,
+    "total_units": 696,
+    "completed_units": 500,
+    "remaining_units": 196,
+    "commentary_chars": {
+      "p424": 1638,
+      "p425": 1583,
+      "p426": 1473,
+      "p427": 1780,
+      "p428": 1515,
+      "p429": 1524,
+      "p430": 1498,
+      "p431": 2033,
+      "p432": 1561,
+      "p433": 1551,
+      "p434": 1625,
+      "p435": 1649,
+      "p436": 1549,
+      "p437": 1644,
+      "p438": 1656,
+      "p439": 1789,
+      "p440": 1655,
+      "p441": 1658,
+      "p442": 1945,
+      "p443": 1823
+    },
+    "statutory_text_agreement": 1.0,
+    "bounded_build_success": true,
+    "shared_build_success": false,
+    "full_book_complete": false,
+    "unresolved_blockers": [],
+    "limitations": [
+      "Unabhängige Zweitprüfung der Charge ausstehend.",
+      "Selektive Rechtsprechungsrecherche; ein historisch abzugrenzendes Urteil geprüft.",
+      "Technische Mindestlänge beweist keine juristische Qualität.",
+      "Vollbuch außerhalb des zugewiesenen Umfangs weiterhin unvollständig."
+    ],
+    "bounded_validation": {
+      "repo": "Komentar-DE-HGB-1897",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 33149,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validation_scope": "Exactly p424–p443; full-book completion not asserted."
   }
 }

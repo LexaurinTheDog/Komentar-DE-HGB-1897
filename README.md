@@ -71,3 +71,5 @@ Autorencheckpoint §§ 404–423: 20 spezifische Kommentare; 480/696 Einheiten v
 ## Begrenzte Zweitprüfung §§ 404–423, 21. Oktober 2026
 
 Alle 20 zugewiesenen Einheiten einzeln gegen den amtlichen Wortlaut geprüft. § 410 zum Haftungsausschluss für zulässige Gefahrgutmaßnahmen präzisiert; praktische Prüfliste zur Abwicklung nach §§ 407–423 ergänzt. Amtlicher BGH I ZR 37/09 erneut vollständig gelesen. [Einzelergebnisse](review-p404-p423.json), [Abdeckung](review-p404-p423-coverage.json), [Teilvalidierung](review-p404-p423-bounded-validation.json). Teilbuild erfolgreich; 100 % Wortlautübereinstimmung. Gesamtbuch wegen 216 fehlender Kommentare außerhalb des Auftrags unvollständig. Keine externe fachliche Freigabe.
+
+Autorencheckpoint §§ 424–443: 20 spezifische Kommentare; 500/696 Einheiten vorhanden. [Chargenbericht](author-p424-p443-result.json). Teilbuild erfolgreich, Gesamtbuch unvollständig; unabhängige Zweitprüfung ausstehend. Titelstichtag 19. Oktober 2026; amtlicher Wiederabruf unverändert.

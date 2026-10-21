@@ -44,3 +44,6 @@ Der vollständige Normbestand steht in units.jsonl. Vorhandene Autorenbatches:
 
 - [§§ 404–406](28-hgb-teil-404-406.md)
 - [§§ 407–423](29-hgb-teil-407-423.md)
+
+- [§§ 424–431](29-hgb-teil-424-431.md)
+- [§§ 432–443](30-hgb-teil-432-443.md)
