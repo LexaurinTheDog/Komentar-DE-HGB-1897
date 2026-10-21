@@ -1,0 +1,4 @@
+Gesamtbuild (unvollständiger Buchstand):
+CHYBÍ komentář k 236 jednotkám, např.: ['p404', 'p405', 'p406', 'p407', 'p408', 'p409', 'p410', 'p411', 'p412', 'p413']
+
+Teilbuild: 20 Einheiten, 1 Kapitel; build_repo.py _batch-p384-p403 erfolgreich.
