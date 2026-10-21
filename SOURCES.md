@@ -40,3 +40,6 @@ Der gesamte Gesetzestext ist erfasst. Kommentiert sind 233/696 Einheiten; die Ge
 Erneuter amtlicher [HGB-XML-Abruf](sources/hgb-review-p119-p138.xml), [Abrufprotokoll](sources/review-p119-p138-fetch.json), [externe BGB-Quellen](sources/review-p119-p138-external.json), [selektives Suchprotokoll](sources/research/case-search-p119-p138.json) und [Einzelbefunde](review-p119-p138.json). Maßgeblicher Beginn der Titelbearbeitung bleibt der 19. Oktober 2026; Abruf am 21. Oktober. Die Quellenfassung ist unverändert. Neue Rechtsprechungsbelege wurden in diesem Teilauftrag nicht aufgenommen.
 
 Begrenzte Zweitprüfung §§ 166–232: [Abrufnachweis](sources/review-p166-p232-fetch.json), [amtliches XML](sources/hgb-review-p166-p232.xml), [Abdeckung](review-p166-p232-coverage.json), [Einzelbefunde](review-p166-p232.json), [Suchprotokoll](sources/research/case-search-p166-p232.json).
+
+
+Prüfgruppe §§ 233–251: [XML-Abruf](sources/review-p233-p251-fetch.json), [Fallkarte BFH](cases/BFH-2023-IV-R-22-20.md), [Suchprotokoll](sources/research/case-search-p233-p251.json), [Prüfbericht](review-p233-p251.json).

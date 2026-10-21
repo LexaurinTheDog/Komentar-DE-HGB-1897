@@ -1,0 +1,182 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p233",
+    "p234",
+    "p235",
+    "p236",
+    "p237",
+    "p238",
+    "p239",
+    "p240",
+    "p241",
+    "p241a",
+    "p242",
+    "p243",
+    "p244",
+    "p245",
+    "p246",
+    "p247",
+    "p248",
+    "p249",
+    "p250",
+    "p251"
+  ],
+  "unresolved_blockers": [],
+  "reviewed_at": "2026-10-21T03:23:53.947650+00:00",
+  "source_evidence": "sources/hgb-review-p233-p251.xml",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "findings": [
+    {
+      "id": "p233",
+      "result": "checked_unchanged",
+      "finding": "Entsprechende Anwendung des aktuellen § 166 einschließlich zwingender Grenze geprüft; keine überholte Beschränkung auf außerordentliche gerichtliche Kontrolle.",
+      "official_doknr": "BJNR002190897BJNE022302360",
+      "commentary_sha256": "f5730167911c7d47afe1104b298bf548a600290142e761ded46a972e0993759d"
+    },
+    {
+      "id": "p234",
+      "result": "corrected",
+      "finding": "Kündigungsverweis vollständig präzisiert: ordentliche Frist, wichtiger Grund, Volljährigkeit, Unzeit und zwingende Grenzen; alle kumulativen Gläubigervoraussetzungen ergänzt.",
+      "official_doknr": "BJNR002190897BJNE022402360",
+      "commentary_sha256": "7bc23d3a7b39c3e17fe0c981ea15e3600ca6a589897788fe0a14bc498aec9f22"
+    },
+    {
+      "id": "p235",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze geprüft: Geldguthaben, Abwicklung durch Inhaber, Ergebnisnachlauf und jährliche Rechenschaft/Auszahlung/Auskunft zutreffend.",
+      "official_doknr": "BJNR002190897BJNE022501306",
+      "commentary_sha256": "f16721bc0acd8b946a3b76e7a0016d629fe32264e0c5b37a86fd0e2c6dcc04a2"
+    },
+    {
+      "id": "p236",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft: Einlage abzüglich Verlust und begrenzte Einzahlung zur Verlustdeckung; keine pauschale Aussonderung oder Gesamtfälligkeit behauptet.",
+      "official_doknr": "BJNR002190897BJNE022602307",
+      "commentary_sha256": "ff5bb212f8ba6f0954deb304109b1fb5949e3f06a2e9f40941e8504355e70f77"
+    },
+    {
+      "id": "p237",
+      "result": "checked_unchanged",
+      "finding": "Amtlich leeres Textfeld und Wegfallhinweis erhalten; keine historische Anfechtungsnorm als geltend rekonstruiert.",
+      "official_doknr": "BJNR002190897BJNE022702307",
+      "commentary_sha256": "96966598f3a41914d3a73fe7721bd78a4600cc3579a3021f5b681857bbe438d6"
+    },
+    {
+      "id": "p238",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft: sachverständiger Dritter, angemessene Zeit, Verfolgbarkeit und wortlautgetreue Handelsbriefwiedergabe zutreffend.",
+      "official_doknr": "BJNR002190897BJNE003300306",
+      "commentary_sha256": "0260af3a90c78ba166a7065ef48a59e41574dcd3b86ebc58b93a1161587d6eb5"
+    },
+    {
+      "id": "p239",
+      "result": "checked_unchanged",
+      "finding": "Alle vier Absätze geprüft: lebende Sprache, Codes, zeitgerechte Ordnung, erkennbarer Ursprungsinhalt und Änderungen sowie Datenträgerlesbarkeit zutreffend.",
+      "official_doknr": "BJNR002190897BJNE003400306",
+      "commentary_sha256": "63eaa819936e76428cf4c495fc2d2f1d521e9dab85b91d92d80101656b3f2caf"
+    },
+    {
+      "id": "p240",
+      "result": "checked_unchanged",
+      "finding": "Alle vier Absätze geprüft: Anfangs- und Jahresinventar, zwölfmonatige Höchstdauer, kumulative Festwertbedingungen und Gruppen-Durchschnittsbewertung zutreffend.",
+      "official_doknr": "BJNR002190897BJNE086500307",
+      "commentary_sha256": "2265c47d64b83fad5c0417a353d716163c081557fdde48d347c6742c36d1f455"
+    },
+    {
+      "id": "p241",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze geprüft: gleichwertige statistische Methode, alternative Stichtagsfeststellung sowie Drei-/Zweimonatsfenster mit Fortschreibung oder Rückrechnung zutreffend.",
+      "official_doknr": "BJNR002190897BJNE003600306",
+      "commentary_sha256": "59c187b1c14047a9898ffe0702597be2f6ef8033b034d1806afa4337dd725285"
+    },
+    {
+      "id": "p241a",
+      "result": "checked_unchanged",
+      "finding": "Beide Schwellen und beide Stichtage sowie Neugründung, Einzelkaufmannsbezug und Verknüpfung zu § 242 Absatz 4 geprüft.",
+      "official_doknr": "BJNR002190897BJNE099803125",
+      "commentary_sha256": "5563f5786d9e6ffd4dd65b44d772095393fe5b666973c8736b39ce646976093c"
+    },
+    {
+      "id": "p242",
+      "result": "checked_unchanged",
+      "finding": "Alle vier Absätze geprüft: Eröffnung, Bilanz, GuV, Jahresabschlussdefinition und Einzelkaufmannsbefreiung richtig getrennt.",
+      "official_doknr": "BJNR002190897BJNE003701140",
+      "commentary_sha256": "a3b7b695c75f27fa34fdfe5b73c664212f517cdfdbb5641634f836b4c2aca01f"
+    },
+    {
+      "id": "p243",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze geprüft: GoB, Klarheit, Übersicht und geschäftsgangentsprechende Zeit; keine erfundene allgemeine Monatsfrist.",
+      "official_doknr": "BJNR002190897BJNE003800306",
+      "commentary_sha256": "1fc101912306140e86705f245293043af85295db8dd77dcfd9e46bbbad5e1050"
+    },
+    {
+      "id": "p244",
+      "result": "checked_unchanged",
+      "finding": "Sprache und Euro geprüft; von lebender Buchführungssprache und Währungsumrechnung nach § 256a sachgerecht getrennt.",
+      "official_doknr": "BJNR002190897BJNE088200307",
+      "commentary_sha256": "b942f2ed4736fe35dd9616dee65f8b31c203567666d283af0377ae1eb469b9ce"
+    },
+    {
+      "id": "p245",
+      "result": "corrected",
+      "finding": "Beide Sätze geprüft; alle persönlich Haftenden und Datumsangabe berücksichtigt; missverständliche Wortstellung zur protokollierten Zustimmung berichtigt.",
+      "official_doknr": "BJNR002190897BJNE004000306",
+      "commentary_sha256": "e6dc9a549e627e7ad69a8f05129ce43a839779a5abfed36184d9e8603abe5c4e"
+    },
+    {
+      "id": "p246",
+      "result": "corrected",
+      "finding": "Alle drei Absätze geprüft; Schuldnerzuordnung und Firmenwertdefinition sowie Grundstücksrechte/-lasten und zwingende Verrechnung samt Aufwand/Ertrag ergänzt.",
+      "official_doknr": "BJNR002190897BJNE004105140",
+      "commentary_sha256": "e1aab74aae79beeab7bac985cdaa9bd6359a366eb91567d4341e4a3892430035"
+    },
+    {
+      "id": "p247",
+      "result": "checked_unchanged",
+      "finding": "Beide operativen Absätze und weggefallener Absatz 3 geprüft; Zweckbestimmung statt bloßer Lebensdauer zutreffend.",
+      "official_doknr": "BJNR002190897BJNE004202140",
+      "commentary_sha256": "2ad99c34c94a130da6d01a6ede57dba7e07912d017196050fea5deb447a330fa"
+    },
+    {
+      "id": "p248",
+      "result": "corrected",
+      "finding": "Alle Verbote und Wahlrecht geprüft; Vergleichbarkeitsklausel für immaterielle Werte ausdrücklich ergänzt; Forschungs-/Entwicklungsverweis zutreffend.",
+      "official_doknr": "BJNR002190897BJNE004302140",
+      "commentary_sha256": "4b7b25461dc51e8878da6a0a3bb8fb3be2d363d3f11f11603409c3b5b509ce6e"
+    },
+    {
+      "id": "p249",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft; drei Monate für Instandhaltung von gesamtem Folgejahr für Abraumbeseitigung unterschieden; Kulanz und Auflösungsgrenze zutreffend.",
+      "official_doknr": "BJNR002190897BJNE004401140",
+      "commentary_sha256": "b4e1b83592c9dfe503e7832fba1ae769c06211ff5c0859dd8883a62f5f8e4411"
+    },
+    {
+      "id": "p250",
+      "result": "corrected",
+      "finding": "Alle drei Absätze geprüft; Zahlungsverkürzung der Ausgaben-/Einnahmenbegriffe korrigiert, verifizierten BFH-Hinweis mit zeitlichen und steuerlichen Grenzen ergänzt.",
+      "official_doknr": "BJNR002190897BJNE004501140",
+      "commentary_sha256": "0541283f2ed89e679470a9c76c5859510cdfcc16ab6fa48977ea66f32ea4b3c6"
+    },
+    {
+      "id": "p251",
+      "result": "corrected",
+      "finding": "Haftungskategorien, Passivierungsvorrang, Sammelbetrag und Rückgriff geprüft; besondere Anhangregel des § 268 Absatz 7 präzisiert.",
+      "official_doknr": "BJNR002190897BJNE004600306",
+      "commentary_sha256": "e744b24e3350312f31a8bd4af4d383109503c3bcd3f4c68e198b7e0bf9c3725f"
+    }
+  ],
+  "case_law_sources": [
+    "cases/BFH-2023-IV-R-22-20.md"
+  ],
+  "case_search_log": "sources/research/case-search-p233-p251.json",
+  "limitations": [
+    "Nur genau die 20 genannten Einheiten inhaltlich geprüft; keine Gesamtfreigabe oder externe anwaltliche Prüfung.",
+    "Selektive Rechtsprechungssuche; BFH-Volltext ausgewertet, ältere BGH-Treffer ohne Fassungsprüfung nicht als Autorität übernommen.",
+    "463 fehlende Kommentare außerhalb des Auftrags verhindern vollständigen Build und Gesamtvalidierung."
+  ]
+}

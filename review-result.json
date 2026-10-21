@@ -3,178 +3,180 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p166",
-    "p167",
-    "p168",
-    "p169",
-    "p170",
-    "p171",
-    "p172",
-    "p172a",
-    "p173",
-    "p174",
-    "p175",
-    "p176",
-    "p177",
-    "p177a",
-    "p178",
-    "p179",
-    "p180-229",
-    "p230",
-    "p231",
-    "p232"
+    "p233",
+    "p234",
+    "p235",
+    "p236",
+    "p237",
+    "p238",
+    "p239",
+    "p240",
+    "p241",
+    "p241a",
+    "p242",
+    "p243",
+    "p244",
+    "p245",
+    "p246",
+    "p247",
+    "p248",
+    "p249",
+    "p250",
+    "p251"
   ],
   "unresolved_blockers": [],
-  "reviewed_at": "2026-10-21T03:21:14.882646+00:00",
-  "source_evidence": "sources/hgb-review-p166-p232.xml",
+  "reviewed_at": "2026-10-21T03:23:53.947650+00:00",
+  "source_evidence": "sources/hgb-review-p233-p251.xml",
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
   "findings": [
     {
-      "id": "p166",
+      "id": "p233",
       "result": "checked_unchanged",
-      "finding": "Beide Absätze geprüft: Abschlussabschrift und prüfungsbezogene Einsicht neben erforderlicher Auskunft; Unredlichkeitsverdacht nur Beispiel, zwingende Vertragsgrenze zutreffend.",
-      "official_doknr": "BJNR002190897BJNE020202360",
-      "commentary_sha256": "08069f93cd3e48caca7ad954680c807e602ef8c5500f77136a14aa54826d3244"
+      "finding": "Entsprechende Anwendung des aktuellen § 166 einschließlich zwingender Grenze geprüft; keine überholte Beschränkung auf außerordentliche gerichtliche Kontrolle.",
+      "official_doknr": "BJNR002190897BJNE022302360",
+      "commentary_sha256": "f5730167911c7d47afe1104b298bf548a600290142e761ded46a972e0993759d"
     },
     {
-      "id": "p167",
-      "result": "checked_unchanged",
-      "finding": "Geleistete vereinbarte Einlage und anteiliger Ausschluss der §§ 136/149 geprüft; Verlustzuweisung, Nachschussabrede und Außenhaftung korrekt getrennt.",
-      "official_doknr": "BJNR002190897BJNE020301360",
-      "commentary_sha256": "0029af837ef6d65bf6cd0f6224a4f6e37d98a6be0859e0802470ea033d2bd325"
-    },
-    {
-      "id": "p168",
-      "result": "checked_unchanged",
-      "finding": "Leeres amtliches Textfeld und Wegfallnachweis zum 1.1.2024 geprüft; keine historische Gewinnquote als geltendes Recht übernommen.",
-      "official_doknr": "BJNR002190897BJNE020401360",
-      "commentary_sha256": "9d10c276695139bbeed0e96a7c44526b9095795bdd827bb00e9bf5160de3160e"
-    },
-    {
-      "id": "p169",
-      "result": "checked_unchanged",
-      "finding": "Beide Absätze geprüft; geleistete Einlage als Auszahlungsschwelle, Verlustauffüllung und Behaltendürfen bei späteren Verlusten von Außenhaftung getrennt.",
-      "official_doknr": "BJNR002190897BJNE020501360",
-      "commentary_sha256": "c5a64c0a4a296e3932be9c93027cccb4dc7ebe59dab04a3d5a717aa5e9b5814f"
-    },
-    {
-      "id": "p170",
-      "result": "checked_unchanged",
-      "finding": "Beide Absätze geprüft; Ausschluss organschaftlicher Vertretung und abdingbare Gesellschafterrechtswahrnehmung in der Einheitsgesellschaft korrekt.",
-      "official_doknr": "BJNR002190897BJNE020601360",
-      "commentary_sha256": "861897be92bd57bf25cb9d4094c4b195af7fe861af5297e62e4c049d09f0b8b5"
-    },
-    {
-      "id": "p171",
-      "result": "checked_unchanged",
-      "finding": "Beide Absätze geprüft; unmittelbare begrenzte Außenhaftung mit Leistungsbefreiung und Einziehungszuständigkeit bei Insolvenz richtig.",
-      "official_doknr": "BJNR002190897BJNE020702360",
-      "commentary_sha256": "fc0000d21128a0a02453fdebb25a0a402b928457595dbe4699a1a4c822d6c702"
-    },
-    {
-      "id": "p172",
+      "id": "p234",
       "result": "corrected",
-      "finding": "Alle fünf Absätze geprüft; Kapitalanteilstest mit Haftsumme statt interner Einlage, beide bilanziellen Verweise und genaue Beteiligungskettenausnahme ergänzt.",
-      "official_doknr": "BJNR002190897BJNE020802360",
-      "commentary_sha256": "7abca024916ba433e92e91e7d8b6fcee2d7f5dc8ce7b1b1b99f0e1e2b5f6d4b0"
+      "finding": "Kündigungsverweis vollständig präzisiert: ordentliche Frist, wichtiger Grund, Volljährigkeit, Unzeit und zwingende Grenzen; alle kumulativen Gläubigervoraussetzungen ergänzt.",
+      "official_doknr": "BJNR002190897BJNE022402360",
+      "commentary_sha256": "7bc23d3a7b39c3e17fe0c981ea15e3600ca6a589897788fe0a14bc498aec9f22"
     },
     {
-      "id": "p172a",
+      "id": "p235",
       "result": "checked_unchanged",
-      "finding": "Amtliches Strich-Textfeld erhalten; keine aktuelle Sonderhaftungsregel aus früherer Nummer abgeleitet.",
-      "official_doknr": "BJNR002190897BJNE038201140",
-      "commentary_sha256": "3d11df3319bd9879dcd4847041c6874045ef709d0f88c468248ed0fd09565ef1"
+      "finding": "Alle drei Absätze geprüft: Geldguthaben, Abwicklung durch Inhaber, Ergebnisnachlauf und jährliche Rechenschaft/Auszahlung/Auskunft zutreffend.",
+      "official_doknr": "BJNR002190897BJNE022501306",
+      "commentary_sha256": "f16721bc0acd8b946a3b76e7a0016d629fe32264e0c5b37a86fd0e2c6dcc04a2"
     },
     {
-      "id": "p173",
+      "id": "p236",
       "result": "checked_unchanged",
-      "finding": "Beide Absätze geprüft; Altverbindlichkeiten unabhängig von Firmenwechsel und Drittunwirksamkeit entgegenstehender Eintrittsabrede richtig; § 176 zeitlich abgegrenzt.",
-      "official_doknr": "BJNR002190897BJNE020900300",
-      "commentary_sha256": "0a9f9b60107b01fa4652ec3a83e5a5a6527b34abba14b8b5c9c74f0a525a91cf"
+      "finding": "Beide Absätze geprüft: Einlage abzüglich Verlust und begrenzte Einzahlung zur Verlustdeckung; keine pauschale Aussonderung oder Gesamtfälligkeit behauptet.",
+      "official_doknr": "BJNR002190897BJNE022602307",
+      "commentary_sha256": "ff5bb212f8ba6f0954deb304109b1fb5949e3f06a2e9f40941e8504355e70f77"
     },
     {
-      "id": "p174",
+      "id": "p237",
       "result": "checked_unchanged",
-      "finding": "Eintragung als Außenwirksamkeitsschwelle und Schutz bereits begründeter Forderungen geprüft; Fälligkeit korrekt unterschieden.",
-      "official_doknr": "BJNR002190897BJNE021001360",
-      "commentary_sha256": "e3ce8adc234da137dea601983dfe262397c6104365bf6152ff0c86fcf2f19b78"
+      "finding": "Amtlich leeres Textfeld und Wegfallhinweis erhalten; keine historische Anfechtungsnorm als geltend rekonstruiert.",
+      "official_doknr": "BJNR002190897BJNE022702307",
+      "commentary_sha256": "96966598f3a41914d3a73fe7721bd78a4600cc3579a3021f5b681857bbe438d6"
     },
     {
-      "id": "p175",
+      "id": "p238",
       "result": "checked_unchanged",
-      "finding": "Anmeldung durch sämtliche Gesellschafter und Trennung von Haftsumme, interner Einlage, Antrag und Eintragung geprüft.",
-      "official_doknr": "BJNR002190897BJNE114400360",
-      "commentary_sha256": "f6ff153c39094ccad7275ab7016c4c8c204dd2b03884994bd598df15757b4bfb"
+      "finding": "Beide Absätze geprüft: sachverständiger Dritter, angemessene Zeit, Verfolgbarkeit und wortlautgetreue Handelsbriefwiedergabe zutreffend.",
+      "official_doknr": "BJNR002190897BJNE003300306",
+      "commentary_sha256": "0260af3a90c78ba166a7065ef48a59e41574dcd3b86ebc58b93a1161587d6eb5"
     },
     {
-      "id": "p176",
+      "id": "p239",
       "result": "checked_unchanged",
-      "finding": "Beide Absätze geprüft; handelsgewerblicher Zweck, Teilnahme, Zustimmung, Kenntnis und Zwischenphase bei Eintritt zutreffend; Beispiel setzt Zustimmung ausdrücklich voraus.",
-      "official_doknr": "BJNR002190897BJNE021202360",
-      "commentary_sha256": "d79d73509e93b70e7ddc0424fbac9ba0a334c08ccd6630824bb6fdb7c1ee97d4"
+      "finding": "Alle vier Absätze geprüft: lebende Sprache, Codes, zeitgerechte Ordnung, erkennbarer Ursprungsinhalt und Änderungen sowie Datenträgerlesbarkeit zutreffend.",
+      "official_doknr": "BJNR002190897BJNE003400306",
+      "commentary_sha256": "63eaa819936e76428cf4c495fc2d2f1d521e9dab85b91d92d80101656b3f2caf"
     },
     {
-      "id": "p177",
+      "id": "p240",
       "result": "checked_unchanged",
-      "finding": "Gesetzliche Erbenfortsetzung vorbehaltlich Vertrag geprüft; kein automatischer Übergang zur Komplementärhaftung behauptet; Register- und Erbfragen vorbehalten.",
-      "official_doknr": "BJNR002190897BJNE021301307",
-      "commentary_sha256": "46f31a9d67aec0efb77d7ce0f20507a91ef08c5741f0936acc8c1d6f8e21455d"
+      "finding": "Alle vier Absätze geprüft: Anfangs- und Jahresinventar, zwölfmonatige Höchstdauer, kumulative Festwertbedingungen und Gruppen-Durchschnittsbewertung zutreffend.",
+      "official_doknr": "BJNR002190897BJNE086500307",
+      "commentary_sha256": "2265c47d64b83fad5c0417a353d716163c081557fdde48d347c6742c36d1f455"
     },
     {
-      "id": "p177a",
+      "id": "p241",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze geprüft: gleichwertige statistische Methode, alternative Stichtagsfeststellung sowie Drei-/Zweimonatsfenster mit Fortschreibung oder Rückrechnung zutreffend.",
+      "official_doknr": "BJNR002190897BJNE003600306",
+      "commentary_sha256": "59c187b1c14047a9898ffe0702597be2f6ef8033b034d1806afa4337dd725285"
+    },
+    {
+      "id": "p241a",
+      "result": "checked_unchanged",
+      "finding": "Beide Schwellen und beide Stichtage sowie Neugründung, Einzelkaufmannsbezug und Verknüpfung zu § 242 Absatz 4 geprüft.",
+      "official_doknr": "BJNR002190897BJNE099803125",
+      "commentary_sha256": "5563f5786d9e6ffd4dd65b44d772095393fe5b666973c8736b39ce646976093c"
+    },
+    {
+      "id": "p242",
+      "result": "checked_unchanged",
+      "finding": "Alle vier Absätze geprüft: Eröffnung, Bilanz, GuV, Jahresabschlussdefinition und Einzelkaufmannsbefreiung richtig getrennt.",
+      "official_doknr": "BJNR002190897BJNE003701140",
+      "commentary_sha256": "a3b7b695c75f27fa34fdfe5b73c664212f517cdfdbb5641634f836b4c2aca01f"
+    },
+    {
+      "id": "p243",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze geprüft: GoB, Klarheit, Übersicht und geschäftsgangentsprechende Zeit; keine erfundene allgemeine Monatsfrist.",
+      "official_doknr": "BJNR002190897BJNE003800306",
+      "commentary_sha256": "1fc101912306140e86705f245293043af85295db8dd77dcfd9e46bbbad5e1050"
+    },
+    {
+      "id": "p244",
+      "result": "checked_unchanged",
+      "finding": "Sprache und Euro geprüft; von lebender Buchführungssprache und Währungsumrechnung nach § 256a sachgerecht getrennt.",
+      "official_doknr": "BJNR002190897BJNE088200307",
+      "commentary_sha256": "b942f2ed4736fe35dd9616dee65f8b31c203567666d283af0377ae1eb469b9ce"
+    },
+    {
+      "id": "p245",
       "result": "corrected",
-      "finding": "Beide Sätze und § 125 geprüft; Ausnahme für Personengesellschaften in der Haftungskette sowie Absatz 2 zu Vordrucken, Bestellscheinen und Zwangsgeld ergänzt.",
-      "official_doknr": "BJNR002190897BJNE021404360",
-      "commentary_sha256": "9d8b5a2a34b13d13a2a25299ff7b7d372cfb638cf34c1a45427cfe3128cd1769"
+      "finding": "Beide Sätze geprüft; alle persönlich Haftenden und Datumsangabe berücksichtigt; missverständliche Wortstellung zur protokollierten Zustimmung berichtigt.",
+      "official_doknr": "BJNR002190897BJNE004000306",
+      "commentary_sha256": "e6dc9a549e627e7ad69a8f05129ce43a839779a5abfed36184d9e8603abe5c4e"
     },
     {
-      "id": "p178",
-      "result": "checked_unchanged",
-      "finding": "Ausschluss allein des § 144 Abs. 1 geprüft; besondere Berufung nach Abs. 4 und fortbestehende Beteiligungsrechte zutreffend getrennt.",
-      "official_doknr": "BJNR002190897BJNE114900360",
-      "commentary_sha256": "b1959ddcbe8aef6d4ab4983607787de7cf1cfadaf4a54edffef66408a4812c62"
+      "id": "p246",
+      "result": "corrected",
+      "finding": "Alle drei Absätze geprüft; Schuldnerzuordnung und Firmenwertdefinition sowie Grundstücksrechte/-lasten und zwingende Verrechnung samt Aufwand/Ertrag ergänzt.",
+      "official_doknr": "BJNR002190897BJNE004105140",
+      "commentary_sha256": "e1aab74aae79beeab7bac985cdaa9bd6359a366eb91567d4341e4a3892430035"
     },
     {
-      "id": "p179",
+      "id": "p247",
       "result": "checked_unchanged",
-      "finding": "Beide Alternativen und Rechtskraftfolge geprüft; einziger Komplementär, dessen Insolvenz und eröffnete/begründet beantragte KG-Insolvenz korrekt kumuliert.",
-      "official_doknr": "BJNR002190897BJNE115000360",
-      "commentary_sha256": "eb1ba2582d678bd680a6ea81fb855fb1696dced83275fc8ab746b5dafbafd2b7"
+      "finding": "Beide operativen Absätze und weggefallener Absatz 3 geprüft; Zweckbestimmung statt bloßer Lebensdauer zutreffend.",
+      "official_doknr": "BJNR002190897BJNE004202140",
+      "commentary_sha256": "2ad99c34c94a130da6d01a6ede57dba7e07912d017196050fea5deb447a330fa"
     },
     {
-      "id": "p180-229",
-      "result": "checked_unchanged",
-      "finding": "Leere Sammelstelle §§ 180 bis 229 statt fünfzig rekonstruierter historischer Vorschriften geprüft; spezifische KG-Schlusscheckliste erhalten.",
-      "official_doknr": "BJNR002190897BJNE021602360",
-      "commentary_sha256": "98c8dcd5931df3ebe3eb6f21e1479414f4d14afb34c8bf4bb9b73a17a37d484a"
+      "id": "p248",
+      "result": "corrected",
+      "finding": "Alle Verbote und Wahlrecht geprüft; Vergleichbarkeitsklausel für immaterielle Werte ausdrücklich ergänzt; Forschungs-/Entwicklungsverweis zutreffend.",
+      "official_doknr": "BJNR002190897BJNE004302140",
+      "commentary_sha256": "4b7b25461dc51e8878da6a0a3bb8fb3be2d363d3f11f11603409c3b5b509ce6e"
     },
     {
-      "id": "p230",
+      "id": "p249",
       "result": "checked_unchanged",
-      "finding": "Beide Absätze geprüft; Einlageübergang und alleinige Außenberechtigung/-verpflichtung des Inhabers zutreffend; Beispiel keine zusätzliche Haftungsimmunität.",
-      "official_doknr": "BJNR002190897BJNE022001306",
-      "commentary_sha256": "e4fed907d8936d07906be5a28abee1234fce4e0a9b5d19c73abeebaae38df6d0"
+      "finding": "Beide Absätze geprüft; drei Monate für Instandhaltung von gesamtem Folgejahr für Abraumbeseitigung unterschieden; Kulanz und Auflösungsgrenze zutreffend.",
+      "official_doknr": "BJNR002190897BJNE004401140",
+      "commentary_sha256": "b4e1b83592c9dfe503e7832fba1ae769c06211ff5c0859dd8883a62f5f8e4411"
     },
     {
-      "id": "p231",
-      "result": "checked_unchanged",
-      "finding": "Beide Absätze geprüft; angemessene Ersatzquote, möglicher Verlustausschluss und zwingende Gewinnteilnahme zutreffend; keine erfundene Prozentquote.",
-      "official_doknr": "BJNR002190897BJNE022101306",
-      "commentary_sha256": "626f75023fef56ee3919e8069a8f335bb269d7d06568a18262350bcd9929d43a"
+      "id": "p250",
+      "result": "corrected",
+      "finding": "Alle drei Absätze geprüft; Zahlungsverkürzung der Ausgaben-/Einnahmenbegriffe korrigiert, verifizierten BFH-Hinweis mit zeitlichen und steuerlichen Grenzen ergänzt.",
+      "official_doknr": "BJNR002190897BJNE004501140",
+      "commentary_sha256": "0541283f2ed89e679470a9c76c5859510cdfcc16ab6fa48977ea66f32ea4b3c6"
     },
     {
-      "id": "p232",
-      "result": "checked_unchanged",
-      "finding": "Alle drei Absätze geprüft; Jahresabrechnung, Verlustgrenze, kein Gewinnrückruf allein wegen späterer Verluste, Verlustdeckung und keine automatische Einlageerhöhung zutreffend.",
-      "official_doknr": "BJNR002190897BJNE022201306",
-      "commentary_sha256": "c1afc770944da0240092343132ea2c22308d6ee2f2c81b059a5817dbdd7aa453"
+      "id": "p251",
+      "result": "corrected",
+      "finding": "Haftungskategorien, Passivierungsvorrang, Sammelbetrag und Rückgriff geprüft; besondere Anhangregel des § 268 Absatz 7 präzisiert.",
+      "official_doknr": "BJNR002190897BJNE004600306",
+      "commentary_sha256": "e744b24e3350312f31a8bd4af4d383109503c3bcd3f4c68e198b7e0bf9c3725f"
     }
   ],
-  "case_law_sources": [],
-  "case_search_log": "sources/research/case-search-p166-p232.json",
+  "case_law_sources": [
+    "cases/BFH-2023-IV-R-22-20.md"
+  ],
+  "case_search_log": "sources/research/case-search-p233-p251.json",
   "limitations": [
-    "Nur die 20 genannten Einheiten geprüft; keine Gesamtfreigabe oder externe anwaltliche Prüfung.",
-    "Selektive Rechtsprechungssuche; keine neue Entscheidung als Beleg übernommen. Ältere Treffer ohne vollständige Volltext- und Fassungsprüfung nicht als Autorität verwendet.",
-    "463 fehlende Kommentare außerhalb des Auftrags verhindern den vollständigen Build; die betroffenen vollständigen Kapitel werden als Teilcheckpoint erzeugt."
+    "Nur genau die 20 genannten Einheiten inhaltlich geprüft; keine Gesamtfreigabe oder externe anwaltliche Prüfung.",
+    "Selektive Rechtsprechungssuche; BFH-Volltext ausgewertet, ältere BGH-Treffer ohne Fassungsprüfung nicht als Autorität übernommen.",
+    "463 fehlende Kommentare außerhalb des Auftrags verhindern vollständigen Build und Gesamtvalidierung."
   ]
 }

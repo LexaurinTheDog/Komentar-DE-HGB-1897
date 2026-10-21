@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-21",
+  "scope": [
+    "p233",
+    "p234",
+    "p235",
+    "p236",
+    "p237",
+    "p238",
+    "p239",
+    "p240",
+    "p241",
+    "p241a",
+    "p242",
+    "p243",
+    "p244",
+    "p245",
+    "p246",
+    "p247",
+    "p248",
+    "p249",
+    "p250",
+    "p251"
+  ],
+  "searches": [
+    {
+      "provider": "official web search",
+      "query": "site.bundesgerichtshof.de stille Gesellschaft § 233 § 166 Informationsrecht",
+      "result": "Ältere BGH-Treffer zu vor MoPeG geltender Informationsordnung; nicht als aktueller Beleg übernommen."
+    },
+    {
+      "provider": "official web search",
+      "query": "site.bundesfinanzhof.de § 250 Rechnungsabgrenzung Ausgabe Zahlung",
+      "result": "BFH IV R 22/20 im amtlichen Volltext vollständig gelesen und abgelegt."
+    },
+    {
+      "provider": "local judicial manifest",
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "query": "Rechnungsabgrenz|stille Gesellschaft|Buchführung|Inventur",
+      "result": "rg: keine Treffer"
+    }
+  ],
+  "selected_cases": [
+    "cases/BFH-2023-IV-R-22-20.md"
+  ],
+  "limitations": "Selektiv; keine erschöpfende Abdeckung. Keine Aussage zur Nichtexistenz weiterer Entscheidungen."
+}

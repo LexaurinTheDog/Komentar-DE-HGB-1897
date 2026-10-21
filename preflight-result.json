@@ -168,5 +168,18 @@
     "historical_versions_checked": "814 eindeutige Normknoten, 696 eindeutige amtliche Kennungen, alle Texte verglichen. Intake erhalten; keine historischen Fassungen verkettet.",
     "annexes_checked": "117 Strukturknoten, 696 Normeinheiten und Kopfnorm ohne operativen Text. Keine eigene Anlage oder fehlende Eingangsformel; Sammelleerstellen erhalten.",
     "unresolved_blockers": []
+  },
+  "bounded_review_p233_p251": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T03:23:53.947650+00:00",
+    "http_status": 200,
+    "source_evidence": "sources/hgb-review-p233-p251.xml",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "version_evidence": "Identisch mit wirksamkeitsgeprüfter Fassung vom 19.10.; commencement.md, change-map.json und Artikel 64 BGBl. 2026 I Nr. 33 erneut gelesen; Änderungen 2026 von künftigen Änderungen 2028/2030 getrennt.",
+    "historical_versions_checked": "814 eindeutige Normknoten, 696 eindeutige amtliche Kennungen, alle Texte verglichen; Intake erhalten, keine Verkettung historischer Fassungen.",
+    "annexes_checked": "Alle XML-Knoten zugeordnet. Keine eigene operative Anlage oder fehlende Eingangsformel; Rechnungslegungsanhang ist keine Gesetzesanlage. Nachweis: sources/preflight-coverage.json.",
+    "unresolved_blockers": []
   }
 }
