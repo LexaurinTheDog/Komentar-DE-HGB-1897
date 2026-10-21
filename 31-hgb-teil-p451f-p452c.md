@@ -22,7 +22,7 @@
 
 Die Schadensanzeige hat beim Umzug schärfere Folgen als im allgemeinen Frachtrecht. Bei äußerlich erkennbaren Verlusten und Beschädigungen muss sie spätestens am Tag nach Ablieferung erfolgen; bei äußerlich nicht erkennbaren Schäden innerhalb von vierzehn Tagen. Bei Versäumung erlöschen die bezeichneten Ansprüche. Die bloße Beweisvermutung aus § 438 Abs. 1 und 2 wird damit ersetzt.
 
-Die Erkennbarkeit ist konkret zu beurteilen. Ein zerbrochenes offen übergebenes Möbelstück und ein erst beim Auspacken feststellbarer innerer Schaden müssen nicht dieselbe Anzeigefrist auslösen. Die Anzeige muss den Schaden hinreichend identifizierbar machen; Form und Wahrung der Frist sind im Zusammenhang mit § 438 zu prüfen. Die Vorschrift regelt Güterschäden, nicht unmittelbar die besonderen Anforderungen für eine Lieferfristüberschreitung.
+Die Erkennbarkeit ist konkret zu beurteilen. Ein zerbrochenes offen übergebenes Möbelstück und ein erst beim Auspacken feststellbarer innerer Schaden müssen nicht dieselbe Anzeigefrist auslösen. Die Anzeige muss den Schaden hinreichend identifizierbar machen; Nach Ablieferung verlangt § 438 Abs. 4 Textform; rechtzeitige Absendung wahrt die Frist. Bei Ablieferung genügt nach § 438 Abs. 5 die Anzeige gegenüber dem Abliefernden. Die Vorschrift regelt Güterschäden, nicht unmittelbar die besonderen Anforderungen für eine Lieferfristüberschreitung.
 
 Beim Verbraucherumzug ist vor Berufung auf das Erlöschen stets § 451g Nr. 2 zu prüfen. Fehlt die dort verlangte rechtzeitige Unterrichtung des Empfängers über Form, Frist und Folgen, kann sich der Frachtführer insoweit nicht auf die Ausschlussregel berufen. Die Anzeige ersetzt andererseits nicht die gesonderte Verjährungsprüfung nach § 439.
 
@@ -44,7 +44,7 @@ Beispiel: Am Ablieferungstag wird eine deutliche Delle am offen stehenden Kühls
 >
 > Die Unterrichtung nach Satz 1 Nr. 1 muß in drucktechnisch deutlicher Gestaltung besonders hervorgehoben sein.
 
-Verbraucher sollen die besonderen Haftungsrisiken vor Vertragsschluss und die kurzen Anzeigeanforderungen vor deren Ablauf verstehen können. Nummer 1 knüpft deshalb an die Unterrichtung bei Abschluss des Vertrags an: Sie muss die Haftungsbestimmungen und die Möglichkeiten weitergehender Haftung oder Versicherung erfassen. Diese Information ist drucktechnisch deutlich und besonders hervorgehoben zu gestalten. Ein unauffälliger Standardtext irgendwo im Formular erfüllt die gesetzliche Anforderung nicht allein durch seine Existenz.
+Die Verbraucherinformation muss bei Vertragsschluss die besonderen Haftungsrisiken und spätestens bei Ablieferung die kurzen Anzeigeanforderungen verständlich machen. Nummer 1 knüpft deshalb an die Unterrichtung bei Abschluss des Vertrags an: Sie muss die Haftungsbestimmungen und die Möglichkeiten weitergehender Haftung oder Versicherung erfassen. Diese Information ist drucktechnisch deutlich und besonders hervorgehoben zu gestalten. Ein unauffälliger Standardtext irgendwo im Formular erfüllt die gesetzliche Anforderung nicht allein durch seine Existenz.
 
 Unterbleibt diese Unterrichtung, können Frachtführer und Personen nach § 428 die bezeichneten Haftungsbefreiungen und Grenzen insoweit nicht geltend machen. Die Vorschrift schafft keinen von Schaden und sonstigen Anspruchsvoraussetzungen unabhängigen Zahlungsanspruch.
 
@@ -100,7 +100,7 @@ Die Regel erfasst Verlust, Beschädigung und das Ereignis, das die Lieferfristü
 
 Auch bei erfolgreicher Lokalisierung bleiben die besonderen Regeln über Anzeige und Verjährung in § 452b sowie gegebenenfalls § 452c zu beachten. Die Norm ersetzt nicht den Nachweis von Schadensumfang und weiteren Haftungsvoraussetzungen.
 
-Beispiel: Ein bei Übergabe an das Schiff erstelltes Protokoll dokumentiert eine bereits zuvor zerbrochene Maschine. Es kann den Eintritt auf der vorgelagerten Landstrecke stützen. Dass die Beschädigung erst beim endgültigen Empfänger genauer untersucht wird, verlagert das Schadensereignis nicht auf die letzte Strecke.
+Beispiel: Ein Protokoll dokumentiert die Beschädigung der zuvor unversehrten Maschine während der Lastwagenfahrt vor Erreichen des Hafens. Damit lässt sich das Ereignis der Landstrecke zuordnen. Eine erstmals bei Übergabe an das Schiff bemerkte Beschädigung würde dagegen für sich allein noch nicht zwischen Landfahrt und bereits zur Seestrecke gehörenden Umschlagsarbeiten im Hafen unterscheiden. Der spätere Entdeckungsort ersetzt den Nachweis des Ereignisorts nicht.
 Zur Abgrenzung transportnaher Tätigkeiten hat der BGH im Urteil vom 1. Dezember 2016 — I ZR 128/15, Rn. 24, 27–34, die Zuordnung nach dem hypothetischen Teilvertrag und den Nachweis anhand konkreter Indizien betont. Das vorbereitende Containerstauen im Hafenterminal wurde dort der Seestrecke zugeordnet. Der Fall betraf einen Vertrag von 2012; seine Aussagen zu alten seefrachtrechtlichen Haftungsgrenzen werden hier nicht auf heutige Fälle übertragen. [Fallkarte und Volltextnachweis](cases/bgh-I-ZR-128-15-p452a.md).
 
 ### § 452b — Schadensanzeige. Verjährung

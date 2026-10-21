@@ -122,11 +122,11 @@ Beispiel: Während Maschinen beim Frachtführer unterwegs sind, überträgt der 
 
 Die Vorschrift begrenzt die Vertragsfreiheit für die ausdrücklich aufgezählten Haftungsregeln. Absatz 1 verlangt grundsätzlich ein Aushandeln im Einzelnen; dies ist auch bei einer Vereinbarung für mehrere gleichartige Verträge derselben Parteien erforderlich. Eine unterschriebene Formularfassung belegt ein solches Aushandeln noch nicht. Brief- und briefähnliche Sendungen sind von dieser besonderen Bindung ausgenommen. Selbst eine ausgehandelte nachteilige Ladescheinklausel kann den bezeichneten Empfängern und Erwerbern nicht entgegengehalten werden.
 
-Absatz 2 lässt vorformulierte Güterschadensgrenzen zu: zwischen zwei und vierzig Rechnungseinheiten mit geeignetem Hinweis auf die Abweichung oder bei einer für den Verwender ungünstigeren Grenze als nach § 431 Abs. 1 und 2. Verwender kann auch der Absender sein; die Richtung der Begünstigung ist deshalb konkret festzustellen. Zusätzlich darf die Entschädigung des Absenders nach § 414 formularmäßig der Höhe nach beschränkt werden. Die Ausnahme erlaubt keine beliebige formularmäßige Änderung aller Haftungstatbestände.
+Absatz 2 lässt vorformulierte Güterschadensgrenzen zu: zwischen zwei und vierzig Rechnungseinheiten je Kilogramm des nach § 431 Abs. 1 und 2 maßgeblichen Rohgewichts mit geeignetem Hinweis auf die Abweichung oder bei einer für den Verwender ungünstigeren Grenze als nach § 431 Abs. 1 und 2. Verwender kann auch der Absender sein; die Richtung der Begünstigung ist deshalb konkret festzustellen. Zusätzlich darf die Entschädigung des Absenders nach § 414 formularmäßig der Höhe nach beschränkt werden. Die Ausnahme erlaubt keine beliebige formularmäßige Änderung aller Haftungstatbestände.
 
 Absatz 3 schützt den Verbraucherabsender grundsätzlich auch vor individuell ausgehandelten Nachteilen; die Briefausnahme bleibt. Absatz 4 erhält diese Schranken bei ausländischem Vertragsrecht für einen vertraglich vollständig innerdeutschen Transport.
 
-Beispiel: Ein Unternehmer vereinbart formularmäßig vier Rechnungseinheiten statt der gesetzlichen Gewichtsgrenze. Neben der wirksamen Einbeziehung ist der geeignete Abweichungshinweis zu prüfen. Gegenüber einem Verbraucher genügt die Bandbreite allein nicht, um dessen Schutz zu unterschreiten.
+Beispiel: Ein Unternehmer vereinbart formularmäßig vier Rechnungseinheiten je Kilogramm statt der gesetzlichen Gewichtsgrenze. Neben der wirksamen Einbeziehung ist der geeignete Abweichungshinweis zu prüfen. Gegenüber einem Verbraucher genügt die Bandbreite allein nicht, um dessen Schutz zu unterschreiten.
 
 ### § 450 — Anwendung von Seefrachtrecht
 
@@ -252,7 +252,7 @@ Die besonderen Umzugsrisiken ersetzen insoweit § 427. Absatz 1 erfasst sieben G
 
 Nummer 5 verlangt zusätzlich den vorherigen Hinweis auf die Beschädigungsgefahr und das Beharren des Absenders auf der Durchführung. Ein erst nach dem Schaden protokollierter Hinweis genügt nicht. Bei Nummern 2 und 3 ist wichtig, wer tatsächlich verpackt oder verladen hat; § 451a weist diese Leistungen teilweise gerade dem Frachtführer zu.
 
-Absatz 2 erleichtert den Ursachennachweis durch eine Vermutung, wenn der konkrete Schaden nach den Umständen aus der besonderen Gefahr entstehen konnte. Sie ersetzt weder den Nachweis der Gefahrumstände noch erlaubt sie, jede Beschädigung pauschal als Materialschwäche abzutun. Absatz 3 verlangt stets die nach den Umständen geschuldeten Maßnahmen und die Beachtung besonderer Weisungen. Hinzu kommen insbesondere §§ 435 und 451g.
+Absatz 2 erleichtert den Ursachennachweis durch eine widerlegliche Vermutung, wenn der konkrete Schaden nach den Umständen aus der besonderen Gefahr entstehen konnte. Sie ersetzt weder den Nachweis der Gefahrumstände noch erlaubt sie, jede Beschädigung pauschal als Materialschwäche abzutun. Absatz 3 verlangt stets die nach den Umständen geschuldeten Maßnahmen und die Beachtung besonderer Weisungen. Hinzu kommen insbesondere §§ 435 und 451g.
 
 Beispiel: Ein großer Schrank passt kaum durch das Treppenhaus. Nur wenn vorab auf die konkrete Gefahr hingewiesen wurde, der Absender dennoch darauf bestand und die gebotenen Schutzmaßnahmen eingehalten wurden, kann Nummer 5 die Entlastung tragen. Eine unnötig grobe Handhabung wird dadurch nicht freigestellt.
 

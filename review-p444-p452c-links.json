@@ -1,0 +1,36 @@
+{
+  "checked_local_links": 6,
+  "missing": [],
+  "links": [
+    {
+      "file": "31-hgb-teil-p451f-p452c.md",
+      "target": "cases/bgh-I-ZR-128-15-p452a.md",
+      "exists": true
+    },
+    {
+      "file": "cases/bgh-I-ZR-128-15-p452a.md",
+      "target": "../sources/bgh-I-ZR-128-15.md",
+      "exists": true
+    },
+    {
+      "file": "cases/bgh-I-ZR-128-15-p452a.md",
+      "target": "../sources/bgh-I-ZR-128-15.xml",
+      "exists": true
+    },
+    {
+      "file": "cases/bgh-I-ZR-128-15-p452a.md",
+      "target": "../sources/verification-case-p444-p452c.json",
+      "exists": true
+    },
+    {
+      "file": "cases/bgh-I-ZR-128-15-p452a.md",
+      "target": "../sources/BGH-review-p444-p452c.xml",
+      "exists": true
+    },
+    {
+      "file": "cases/bgh-I-ZR-128-15-p452a.md",
+      "target": "../sources/review-p444-p452c-fetch.json",
+      "exists": true
+    }
+  ]
+}

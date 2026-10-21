@@ -1,0 +1,123 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p444",
+    "p445",
+    "p446",
+    "p447",
+    "p448",
+    "p449",
+    "p450",
+    "p451",
+    "p451a",
+    "p451b",
+    "p451c",
+    "p451d",
+    "p451e",
+    "p451f",
+    "p451g",
+    "p451h",
+    "p452",
+    "p452a",
+    "p452b",
+    "p452c"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p444",
+      "result": "Alle drei Absätze geprüft: Übernahmevermutung mit § 409 Abs. 2/3 Satz 1, Gutglaubensausnahme, Sonderfall ausführender Frachtführer und alle drei Legitimationsformen korrekt; Urkundenbesitz und Berechtigung getrennt."
+    },
+    {
+      "id": "p445",
+      "result": "Alle drei Absätze: Ankunft, Zahlung über § 421 Abs. 2/3, Rückgabe mit Bescheinigung, Kenntnis/grobe Fahrlässigkeit und kausale Fehlablieferungshaftung mit Verlustgrenze geprüft. Kopienbeispiel trägt die Problematik."
+    },
+    {
+      "id": "p446",
+      "result": "Beide Absätze: ausschließliches Verfügungsrecht des legitimierten Besitzers, Vorlage statt endgültiger Rückgabe, Berechtigungskenntnis, kausale Haftung und Verlustgrenze geprüft."
+    },
+    {
+      "id": "p447",
+      "result": "Beide Absätze: alle drei Einwendungsgruppen, Verweisungsverbot für fremde Vereinbarungen und ausführender Frachtführer geprüft; kein selbständiger Haftungstatbestand behauptet."
+    },
+    {
+      "id": "p448",
+      "result": "Beide Sätze: Begebung/Übertragung, Besitzvoraussetzung und Gleichstellung mit Sachübergabe geprüft; übrige dingliche Erwerbsvoraussetzungen zutreffend offengelassen."
+    },
+    {
+      "id": "p449",
+      "result": "Alle vier Absätze und Formularalternativen geprüft. Gewichtsbezug präzisiert: zwei bis vierzig Rechnungseinheiten je Kilogramm des nach § 431 Abs. 1/2 maßgeblichen Rohgewichts. Verbraucher, Briefausnahme, Ladescheinschutz und innerdeutscher Transport getrennt."
+    },
+    {
+      "id": "p450",
+      "result": "Einheitliche Wasserbeförderung ohne Umladung und alternative Anknüpfungen Konnossement/überwiegende Seestrecke geprüft; keine kumulative Voraussetzung und keine Gleichsetzung von Ladeschein und Konnossement."
+    },
+    {
+      "id": "p451",
+      "result": "Umzugsgut, fortgeltendes allgemeines Frachtrecht und Vorrang spezieller/internationaler Regeln geprüft; gewerblicher Umzug vom Verbraucherstatus unterschieden."
+    },
+    {
+      "id": "p451a",
+      "result": "Beide Absätze: Möbelmontage und Ver-/Entladen für alle Umzüge, zusätzliche Verpackung/Kennzeichnung beim Verbraucher, Pflichtenverteilung und Gefahrentatbestände geprüft."
+    },
+    {
+      "id": "p451b",
+      "result": "Alle drei Absätze: Frachtbrieffreiheit, formfreie allgemeine Gefahrgutinformation samt Hinweispflicht und Zollinformation ohne Urkundenkontrollpflicht geprüft."
+    },
+    {
+      "id": "p451c",
+      "result": "Explizite leere amtliche Nummer als weggefallen geprüft und erhalten; keine frühere Absenderhaftung als heutiges Recht rekonstruiert."
+    },
+    {
+      "id": "p451d",
+      "result": "Alle sieben Gefahren, Ursächlichkeit, Einschränkung bei räumlichen Verhältnissen, Maßnahmen und Weisungen geprüft. Widerleglichkeit der Kausalitätsvermutung ausdrücklich ergänzt."
+    },
+    {
+      "id": "p451e",
+      "result": "620 Euro je erforderlichem Kubikmeter und Abgrenzung zu Fahrzeuggröße/Einzelstück sowie fehlende eigene Verspätungsgrenze geprüft. Rechenbeispiel 30 × 620 = 18.600 Euro korrekt."
+    },
+    {
+      "id": "p451f",
+      "result": "Beide Anzeigegruppen, Tag nach Ablieferung/vierzehn Tage und Erlöschen geprüft. Textform nach Ablieferung, rechtzeitige Absendung und Anzeige gegenüber Ablieferndem bei Übergabe nach § 438 Abs. 4/5 ausdrücklich ergänzt; § 451g und Verjährung getrennt."
+    },
+    {
+      "id": "p451g",
+      "result": "Beide Nummern und Gestaltungssatz geprüft. Einleitung korrigiert: Haftungsinformation bei Vertragsschluss, nicht bereits gesetzlich zwingend vor Vertragsschluss; Empfängerinformation spätestens bei Ablieferung davon getrennt. Sanktion und Adressaten korrekt."
+    },
+    {
+      "id": "p451h",
+      "result": "Alle drei Absätze geprüft: Verbraucherschutz für Frachtführer-/Absenderhaftung, Aushandeln bei anderen Absendern, beide Formularausnahmen, kein Import der §-449-Bandbreite und innerdeutsche Anknüpfung."
+    },
+    {
+      "id": "p452",
+      "result": "Einheitlicher Vertrag, verschiedene Verkehrsmittel, mindestens zwei unterschiedliche hypothetische Rechtsregime, Vorränge und Seeanteil geprüft; unbekannter Schadensort korrekt eingeordnet."
+    },
+    {
+      "id": "p452a",
+      "result": "Beide Sätze und BGH I ZR 128/15 vollständig geprüft. Beispiel korrigiert: erstmaliges Feststellen am Schiff beweist keine Landstrecke, da Hafenumschlag bereits Seestrecke sein kann. Nun konkretes Ereignis während Lkw-Fahrt vor Hafen; Beweislast und Grenzen alten Seefrachtrechts ausdrücklich erhalten."
+    },
+    {
+      "id": "p452b",
+      "result": "Beide Absätze: § 438 bei jeder Lokalisierung, alternative Anzeigeform/-frist der letzten Strecke, endgültige Empfängerablieferung und Mindestverjährung nach § 439 geprüft; keine pauschal identische Teilstreckenfrist behauptet."
+    },
+    {
+      "id": "p452c",
+      "result": "Beide Sätze: Umzugsregime als Ausgangspunkt und eingeschränkte §-452a-Verweisung nur für verbindliches internationales Übereinkommen geprüft; nationales Teilstreckenrecht nicht automatisch angewandt. Checkliste verweist korrekt auf außerhalb der Charge liegenden § 452d."
+    }
+  ],
+  "limitations": [
+    "Genau die 20 zugewiesenen Einheiten zweitgeprüft; keine Gesamtbuchfertigstellung.",
+    "Gesamtbuild und Gesamtvalidierung scheitern an 176 fehlenden Kommentaren außerhalb der Charge.",
+    "Selektive Rechtsprechung: vorhandener BGH I ZR 128/15 vollständig erneut gelesen; keine erschöpfende Folgeentscheidungsrecherche. Alte Haftungsgrenzen und ADSp 2003 nicht als heutiges Recht übernommen.",
+    "Aktualität anhand amtlichem XML-Wiederabruf und bewahrter Inkrafttretens-/Änderungsnachweise geprüft; keine lückenlose eigene BGBl-Jahresauswertung.",
+    "Keine externe fachliche Freigabe; technische Prüfungen beweisen keine juristische Fehlerfreiheit."
+  ],
+  "verified_at": "2026-10-21T05:57:01.390237+00:00",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "statutory_text_agreement": 1.0,
+  "coverage_evidence": "review-p444-p452c-coverage.json",
+  "full_book_complete": false,
+  "bounded_build_success": true
+}
