@@ -41,3 +41,6 @@ Der vollständige Normbestand steht in units.jsonl. Vorhandene Autorenbatches:
 - [Teilkapitel §§ 346–364](25-hgb-teil-p346-p364.md) — 20 Normeinheiten einschließlich § 354a und Leerstelle § 351.
 
 - [§§ 384–403: Kommissionsgeschäft](28-hgb-28-teil-p384-p403.md)
+
+- [§§ 404–406](28-hgb-teil-404-406.md)
+- [§§ 407–423](29-hgb-teil-407-423.md)

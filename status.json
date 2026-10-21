@@ -4,13 +4,13 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T05:05:58.619516+00:00",
+  "updated_at": "2026-10-21T05:30:37.720932+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
-  "completed_units": 420,
-  "remaining_units": 276,
-  "completed_scope": "§§ 1–364 einschließlich Buchstabenparagraphen und amtlicher Sammelleerstellen",
-  "next_unit": "p365",
+  "completed_units": 480,
+  "remaining_units": 216,
+  "completed_scope": "Durch § 423; frühere Prüfstände bleiben gesondert dokumentiert.",
+  "next_unit": "p424",
   "commentary_chars": 728305,
   "source_checks": {
     "official_xml_http": 200,
@@ -28,7 +28,8 @@
     "rechecked_at": "2026-10-21",
     "bounded_author_p340d_p341g": "sources/verification-p340d-p341g.json",
     "bounded_author_p341h_p342a": "sources/verification-p341h-p342a.json",
-    "bounded_author_p346_p364": "sources/verification-p346-p364.json"
+    "bounded_author_p346_p364": "sources/verification-p346-p364.json",
+    "bounded_author_p404_p423": "sources/verification-p404-p423.json"
   },
   "case_law_sources": [
     "BGH 2024-01-09 II ZR 220/22",
@@ -1190,5 +1191,140 @@
     ],
     "warnings": [],
     "ok": false
+  },
+  "bounded_batches": {
+    "p384-p403": {
+      "kind": "author",
+      "complete": true,
+      "assigned_ids": [
+        "p384",
+        "p385",
+        "p386",
+        "p387",
+        "p388",
+        "p389",
+        "p390",
+        "p391",
+        "p392",
+        "p393",
+        "p394",
+        "p395",
+        "p396",
+        "p397",
+        "p398",
+        "p399",
+        "p400",
+        "p401",
+        "p402",
+        "p403"
+      ],
+      "total_units": 20,
+      "completed_units": 20,
+      "stage": "drafted_technical_validation",
+      "stage_scope": "Nur zugewiesene Charge, keine Gesamtbuchfertigstellung",
+      "source_checks": "sources/verification-p384-p403.json; author-p384-p403-coverage.json",
+      "case_law_sources": [
+        "KORE300012017"
+      ],
+      "validation": {
+        "repo": "Komentar-DE-HGB-1897",
+        "units": 20,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 33139,
+        "errors": [],
+        "warnings": [],
+        "ok": true
+      },
+      "whole_book_validation": {
+        "repo": "Komentar-DE-HGB-1897",
+        "units": 696,
+        "verbatim_ratio": 1.0,
+        "commentary_chars": 797358,
+        "errors": [
+          "krátký/chybějící komentář u 236 jednotek: ['p404(0<120)', 'p405(0<400)', 'p406(0<400)', 'p407(0<400)', 'p408(0<400)', 'p409(0<400)', 'p410(0<400)', 'p411(0<400)']"
+        ],
+        "warnings": [],
+        "ok": false
+      },
+      "remaining_limitations": [
+        "Unabhängige Zweitprüfung der Charge steht aus.",
+        "Gesamtbuch enthält weiterhin 236 unkommentierte Einheiten außerhalb dieser Charge.",
+        "Selektive Rechtsprechungsrecherche, keine vollständige Abdeckung aller Normen."
+      ],
+      "completed_at": "2026-10-21T05:27:48.477401+00:00"
+    }
+  },
+  "bounded_author_p404_p423": {
+    "kind": "bounded_author",
+    "complete": true,
+    "assigned_ids": [
+      "p404",
+      "p405",
+      "p406",
+      "p407",
+      "p408",
+      "p409",
+      "p410",
+      "p411",
+      "p412",
+      "p413",
+      "p414",
+      "p415",
+      "p416",
+      "p417",
+      "p418",
+      "p419",
+      "p420",
+      "p421",
+      "p422",
+      "p423"
+    ],
+    "units_authored": 20,
+    "total_units": 696,
+    "completed_units": 480,
+    "remaining_units": 216,
+    "commentary_chars": {
+      "p404": 1181,
+      "p405": 1307,
+      "p406": 1603,
+      "p407": 1406,
+      "p408": 1580,
+      "p409": 1411,
+      "p410": 1454,
+      "p411": 1442,
+      "p412": 1679,
+      "p413": 1444,
+      "p414": 1495,
+      "p415": 1461,
+      "p416": 1447,
+      "p417": 1448,
+      "p418": 1516,
+      "p419": 1608,
+      "p420": 1600,
+      "p421": 1508,
+      "p422": 1442,
+      "p423": 1482
+    },
+    "statutory_text_agreement": 1.0,
+    "bounded_build_success": true,
+    "shared_build_success": false,
+    "full_book_complete": false,
+    "unresolved_blockers": [],
+    "limitations": [
+      "Unabhängige Zweitprüfung der Charge ausstehend.",
+      "Selektive Rechtsprechungsrecherche.",
+      "Technische Mindestlänge beweist keine juristische Qualität.",
+      "Vollbuch außerhalb des zugewiesenen Umfangs weiterhin unvollständig."
+    ],
+    "bounded_validation": {
+      "repo": "Komentar-DE-HGB-1897",
+      "units": 20,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 29514,
+      "errors": [],
+      "warnings": [],
+      "ok": true
+    },
+    "validation_scope": "Exactly 20 assigned units; whole-book completion not asserted."
   }
 }

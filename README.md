@@ -65,3 +65,5 @@ Zweitprüfung vom 21. Oktober 2026, ausschließlich §§ 365–383 einschließli
 ## Begrenzte Zweitprüfung §§ 384–403, 21. Oktober 2026
 
 Alle 20 zugewiesenen Einheiten einzeln gegen amtlichen Wortlaut geprüft. § 384 zur eigenständigen Kundenstammherausgabe und § 400 zu Kursarten und amtlicher Preisgrenze präzisiert. BGH I ZR 229/15 erneut im Volltext gelesen; historische Entscheidung nicht als umfassende aktuelle Rechtsprechung ausgegeben. [Einzelergebnisse](review-p384-p403.json), [Abdeckung](review-p384-p403-coverage.json), [Validierung der Charge](review-p384-p403-bounded-validation.json). Der Chargenneubau gelingt, der Wortlaut stimmt zu 100 % überein. Das Gesamtbuch bleibt wegen 236 fehlender Kommentare außerhalb dieser Charge unvollständig. Keine externe fachliche Freigabe.
+
+Autorencheckpoint §§ 404–423: 20 spezifische Kommentare; 480/696 Einheiten vorhanden. [Chargenbericht](author-p404-p423-result.json). Teilbuild erfolgreich, Gesamtbuch unvollständig; unabhängige Zweitprüfung ausstehend. Titelstichtag 19. Oktober 2026; amtlicher Wiederabruf unverändert.

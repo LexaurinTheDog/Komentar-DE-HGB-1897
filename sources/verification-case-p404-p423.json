@@ -1,0 +1,9 @@
+{
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE316262010.zip",
+  "http_status": 200,
+  "accessed_at": "2026-10-21T05:33:54.734149+00:00",
+  "xml_sha256": "3312d685917641bba138ff28df2156198c60f804c594cc0297f288266db08140",
+  "zip_sha256": "3a30cf43d39e9e120d5af413590f07e6fa3ff466b75e1edfe7456cbb3ba26d84",
+  "format_valid": true,
+  "rejected_attempt": "Direct .xml URL returned an items listing rather than decision full text; replaced with XML from official ZIP."
+}

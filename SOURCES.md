@@ -73,3 +73,5 @@ Charge §§ 346–364: [XML](sources/hgb-p346-p364.xml), [Abrufnachweis](sources
 Zweitprüfung §§ 346–364: [amtliches XML](sources/hgb-review-p346-p364.xml), [BGH-Volltext](sources/BGH-review-p346-p364.xml), [HTTP/Hashes](sources/review-p346-p364-fetch.json).
 
 Zweitprüfung §§ 365–383: [amtliches XML](sources/hgb-review-p365-p383.xml), [BGH-Volltext](sources/BGH-review-p365-p383.xml), [HTTP/Hashes](sources/review-p365-p383-fetch.json), [BGB-/WG-Verweisungen](sources/review-p365-p383-external.json).
+
+Charge §§ 404–423: [XML](sources/hgb-p404-p423.xml), [Abruf](sources/verification-p404-p423.json), [Suchprotokoll](sources/research/case-search-p404-p423.json), [BGH-Fallkarte](cases/BGH-2010-IZR37-09.md).

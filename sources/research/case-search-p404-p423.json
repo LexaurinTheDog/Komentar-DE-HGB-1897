@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-21T05:30:37.720932+00:00",
+  "assigned_ids": [
+    "p404",
+    "p405",
+    "p406",
+    "p407",
+    "p408",
+    "p409",
+    "p410",
+    "p411",
+    "p412",
+    "p413",
+    "p414",
+    "p415",
+    "p416",
+    "p417",
+    "p418",
+    "p419",
+    "p420",
+    "p421",
+    "p422",
+    "p423"
+  ],
+  "web_queries": [
+    "site.bundesgerichtshof.de \"§ 412\" \"Standgeld\"",
+    "site.bundesgerichtshof.de \"§ 421\" \"Absender\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_query": "§ 412|§ 421",
+  "fully_read": [
+    "KORE316262010: Tenor, Tatbestand und Entscheidungsgründe Rn. 1–19; amtliches XML und lokaler Intake"
+  ],
+  "accepted": [
+    "cases/BGH-2010-IZR37-09.md"
+  ],
+  "not_used": [
+    "I ZR 74/08",
+    "I ZR 119/19",
+    "I ZR 201/04"
+  ],
+  "limitations": "Selektive Recherche. Weitere Treffer nicht als gelesene Autoritäten übernommen. Für die übrigen Einheiten keine zusätzliche ausreichend geprüfte Entscheidung in dieser Charge aufgenommen."
+}
