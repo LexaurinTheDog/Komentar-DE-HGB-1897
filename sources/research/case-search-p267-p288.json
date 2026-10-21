@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-21",
+  "scope": [
+    "p267",
+    "p267a",
+    "p268",
+    "p269",
+    "p270",
+    "p271",
+    "p272",
+    "p273",
+    "p274",
+    "p274a",
+    "p275",
+    "p276",
+    "p277",
+    "p278",
+    "p279-283",
+    "p284",
+    "p285",
+    "p286",
+    "p287",
+    "p288"
+  ],
+  "queries": [
+    "site.rechtsprechung-im-internet.de \"§ 274\" \"HGB\"",
+    "site.rechtsprechung-im-internet.de \"§ 285\" \"HGB\" Anhang",
+    "site.rechtsprechung-im-internet.de HGB Anhang \"285\" \"286\"",
+    "site.bundesgerichtshof.de \"272 Abs. 5\"",
+    "site.bundesfinanzhof.de \"274\" \"latente\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search": "rg -l -g *.md: Paragraphen 285/286 mit HGB sowie § 285 Satz 1 Nr. 9; zusätzlich breiter Suchlauf §§ 272/274/285/286",
+  "local_precise_results": [
+    "KORE305232010",
+    "KVRE419681701"
+  ],
+  "full_text_verified": "KORE305232010, BGH 21.01.2010 Xa ZR 175/07, Rn. 1–25; amtliches ZIP erneut geladen und XML formatgeprüft",
+  "rejected": "KVRE419681701: Verlustabzugs-/Verfassungsrechtsentscheidung, keine Autorität für den aktuellen Anhangkatalog; nur Suchtrefferprüfung, keine vollständige Lektüre behauptet.",
+  "limits": "Selektive Suche, keine erschöpfende Abdeckung. Keine weitere hinreichend relevante amtliche Entscheidung für die übrigen zugewiesenen Vorschriften verifiziert. Suchsnippets und kommerzielle Kommentierungen nicht als Autorität verwendet."
+}

@@ -1,10 +1,10 @@
 # Kommentar zum Handelsgesetzbuch
 
-**Unvollständiger Arbeitsentwurf vom 19. Oktober 2026.** Ausgearbeitet sind 240 von 696 amtlichen Normeinheiten: das gesamte Erste und Zweite Buch sowie der Erste Abschnitt des Dritten Buchs, §§ 1–263 einschließlich der amtlichen Sammelleerstellen. Zusätzlich sind §§ 264–266 kommentiert; ab § 267 fehlen noch 456 Kommentare. Dieser Teilstand ist kein fertiges Gesamtmanuskript.
+**Unvollständiger Arbeitsentwurf vom 19. Oktober 2026.** Ausgearbeitet sind 260 von 696 amtlichen Normeinheiten: das gesamte Erste und Zweite Buch sowie der Erste Abschnitt des Dritten Buchs, §§ 1–263 einschließlich der amtlichen Sammelleerstellen. Zusätzlich sind §§ 264–288 kommentiert; ab § 289 fehlen noch 436 Kommentare. Dieser Teilstand ist kein fertiges Gesamtmanuskript.
 
 Gegenstand des Gesamtprojekts ist das gesamte Handelsgesetzbuch vom 10. Mai 1897 (RGBl. S. 219), mit allen fünf Büchern, erhaltenen leeren und weggefallenen Stellen. Die 696 Normeinheiten und 117 Gliederungsknoten sind vollständig aus amtlichem XML extrahiert; die Intake-Zahl 813 zählt beide Kategorien zusammen. Gruppen wie §§ 180–229 bleiben als amtliche Sammelstelle erhalten und werden nicht als fünfzig gegenwärtig operative Vorschriften ausgegeben. Das EGHGB ist ein gesondertes Gesetz und wird nicht in das HGB eingemischt.
 
-Der lesbare Teilstand enthält 15 vollständige Kommentarkapitel. Die Gesamtgliederung sieht 44 Kapitel vor. [INDEX](INDEX.md) und [Einleitung](00-einleitung.md) erschließen den vorhandenen Text. [Bearbeitungsstatus](status.json), [Autorenkontrolle](REVIEW.md) und [Quellennachweise](SOURCES.md) zeigen die Grenzen.
+Der lesbare Teilstand enthält 16 vollständige Kommentarkapitel und ein Teilkapitel (§§ 287–288). Die Gesamtgliederung sieht 44 Kapitel vor. [INDEX](INDEX.md) und [Einleitung](00-einleitung.md) erschließen den vorhandenen Text. [Bearbeitungsstatus](status.json), [Autorenkontrolle](REVIEW.md) und [Quellennachweise](SOURCES.md) zeigen die Grenzen.
 
 ## Gesetzesstand und Quellen
 
@@ -18,7 +18,7 @@ Der Gesetzeswortlaut wird mechanisch aus amtlichem XML übernommen; `_parse.py` 
 
 Die vorhandenen Erläuterungen sind eigenständige deutsche Texte mit konkreten Tatbestandsunterscheidungen, systematischen Bezügen, fiktiven Beispielen und praktischen Prüflisten. Verifizierte Rechtsprechung wird selektiv verwendet, nicht als erschöpfende Rechtsprechungsübersicht. Die [Fallkarten](cases/INDEX.md) dokumentieren vollständige amtliche Entscheidungen, tragende Randnummern und Grenzen. Besonders § 75 Absatz 3 zeigt, warum der Abdruck eines Gesetzestexts nicht dessen unbesehene Anwendbarkeit beweist.
 
-Die Quellenabdeckung beträgt 696/696 ohne fehlende oder doppelte Kennung. Der Wortlaut stimmt zu 100 % mit der kanonischen Quelle und auf Zeichenebene ohne Leerraum mit dem amtlichen XML überein. Diese technischen Befunde beweisen weder die Vollständigkeit der Kommentierung noch juristische Fehlerfreiheit. Der gemeinsame Vollständigkeits-Build und die strenge Gesamtvalidierung bleiben wegen der 456 fehlenden Kommentare erfolglos. Es gab keine unabhängige Zweitprüfung und keine externe fachliche Freigabe.
+Die Quellenabdeckung beträgt 696/696 ohne fehlende oder doppelte Kennung. Der Wortlaut stimmt zu 100 % mit der kanonischen Quelle und auf Zeichenebene ohne Leerraum mit dem amtlichen XML überein. Diese technischen Befunde beweisen weder die Vollständigkeit der Kommentierung noch juristische Fehlerfreiheit. Der gemeinsame Vollständigkeits-Build und die strenge Gesamtvalidierung bleiben wegen der 436 fehlenden Kommentare erfolglos. Es gab keine unabhängige Zweitprüfung und keine externe fachliche Freigabe.
 
 ## Rechte und Nutzung
 
@@ -29,3 +29,5 @@ Der Entwurf wird im vorhandenen Bearbeitungsstand bereitgestellt und ersetzt kei
 Quellen- und Parsernachprüfung vom 21. Oktober 2026: Die amtlichen Wiederabrufe sind mit dem Bestand vom 19. Oktober identisch. Sieben Sammelleerstellen tragen jetzt ihre exakte amtliche Bezeichnung einschließlich `(XXXX)`. [Preflight-Ergebnis](preflight-result.json) und [Knotenabdeckung](sources/preflight-coverage.json) dokumentieren auch Kopfnorm, Rechnungslegungsanhang und fehlende eigene Gesetzesanlagen. Der Bearbeitungsstichtag bleibt unverändert.
 
 Neuer Teilstand vom 21. Oktober 2026: [§§ 264–266](16-hgb-16-teil-p264-p266.md), sieben zusätzliche Kommentare; [Chargenprüfung](author-p264-p266-result.json).
+
+Charge §§ 267–288 vom 21. Oktober 2026: 20 zusätzliche Kommentare in [Kapitel 16](16-hgb-16.md) und [Teilkapitel 17](17-hgb-17-teil-p287-p288.md); [Chargenprüfung](author-p267-p288-result.json). Kapitel 16 ist damit vollständig, Kapitel 17 nur bis § 288 ausgearbeitet.

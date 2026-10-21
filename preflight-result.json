@@ -204,5 +204,15 @@
     "historical_versions_checked": "814 eindeutige Normknoten, 696 amtliche Kennungen und sämtliche Texte erneut verglichen; Intake erhalten, keine historischen Versionen verkettet.",
     "annexes_checked": "814 Knoten vollständig zugeordnet; keine eigenständige Anlage oder ausgelassene operative Eingangsformel. § 262 bleibt leere amtliche Einheit. Rechnungslegungsanhang ist keine Gesetzesanlage.",
     "unresolved_blockers": []
+  },
+  "bounded_author_p267_p288": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T03:36:38.517352+00:00",
+    "version_evidence": "Wiederabruf identisch mit maßgeblichem XML; sources/commencement.md gelesen: 2026 wirksame Änderungen von 2028/2030 getrennt. Standvermerk allein nicht als Wirksamkeitsbeweis verwendet.",
+    "historical_versions_checked": "Keine historischen Doppelkennungen oder Verkettung; Originalintake und amtliche Fassungen bleiben erhalten. 696 eindeutige amtliche Normen und vollständiger Wortlaut erneut abgeglichen.",
+    "annexes_checked": "Vorhandene vollständige XML-Knotendisposition sources/preflight-coverage.json geprüft: 117 Strukturknoten, eine nichtoperative Kopfnorm, keine eigene operative Gesetzesanlage oder fehlende Eingangsformel; Anhang §§ 284 ff. ist ein Rechnungslegungsbestandteil.",
+    "unresolved_blockers": []
   }
 }

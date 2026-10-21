@@ -1,0 +1,111 @@
+{
+  "kind": "author",
+  "complete": true,
+  "assigned_ids": [
+    "p267",
+    "p267a",
+    "p268",
+    "p269",
+    "p270",
+    "p271",
+    "p272",
+    "p273",
+    "p274",
+    "p274a",
+    "p275",
+    "p276",
+    "p277",
+    "p278",
+    "p279-283",
+    "p284",
+    "p285",
+    "p286",
+    "p287",
+    "p288"
+  ],
+  "completed_ids": [
+    "p267",
+    "p267a",
+    "p268",
+    "p269",
+    "p270",
+    "p271",
+    "p272",
+    "p273",
+    "p274",
+    "p274a",
+    "p275",
+    "p276",
+    "p277",
+    "p278",
+    "p279-283",
+    "p284",
+    "p285",
+    "p286",
+    "p287",
+    "p288"
+  ],
+  "units_authored": 20,
+  "total_units": 696,
+  "completed_units": 260,
+  "remaining_units": 436,
+  "commentary_chars": {
+    "p267": 2221,
+    "p267a": 2069,
+    "p268": 2749,
+    "p269": 786,
+    "p270": 1729,
+    "p271": 1981,
+    "p272": 2543,
+    "p273": 768,
+    "p274": 2299,
+    "p274a": 2098,
+    "p275": 2531,
+    "p276": 1728,
+    "p277": 2236,
+    "p278": 789,
+    "p279-283": 1448,
+    "p284": 3011,
+    "p285": 5506,
+    "p286": 2328,
+    "p287": 808,
+    "p288": 2966
+  },
+  "statutory_text_agreement": 1.0,
+  "official_identifiers": 696,
+  "missing_official_identifiers": [],
+  "duplicate_ids": [],
+  "exact_repeated_paragraphs": [],
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "case_cards": [
+    "cases/BGH-2010-Xa-ZR-175-07.md"
+  ],
+  "shared_build_success": false,
+  "build_evidence": "author-p267-p288-build.txt",
+  "validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 696,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 372372,
+    "errors": [
+      "krátký/chybějící komentář u 436 jednotek: ['p289(0<400)', 'p289a(0<400)', 'p289b(0<400)', 'p289c(0<400)', 'p289d(0<400)', 'p289e(0<400)', 'p289f(0<400)', 'p290(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "full_book_complete": false,
+  "limitations": [
+    "Nur die 20 zugewiesenen Einheiten neu kommentiert; keine unabhängige Zweitprüfung.",
+    "Selektive Rechtsprechung: eine vollständig gelesene und amtlich erneut gesicherte Entscheidung; historische Normfassungen nicht als heutiges Detailrecht übernommen.",
+    "436 weitere Kommentare fehlen; Gesamtbuild und Gesamtvalidierung bleiben entsprechend erfolglos."
+  ],
+  "link_check": {
+    "checked_local_markdown_links": 195,
+    "missing": [],
+    "ok": true,
+    "scope": "Lokale Markdown-Dateiverknüpfungen; keine behauptete Erreichbarkeitsprüfung sämtlicher aus amtlichen Quellen übernommener externer URLs."
+  },
+  "placeholder_scan": {
+    "matches": []
+  }
+}

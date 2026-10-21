@@ -20,3 +20,6 @@ Der vollständige Normbestand steht in units.jsonl. Vorhandene Autorenbatches:
 [Status](status.json) · [Quellen](SOURCES.md) · [Autorenkontrolle](REVIEW.md)
 
 - [Teilkapitel 16: §§ 264–266](16-hgb-16-teil-p264-p266.md) — sieben zusätzliche Kommentare; ab § 267 bleiben 456 Einheiten offen.
+
+- [Kapitel 16 §§ 264–286](16-hgb-16.md) — vollständig kommentiert.
+- [Teilkapitel 17 §§ 287–288](17-hgb-17-teil-p287-p288.md) — ab § 289 fehlen noch 436 Kommentare.

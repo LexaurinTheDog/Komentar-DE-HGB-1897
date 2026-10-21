@@ -4,14 +4,14 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T03:31:13.462322+00:00",
+  "updated_at": "2026-10-21T03:43:16.718704+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
-  "completed_units": 240,
-  "remaining_units": 456,
-  "completed_scope": "§§ 1–266 einschließlich der Sammelleerstellen; sieben neue Kommentare §§ 264–266",
-  "next_unit": "p267",
-  "commentary_chars": 327205,
+  "completed_units": 260,
+  "remaining_units": 436,
+  "completed_scope": "§§ 1–288 einschließlich Buchstabenparagraphen und amtlicher Sammelleerstellen; Charge p267–p288 mit genau 20 neuen Kommentaren",
+  "next_unit": "p289",
+  "commentary_chars": 372372,
   "source_checks": {
     "official_xml_http": 200,
     "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
@@ -30,27 +30,29 @@
   "case_law_sources": [
     "BGH 2024-01-09 II ZR 220/22",
     "BGH 2013-12-17 II ZR 140/13 (Hinweisbeschluss)",
-    "BAG 2015-07-07 10 AZR 260/14"
+    "BAG 2015-07-07 10 AZR 260/14",
+    "BGH 2010-01-21 Xa ZR 175/07"
   ],
-  "case_law_coverage": "Selektiv; drei amtliche Volltexte gelesen. Keine umfassende Rechtsprechungsübersicht.",
+  "case_law_coverage": "Selektive Recherche; Nachweise und Umfang je Fallkarte und Chargenprotokoll, keine erschöpfende Übersicht.",
   "build_result": {
     "success": false,
-    "evidence": "build-result.json"
+    "evidence": "author-p267-p288-build.txt",
+    "reason": "436 fehlende Kommentare außerhalb dieser Charge"
   },
   "validation_result": {
     "repo": "Komentar-DE-HGB-1897",
     "units": 696,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 327205,
+    "commentary_chars": 372372,
     "errors": [
-      "krátký/chybějící komentář u 456 jednotek: ['p267(0<400)', 'p267a(0<400)', 'p268(0<400)', 'p269(0<120)', 'p270(0<400)', 'p271(0<400)', 'p272(0<400)', 'p273(0<120)']"
+      "krátký/chybějící komentář u 436 jednotek: ['p289(0<400)', 'p289a(0<400)', 'p289b(0<400)', 'p289c(0<400)', 'p289d(0<400)', 'p289e(0<400)', 'p289f(0<400)', 'p290(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
   "independent_second_pass": false,
   "unresolved_blockers": [
-    "Die Originalkommentierung zu 463 Normeinheiten ab § 264 ist noch nicht geschrieben. Dies ist offene Autorenarbeit, kein Quellenbeschaffungsfehler."
+    "436 noch nicht geschriebene Kommentare ab p289 außerhalb dieser Charge."
   ],
   "remaining_limitations": [
     "Gesamtmanuskript unvollständig; kein Abschlussstatus.",
@@ -64,9 +66,9 @@
     "github_writes": false,
     "messages_sent": false
   },
-  "output_type": "Ausdrücklich unvollständiger lesbarer Export der 15 vollständig kommentierten Kapitel",
+  "output_type": "Unvollständiger lesbarer Export: 16 vollständige Kapitel und Teilkapitel 17 §§ 287–288",
   "link_check": {
-    "checked_local_markdown_links": 103,
+    "checked_local_markdown_links": 195,
     "missing": [],
     "ok": true,
     "scope": "Lokale Markdown-Dateiverknüpfungen; keine behauptete Erreichbarkeitsprüfung sämtlicher aus amtlichen Quellen übernommener externer URLs."
@@ -222,5 +224,116 @@
       "Lokaler nationaler Rechtsprechungskorpus für diese Einheit nicht erschlossen; amtlicher NRWE-Volltext verwendet.",
       "456 weitere Kommentare fehlen; strenge Gesamtvalidierung bleibt erfolglos."
     ]
+  },
+  "bounded_author_p267_p288": {
+    "kind": "author",
+    "complete": true,
+    "assigned_ids": [
+      "p267",
+      "p267a",
+      "p268",
+      "p269",
+      "p270",
+      "p271",
+      "p272",
+      "p273",
+      "p274",
+      "p274a",
+      "p275",
+      "p276",
+      "p277",
+      "p278",
+      "p279-283",
+      "p284",
+      "p285",
+      "p286",
+      "p287",
+      "p288"
+    ],
+    "completed_ids": [
+      "p267",
+      "p267a",
+      "p268",
+      "p269",
+      "p270",
+      "p271",
+      "p272",
+      "p273",
+      "p274",
+      "p274a",
+      "p275",
+      "p276",
+      "p277",
+      "p278",
+      "p279-283",
+      "p284",
+      "p285",
+      "p286",
+      "p287",
+      "p288"
+    ],
+    "units_authored": 20,
+    "total_units": 696,
+    "completed_units": 260,
+    "remaining_units": 436,
+    "commentary_chars": {
+      "p267": 2221,
+      "p267a": 2069,
+      "p268": 2749,
+      "p269": 786,
+      "p270": 1729,
+      "p271": 1981,
+      "p272": 2543,
+      "p273": 768,
+      "p274": 2299,
+      "p274a": 2098,
+      "p275": 2531,
+      "p276": 1728,
+      "p277": 2236,
+      "p278": 789,
+      "p279-283": 1448,
+      "p284": 3011,
+      "p285": 5506,
+      "p286": 2328,
+      "p287": 808,
+      "p288": 2966
+    },
+    "statutory_text_agreement": 1.0,
+    "official_identifiers": 696,
+    "missing_official_identifiers": [],
+    "duplicate_ids": [],
+    "exact_repeated_paragraphs": [],
+    "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "case_cards": [
+      "cases/BGH-2010-Xa-ZR-175-07.md"
+    ],
+    "shared_build_success": false,
+    "build_evidence": "author-p267-p288-build.txt",
+    "validation": {
+      "repo": "Komentar-DE-HGB-1897",
+      "units": 696,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 372372,
+      "errors": [
+        "krátký/chybějící komentář u 436 jednotek: ['p289(0<400)', 'p289a(0<400)', 'p289b(0<400)', 'p289c(0<400)', 'p289d(0<400)', 'p289e(0<400)', 'p289f(0<400)', 'p290(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "full_book_complete": false,
+    "limitations": [
+      "Nur die 20 zugewiesenen Einheiten neu kommentiert; keine unabhängige Zweitprüfung.",
+      "Selektive Rechtsprechung: eine vollständig gelesene und amtlich erneut gesicherte Entscheidung; historische Normfassungen nicht als heutiges Detailrecht übernommen.",
+      "436 weitere Kommentare fehlen; Gesamtbuild und Gesamtvalidierung bleiben entsprechend erfolglos."
+    ],
+    "link_check": {
+      "checked_local_markdown_links": 195,
+      "missing": [],
+      "ok": true,
+      "scope": "Lokale Markdown-Dateiverknüpfungen; keine behauptete Erreichbarkeitsprüfung sämtlicher aus amtlichen Quellen übernommener externer URLs."
+    },
+    "placeholder_scan": {
+      "matches": []
+    }
   }
 }

@@ -47,3 +47,5 @@ Prüfgruppe §§ 233–251: [XML-Abruf](sources/review-p233-p251-fetch.json), [F
 Quellen der Charge §§ 264–266: [amtliches XML](sources/hgb-author-p264-p266.xml), [Fallkarte OLG Köln](cases/OLG-Koeln-2023-28-Wx-21-22.md), [Suchprotokoll](sources/research/case-search-p264-p266.json).
 
 Prüfgruppe §§ 252–266: [amtlicher erneuter XML-Abruf](sources/review-p252-p266-fetch.json), [XML](sources/hgb-review-p252-p266.xml), [Einzelprüfung](review-p252-p266.json), [Abdeckungsnachweis](review-p252-p266-coverage.json), [vorhandene selektive Fallrecherche](sources/research/case-search-p264-p266.json), [erneut geprüfter OLG-Volltext mit Fallkarte](cases/OLG-Koeln-2023-28-Wx-21-22.md).
+
+Charge §§ 267–288: [amtlicher Wiederabruf](sources/hgb-author-p267-p288.xml), [Verifikation](sources/verification-p267-p288.json), [Rechtsprechungssuche einschließlich lokalem Korpus](sources/research/case-search-p267-p288.json), [Fallkarte BGH Xa ZR 175/07](cases/BGH-2010-Xa-ZR-175-07.md).

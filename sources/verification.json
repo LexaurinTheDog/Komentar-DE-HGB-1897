@@ -473,6 +473,26 @@
       "format_valid": true,
       "expected_format": "official XML from valid ZIP",
       "same_effective_source": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-21T03:36:38.517352+00:00",
+      "http_status": 200,
+      "path": "sources/hgb-author-p267-p288.xml",
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "zip_sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "format_valid": true,
+      "scope": "p267–p288 authoring checkpoint",
+      "prior_xml_identical": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE305232010.zip",
+      "path": "sources/BGH-2010-Xa-ZR-175-07.zip",
+      "accessed_at": "2026-10-21T03:41:40.169745+00:00",
+      "http_status": 200,
+      "sha256": "0f8ad4fede4dc19c78b279b189b3a6f7853f93bf710110349fc2b79e2077ea52",
+      "xml_sha256": "25273572528c31ad1fc776942e63400c34ff2cd2aaa112c20bf78530e28b1527",
+      "format_valid": true
     }
   ],
   "version_information": {
