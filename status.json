@@ -62,8 +62,14 @@
     "chapters": 44
   },
   "validation_result": {
-    "evidence": "final-validation.json",
-    "state": "Check executed after local export commit."
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 696,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1205646,
+    "errors": [],
+    "warnings": [],
+    "ok": true,
+    "evidence": "final-validation.json"
   },
   "batch_review": {
     "complete": true,
@@ -91,5 +97,6 @@
     "pushed": false,
     "github_writes": false,
     "messages_sent": false
-  }
+  },
+  "output_type": "Vollständig zusammengestellter Arbeitsentwurf aus 35 geprüften Chargen"
 }
