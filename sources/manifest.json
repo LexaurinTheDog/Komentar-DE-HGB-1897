@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:05:03.184454+00:00",
+  "generated_at": "2026-10-21T02:51:01.109654+00:00",
   "files": [
     {
       "path": "sources/BAG-10-AZR-260-14.pdf",
@@ -23,6 +23,15 @@
       "origin": "direct_http_response",
       "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
       "accessed_at": "2026-10-19T19:29:15.640744+00:00",
+      "http_status": 200
+    },
+    {
+      "path": "sources/aktualitaet-2026-10-21.html",
+      "bytes": 75210,
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "origin": "direct_http_response",
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-21T02:49:04.756800+00:00",
       "http_status": 200
     },
     {
@@ -111,8 +120,8 @@
     },
     {
       "path": "sources/commencement.md",
-      "bytes": 2620,
-      "sha256": "27aae043bcacd488af44b1407f4d11de44ddf0b403ab1464e5c9e57a2a363c5c",
+      "bytes": 3357,
+      "sha256": "571c21d1bc6a9408393da0f58809c02ee008e93fe41236149db14fd6edf5d4b8",
       "origin": "derived_evidence_or_documentation"
     },
     {
@@ -137,9 +146,24 @@
       "http_status": 200
     },
     {
+      "path": "sources/hgb-2026-10-21.xml",
+      "bytes": 1120900,
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "origin": "derived_evidence_or_documentation"
+    },
+    {
+      "path": "sources/hgb-2026-10-21.zip",
+      "bytes": 218961,
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "origin": "direct_http_response",
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-21T02:49:02.266092+00:00",
+      "http_status": 200
+    },
+    {
       "path": "sources/hgb-canonical.md",
-      "bytes": 835138,
-      "sha256": "17a087db86f00c3cf7880a5f818c01dc0c2de8c66d34761f3387492735cfc7ec",
+      "bytes": 835187,
+      "sha256": "f27c7b94137f75b4adb61234c0cdde5004646cd6773a47912461b083edfa89aa",
       "origin": "derived_evidence_or_documentation"
     },
     {
@@ -152,6 +176,15 @@
       "http_status": 200
     },
     {
+      "path": "sources/hgb-full-2026-10-21.html",
+      "bytes": 1355853,
+      "sha256": "87685f8f870b2c19d9787e251222ff6d448ae426408acb56791429cf1b73c87e",
+      "origin": "direct_http_response",
+      "url": "https://www.gesetze-im-internet.de/hgb/BJNR002190897.html",
+      "accessed_at": "2026-10-21T02:49:04.605296+00:00",
+      "http_status": 200
+    },
+    {
       "path": "sources/hgb-index-2026-10-19.html",
       "bytes": 139611,
       "sha256": "810430435a9544bd9249cfb2d8ff09442deaa3c4211a2e5e0002c0715c41bcc0",
@@ -161,10 +194,25 @@
       "http_status": 200
     },
     {
+      "path": "sources/hgb-index-2026-10-21.html",
+      "bytes": 139611,
+      "sha256": "810430435a9544bd9249cfb2d8ff09442deaa3c4211a2e5e0002c0715c41bcc0",
+      "origin": "direct_http_response",
+      "url": "https://www.gesetze-im-internet.de/hgb/",
+      "accessed_at": "2026-10-21T02:49:02.577265+00:00",
+      "http_status": 200
+    },
+    {
       "path": "sources/intake-2026-10-01.md",
       "bytes": 842097,
       "sha256": "98eab8061d2d34ad9276c296082299c5951b1599738134cf80bafb724bf05f77",
       "origin": "unaltered_local_intake_copy"
+    },
+    {
+      "path": "sources/preflight-coverage.json",
+      "bytes": 182473,
+      "sha256": "7bbfe8b46c022e72088bc9fc46bb561281b5f37b85cabb43bd9a11439a5c14b9",
+      "origin": "derived_evidence_or_documentation"
     },
     {
       "path": "sources/research/BAG-10-AZR-260-14.md",
@@ -230,6 +278,13 @@
       "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
     },
     {
+      "path": "sources/research/preflight-2026-10-21-search.json",
+      "bytes": 15009,
+      "sha256": "3a5776d5f992b0db0a5a304dc30ae59a9abcd198ff8e2d8bb9aba1ca7dbf5126",
+      "origin": "research_search_or_web_extraction",
+      "limits": "Suchtreffer sind keine selbständig verifizierten Entscheidungsgründe."
+    },
+    {
       "path": "sources/search-log.json",
       "bytes": 2077,
       "sha256": "8c04f5805d83e88d60cf0934ff4969ed623f82f849623c2299cdbb1d32efa298",
@@ -243,8 +298,8 @@
     },
     {
       "path": "sources/verification.json",
-      "bytes": 6661,
-      "sha256": "56feba6c2ecdcd69389332b33b1663c820bc3b7938436c1db3c11bc3a2a2f64c",
+      "bytes": 10602,
+      "sha256": "10da59d0fbd63a6bc87be7a7d7822b215bffb17495eb3600dec0c616e779cfc0",
       "origin": "derived_evidence_or_documentation"
     }
   ]

@@ -389,7 +389,7 @@ Geschäftsanschrift der Zweigniederlassung einschließlich des Staates,
 
 Eintragungsnummer und einheitliche europäische Kennung der Zweigniederlassung.
 
-## §§ 13b u. 13c — (weggefallen)
+## (XXXX) §§ 13b u. 13c — (weggefallen)
 
 
 
@@ -685,7 +685,7 @@ die Überwachung der Erfüllung eines Insolvenzplans und die Aufhebung der Über
 
 (4) Wer seiner Pflicht nach Absatz 1 nicht nachkommt, ist hierzu von dem Registergericht durch Festsetzung von Zwangsgeld anzuhalten. § 14 Satz 2 gilt entsprechend.
 
-## §§ 38 bis 47b — (weggefallen)
+## (XXXX) §§ 38 bis 47b — (weggefallen)
 
 
 
@@ -795,7 +795,7 @@ Die Zahlung des dem Handlungsgehilfen zukommenden Gehalts hat am Schlusse jedes 
 
 Ist bedungen, daß der Handlungsgehilfe für Geschäfte, die von ihm geschlossen oder vermittelt werden, Provision erhalten solle, so sind die für die Handelsvertreter geltenden Vorschriften des § 87 Abs. 1 und 3 sowie der §§ 87a bis 87c anzuwenden.
 
-## §§ 66 bis 72 — (weggefallen)
+## (XXXX) §§ 66 bis 72 — (weggefallen)
 
 
 
@@ -875,7 +875,7 @@ Im Falle einer Vereinbarung, durch die sich ein Prinzipal einem anderen Prinzipa
 
 (2) Das gleiche gilt, wenn ein Handlungsgehilfe, der mit dem Abschluß von Geschäften betraut ist, ein Geschäft im Namen des Prinzipals abgeschlossen hat, zu dessen Abschluß er nicht bevollmächtigt ist.
 
-## §§ 76 bis 82 — (weggefallen)
+## (XXXX) §§ 76 bis 82 — (weggefallen)
 
 
 
@@ -1711,7 +1711,7 @@ Nach der Beendigung der Liquidation ist das Erlöschen der Firma von sämtlichen
 
 (2) Die Gesellschafter und deren Erben behalten das Recht auf Einsicht und Benutzung der Geschäftsunterlagen.
 
-## §§ 153 bis 160
+## (XXXX) §§ 153 bis 160
 
 
 
@@ -1842,7 +1842,7 @@ die Voraussetzungen für die Eröffnung des Insolvenzverfahrens über das Vermö
 
 Wird im Falle des Satzes 1 Nummer 2 der Antrag auf Eröffnung des Insolvenzverfahrens mangels Masse abgewiesen, treten die Wirkungen des § 130 Absatz 1 Nummer 3 mit dem Eintritt der Rechtskraft der Abweisungsentscheidung ein.
 
-## §§ 180 bis 229 — (weggefallen)
+## (XXXX) §§ 180 bis 229 — (weggefallen)
 
 
 
@@ -3102,7 +3102,7 @@ Redaktioneller Hinweis:
 Redaktioneller Hinweis:
 (+++ § 278: Zur Anwendung vgl. Art. 75 Abs. 1 HGBEG +++)
 
-## §§ 279 bis 283 — (weggefallen)
+## (XXXX) §§ 279 bis 283 — (weggefallen)
 
 
 

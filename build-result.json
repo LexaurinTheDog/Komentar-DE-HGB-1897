@@ -1,8 +1,7 @@
 {
-  "command": "python3 /Volumes/LaCie/open-commentary/_tools/build_repo.py WORK",
   "success": false,
-  "exit_code": 1,
-  "stdout": "",
-  "stderr": "CHYBÍ komentář k 463 jednotkám, např.: ['p264', 'p264a', 'p264b', 'p264c', 'p264d', 'p265', 'p266', 'p267', 'p267a', 'p268']\n",
-  "reason": "Vollständiger Normumfang bleibt erhalten; 463 Kommentare fehlen."
+  "scope": "full_manuscript",
+  "attempted_at": "2026-10-21T02:51:01.003941+00:00",
+  "reason": "CHYBÍ komentář k 463 jednotkám, např.: ['p264', 'p264a', 'p264b', 'p264c', 'p264d', 'p265', 'p266', 'p267', 'p267a', 'p268']",
+  "bounded_task": "preflight completed; existing partial export rebuilt separately"
 }

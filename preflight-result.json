@@ -1,0 +1,49 @@
+{
+  "kind": "preflight",
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "decisive_date_reason": "Vorhandener Beginn der Titelbearbeitung laut verification.json; Wiederaufnahme am 21. Oktober verschiebt den Stichtag nicht.",
+  "official_url": "https://www.gesetze-im-internet.de/hgb/",
+  "verified_at": "2026-10-21T02:49:02.266092+00:00",
+  "version_evidence": {
+    "verification": "sources/verification.json",
+    "commencement": "sources/commencement.md",
+    "promulgation": "sources/bgbl-2026-33.pdf",
+    "xml_identical_on_recheck": true,
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "effective_2026": "Artikel 3 Nummer 2 Buchstaben a/b, Nummern 3/4 seit 10.07.2026",
+    "future_excluded": [
+      "Artikel 3 Nummern 1/5/6: 10.01.2028",
+      "Artikel 4: 10.01.2030"
+    ]
+  },
+  "historical_versions_checked": {
+    "duplicate_doknr": [],
+    "duplicate_official_labels": [],
+    "intake_comparison": "sources/change-map.json",
+    "preserved_versions": [
+      "sources/intake-2026-10-01.md",
+      "sources/hgb-2026-10-19.xml",
+      "sources/hgb-2026-10-21.xml"
+    ],
+    "method": "Aktuelle amtliche Konsolidierung, keine Verkettung historischer Fassungen; künftige Änderungen mit Artikel 64 der Verkündung abgeglichen. Keine historische Vollausgabe behauptet."
+  },
+  "annexes_checked": {
+    "evidence": "sources/preflight-coverage.json",
+    "separate_annexes": 0,
+    "entrance_formula_present": false,
+    "global_notes_preserved": true
+  },
+  "total_units": 696,
+  "completed_commentary_units": 233,
+  "parser_repairs": [
+    "Amtliche (XXXX)-Bezeichnungen der sieben Sammelleerstellen exakt erhalten; stabile Kommentar-IDs unverändert."
+  ],
+  "statutory_verbatim_ratio": 1.0,
+  "unresolved_blockers": [],
+  "limitations": [
+    "Nur Quellen-/Parserauftrag; keine neue Kommentierung und keine unabhängige inhaltliche Zweitprüfung.",
+    "Gesamtbuch bleibt mit 463 fehlenden Kommentaren unvollständig.",
+    "Aktualitätsnachweis anhand amtlichem Text und verkündeter Inkrafttretensregel; keine lückenlose manuelle BGBl.-Jahresauswertung."
+  ]
+}

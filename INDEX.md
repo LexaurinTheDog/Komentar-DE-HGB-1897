@@ -12,15 +12,15 @@
 - [Erstes Buch — Handelsstand / Erster Abschnitt — Kaufleute (§ 1–§ 7)](01-hgb-01.md) — 7 Normeinheiten
 - [Erstes Buch — Handelsstand / Zweiter Abschnitt — Handelsregister; Unternehmensregister (§ 8–§ 16)](02-hgb-02.md) — 24 Normeinheiten
 - [Erstes Buch — Handelsstand / Dritter Abschnitt — Handelsfirma (§ 17–§ 37a)](03-hgb-03.md) — 22 Normeinheiten
-- [Erstes Buch — Handelsstand / Vierter Abschnitt — Handelsbücher (§§ 38 bis 47b)](04-hgb-04.md) — 1 Normeinheiten
+- [Erstes Buch — Handelsstand / Vierter Abschnitt — Handelsbücher ((XXXX) §§ 38 bis 47b)](04-hgb-04.md) — 1 Normeinheiten
 - [Erstes Buch — Handelsstand / Fünfter Abschnitt — Prokura und Handlungsvollmacht (§ 48–§ 58)](05-hgb-05.md) — 11 Normeinheiten
 - [Erstes Buch — Handelsstand / Sechster Abschnitt — Handlungsgehilfen und Handlungslehrlinge (§ 59–§ 83)](06-hgb-06.md) — 25 Normeinheiten
 - [Erstes Buch — Handelsstand / Siebenter Abschnitt — Handelsvertreter (§ 84–§ 92c)](07-hgb-07.md) — 23 Normeinheiten
 - [Erstes Buch — Handelsstand / Achter Abschnitt — Handelsmakler (§ 93–§ 104)](08-hgb-08.md) — 12 Normeinheiten
 - [Erstes Buch — Handelsstand / Neunter Abschnitt — Bußgeldvorschriften (§ 104a)](09-hgb-09.md) — 1 Normeinheiten
 - [Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Erster Abschnitt — Offene Handelsgesellschaft (§ 105–§ 129)](10-hgb-10.md) — 25 Normeinheiten
-- [Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Erster Abschnitt — Offene Handelsgesellschaft (§ 130–§§ 153 bis 160)](11-hgb-11.md) — 24 Normeinheiten
-- [Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Zweiter Abschnitt — Kommanditgesellschaft (§ 161–§§ 180 bis 229)](12-hgb-12.md) — 22 Normeinheiten
+- [Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Erster Abschnitt — Offene Handelsgesellschaft (§ 130–(XXXX) §§ 153 bis 160)](11-hgb-11.md) — 24 Normeinheiten
+- [Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Zweiter Abschnitt — Kommanditgesellschaft (§ 161–(XXXX) §§ 180 bis 229)](12-hgb-12.md) — 22 Normeinheiten
 - [Zweites Buch — Handelsgesellschaften und stille Gesellschaft / Dritter Abschnitt — Stille Gesellschaft (§ 230–§ 237)](13-hgb-13.md) — 8 Normeinheiten
 - [Drittes Buch — Handelsbücher / Erster Abschnitt — Vorschriften für alle Kaufleute (§ 238–§ 260)](14-hgb-14.md) — 25 Normeinheiten
 - [Drittes Buch — Handelsbücher / Erster Abschnitt — Vorschriften für alle Kaufleute (§ 261–§ 263)](15-hgb-15.md) — 3 Normeinheiten

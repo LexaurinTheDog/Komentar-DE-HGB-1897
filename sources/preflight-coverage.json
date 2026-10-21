@@ -1,0 +1,6333 @@
+{
+  "raw_xml": "sources/hgb-2026-10-19.xml",
+  "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "all_node_dispositions": [
+    {
+      "doknr": "BJNR002190897",
+      "official_label": null,
+      "disposition": "metadata_and_global_notes",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000200300",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000300300",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE000401307",
+      "official_label": "§ 1",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 255
+    },
+    {
+      "doknr": "BJNR002190897BJNE000501307",
+      "official_label": "§ 2",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 550
+    },
+    {
+      "doknr": "BJNR002190897BJNE000601307",
+      "official_label": "§ 3",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 736
+    },
+    {
+      "doknr": "BJNR002190897BJNE000701307",
+      "official_label": "§ 4",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE000801307",
+      "official_label": "§ 5",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 214
+    },
+    {
+      "doknr": "BJNR002190897BJNE000901307",
+      "official_label": "§ 6",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 339
+    },
+    {
+      "doknr": "BJNR002190897BJNE001000300",
+      "official_label": "§ 7",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 261
+    },
+    {
+      "doknr": "BJNR002190897BJNG001101377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE001201377",
+      "official_label": "§ 8",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 205
+    },
+    {
+      "doknr": "BJNR002190897BJNE079507360",
+      "official_label": "§ 8a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1024
+    },
+    {
+      "doknr": "BJNR002190897BJNE099017360",
+      "official_label": "§ 8b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 5315
+    },
+    {
+      "doknr": "BJNR002190897BJNE001307360",
+      "official_label": "§ 9",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2709
+    },
+    {
+      "doknr": "BJNR002190897BJNE038606360",
+      "official_label": "§ 9a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2963
+    },
+    {
+      "doknr": "BJNR002190897BJNE101602360",
+      "official_label": "§ 9b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 5662
+    },
+    {
+      "doknr": "BJNR002190897BJNE114100360",
+      "official_label": "§ 9c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3827
+    },
+    {
+      "doknr": "BJNR002190897BJNE116901129",
+      "official_label": "§ 9d",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1559
+    },
+    {
+      "doknr": "BJNR002190897BJNE001402360",
+      "official_label": "§ 10",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1227
+    },
+    {
+      "doknr": "BJNR002190897BJNE113801360",
+      "official_label": "§ 10a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1727
+    },
+    {
+      "doknr": "BJNR002190897BJNE001501377",
+      "official_label": "§ 11",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 580
+    },
+    {
+      "doknr": "BJNR002190897BJNE001604360",
+      "official_label": "§ 12",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1025
+    },
+    {
+      "doknr": "BJNR002190897BJNE001704140",
+      "official_label": "§ 13",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 986
+    },
+    {
+      "doknr": "BJNR002190897BJNE114200360",
+      "official_label": "§ 13a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1131
+    },
+    {
+      "doknr": "BJNR002190897BJNE001804360",
+      "official_label": "(XXXX) §§ 13b u. 13c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE082503140",
+      "official_label": "§ 13d",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1096
+    },
+    {
+      "doknr": "BJNR002190897BJNE082605360",
+      "official_label": "§ 13e",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 4282
+    },
+    {
+      "doknr": "BJNR002190897BJNE082705360",
+      "official_label": "§ 13f",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2570
+    },
+    {
+      "doknr": "BJNR002190897BJNE082803360",
+      "official_label": "§ 13g",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2360
+    },
+    {
+      "doknr": "BJNR002190897BJNE082900307",
+      "official_label": "§ 13h",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1547
+    },
+    {
+      "doknr": "BJNR002190897BJNE002102377",
+      "official_label": "§ 14",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 265
+    },
+    {
+      "doknr": "BJNR002190897BJNE002203360",
+      "official_label": "§ 15",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1302
+    },
+    {
+      "doknr": "BJNR002190897BJNE099300140",
+      "official_label": "§ 15a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 684
+    },
+    {
+      "doknr": "BJNR002190897BJNE002300300",
+      "official_label": "§ 16",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 790
+    },
+    {
+      "doknr": "BJNR002190897BJNG002400300",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE002501307",
+      "official_label": "§ 17",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 178
+    },
+    {
+      "doknr": "BJNR002190897BJNE002601307",
+      "official_label": "§ 18",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 382
+    },
+    {
+      "doknr": "BJNR002190897BJNE002701307",
+      "official_label": "§ 19",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 918
+    },
+    {
+      "doknr": "BJNR002190897BJNE037500309",
+      "official_label": "§ 20",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE002801307",
+      "official_label": "§ 21",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 174
+    },
+    {
+      "doknr": "BJNR002190897BJNE002901307",
+      "official_label": "§ 22",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 564
+    },
+    {
+      "doknr": "BJNR002190897BJNE003000300",
+      "official_label": "§ 23",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 94
+    },
+    {
+      "doknr": "BJNR002190897BJNE003101307",
+      "official_label": "§ 24",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 573
+    },
+    {
+      "doknr": "BJNR002190897BJNE003200300",
+      "official_label": "§ 25",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 982
+    },
+    {
+      "doknr": "BJNR002190897BJNE003302377",
+      "official_label": "§ 26",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1218
+    },
+    {
+      "doknr": "BJNR002190897BJNE003401377",
+      "official_label": "§ 27",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 761
+    },
+    {
+      "doknr": "BJNR002190897BJNE003501307",
+      "official_label": "§ 28",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1163
+    },
+    {
+      "doknr": "BJNR002190897BJNE003603140",
+      "official_label": "§ 29",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 238
+    },
+    {
+      "doknr": "BJNR002190897BJNE003702360",
+      "official_label": "§ 30",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 953
+    },
+    {
+      "doknr": "BJNR002190897BJNE003801140",
+      "official_label": "§ 31",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 501
+    },
+    {
+      "doknr": "BJNR002190897BJNE003903360",
+      "official_label": "§ 32",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 867
+    },
+    {
+      "doknr": "BJNR002190897BJNE004002377",
+      "official_label": "§ 33",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 945
+    },
+    {
+      "doknr": "BJNR002190897BJNE004104377",
+      "official_label": "§ 34",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 969
+    },
+    {
+      "doknr": "BJNR002190897BJNE004201377",
+      "official_label": "§ 35",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1
+    },
+    {
+      "doknr": "BJNR002190897BJNE097300307",
+      "official_label": "§ 36",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE004400300",
+      "official_label": "§ 37",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 460
+    },
+    {
+      "doknr": "BJNR002190897BJNE097201377",
+      "official_label": "§ 37a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 898
+    },
+    {
+      "doknr": "BJNR002190897BJNG004500300",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE004601306",
+      "official_label": "(XXXX) §§ 38 bis 47b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG005800300",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE005900300",
+      "official_label": "§ 48",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 238
+    },
+    {
+      "doknr": "BJNR002190897BJNE006000300",
+      "official_label": "§ 49",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 301
+    },
+    {
+      "doknr": "BJNR002190897BJNE006100300",
+      "official_label": "§ 50",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 731
+    },
+    {
+      "doknr": "BJNR002190897BJNE006200300",
+      "official_label": "§ 51",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 124
+    },
+    {
+      "doknr": "BJNR002190897BJNE006300300",
+      "official_label": "§ 52",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 292
+    },
+    {
+      "doknr": "BJNR002190897BJNE006402377",
+      "official_label": "§ 53",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 310
+    },
+    {
+      "doknr": "BJNR002190897BJNE006500300",
+      "official_label": "§ 54",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 849
+    },
+    {
+      "doknr": "BJNR002190897BJNE006600300",
+      "official_label": "§ 55",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 861
+    },
+    {
+      "doknr": "BJNR002190897BJNE006700300",
+      "official_label": "§ 56",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 187
+    },
+    {
+      "doknr": "BJNR002190897BJNE006800300",
+      "official_label": "§ 57",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 186
+    },
+    {
+      "doknr": "BJNR002190897BJNE006900300",
+      "official_label": "§ 58",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 144
+    },
+    {
+      "doknr": "BJNR002190897BJNG007000300",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE007100300",
+      "official_label": "§ 59",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 490
+    },
+    {
+      "doknr": "BJNR002190897BJNE007200300",
+      "official_label": "§ 60",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 427
+    },
+    {
+      "doknr": "BJNR002190897BJNE007301377",
+      "official_label": "§ 61",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 721
+    },
+    {
+      "doknr": "BJNR002190897BJNE007400300",
+      "official_label": "§ 62",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1217
+    },
+    {
+      "doknr": "BJNR002190897BJNE007501307",
+      "official_label": "§ 63",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE007600300",
+      "official_label": "§ 64",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 186
+    },
+    {
+      "doknr": "BJNR002190897BJNE007700300",
+      "official_label": "§ 65",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 246
+    },
+    {
+      "doknr": "BJNR002190897BJNE037700309",
+      "official_label": "(XXXX) §§ 66 bis 72",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE007802377",
+      "official_label": "§ 73",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE007900300",
+      "official_label": "§ 74",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 631
+    },
+    {
+      "doknr": "BJNR002190897BJNE008001311",
+      "official_label": "§ 74a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1041
+    },
+    {
+      "doknr": "BJNR002190897BJNE008100300",
+      "official_label": "§ 74b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 715
+    },
+    {
+      "doknr": "BJNR002190897BJNE008200300",
+      "official_label": "§ 74c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 805
+    },
+    {
+      "doknr": "BJNR002190897BJNE008306125",
+      "official_label": "§ 75",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 945
+    },
+    {
+      "doknr": "BJNR002190897BJNE008400300",
+      "official_label": "§ 75a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 260
+    },
+    {
+      "doknr": "BJNR002190897BJNE008501311",
+      "official_label": "§ 75b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE008600300",
+      "official_label": "§ 75c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 782
+    },
+    {
+      "doknr": "BJNR002190897BJNE008700300",
+      "official_label": "§ 75d",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 335
+    },
+    {
+      "doknr": "BJNR002190897BJNE037800309",
+      "official_label": "§ 75e",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE008800300",
+      "official_label": "§ 75f",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 338
+    },
+    {
+      "doknr": "BJNR002190897BJNE008900300",
+      "official_label": "§ 75g",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 271
+    },
+    {
+      "doknr": "BJNR002190897BJNE009000300",
+      "official_label": "§ 75h",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 692
+    },
+    {
+      "doknr": "BJNR002190897BJNE037900309",
+      "official_label": "(XXXX) §§ 76 bis 82",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE009100300",
+      "official_label": "§ 82a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 332
+    },
+    {
+      "doknr": "BJNR002190897BJNE009200300",
+      "official_label": "§ 83",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 198
+    },
+    {
+      "doknr": "BJNR002190897BJNG009300300",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE009401307",
+      "official_label": "§ 84",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 753
+    },
+    {
+      "doknr": "BJNR002190897BJNE009500300",
+      "official_label": "§ 85",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 217
+    },
+    {
+      "doknr": "BJNR002190897BJNE009601309",
+      "official_label": "§ 86",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 494
+    },
+    {
+      "doknr": "BJNR002190897BJNE009701309",
+      "official_label": "§ 86a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 814
+    },
+    {
+      "doknr": "BJNR002190897BJNE009800300",
+      "official_label": "§ 86b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 808
+    },
+    {
+      "doknr": "BJNR002190897BJNE009901309",
+      "official_label": "§ 87",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1821
+    },
+    {
+      "doknr": "BJNR002190897BJNE010001309",
+      "official_label": "§ 87a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1244
+    },
+    {
+      "doknr": "BJNR002190897BJNE010100300",
+      "official_label": "§ 87b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 972
+    },
+    {
+      "doknr": "BJNR002190897BJNE010200300",
+      "official_label": "§ 87c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1186
+    },
+    {
+      "doknr": "BJNR002190897BJNE010300300",
+      "official_label": "§ 87d",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 146
+    },
+    {
+      "doknr": "BJNR002190897BJNE010401377",
+      "official_label": "§ 88",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE010500300",
+      "official_label": "§ 88a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 371
+    },
+    {
+      "doknr": "BJNR002190897BJNE010601309",
+      "official_label": "§ 89",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1117
+    },
+    {
+      "doknr": "BJNR002190897BJNE010700300",
+      "official_label": "§ 89a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 388
+    },
+    {
+      "doknr": "BJNR002190897BJNE010808140",
+      "official_label": "§ 89b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2610
+    },
+    {
+      "doknr": "BJNR002190897BJNE010900300",
+      "official_label": "§ 90",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 359
+    },
+    {
+      "doknr": "BJNR002190897BJNE011002307",
+      "official_label": "§ 90a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1403
+    },
+    {
+      "doknr": "BJNR002190897BJNE011100300",
+      "official_label": "§ 91",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 711
+    },
+    {
+      "doknr": "BJNR002190897BJNE011200300",
+      "official_label": "§ 91a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 658
+    },
+    {
+      "doknr": "BJNR002190897BJNE011300300",
+      "official_label": "§ 92",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 841
+    },
+    {
+      "doknr": "BJNR002190897BJNE011409360",
+      "official_label": "§ 92a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1598
+    },
+    {
+      "doknr": "BJNR002190897BJNE011500300",
+      "official_label": "§ 92b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 852
+    },
+    {
+      "doknr": "BJNR002190897BJNE011602305",
+      "official_label": "§ 92c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 569
+    },
+    {
+      "doknr": "BJNR002190897BJNG011700300",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE097400307",
+      "official_label": "§ 93",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 840
+    },
+    {
+      "doknr": "BJNR002190897BJNE011900300",
+      "official_label": "§ 94",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 821
+    },
+    {
+      "doknr": "BJNR002190897BJNE012000300",
+      "official_label": "§ 95",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 832
+    },
+    {
+      "doknr": "BJNR002190897BJNE012100300",
+      "official_label": "§ 96",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 441
+    },
+    {
+      "doknr": "BJNR002190897BJNE012200300",
+      "official_label": "§ 97",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 127
+    },
+    {
+      "doknr": "BJNR002190897BJNE012300300",
+      "official_label": "§ 98",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 103
+    },
+    {
+      "doknr": "BJNR002190897BJNE012400300",
+      "official_label": "§ 99",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 184
+    },
+    {
+      "doknr": "BJNR002190897BJNE012502377",
+      "official_label": "§ 100",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 544
+    },
+    {
+      "doknr": "BJNR002190897BJNE012600300",
+      "official_label": "§ 101",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 228
+    },
+    {
+      "doknr": "BJNR002190897BJNE012700300",
+      "official_label": "§ 102",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 195
+    },
+    {
+      "doknr": "BJNR002190897BJNE012801311",
+      "official_label": "§ 103",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 401
+    },
+    {
+      "doknr": "BJNR002190897BJNE012901309",
+      "official_label": "§ 104",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 302
+    },
+    {
+      "doknr": "BJNR002190897BJNG040400377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE099200377",
+      "official_label": "§ 104a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 416
+    },
+    {
+      "doknr": "BJNR002190897BJNG013000300",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG013101360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG013201360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE013304360",
+      "official_label": "§ 105",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 544
+    },
+    {
+      "doknr": "BJNR002190897BJNE013408360",
+      "official_label": "§ 106",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2880
+    },
+    {
+      "doknr": "BJNR002190897BJNE013511360",
+      "official_label": "§ 107",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1059
+    },
+    {
+      "doknr": "BJNR002190897BJNG013701360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE013604360",
+      "official_label": "§ 108",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 135
+    },
+    {
+      "doknr": "BJNR002190897BJNE013801360",
+      "official_label": "§ 109",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 703
+    },
+    {
+      "doknr": "BJNR002190897BJNE013901360",
+      "official_label": "§ 110",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 600
+    },
+    {
+      "doknr": "BJNR002190897BJNE014001360",
+      "official_label": "§ 111",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 355
+    },
+    {
+      "doknr": "BJNR002190897BJNE014101360",
+      "official_label": "§ 112",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 737
+    },
+    {
+      "doknr": "BJNR002190897BJNE014202360",
+      "official_label": "§ 113",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1162
+    },
+    {
+      "doknr": "BJNR002190897BJNE014301360",
+      "official_label": "§ 114",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 226
+    },
+    {
+      "doknr": "BJNR002190897BJNE014401360",
+      "official_label": "§ 115",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 419
+    },
+    {
+      "doknr": "BJNR002190897BJNE014501360",
+      "official_label": "§ 116",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2030
+    },
+    {
+      "doknr": "BJNR002190897BJNE014601360",
+      "official_label": "§ 117",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 579
+    },
+    {
+      "doknr": "BJNR002190897BJNE014702360",
+      "official_label": "§ 118",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1089
+    },
+    {
+      "doknr": "BJNR002190897BJNE014801360",
+      "official_label": "§ 119",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 763
+    },
+    {
+      "doknr": "BJNR002190897BJNE014901360",
+      "official_label": "§ 120",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 478
+    },
+    {
+      "doknr": "BJNR002190897BJNE015001360",
+      "official_label": "§ 121",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 91
+    },
+    {
+      "doknr": "BJNR002190897BJNE015101360",
+      "official_label": "§ 122",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 337
+    },
+    {
+      "doknr": "BJNR002190897BJNG015201360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE015302360",
+      "official_label": "§ 123",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 416
+    },
+    {
+      "doknr": "BJNR002190897BJNE015401360",
+      "official_label": "§ 124",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1769
+    },
+    {
+      "doknr": "BJNR002190897BJNE015502360",
+      "official_label": "§ 125",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1176
+    },
+    {
+      "doknr": "BJNR002190897BJNE015601360",
+      "official_label": "§ 126",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 183
+    },
+    {
+      "doknr": "BJNR002190897BJNE015701360",
+      "official_label": "§ 127",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 263
+    },
+    {
+      "doknr": "BJNR002190897BJNE015801360",
+      "official_label": "§ 128",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 552
+    },
+    {
+      "doknr": "BJNR002190897BJNE015901360",
+      "official_label": "§ 129",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 274
+    },
+    {
+      "doknr": "BJNR002190897BJNG016301360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE016001360",
+      "official_label": "§ 130",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 874
+    },
+    {
+      "doknr": "BJNR002190897BJNE016406360",
+      "official_label": "§ 131",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1637
+    },
+    {
+      "doknr": "BJNR002190897BJNE016501360",
+      "official_label": "§ 132",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1921
+    },
+    {
+      "doknr": "BJNR002190897BJNE016601360",
+      "official_label": "§ 133",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 472
+    },
+    {
+      "doknr": "BJNR002190897BJNE016701360",
+      "official_label": "§ 134",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 622
+    },
+    {
+      "doknr": "BJNR002190897BJNE016801360",
+      "official_label": "§ 135",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 725
+    },
+    {
+      "doknr": "BJNR002190897BJNE016902360",
+      "official_label": "§ 136",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 248
+    },
+    {
+      "doknr": "BJNR002190897BJNE114600360",
+      "official_label": "§ 137",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1671
+    },
+    {
+      "doknr": "BJNR002190897BJNG017801360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE114700360",
+      "official_label": "§ 138",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 942
+    },
+    {
+      "doknr": "BJNR002190897BJNE017202360",
+      "official_label": "§ 139",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 685
+    },
+    {
+      "doknr": "BJNR002190897BJNE017302360",
+      "official_label": "§ 140",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 236
+    },
+    {
+      "doknr": "BJNR002190897BJNE017404360",
+      "official_label": "§ 141",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 781
+    },
+    {
+      "doknr": "BJNR002190897BJNE114800360",
+      "official_label": "§ 142",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 443
+    },
+    {
+      "doknr": "BJNR002190897BJNG042500360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE017602360",
+      "official_label": "§ 143",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1114
+    },
+    {
+      "doknr": "BJNR002190897BJNE017702360",
+      "official_label": "§ 144",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 642
+    },
+    {
+      "doknr": "BJNR002190897BJNE017902360",
+      "official_label": "§ 145",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1067
+    },
+    {
+      "doknr": "BJNR002190897BJNE018002360",
+      "official_label": "§ 146",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 429
+    },
+    {
+      "doknr": "BJNR002190897BJNE018101360",
+      "official_label": "§ 147",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 642
+    },
+    {
+      "doknr": "BJNR002190897BJNE018204360",
+      "official_label": "§ 148",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2163
+    },
+    {
+      "doknr": "BJNR002190897BJNE018301360",
+      "official_label": "§ 149",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 401
+    },
+    {
+      "doknr": "BJNR002190897BJNE018402360",
+      "official_label": "§ 150",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 141
+    },
+    {
+      "doknr": "BJNR002190897BJNE018501360",
+      "official_label": "§ 151",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 806
+    },
+    {
+      "doknr": "BJNR002190897BJNE018601360",
+      "official_label": "§ 152",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 392
+    },
+    {
+      "doknr": "BJNR002190897BJNE018701360",
+      "official_label": "(XXXX) §§ 153 bis 160",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG019600300",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE019701360",
+      "official_label": "§ 161",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 656
+    },
+    {
+      "doknr": "BJNR002190897BJNE114300360",
+      "official_label": "§ 162",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 405
+    },
+    {
+      "doknr": "BJNR002190897BJNE019900300",
+      "official_label": "§ 163",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 173
+    },
+    {
+      "doknr": "BJNR002190897BJNE020001360",
+      "official_label": "§ 164",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 113
+    },
+    {
+      "doknr": "BJNR002190897BJNE020101360",
+      "official_label": "§ 165",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 65
+    },
+    {
+      "doknr": "BJNR002190897BJNE020202360",
+      "official_label": "§ 166",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 576
+    },
+    {
+      "doknr": "BJNR002190897BJNE020301360",
+      "official_label": "§ 167",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 112
+    },
+    {
+      "doknr": "BJNR002190897BJNE020401360",
+      "official_label": "§ 168",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE020501360",
+      "official_label": "§ 169",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 396
+    },
+    {
+      "doknr": "BJNR002190897BJNE020601360",
+      "official_label": "§ 170",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 390
+    },
+    {
+      "doknr": "BJNR002190897BJNE020702360",
+      "official_label": "§ 171",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 418
+    },
+    {
+      "doknr": "BJNR002190897BJNE020802360",
+      "official_label": "§ 172",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1597
+    },
+    {
+      "doknr": "BJNR002190897BJNE038201140",
+      "official_label": "§ 172a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1
+    },
+    {
+      "doknr": "BJNR002190897BJNE020900300",
+      "official_label": "§ 173",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 326
+    },
+    {
+      "doknr": "BJNR002190897BJNE021001360",
+      "official_label": "§ 174",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 347
+    },
+    {
+      "doknr": "BJNR002190897BJNE114400360",
+      "official_label": "§ 175",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 136
+    },
+    {
+      "doknr": "BJNR002190897BJNE021202360",
+      "official_label": "§ 176",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 740
+    },
+    {
+      "doknr": "BJNR002190897BJNE021301307",
+      "official_label": "§ 177",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 124
+    },
+    {
+      "doknr": "BJNR002190897BJNE021404360",
+      "official_label": "§ 177a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 243
+    },
+    {
+      "doknr": "BJNR002190897BJNE114900360",
+      "official_label": "§ 178",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 61
+    },
+    {
+      "doknr": "BJNR002190897BJNE115000360",
+      "official_label": "§ 179",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 720
+    },
+    {
+      "doknr": "BJNR002190897BJNE021602360",
+      "official_label": "(XXXX) §§ 180 bis 229",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG021901306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE022001306",
+      "official_label": "§ 230",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 330
+    },
+    {
+      "doknr": "BJNR002190897BJNE022101306",
+      "official_label": "§ 231",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 332
+    },
+    {
+      "doknr": "BJNR002190897BJNE022201306",
+      "official_label": "§ 232",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 626
+    },
+    {
+      "doknr": "BJNR002190897BJNE022302360",
+      "official_label": "§ 233",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 88
+    },
+    {
+      "doknr": "BJNR002190897BJNE022402360",
+      "official_label": "§ 234",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 276
+    },
+    {
+      "doknr": "BJNR002190897BJNE022501306",
+      "official_label": "§ 235",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 597
+    },
+    {
+      "doknr": "BJNR002190897BJNE022602307",
+      "official_label": "§ 236",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 461
+    },
+    {
+      "doknr": "BJNR002190897BJNE022702307",
+      "official_label": "§ 237",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000100306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000200306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000300306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE003300306",
+      "official_label": "§ 238",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 732
+    },
+    {
+      "doknr": "BJNR002190897BJNE003400306",
+      "official_label": "§ 239",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1323
+    },
+    {
+      "doknr": "BJNR002190897BJNE086500307",
+      "official_label": "§ 240",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1309
+    },
+    {
+      "doknr": "BJNR002190897BJNE003600306",
+      "official_label": "§ 241",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1695
+    },
+    {
+      "doknr": "BJNR002190897BJNE099803125",
+      "official_label": "§ 241a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 405
+    },
+    {
+      "doknr": "BJNR002190897BJNG000400306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000500306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE003701140",
+      "official_label": "§ 242",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 877
+    },
+    {
+      "doknr": "BJNR002190897BJNE003800306",
+      "official_label": "§ 243",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 238
+    },
+    {
+      "doknr": "BJNR002190897BJNE088200307",
+      "official_label": "§ 244",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 69
+    },
+    {
+      "doknr": "BJNR002190897BJNE004000306",
+      "official_label": "§ 245",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 172
+    },
+    {
+      "doknr": "BJNR002190897BJNG000600306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE004105140",
+      "official_label": "§ 246",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1644
+    },
+    {
+      "doknr": "BJNR002190897BJNE004202140",
+      "official_label": "§ 247",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 316
+    },
+    {
+      "doknr": "BJNR002190897BJNE004302140",
+      "official_label": "§ 248",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 540
+    },
+    {
+      "doknr": "BJNR002190897BJNE004401140",
+      "official_label": "§ 249",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 615
+    },
+    {
+      "doknr": "BJNR002190897BJNE004501140",
+      "official_label": "§ 250",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 689
+    },
+    {
+      "doknr": "BJNR002190897BJNE004600306",
+      "official_label": "§ 251",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 482
+    },
+    {
+      "doknr": "BJNR002190897BJNG000700306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE004701140",
+      "official_label": "§ 252",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1211
+    },
+    {
+      "doknr": "BJNR002190897BJNE004807360",
+      "official_label": "§ 253",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 5103
+    },
+    {
+      "doknr": "BJNR002190897BJNE004901140",
+      "official_label": "§ 254",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 606
+    },
+    {
+      "doknr": "BJNR002190897BJNE005002360",
+      "official_label": "§ 255",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3026
+    },
+    {
+      "doknr": "BJNR002190897BJNE005101140",
+      "official_label": "§ 256",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 363
+    },
+    {
+      "doknr": "BJNR002190897BJNE099900140",
+      "official_label": "§ 256a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 264
+    },
+    {
+      "doknr": "BJNR002190897BJNG000800306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE005204129",
+      "official_label": "§ 257",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2454
+    },
+    {
+      "doknr": "BJNR002190897BJNE005300306",
+      "official_label": "§ 258",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 265
+    },
+    {
+      "doknr": "BJNR002190897BJNE005400306",
+      "official_label": "§ 259",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 338
+    },
+    {
+      "doknr": "BJNR002190897BJNE005500306",
+      "official_label": "§ 260",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 217
+    },
+    {
+      "doknr": "BJNR002190897BJNE005600306",
+      "official_label": "§ 261",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 404
+    },
+    {
+      "doknr": "BJNR002190897BJNG000901307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE005701307",
+      "official_label": "§ 262",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE005800306",
+      "official_label": "§ 263",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 215
+    },
+    {
+      "doknr": "BJNR002190897BJNG001001305",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001100306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001200306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE005917360",
+      "official_label": "§ 264",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 6333
+    },
+    {
+      "doknr": "BJNR002190897BJNE097500305",
+      "official_label": "§ 264a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 734
+    },
+    {
+      "doknr": "BJNR002190897BJNE097605360",
+      "official_label": "§ 264b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1165
+    },
+    {
+      "doknr": "BJNR002190897BJNE097703360",
+      "official_label": "§ 264c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3176
+    },
+    {
+      "doknr": "BJNR002190897BJNE100002123",
+      "official_label": "§ 264d",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 348
+    },
+    {
+      "doknr": "BJNR002190897BJNE006002360",
+      "official_label": "§ 265",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2579
+    },
+    {
+      "doknr": "BJNR002190897BJNG001300306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE006104360",
+      "official_label": "§ 266",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3292
+    },
+    {
+      "doknr": "BJNR002190897BJNE006210360",
+      "official_label": "§ 267",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2058
+    },
+    {
+      "doknr": "BJNR002190897BJNE100402360",
+      "official_label": "§ 267a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1144
+    },
+    {
+      "doknr": "BJNR002190897BJNE006302360",
+      "official_label": "§ 268",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3287
+    },
+    {
+      "doknr": "BJNR002190897BJNE006403140",
+      "official_label": "§ 269",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE006501140",
+      "official_label": "§ 270",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 505
+    },
+    {
+      "doknr": "BJNR002190897BJNE006604360",
+      "official_label": "§ 271",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1072
+    },
+    {
+      "doknr": "BJNR002190897BJNE006705123",
+      "official_label": "§ 272",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3369
+    },
+    {
+      "doknr": "BJNR002190897BJNE006801140",
+      "official_label": "§ 273",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE006902360",
+      "official_label": "§ 274",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1958
+    },
+    {
+      "doknr": "BJNR002190897BJNE086603360",
+      "official_label": "§ 274a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 372
+    },
+    {
+      "doknr": "BJNR002190897BJNG001400306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE007003360",
+      "official_label": "§ 275",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2778
+    },
+    {
+      "doknr": "BJNR002190897BJNE007103360",
+      "official_label": "§ 276",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 348
+    },
+    {
+      "doknr": "BJNR002190897BJNE007202360",
+      "official_label": "§ 277",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1409
+    },
+    {
+      "doknr": "BJNR002190897BJNE007302360",
+      "official_label": "§ 278",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001501140",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE007401140",
+      "official_label": "(XXXX) §§ 279 bis 283",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001600306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE007902360",
+      "official_label": "§ 284",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2048
+    },
+    {
+      "doknr": "BJNR002190897BJNE008016360",
+      "official_label": "§ 285",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 12825
+    },
+    {
+      "doknr": "BJNR002190897BJNE008109360",
+      "official_label": "§ 286",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1675
+    },
+    {
+      "doknr": "BJNR002190897BJNE008204140",
+      "official_label": "§ 287",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE008305360",
+      "official_label": "§ 288",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1086
+    },
+    {
+      "doknr": "BJNR002190897BJNG001700306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE008411360",
+      "official_label": "§ 289",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2759
+    },
+    {
+      "doknr": "BJNR002190897BJNE112902360",
+      "official_label": "§ 289a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1997
+    },
+    {
+      "doknr": "BJNR002190897BJNE113001123",
+      "official_label": "§ 289b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3308
+    },
+    {
+      "doknr": "BJNR002190897BJNE113100123",
+      "official_label": "§ 289c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3358
+    },
+    {
+      "doknr": "BJNR002190897BJNE113200123",
+      "official_label": "§ 289d",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 398
+    },
+    {
+      "doknr": "BJNR002190897BJNE113300123",
+      "official_label": "§ 289e",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 903
+    },
+    {
+      "doknr": "BJNR002190897BJNE100106360",
+      "official_label": "§ 289f",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 4795
+    },
+    {
+      "doknr": "BJNR002190897BJNG001800306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001900306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE008506360",
+      "official_label": "§ 290",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3949
+    },
+    {
+      "doknr": "BJNR002190897BJNE008610360",
+      "official_label": "§ 291",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 4242
+    },
+    {
+      "doknr": "BJNR002190897BJNE008712360",
+      "official_label": "§ 292",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 4907
+    },
+    {
+      "doknr": "BJNR002190897BJNE086902277",
+      "official_label": "§ 292a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE008811360",
+      "official_label": "§ 293",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2395
+    },
+    {
+      "doknr": "BJNR002190897BJNG002000306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE008904123",
+      "official_label": "§ 294",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1201
+    },
+    {
+      "doknr": "BJNR002190897BJNE009001377",
+      "official_label": "§ 295",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE009101360",
+      "official_label": "§ 296",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1093
+    },
+    {
+      "doknr": "BJNR002190897BJNG002100306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE009209360",
+      "official_label": "§ 297",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1975
+    },
+    {
+      "doknr": "BJNR002190897BJNE009304360",
+      "official_label": "§ 298",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 913
+    },
+    {
+      "doknr": "BJNR002190897BJNE009401377",
+      "official_label": "§ 299",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1124
+    },
+    {
+      "doknr": "BJNR002190897BJNG002200306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE009502140",
+      "official_label": "§ 300",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1415
+    },
+    {
+      "doknr": "BJNR002190897BJNE009603360",
+      "official_label": "§ 301",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2273
+    },
+    {
+      "doknr": "BJNR002190897BJNE009702140",
+      "official_label": "§ 302",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE009800306",
+      "official_label": "§ 303",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 456
+    },
+    {
+      "doknr": "BJNR002190897BJNE009901377",
+      "official_label": "§ 304",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 761
+    },
+    {
+      "doknr": "BJNR002190897BJNE010000306",
+      "official_label": "§ 305",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 902
+    },
+    {
+      "doknr": "BJNR002190897BJNE010102360",
+      "official_label": "§ 306",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1191
+    },
+    {
+      "doknr": "BJNR002190897BJNE010202360",
+      "official_label": "§ 307",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 619
+    },
+    {
+      "doknr": "BJNR002190897BJNG002300306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE010301377",
+      "official_label": "§ 308",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1943
+    },
+    {
+      "doknr": "BJNR002190897BJNE100200140",
+      "official_label": "§ 308a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 629
+    },
+    {
+      "doknr": "BJNR002190897BJNE010403360",
+      "official_label": "§ 309",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 399
+    },
+    {
+      "doknr": "BJNR002190897BJNG002400306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE010502360",
+      "official_label": "§ 310",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 461
+    },
+    {
+      "doknr": "BJNR002190897BJNG002500306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE010600306",
+      "official_label": "§ 311",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 846
+    },
+    {
+      "doknr": "BJNR002190897BJNE010703119",
+      "official_label": "§ 312",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2715
+    },
+    {
+      "doknr": "BJNR002190897BJNG002600306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE010809360",
+      "official_label": "§ 313",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 4813
+    },
+    {
+      "doknr": "BJNR002190897BJNE010916360",
+      "official_label": "§ 314",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 12325
+    },
+    {
+      "doknr": "BJNR002190897BJNG002700306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE011010360",
+      "official_label": "§ 315",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3068
+    },
+    {
+      "doknr": "BJNR002190897BJNE113402360",
+      "official_label": "§ 315a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2023
+    },
+    {
+      "doknr": "BJNR002190897BJNE113501123",
+      "official_label": "§ 315b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3714
+    },
+    {
+      "doknr": "BJNR002190897BJNE113600123",
+      "official_label": "§ 315c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 427
+    },
+    {
+      "doknr": "BJNR002190897BJNE113700123",
+      "official_label": "§ 315d",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 269
+    },
+    {
+      "doknr": "BJNR002190897BJNG040200377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE098207360",
+      "official_label": "§ 315e",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1775
+    },
+    {
+      "doknr": "BJNR002190897BJNG002800306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE011102360",
+      "official_label": "§ 316",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1208
+    },
+    {
+      "doknr": "BJNR002190897BJNE113900360",
+      "official_label": "§ 316a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1470
+    },
+    {
+      "doknr": "BJNR002190897BJNE011212360",
+      "official_label": "§ 317",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 5729
+    },
+    {
+      "doknr": "BJNR002190897BJNE011311360",
+      "official_label": "§ 318",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 6001
+    },
+    {
+      "doknr": "BJNR002190897BJNE011408123",
+      "official_label": "§ 319",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 4785
+    },
+    {
+      "doknr": "BJNR002190897BJNE098303360",
+      "official_label": "§ 319a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE100301360",
+      "official_label": "§ 319b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 680
+    },
+    {
+      "doknr": "BJNR002190897BJNE011505360",
+      "official_label": "§ 320",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3353
+    },
+    {
+      "doknr": "BJNR002190897BJNE011606360",
+      "official_label": "§ 321",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3773
+    },
+    {
+      "doknr": "BJNR002190897BJNE098400377",
+      "official_label": "§ 321a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1764
+    },
+    {
+      "doknr": "BJNR002190897BJNE011707360",
+      "official_label": "§ 322",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 5744
+    },
+    {
+      "doknr": "BJNR002190897BJNE011807360",
+      "official_label": "§ 323",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2689
+    },
+    {
+      "doknr": "BJNR002190897BJNE011909360",
+      "official_label": "§ 324",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2911
+    },
+    {
+      "doknr": "BJNR002190897BJNE098500377",
+      "official_label": "§ 324a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 509
+    },
+    {
+      "doknr": "BJNR002190897BJNG002903360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE012017129",
+      "official_label": "§ 325",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 5256
+    },
+    {
+      "doknr": "BJNR002190897BJNE083015360",
+      "official_label": "§ 325a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2708
+    },
+    {
+      "doknr": "BJNR002190897BJNE012106360",
+      "official_label": "§ 326",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 893
+    },
+    {
+      "doknr": "BJNR002190897BJNE012206360",
+      "official_label": "§ 327",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1558
+    },
+    {
+      "doknr": "BJNR002190897BJNE099104129",
+      "official_label": "§ 327a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 355
+    },
+    {
+      "doknr": "BJNR002190897BJNE012312360",
+      "official_label": "§ 328",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 4421
+    },
+    {
+      "doknr": "BJNR002190897BJNE012407129",
+      "official_label": "§ 329",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1726
+    },
+    {
+      "doknr": "BJNR002190897BJNG003000306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE112621360",
+      "official_label": "§ 330",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 5846
+    },
+    {
+      "doknr": "BJNR002190897BJNG003101360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG042100123",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE012707360",
+      "official_label": "§ 331",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2170
+    },
+    {
+      "doknr": "BJNR002190897BJNE114000360",
+      "official_label": "§ 331a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 493
+    },
+    {
+      "doknr": "BJNR002190897BJNE012803360",
+      "official_label": "§ 332",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1207
+    },
+    {
+      "doknr": "BJNR002190897BJNE012903360",
+      "official_label": "§ 333",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1016
+    },
+    {
+      "doknr": "BJNR002190897BJNE112700123",
+      "official_label": "§ 333a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 353
+    },
+    {
+      "doknr": "BJNR002190897BJNE013017360",
+      "official_label": "§ 334",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 10374
+    },
+    {
+      "doknr": "BJNR002190897BJNG042200123",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE013122360",
+      "official_label": "§ 335",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 12797
+    },
+    {
+      "doknr": "BJNR002190897BJNE097806129",
+      "official_label": "§ 335a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3315
+    },
+    {
+      "doknr": "BJNR002190897BJNG042300123",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE097904123",
+      "official_label": "§ 335b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 561
+    },
+    {
+      "doknr": "BJNR002190897BJNE112801360",
+      "official_label": "§ 335c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 576
+    },
+    {
+      "doknr": "BJNR002190897BJNG003200306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE013209360",
+      "official_label": "§ 336",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1341
+    },
+    {
+      "doknr": "BJNR002190897BJNE013303360",
+      "official_label": "§ 337",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1766
+    },
+    {
+      "doknr": "BJNR002190897BJNE013407360",
+      "official_label": "§ 338",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1469
+    },
+    {
+      "doknr": "BJNR002190897BJNE013510360",
+      "official_label": "§ 339",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1857
+    },
+    {
+      "doknr": "BJNR002190897BJNG037602360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG038502360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG037700309",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE082918360",
+      "official_label": "§ 340",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3040
+    },
+    {
+      "doknr": "BJNR002190897BJNG037801301",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE099705360",
+      "official_label": "§ 340a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3710
+    },
+    {
+      "doknr": "BJNR002190897BJNE083101377",
+      "official_label": "§ 340b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2349
+    },
+    {
+      "doknr": "BJNR002190897BJNE083204360",
+      "official_label": "§ 340c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1308
+    },
+    {
+      "doknr": "BJNR002190897BJNE083300309",
+      "official_label": "§ 340d",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 176
+    },
+    {
+      "doknr": "BJNR002190897BJNG037900309",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE083403360",
+      "official_label": "§ 340e",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3369
+    },
+    {
+      "doknr": "BJNR002190897BJNE083501140",
+      "official_label": "§ 340f",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1765
+    },
+    {
+      "doknr": "BJNR002190897BJNE083600309",
+      "official_label": "§ 340g",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 457
+    },
+    {
+      "doknr": "BJNR002190897BJNG038000309",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE084402140",
+      "official_label": "§ 340h",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 320
+    },
+    {
+      "doknr": "BJNR002190897BJNG038201301",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE083710360",
+      "official_label": "§ 340i",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 4015
+    },
+    {
+      "doknr": "BJNR002190897BJNE084801377",
+      "official_label": "§ 340j",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 521
+    },
+    {
+      "doknr": "BJNR002190897BJNG038300309",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE084611360",
+      "official_label": "§ 340k",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 5685
+    },
+    {
+      "doknr": "BJNR002190897BJNG038400309",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE084011360",
+      "official_label": "§ 340l",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 5029
+    },
+    {
+      "doknr": "BJNR002190897BJNG038501360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE084106360",
+      "official_label": "§ 340m",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2086
+    },
+    {
+      "doknr": "BJNR002190897BJNE084218360",
+      "official_label": "§ 340n",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 12055
+    },
+    {
+      "doknr": "BJNR002190897BJNE084308360",
+      "official_label": "§ 340o",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2255
+    },
+    {
+      "doknr": "BJNR002190897BJNG038601377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG038700307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE084906360",
+      "official_label": "§ 341",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2161
+    },
+    {
+      "doknr": "BJNR002190897BJNG038800307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE085008360",
+      "official_label": "§ 341a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3679
+    },
+    {
+      "doknr": "BJNR002190897BJNG038900307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE085104360",
+      "official_label": "§ 341b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1879
+    },
+    {
+      "doknr": "BJNR002190897BJNE085201360",
+      "official_label": "§ 341c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 899
+    },
+    {
+      "doknr": "BJNR002190897BJNE085301360",
+      "official_label": "§ 341d",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 279
+    },
+    {
+      "doknr": "BJNR002190897BJNG039000307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE085402360",
+      "official_label": "§ 341e",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1819
+    },
+    {
+      "doknr": "BJNR002190897BJNE085500307",
+      "official_label": "§ 341f",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1460
+    },
+    {
+      "doknr": "BJNR002190897BJNE085600307",
+      "official_label": "§ 341g",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1426
+    },
+    {
+      "doknr": "BJNR002190897BJNE085700307",
+      "official_label": "§ 341h",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 840
+    },
+    {
+      "doknr": "BJNR002190897BJNG039100307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE085802377",
+      "official_label": "§ 341i",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1893
+    },
+    {
+      "doknr": "BJNR002190897BJNE085906360",
+      "official_label": "§ 341j",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2832
+    },
+    {
+      "doknr": "BJNR002190897BJNG039200307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE086004360",
+      "official_label": "§ 341k",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1374
+    },
+    {
+      "doknr": "BJNR002190897BJNG039300307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE086106360",
+      "official_label": "§ 341l",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1749
+    },
+    {
+      "doknr": "BJNR002190897BJNG039401360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE086204360",
+      "official_label": "§ 341m",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 891
+    },
+    {
+      "doknr": "BJNR002190897BJNE086317360",
+      "official_label": "§ 341n",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 10549
+    },
+    {
+      "doknr": "BJNR002190897BJNE086408360",
+      "official_label": "§ 341o",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1507
+    },
+    {
+      "doknr": "BJNR002190897BJNE098102123",
+      "official_label": "§ 341p",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 197
+    },
+    {
+      "doknr": "BJNR002190897BJNG041700360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG041800360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE101700360",
+      "official_label": "§ 341q",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 411
+    },
+    {
+      "doknr": "BJNR002190897BJNE101801119",
+      "official_label": "§ 341r",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3556
+    },
+    {
+      "doknr": "BJNR002190897BJNG041900360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE101901360",
+      "official_label": "§ 341s",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1031
+    },
+    {
+      "doknr": "BJNR002190897BJNE102000360",
+      "official_label": "§ 341t",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2517
+    },
+    {
+      "doknr": "BJNR002190897BJNE102100360",
+      "official_label": "§ 341u",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1728
+    },
+    {
+      "doknr": "BJNR002190897BJNE102200360",
+      "official_label": "§ 341v",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2010
+    },
+    {
+      "doknr": "BJNR002190897BJNE102303360",
+      "official_label": "§ 341w",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 757
+    },
+    {
+      "doknr": "BJNR002190897BJNG042000360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE102400360",
+      "official_label": "§ 341x",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1039
+    },
+    {
+      "doknr": "BJNR002190897BJNE102500360",
+      "official_label": "§ 341y",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1236
+    },
+    {
+      "doknr": "BJNR002190897BJNG042600360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG042700360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE115200360",
+      "official_label": "§ 342",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1508
+    },
+    {
+      "doknr": "BJNR002190897BJNE115300360",
+      "official_label": "§ 342a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 841
+    },
+    {
+      "doknr": "BJNR002190897BJNG042800360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE115400360",
+      "official_label": "§ 342b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2073
+    },
+    {
+      "doknr": "BJNR002190897BJNE115500360",
+      "official_label": "§ 342c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1731
+    },
+    {
+      "doknr": "BJNR002190897BJNE115600360",
+      "official_label": "§ 342d",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3319
+    },
+    {
+      "doknr": "BJNR002190897BJNE115700360",
+      "official_label": "§ 342e",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3474
+    },
+    {
+      "doknr": "BJNR002190897BJNE115800360",
+      "official_label": "§ 342f",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 3809
+    },
+    {
+      "doknr": "BJNR002190897BJNG042900360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE115900360",
+      "official_label": "§ 342g",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 342
+    },
+    {
+      "doknr": "BJNR002190897BJNE116000360",
+      "official_label": "§ 342h",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 4045
+    },
+    {
+      "doknr": "BJNR002190897BJNE116100360",
+      "official_label": "§ 342i",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1875
+    },
+    {
+      "doknr": "BJNR002190897BJNE116200360",
+      "official_label": "§ 342j",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 555
+    },
+    {
+      "doknr": "BJNR002190897BJNE116300360",
+      "official_label": "§ 342k",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 649
+    },
+    {
+      "doknr": "BJNR002190897BJNE116400360",
+      "official_label": "§ 342l",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 443
+    },
+    {
+      "doknr": "BJNR002190897BJNG043000360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE116500360",
+      "official_label": "§ 342m",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 4302
+    },
+    {
+      "doknr": "BJNR002190897BJNE116600360",
+      "official_label": "§ 342n",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2650
+    },
+    {
+      "doknr": "BJNR002190897BJNG043100360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE116700360",
+      "official_label": "§ 342o",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 750
+    },
+    {
+      "doknr": "BJNR002190897BJNE116800360",
+      "official_label": "§ 342p",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1298
+    },
+    {
+      "doknr": "BJNR002190897BJNG039501360",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE088004360",
+      "official_label": "§ 342q",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1283
+    },
+    {
+      "doknr": "BJNR002190897BJNE088105360",
+      "official_label": "§ 342r",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1458
+    },
+    {
+      "doknr": "BJNR002190897BJNG022801306",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG022901301",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE023001307",
+      "official_label": "§ 343",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 123
+    },
+    {
+      "doknr": "BJNR002190897BJNE023100300",
+      "official_label": "§ 344",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 292
+    },
+    {
+      "doknr": "BJNR002190897BJNE023200300",
+      "official_label": "§ 345",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 230
+    },
+    {
+      "doknr": "BJNR002190897BJNE023300300",
+      "official_label": "§ 346",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 177
+    },
+    {
+      "doknr": "BJNR002190897BJNE023400300",
+      "official_label": "§ 347",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 441
+    },
+    {
+      "doknr": "BJNR002190897BJNE023500300",
+      "official_label": "§ 348",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 193
+    },
+    {
+      "doknr": "BJNR002190897BJNE023600300",
+      "official_label": "§ 349",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 228
+    },
+    {
+      "doknr": "BJNR002190897BJNE023701377",
+      "official_label": "§ 350",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 346
+    },
+    {
+      "doknr": "BJNR002190897BJNE023801307",
+      "official_label": "§ 351",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE023901305",
+      "official_label": "§ 352",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 451
+    },
+    {
+      "doknr": "BJNR002190897BJNE024000300",
+      "official_label": "§ 353",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 221
+    },
+    {
+      "doknr": "BJNR002190897BJNE024100300",
+      "official_label": "§ 354",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 351
+    },
+    {
+      "doknr": "BJNR002190897BJNE086701140",
+      "official_label": "§ 354a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 677
+    },
+    {
+      "doknr": "BJNR002190897BJNE024200300",
+      "official_label": "§ 355",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 891
+    },
+    {
+      "doknr": "BJNR002190897BJNE024300300",
+      "official_label": "§ 356",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 553
+    },
+    {
+      "doknr": "BJNR002190897BJNE024400300",
+      "official_label": "§ 357",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 548
+    },
+    {
+      "doknr": "BJNR002190897BJNE024500300",
+      "official_label": "§ 358",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 112
+    },
+    {
+      "doknr": "BJNR002190897BJNE024600300",
+      "official_label": "§ 359",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 293
+    },
+    {
+      "doknr": "BJNR002190897BJNE024700300",
+      "official_label": "§ 360",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 110
+    },
+    {
+      "doknr": "BJNR002190897BJNE024800300",
+      "official_label": "§ 361",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 168
+    },
+    {
+      "doknr": "BJNR002190897BJNE024900300",
+      "official_label": "§ 362",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 709
+    },
+    {
+      "doknr": "BJNR002190897BJNE025002125",
+      "official_label": "§ 363",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 669
+    },
+    {
+      "doknr": "BJNR002190897BJNE025100300",
+      "official_label": "§ 364",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 452
+    },
+    {
+      "doknr": "BJNR002190897BJNE025201360",
+      "official_label": "§ 365",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 623
+    },
+    {
+      "doknr": "BJNR002190897BJNE115100360",
+      "official_label": "§ 365a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 760
+    },
+    {
+      "doknr": "BJNR002190897BJNE025302377",
+      "official_label": "§ 366",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1159
+    },
+    {
+      "doknr": "BJNR002190897BJNE025403360",
+      "official_label": "§ 367",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1295
+    },
+    {
+      "doknr": "BJNR002190897BJNE025501377",
+      "official_label": "§ 368",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 570
+    },
+    {
+      "doknr": "BJNR002190897BJNE025600300",
+      "official_label": "§ 369",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1369
+    },
+    {
+      "doknr": "BJNR002190897BJNE025701307",
+      "official_label": "§ 370",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE025800300",
+      "official_label": "§ 371",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1336
+    },
+    {
+      "doknr": "BJNR002190897BJNE025900300",
+      "official_label": "§ 372",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 709
+    },
+    {
+      "doknr": "BJNR002190897BJNG026001301",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE026101125",
+      "official_label": "§ 373",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1327
+    },
+    {
+      "doknr": "BJNR002190897BJNE026200300",
+      "official_label": "§ 374",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 178
+    },
+    {
+      "doknr": "BJNR002190897BJNE026301377",
+      "official_label": "§ 375",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 831
+    },
+    {
+      "doknr": "BJNR002190897BJNE026400300",
+      "official_label": "§ 376",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1591
+    },
+    {
+      "doknr": "BJNR002190897BJNE026500300",
+      "official_label": "§ 377",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 835
+    },
+    {
+      "doknr": "BJNR002190897BJNE026601377",
+      "official_label": "§ 378",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE026700300",
+      "official_label": "§ 379",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 343
+    },
+    {
+      "doknr": "BJNR002190897BJNE026800300",
+      "official_label": "§ 380",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 668
+    },
+    {
+      "doknr": "BJNR002190897BJNE026901377",
+      "official_label": "§ 381",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 260
+    },
+    {
+      "doknr": "BJNR002190897BJNE027001377",
+      "official_label": "§ 382",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG027101301",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE027201307",
+      "official_label": "§ 383",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 619
+    },
+    {
+      "doknr": "BJNR002190897BJNE027300300",
+      "official_label": "§ 384",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 745
+    },
+    {
+      "doknr": "BJNR002190897BJNE027400300",
+      "official_label": "§ 385",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 285
+    },
+    {
+      "doknr": "BJNR002190897BJNE027500300",
+      "official_label": "§ 386",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 686
+    },
+    {
+      "doknr": "BJNR002190897BJNE027600300",
+      "official_label": "§ 387",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 420
+    },
+    {
+      "doknr": "BJNR002190897BJNE027700300",
+      "official_label": "§ 388",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 771
+    },
+    {
+      "doknr": "BJNR002190897BJNE027800300",
+      "official_label": "§ 389",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 176
+    },
+    {
+      "doknr": "BJNR002190897BJNE027900300",
+      "official_label": "§ 390",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 448
+    },
+    {
+      "doknr": "BJNR002190897BJNE028000300",
+      "official_label": "§ 391",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 666
+    },
+    {
+      "doknr": "BJNR002190897BJNE028100300",
+      "official_label": "§ 392",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 354
+    },
+    {
+      "doknr": "BJNR002190897BJNE028200300",
+      "official_label": "§ 393",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 736
+    },
+    {
+      "doknr": "BJNR002190897BJNE028300300",
+      "official_label": "§ 394",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 533
+    },
+    {
+      "doknr": "BJNR002190897BJNE028400300",
+      "official_label": "§ 395",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 166
+    },
+    {
+      "doknr": "BJNR002190897BJNE028500300",
+      "official_label": "§ 396",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 672
+    },
+    {
+      "doknr": "BJNR002190897BJNE028601377",
+      "official_label": "§ 397",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 703
+    },
+    {
+      "doknr": "BJNR002190897BJNE028700300",
+      "official_label": "§ 398",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 201
+    },
+    {
+      "doknr": "BJNR002190897BJNE028800300",
+      "official_label": "§ 399",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 228
+    },
+    {
+      "doknr": "BJNR002190897BJNE028900300",
+      "official_label": "§ 400",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1793
+    },
+    {
+      "doknr": "BJNR002190897BJNE029000300",
+      "official_label": "§ 401",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 554
+    },
+    {
+      "doknr": "BJNR002190897BJNE029100300",
+      "official_label": "§ 402",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 130
+    },
+    {
+      "doknr": "BJNR002190897BJNE029200300",
+      "official_label": "§ 403",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 217
+    },
+    {
+      "doknr": "BJNR002190897BJNE029300300",
+      "official_label": "§ 404",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 118
+    },
+    {
+      "doknr": "BJNR002190897BJNE029400300",
+      "official_label": "§ 405",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 742
+    },
+    {
+      "doknr": "BJNR002190897BJNE029500300",
+      "official_label": "§ 406",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 664
+    },
+    {
+      "doknr": "BJNR002190897BJNG039600307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG039700307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE088300307",
+      "official_label": "§ 407",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 814
+    },
+    {
+      "doknr": "BJNR002190897BJNE088404360",
+      "official_label": "§ 408",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2155
+    },
+    {
+      "doknr": "BJNR002190897BJNE088500307",
+      "official_label": "§ 409",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1432
+    },
+    {
+      "doknr": "BJNR002190897BJNE088601377",
+      "official_label": "§ 410",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 603
+    },
+    {
+      "doknr": "BJNR002190897BJNE088701377",
+      "official_label": "§ 411",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 642
+    },
+    {
+      "doknr": "BJNR002190897BJNE088805360",
+      "official_label": "§ 412",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1265
+    },
+    {
+      "doknr": "BJNR002190897BJNE088901377",
+      "official_label": "§ 413",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 676
+    },
+    {
+      "doknr": "BJNR002190897BJNE089002377",
+      "official_label": "§ 414",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 878
+    },
+    {
+      "doknr": "BJNR002190897BJNE089100307",
+      "official_label": "§ 415",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1361
+    },
+    {
+      "doknr": "BJNR002190897BJNE089201377",
+      "official_label": "§ 416",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 931
+    },
+    {
+      "doknr": "BJNR002190897BJNE089302377",
+      "official_label": "§ 417",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1442
+    },
+    {
+      "doknr": "BJNR002190897BJNE089401377",
+      "official_label": "§ 418",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2113
+    },
+    {
+      "doknr": "BJNR002190897BJNE089501377",
+      "official_label": "§ 419",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2240
+    },
+    {
+      "doknr": "BJNR002190897BJNE089601377",
+      "official_label": "§ 420",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1642
+    },
+    {
+      "doknr": "BJNR002190897BJNE089701377",
+      "official_label": "§ 421",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1407
+    },
+    {
+      "doknr": "BJNR002190897BJNE089800307",
+      "official_label": "§ 422",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 604
+    },
+    {
+      "doknr": "BJNR002190897BJNE089900307",
+      "official_label": "§ 423",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 256
+    },
+    {
+      "doknr": "BJNR002190897BJNE090000307",
+      "official_label": "§ 424",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1147
+    },
+    {
+      "doknr": "BJNR002190897BJNE090100307",
+      "official_label": "§ 425",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 496
+    },
+    {
+      "doknr": "BJNR002190897BJNE090200307",
+      "official_label": "§ 426",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 250
+    },
+    {
+      "doknr": "BJNR002190897BJNE090300307",
+      "official_label": "§ 427",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1923
+    },
+    {
+      "doknr": "BJNR002190897BJNE090400307",
+      "official_label": "§ 428",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 314
+    },
+    {
+      "doknr": "BJNR002190897BJNE090500307",
+      "official_label": "§ 429",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 922
+    },
+    {
+      "doknr": "BJNR002190897BJNE090600307",
+      "official_label": "§ 430",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 160
+    },
+    {
+      "doknr": "BJNR002190897BJNE090702377",
+      "official_label": "§ 431",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1183
+    },
+    {
+      "doknr": "BJNR002190897BJNE090800307",
+      "official_label": "§ 432",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 365
+    },
+    {
+      "doknr": "BJNR002190897BJNE090900307",
+      "official_label": "§ 433",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 456
+    },
+    {
+      "doknr": "BJNR002190897BJNE091001377",
+      "official_label": "§ 434",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1322
+    },
+    {
+      "doknr": "BJNR002190897BJNE091100307",
+      "official_label": "§ 435",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 373
+    },
+    {
+      "doknr": "BJNR002190897BJNE091200307",
+      "official_label": "§ 436",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 467
+    },
+    {
+      "doknr": "BJNR002190897BJNE091302125",
+      "official_label": "§ 437",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 844
+    },
+    {
+      "doknr": "BJNR002190897BJNE091402377",
+      "official_label": "§ 438",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1047
+    },
+    {
+      "doknr": "BJNR002190897BJNE091501377",
+      "official_label": "§ 439",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1730
+    },
+    {
+      "doknr": "BJNR002190897BJNE091701377",
+      "official_label": "§ 440",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1290
+    },
+    {
+      "doknr": "BJNR002190897BJNE091801377",
+      "official_label": "§ 441",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 640
+    },
+    {
+      "doknr": "BJNR002190897BJNE091901377",
+      "official_label": "§ 442",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 498
+    },
+    {
+      "doknr": "BJNR002190897BJNE092004360",
+      "official_label": "§ 443",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1207
+    },
+    {
+      "doknr": "BJNR002190897BJNE100500377",
+      "official_label": "§ 444",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1376
+    },
+    {
+      "doknr": "BJNR002190897BJNE092101377",
+      "official_label": "§ 445",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1146
+    },
+    {
+      "doknr": "BJNR002190897BJNE092201377",
+      "official_label": "§ 446",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 741
+    },
+    {
+      "doknr": "BJNR002190897BJNE092301377",
+      "official_label": "§ 447",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 597
+    },
+    {
+      "doknr": "BJNR002190897BJNE092401377",
+      "official_label": "§ 448",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 260
+    },
+    {
+      "doknr": "BJNR002190897BJNE092502377",
+      "official_label": "§ 449",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2070
+    },
+    {
+      "doknr": "BJNR002190897BJNE092600307",
+      "official_label": "§ 450",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 280
+    },
+    {
+      "doknr": "BJNR002190897BJNG039800307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE092700307",
+      "official_label": "§ 451",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 265
+    },
+    {
+      "doknr": "BJNR002190897BJNE092801305",
+      "official_label": "§ 451a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 327
+    },
+    {
+      "doknr": "BJNR002190897BJNE092901305",
+      "official_label": "§ 451b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 735
+    },
+    {
+      "doknr": "BJNR002190897BJNE093002377",
+      "official_label": "§ 451c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE093100307",
+      "official_label": "§ 451d",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1371
+    },
+    {
+      "doknr": "BJNR002190897BJNE093201377",
+      "official_label": "§ 451e",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 212
+    },
+    {
+      "doknr": "BJNR002190897BJNE093300307",
+      "official_label": "§ 451f",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 425
+    },
+    {
+      "doknr": "BJNR002190897BJNE093401305",
+      "official_label": "§ 451g",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 848
+    },
+    {
+      "doknr": "BJNR002190897BJNE093502377",
+      "official_label": "§ 451h",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1338
+    },
+    {
+      "doknr": "BJNR002190897BJNG039900307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE093601377",
+      "official_label": "§ 452",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 666
+    },
+    {
+      "doknr": "BJNR002190897BJNE093700307",
+      "official_label": "§ 452a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 600
+    },
+    {
+      "doknr": "BJNR002190897BJNE093800307",
+      "official_label": "§ 452b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 637
+    },
+    {
+      "doknr": "BJNR002190897BJNE093900307",
+      "official_label": "§ 452c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 390
+    },
+    {
+      "doknr": "BJNR002190897BJNE094000307",
+      "official_label": "§ 452d",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1038
+    },
+    {
+      "doknr": "BJNR002190897BJNG040000307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE094100307",
+      "official_label": "§ 453",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 702
+    },
+    {
+      "doknr": "BJNR002190897BJNE094200307",
+      "official_label": "§ 454",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1084
+    },
+    {
+      "doknr": "BJNR002190897BJNE094303377",
+      "official_label": "§ 455",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1013
+    },
+    {
+      "doknr": "BJNR002190897BJNE094400307",
+      "official_label": "§ 456",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 97
+    },
+    {
+      "doknr": "BJNR002190897BJNE094500307",
+      "official_label": "§ 457",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 337
+    },
+    {
+      "doknr": "BJNR002190897BJNE094600307",
+      "official_label": "§ 458",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 338
+    },
+    {
+      "doknr": "BJNR002190897BJNE094700307",
+      "official_label": "§ 459",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 304
+    },
+    {
+      "doknr": "BJNR002190897BJNE094800307",
+      "official_label": "§ 460",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 539
+    },
+    {
+      "doknr": "BJNR002190897BJNE094900307",
+      "official_label": "§ 461",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 833
+    },
+    {
+      "doknr": "BJNR002190897BJNE095000307",
+      "official_label": "§ 462",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 337
+    },
+    {
+      "doknr": "BJNR002190897BJNE095100307",
+      "official_label": "§ 463",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 138
+    },
+    {
+      "doknr": "BJNR002190897BJNE095201377",
+      "official_label": "§ 464",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 470
+    },
+    {
+      "doknr": "BJNR002190897BJNE095301377",
+      "official_label": "§ 465",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 357
+    },
+    {
+      "doknr": "BJNR002190897BJNE095402377",
+      "official_label": "§ 466",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1891
+    },
+    {
+      "doknr": "BJNR002190897BJNG040100307",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE095501125",
+      "official_label": "§ 467",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 696
+    },
+    {
+      "doknr": "BJNR002190897BJNE095604125",
+      "official_label": "§ 468",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1558
+    },
+    {
+      "doknr": "BJNR002190897BJNE095700307",
+      "official_label": "§ 469",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 496
+    },
+    {
+      "doknr": "BJNR002190897BJNE095800307",
+      "official_label": "§ 470",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 269
+    },
+    {
+      "doknr": "BJNR002190897BJNE095900307",
+      "official_label": "§ 471",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1246
+    },
+    {
+      "doknr": "BJNR002190897BJNE096001305",
+      "official_label": "§ 472",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 344
+    },
+    {
+      "doknr": "BJNR002190897BJNE096100307",
+      "official_label": "§ 473",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 910
+    },
+    {
+      "doknr": "BJNR002190897BJNE096200307",
+      "official_label": "§ 474",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 147
+    },
+    {
+      "doknr": "BJNR002190897BJNE096300307",
+      "official_label": "§ 475",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 366
+    },
+    {
+      "doknr": "BJNR002190897BJNE096400307",
+      "official_label": "§ 475a",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 398
+    },
+    {
+      "doknr": "BJNR002190897BJNE096501377",
+      "official_label": "§ 475b",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1006
+    },
+    {
+      "doknr": "BJNR002190897BJNE096604360",
+      "official_label": "§ 475c",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1597
+    },
+    {
+      "doknr": "BJNR002190897BJNE096701377",
+      "official_label": "§ 475d",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1536
+    },
+    {
+      "doknr": "BJNR002190897BJNE096801377",
+      "official_label": "§ 475e",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1012
+    },
+    {
+      "doknr": "BJNR002190897BJNE096901377",
+      "official_label": "§ 475f",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 400
+    },
+    {
+      "doknr": "BJNR002190897BJNE097001377",
+      "official_label": "§ 475g",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 308
+    },
+    {
+      "doknr": "BJNR002190897BJNE097102377",
+      "official_label": "§ 475h",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 121
+    },
+    {
+      "doknr": "BJNR002190897BJNG035503377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG035603377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE038604377",
+      "official_label": "§ 476",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 87
+    },
+    {
+      "doknr": "BJNR002190897BJNE038701377",
+      "official_label": "§ 477",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 515
+    },
+    {
+      "doknr": "BJNR002190897BJNE038801377",
+      "official_label": "§ 478",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 391
+    },
+    {
+      "doknr": "BJNR002190897BJNE038902377",
+      "official_label": "§ 479",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 894
+    },
+    {
+      "doknr": "BJNR002190897BJNE039001377",
+      "official_label": "§ 480",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 418
+    },
+    {
+      "doknr": "BJNR002190897BJNG035702377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG040500377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG040600377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG040700377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE039101377",
+      "official_label": "§ 481",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 752
+    },
+    {
+      "doknr": "BJNR002190897BJNE039201377",
+      "official_label": "§ 482",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 462
+    },
+    {
+      "doknr": "BJNR002190897BJNE039302377",
+      "official_label": "§ 483",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1283
+    },
+    {
+      "doknr": "BJNR002190897BJNE039401377",
+      "official_label": "§ 484",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 648
+    },
+    {
+      "doknr": "BJNR002190897BJNE039502377",
+      "official_label": "§ 485",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 442
+    },
+    {
+      "doknr": "BJNR002190897BJNE079705125",
+      "official_label": "§ 486",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1088
+    },
+    {
+      "doknr": "BJNR002190897BJNE079801377",
+      "official_label": "§ 487",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 960
+    },
+    {
+      "doknr": "BJNR002190897BJNE040201377",
+      "official_label": "§ 488",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2259
+    },
+    {
+      "doknr": "BJNR002190897BJNE040301377",
+      "official_label": "§ 489",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1028
+    },
+    {
+      "doknr": "BJNR002190897BJNE040401377",
+      "official_label": "§ 490",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1765
+    },
+    {
+      "doknr": "BJNR002190897BJNE040501377",
+      "official_label": "§ 491",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2191
+    },
+    {
+      "doknr": "BJNR002190897BJNE040601377",
+      "official_label": "§ 492",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2233
+    },
+    {
+      "doknr": "BJNR002190897BJNE040701377",
+      "official_label": "§ 493",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1640
+    },
+    {
+      "doknr": "BJNR002190897BJNE040801377",
+      "official_label": "§ 494",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1335
+    },
+    {
+      "doknr": "BJNR002190897BJNE040901377",
+      "official_label": "§ 495",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1287
+    },
+    {
+      "doknr": "BJNR002190897BJNE041001377",
+      "official_label": "§ 496",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 631
+    },
+    {
+      "doknr": "BJNR002190897BJNE041101377",
+      "official_label": "§ 497",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 168
+    },
+    {
+      "doknr": "BJNR002190897BJNG040800377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE041201377",
+      "official_label": "§ 498",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1175
+    },
+    {
+      "doknr": "BJNR002190897BJNE041301377",
+      "official_label": "§ 499",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2017
+    },
+    {
+      "doknr": "BJNR002190897BJNE041401377",
+      "official_label": "§ 500",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 459
+    },
+    {
+      "doknr": "BJNR002190897BJNE041502377",
+      "official_label": "§ 501",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 236
+    },
+    {
+      "doknr": "BJNR002190897BJNE041601377",
+      "official_label": "§ 502",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1333
+    },
+    {
+      "doknr": "BJNR002190897BJNE041701377",
+      "official_label": "§ 503",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 159
+    },
+    {
+      "doknr": "BJNR002190897BJNE041801377",
+      "official_label": "§ 504",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1079
+    },
+    {
+      "doknr": "BJNR002190897BJNE041902377",
+      "official_label": "§ 505",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 501
+    },
+    {
+      "doknr": "BJNR002190897BJNE042001377",
+      "official_label": "§ 506",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1250
+    },
+    {
+      "doknr": "BJNR002190897BJNE042101377",
+      "official_label": "§ 507",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 546
+    },
+    {
+      "doknr": "BJNR002190897BJNE042201377",
+      "official_label": "§ 508",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 823
+    },
+    {
+      "doknr": "BJNR002190897BJNE042302125",
+      "official_label": "§ 509",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 884
+    },
+    {
+      "doknr": "BJNR002190897BJNE042401377",
+      "official_label": "§ 510",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 798
+    },
+    {
+      "doknr": "BJNR002190897BJNE042501377",
+      "official_label": "§ 511",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1411
+    },
+    {
+      "doknr": "BJNR002190897BJNE042601377",
+      "official_label": "§ 512",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 838
+    },
+    {
+      "doknr": "BJNR002190897BJNG040900377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE042701377",
+      "official_label": "§ 513",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 768
+    },
+    {
+      "doknr": "BJNR002190897BJNE042801377",
+      "official_label": "§ 514",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 903
+    },
+    {
+      "doknr": "BJNR002190897BJNE042901377",
+      "official_label": "§ 515",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 755
+    },
+    {
+      "doknr": "BJNR002190897BJNE043004360",
+      "official_label": "§ 516",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 812
+    },
+    {
+      "doknr": "BJNR002190897BJNE043101377",
+      "official_label": "§ 517",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1246
+    },
+    {
+      "doknr": "BJNR002190897BJNE043201377",
+      "official_label": "§ 518",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 369
+    },
+    {
+      "doknr": "BJNR002190897BJNE043301377",
+      "official_label": "§ 519",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 531
+    },
+    {
+      "doknr": "BJNR002190897BJNE043401377",
+      "official_label": "§ 520",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 812
+    },
+    {
+      "doknr": "BJNR002190897BJNE043501377",
+      "official_label": "§ 521",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1915
+    },
+    {
+      "doknr": "BJNR002190897BJNE043602377",
+      "official_label": "§ 522",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1255
+    },
+    {
+      "doknr": "BJNR002190897BJNE043701377",
+      "official_label": "§ 523",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1792
+    },
+    {
+      "doknr": "BJNR002190897BJNE043801377",
+      "official_label": "§ 524",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 263
+    },
+    {
+      "doknr": "BJNR002190897BJNE043901377",
+      "official_label": "§ 525",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 639
+    },
+    {
+      "doknr": "BJNR002190897BJNE044004360",
+      "official_label": "§ 526",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1268
+    },
+    {
+      "doknr": "BJNR002190897BJNG041000377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE044101377",
+      "official_label": "§ 527",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 584
+    },
+    {
+      "doknr": "BJNR002190897BJNE044201377",
+      "official_label": "§ 528",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 468
+    },
+    {
+      "doknr": "BJNR002190897BJNE100600377",
+      "official_label": "§ 529",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 570
+    },
+    {
+      "doknr": "BJNR002190897BJNE100700377",
+      "official_label": "§ 530",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1094
+    },
+    {
+      "doknr": "BJNR002190897BJNE044401377",
+      "official_label": "§ 531",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 279
+    },
+    {
+      "doknr": "BJNR002190897BJNE044501377",
+      "official_label": "§ 532",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 231
+    },
+    {
+      "doknr": "BJNR002190897BJNE044601377",
+      "official_label": "§ 533",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1635
+    },
+    {
+      "doknr": "BJNR002190897BJNE044701377",
+      "official_label": "§ 534",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 564
+    },
+    {
+      "doknr": "BJNR002190897BJNE044801377",
+      "official_label": "§ 535",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 585
+    },
+    {
+      "doknr": "BJNR002190897BJNG041100377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE044902123",
+      "official_label": "§ 536",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1449
+    },
+    {
+      "doknr": "BJNR002190897BJNE045001377",
+      "official_label": "§ 537",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1447
+    },
+    {
+      "doknr": "BJNR002190897BJNE045101377",
+      "official_label": "§ 538",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1727
+    },
+    {
+      "doknr": "BJNR002190897BJNE045201377",
+      "official_label": "§ 539",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2342
+    },
+    {
+      "doknr": "BJNR002190897BJNE045301377",
+      "official_label": "§ 540",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 320
+    },
+    {
+      "doknr": "BJNR002190897BJNE045401377",
+      "official_label": "§ 541",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1575
+    },
+    {
+      "doknr": "BJNR002190897BJNE045501377",
+      "official_label": "§ 542",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1528
+    },
+    {
+      "doknr": "BJNR002190897BJNE045601377",
+      "official_label": "§ 543",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 121
+    },
+    {
+      "doknr": "BJNR002190897BJNE045701377",
+      "official_label": "§ 544",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 493
+    },
+    {
+      "doknr": "BJNR002190897BJNE045801377",
+      "official_label": "§ 545",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 395
+    },
+    {
+      "doknr": "BJNR002190897BJNE100801125",
+      "official_label": "§ 546",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 821
+    },
+    {
+      "doknr": "BJNR002190897BJNE100900377",
+      "official_label": "§ 547",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 923
+    },
+    {
+      "doknr": "BJNR002190897BJNE101000377",
+      "official_label": "§ 548",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 278
+    },
+    {
+      "doknr": "BJNR002190897BJNE101100377",
+      "official_label": "§ 549",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 947
+    },
+    {
+      "doknr": "BJNR002190897BJNE101200377",
+      "official_label": "§ 550",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 642
+    },
+    {
+      "doknr": "BJNR002190897BJNE101300377",
+      "official_label": "§ 551",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 481
+    },
+    {
+      "doknr": "BJNR002190897BJNE046001377",
+      "official_label": "§ 552",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 200
+    },
+    {
+      "doknr": "BJNR002190897BJNG035802377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG041200377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE101400377",
+      "official_label": "§ 553",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 840
+    },
+    {
+      "doknr": "BJNR002190897BJNE101500377",
+      "official_label": "§ 554",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 453
+    },
+    {
+      "doknr": "BJNR002190897BJNE046201377",
+      "official_label": "§ 555",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 88
+    },
+    {
+      "doknr": "BJNR002190897BJNE046301377",
+      "official_label": "§ 556",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 298
+    },
+    {
+      "doknr": "BJNR002190897BJNG041300377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE046401377",
+      "official_label": "§ 557",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 841
+    },
+    {
+      "doknr": "BJNR002190897BJNE046501377",
+      "official_label": "§ 558",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 96
+    },
+    {
+      "doknr": "BJNR002190897BJNE046601377",
+      "official_label": "§ 559",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 452
+    },
+    {
+      "doknr": "BJNR002190897BJNE046701377",
+      "official_label": "§ 560",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 295
+    },
+    {
+      "doknr": "BJNR002190897BJNE046801377",
+      "official_label": "§ 561",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 432
+    },
+    {
+      "doknr": "BJNR002190897BJNE046901377",
+      "official_label": "§ 562",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 159
+    },
+    {
+      "doknr": "BJNR002190897BJNE047001377",
+      "official_label": "§ 563",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 237
+    },
+    {
+      "doknr": "BJNR002190897BJNE047101377",
+      "official_label": "§ 564",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 500
+    },
+    {
+      "doknr": "BJNR002190897BJNE047501377",
+      "official_label": "§ 565",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 467
+    },
+    {
+      "doknr": "BJNR002190897BJNE047601377",
+      "official_label": "§ 566",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 987
+    },
+    {
+      "doknr": "BJNR002190897BJNE047701377",
+      "official_label": "§ 567",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 275
+    },
+    {
+      "doknr": "BJNR002190897BJNE047801377",
+      "official_label": "§ 568",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 230
+    },
+    {
+      "doknr": "BJNR002190897BJNE047901377",
+      "official_label": "§ 569",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 549
+    },
+    {
+      "doknr": "BJNR002190897BJNG035902377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG041400377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE048001377",
+      "official_label": "§ 570",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 389
+    },
+    {
+      "doknr": "BJNR002190897BJNE048101377",
+      "official_label": "§ 571",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 642
+    },
+    {
+      "doknr": "BJNR002190897BJNE048201377",
+      "official_label": "§ 572",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 309
+    },
+    {
+      "doknr": "BJNR002190897BJNE048301377",
+      "official_label": "§ 573",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 120
+    },
+    {
+      "doknr": "BJNR002190897BJNG041500377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE048401377",
+      "official_label": "§ 574",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2069
+    },
+    {
+      "doknr": "BJNR002190897BJNE048501377",
+      "official_label": "§ 575",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 880
+    },
+    {
+      "doknr": "BJNR002190897BJNE048601377",
+      "official_label": "§ 576",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 848
+    },
+    {
+      "doknr": "BJNR002190897BJNE048701377",
+      "official_label": "§ 577",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1383
+    },
+    {
+      "doknr": "BJNR002190897BJNE048801377",
+      "official_label": "§ 578",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1384
+    },
+    {
+      "doknr": "BJNR002190897BJNE048901377",
+      "official_label": "§ 579",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 707
+    },
+    {
+      "doknr": "BJNR002190897BJNE049001377",
+      "official_label": "§ 580",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 511
+    },
+    {
+      "doknr": "BJNR002190897BJNE049101377",
+      "official_label": "§ 581",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1259
+    },
+    {
+      "doknr": "BJNR002190897BJNE049201377",
+      "official_label": "§ 582",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 585
+    },
+    {
+      "doknr": "BJNR002190897BJNE049301377",
+      "official_label": "§ 583",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 920
+    },
+    {
+      "doknr": "BJNR002190897BJNE049401377",
+      "official_label": "§ 584",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 822
+    },
+    {
+      "doknr": "BJNR002190897BJNE049501377",
+      "official_label": "§ 585",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1265
+    },
+    {
+      "doknr": "BJNR002190897BJNE049601377",
+      "official_label": "§ 586",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1183
+    },
+    {
+      "doknr": "BJNR002190897BJNE049701377",
+      "official_label": "§ 587",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1322
+    },
+    {
+      "doknr": "BJNR002190897BJNG041600377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE049801377",
+      "official_label": "§ 588",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 619
+    },
+    {
+      "doknr": "BJNR002190897BJNE049901377",
+      "official_label": "§ 589",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 622
+    },
+    {
+      "doknr": "BJNR002190897BJNE050001377",
+      "official_label": "§ 590",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1090
+    },
+    {
+      "doknr": "BJNR002190897BJNE050101377",
+      "official_label": "§ 591",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 710
+    },
+    {
+      "doknr": "BJNR002190897BJNE050201377",
+      "official_label": "§ 592",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 916
+    },
+    {
+      "doknr": "BJNR002190897BJNE050301377",
+      "official_label": "§ 593",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 205
+    },
+    {
+      "doknr": "BJNR002190897BJNE050401377",
+      "official_label": "§ 594",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1311
+    },
+    {
+      "doknr": "BJNR002190897BJNE050501377",
+      "official_label": "§ 595",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 781
+    },
+    {
+      "doknr": "BJNR002190897BJNG036003377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE050601377",
+      "official_label": "§ 596",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1288
+    },
+    {
+      "doknr": "BJNR002190897BJNE050701377",
+      "official_label": "§ 597",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 323
+    },
+    {
+      "doknr": "BJNR002190897BJNE050801377",
+      "official_label": "§ 598",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 562
+    },
+    {
+      "doknr": "BJNR002190897BJNE050901377",
+      "official_label": "§ 599",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 112
+    },
+    {
+      "doknr": "BJNR002190897BJNE051001377",
+      "official_label": "§ 600",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 828
+    },
+    {
+      "doknr": "BJNR002190897BJNE051101377",
+      "official_label": "§ 601",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 588
+    },
+    {
+      "doknr": "BJNR002190897BJNE051201377",
+      "official_label": "§ 602",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 241
+    },
+    {
+      "doknr": "BJNR002190897BJNE051301377",
+      "official_label": "§ 603",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 679
+    },
+    {
+      "doknr": "BJNR002190897BJNE051401377",
+      "official_label": "§ 604",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 690
+    },
+    {
+      "doknr": "BJNR002190897BJNG036102377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE051501377",
+      "official_label": "§ 605",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 271
+    },
+    {
+      "doknr": "BJNR002190897BJNE051601377",
+      "official_label": "§ 606",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 486
+    },
+    {
+      "doknr": "BJNR002190897BJNE051701377",
+      "official_label": "§ 607",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2608
+    },
+    {
+      "doknr": "BJNR002190897BJNE051801377",
+      "official_label": "§ 608",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 412
+    },
+    {
+      "doknr": "BJNR002190897BJNE051902125",
+      "official_label": "§ 609",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 888
+    },
+    {
+      "doknr": "BJNR002190897BJNE052001377",
+      "official_label": "§ 610",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 264
+    },
+    {
+      "doknr": "BJNR002190897BJNG036202377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE052101377",
+      "official_label": "§ 611",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 2103
+    },
+    {
+      "doknr": "BJNR002190897BJNE080502377",
+      "official_label": "§ 612",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1383
+    },
+    {
+      "doknr": "BJNR002190897BJNE052301377",
+      "official_label": "§ 613",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 315
+    },
+    {
+      "doknr": "BJNR002190897BJNE052401377",
+      "official_label": "§ 614",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 377
+    },
+    {
+      "doknr": "BJNR002190897BJNE052502377",
+      "official_label": "§ 615",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 1929
+    },
+    {
+      "doknr": "BJNR002190897BJNE052601377",
+      "official_label": "§ 616",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 921
+    },
+    {
+      "doknr": "BJNR002190897BJNE052701377",
+      "official_label": "§ 617",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 581
+    },
+    {
+      "doknr": "BJNR002190897BJNG036503377",
+      "official_label": null,
+      "disposition": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNE052801377",
+      "official_label": "§ 618",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 574
+    },
+    {
+      "doknr": "BJNR002190897BJNE052901377",
+      "official_label": "§ 619",
+      "disposition": "statutory_unit",
+      "operative_text_chars": 283
+    }
+  ],
+  "expected_official_doknr": [
+    "BJNR002190897BJNE000401307",
+    "BJNR002190897BJNE000501307",
+    "BJNR002190897BJNE000601307",
+    "BJNR002190897BJNE000701307",
+    "BJNR002190897BJNE000801307",
+    "BJNR002190897BJNE000901307",
+    "BJNR002190897BJNE001000300",
+    "BJNR002190897BJNE001201377",
+    "BJNR002190897BJNE079507360",
+    "BJNR002190897BJNE099017360",
+    "BJNR002190897BJNE001307360",
+    "BJNR002190897BJNE038606360",
+    "BJNR002190897BJNE101602360",
+    "BJNR002190897BJNE114100360",
+    "BJNR002190897BJNE116901129",
+    "BJNR002190897BJNE001402360",
+    "BJNR002190897BJNE113801360",
+    "BJNR002190897BJNE001501377",
+    "BJNR002190897BJNE001604360",
+    "BJNR002190897BJNE001704140",
+    "BJNR002190897BJNE114200360",
+    "BJNR002190897BJNE001804360",
+    "BJNR002190897BJNE082503140",
+    "BJNR002190897BJNE082605360",
+    "BJNR002190897BJNE082705360",
+    "BJNR002190897BJNE082803360",
+    "BJNR002190897BJNE082900307",
+    "BJNR002190897BJNE002102377",
+    "BJNR002190897BJNE002203360",
+    "BJNR002190897BJNE099300140",
+    "BJNR002190897BJNE002300300",
+    "BJNR002190897BJNE002501307",
+    "BJNR002190897BJNE002601307",
+    "BJNR002190897BJNE002701307",
+    "BJNR002190897BJNE037500309",
+    "BJNR002190897BJNE002801307",
+    "BJNR002190897BJNE002901307",
+    "BJNR002190897BJNE003000300",
+    "BJNR002190897BJNE003101307",
+    "BJNR002190897BJNE003200300",
+    "BJNR002190897BJNE003302377",
+    "BJNR002190897BJNE003401377",
+    "BJNR002190897BJNE003501307",
+    "BJNR002190897BJNE003603140",
+    "BJNR002190897BJNE003702360",
+    "BJNR002190897BJNE003801140",
+    "BJNR002190897BJNE003903360",
+    "BJNR002190897BJNE004002377",
+    "BJNR002190897BJNE004104377",
+    "BJNR002190897BJNE004201377",
+    "BJNR002190897BJNE097300307",
+    "BJNR002190897BJNE004400300",
+    "BJNR002190897BJNE097201377",
+    "BJNR002190897BJNE004601306",
+    "BJNR002190897BJNE005900300",
+    "BJNR002190897BJNE006000300",
+    "BJNR002190897BJNE006100300",
+    "BJNR002190897BJNE006200300",
+    "BJNR002190897BJNE006300300",
+    "BJNR002190897BJNE006402377",
+    "BJNR002190897BJNE006500300",
+    "BJNR002190897BJNE006600300",
+    "BJNR002190897BJNE006700300",
+    "BJNR002190897BJNE006800300",
+    "BJNR002190897BJNE006900300",
+    "BJNR002190897BJNE007100300",
+    "BJNR002190897BJNE007200300",
+    "BJNR002190897BJNE007301377",
+    "BJNR002190897BJNE007400300",
+    "BJNR002190897BJNE007501307",
+    "BJNR002190897BJNE007600300",
+    "BJNR002190897BJNE007700300",
+    "BJNR002190897BJNE037700309",
+    "BJNR002190897BJNE007802377",
+    "BJNR002190897BJNE007900300",
+    "BJNR002190897BJNE008001311",
+    "BJNR002190897BJNE008100300",
+    "BJNR002190897BJNE008200300",
+    "BJNR002190897BJNE008306125",
+    "BJNR002190897BJNE008400300",
+    "BJNR002190897BJNE008501311",
+    "BJNR002190897BJNE008600300",
+    "BJNR002190897BJNE008700300",
+    "BJNR002190897BJNE037800309",
+    "BJNR002190897BJNE008800300",
+    "BJNR002190897BJNE008900300",
+    "BJNR002190897BJNE009000300",
+    "BJNR002190897BJNE037900309",
+    "BJNR002190897BJNE009100300",
+    "BJNR002190897BJNE009200300",
+    "BJNR002190897BJNE009401307",
+    "BJNR002190897BJNE009500300",
+    "BJNR002190897BJNE009601309",
+    "BJNR002190897BJNE009701309",
+    "BJNR002190897BJNE009800300",
+    "BJNR002190897BJNE009901309",
+    "BJNR002190897BJNE010001309",
+    "BJNR002190897BJNE010100300",
+    "BJNR002190897BJNE010200300",
+    "BJNR002190897BJNE010300300",
+    "BJNR002190897BJNE010401377",
+    "BJNR002190897BJNE010500300",
+    "BJNR002190897BJNE010601309",
+    "BJNR002190897BJNE010700300",
+    "BJNR002190897BJNE010808140",
+    "BJNR002190897BJNE010900300",
+    "BJNR002190897BJNE011002307",
+    "BJNR002190897BJNE011100300",
+    "BJNR002190897BJNE011200300",
+    "BJNR002190897BJNE011300300",
+    "BJNR002190897BJNE011409360",
+    "BJNR002190897BJNE011500300",
+    "BJNR002190897BJNE011602305",
+    "BJNR002190897BJNE097400307",
+    "BJNR002190897BJNE011900300",
+    "BJNR002190897BJNE012000300",
+    "BJNR002190897BJNE012100300",
+    "BJNR002190897BJNE012200300",
+    "BJNR002190897BJNE012300300",
+    "BJNR002190897BJNE012400300",
+    "BJNR002190897BJNE012502377",
+    "BJNR002190897BJNE012600300",
+    "BJNR002190897BJNE012700300",
+    "BJNR002190897BJNE012801311",
+    "BJNR002190897BJNE012901309",
+    "BJNR002190897BJNE099200377",
+    "BJNR002190897BJNE013304360",
+    "BJNR002190897BJNE013408360",
+    "BJNR002190897BJNE013511360",
+    "BJNR002190897BJNE013604360",
+    "BJNR002190897BJNE013801360",
+    "BJNR002190897BJNE013901360",
+    "BJNR002190897BJNE014001360",
+    "BJNR002190897BJNE014101360",
+    "BJNR002190897BJNE014202360",
+    "BJNR002190897BJNE014301360",
+    "BJNR002190897BJNE014401360",
+    "BJNR002190897BJNE014501360",
+    "BJNR002190897BJNE014601360",
+    "BJNR002190897BJNE014702360",
+    "BJNR002190897BJNE014801360",
+    "BJNR002190897BJNE014901360",
+    "BJNR002190897BJNE015001360",
+    "BJNR002190897BJNE015101360",
+    "BJNR002190897BJNE015302360",
+    "BJNR002190897BJNE015401360",
+    "BJNR002190897BJNE015502360",
+    "BJNR002190897BJNE015601360",
+    "BJNR002190897BJNE015701360",
+    "BJNR002190897BJNE015801360",
+    "BJNR002190897BJNE015901360",
+    "BJNR002190897BJNE016001360",
+    "BJNR002190897BJNE016406360",
+    "BJNR002190897BJNE016501360",
+    "BJNR002190897BJNE016601360",
+    "BJNR002190897BJNE016701360",
+    "BJNR002190897BJNE016801360",
+    "BJNR002190897BJNE016902360",
+    "BJNR002190897BJNE114600360",
+    "BJNR002190897BJNE114700360",
+    "BJNR002190897BJNE017202360",
+    "BJNR002190897BJNE017302360",
+    "BJNR002190897BJNE017404360",
+    "BJNR002190897BJNE114800360",
+    "BJNR002190897BJNE017602360",
+    "BJNR002190897BJNE017702360",
+    "BJNR002190897BJNE017902360",
+    "BJNR002190897BJNE018002360",
+    "BJNR002190897BJNE018101360",
+    "BJNR002190897BJNE018204360",
+    "BJNR002190897BJNE018301360",
+    "BJNR002190897BJNE018402360",
+    "BJNR002190897BJNE018501360",
+    "BJNR002190897BJNE018601360",
+    "BJNR002190897BJNE018701360",
+    "BJNR002190897BJNE019701360",
+    "BJNR002190897BJNE114300360",
+    "BJNR002190897BJNE019900300",
+    "BJNR002190897BJNE020001360",
+    "BJNR002190897BJNE020101360",
+    "BJNR002190897BJNE020202360",
+    "BJNR002190897BJNE020301360",
+    "BJNR002190897BJNE020401360",
+    "BJNR002190897BJNE020501360",
+    "BJNR002190897BJNE020601360",
+    "BJNR002190897BJNE020702360",
+    "BJNR002190897BJNE020802360",
+    "BJNR002190897BJNE038201140",
+    "BJNR002190897BJNE020900300",
+    "BJNR002190897BJNE021001360",
+    "BJNR002190897BJNE114400360",
+    "BJNR002190897BJNE021202360",
+    "BJNR002190897BJNE021301307",
+    "BJNR002190897BJNE021404360",
+    "BJNR002190897BJNE114900360",
+    "BJNR002190897BJNE115000360",
+    "BJNR002190897BJNE021602360",
+    "BJNR002190897BJNE022001306",
+    "BJNR002190897BJNE022101306",
+    "BJNR002190897BJNE022201306",
+    "BJNR002190897BJNE022302360",
+    "BJNR002190897BJNE022402360",
+    "BJNR002190897BJNE022501306",
+    "BJNR002190897BJNE022602307",
+    "BJNR002190897BJNE022702307",
+    "BJNR002190897BJNE003300306",
+    "BJNR002190897BJNE003400306",
+    "BJNR002190897BJNE086500307",
+    "BJNR002190897BJNE003600306",
+    "BJNR002190897BJNE099803125",
+    "BJNR002190897BJNE003701140",
+    "BJNR002190897BJNE003800306",
+    "BJNR002190897BJNE088200307",
+    "BJNR002190897BJNE004000306",
+    "BJNR002190897BJNE004105140",
+    "BJNR002190897BJNE004202140",
+    "BJNR002190897BJNE004302140",
+    "BJNR002190897BJNE004401140",
+    "BJNR002190897BJNE004501140",
+    "BJNR002190897BJNE004600306",
+    "BJNR002190897BJNE004701140",
+    "BJNR002190897BJNE004807360",
+    "BJNR002190897BJNE004901140",
+    "BJNR002190897BJNE005002360",
+    "BJNR002190897BJNE005101140",
+    "BJNR002190897BJNE099900140",
+    "BJNR002190897BJNE005204129",
+    "BJNR002190897BJNE005300306",
+    "BJNR002190897BJNE005400306",
+    "BJNR002190897BJNE005500306",
+    "BJNR002190897BJNE005600306",
+    "BJNR002190897BJNE005701307",
+    "BJNR002190897BJNE005800306",
+    "BJNR002190897BJNE005917360",
+    "BJNR002190897BJNE097500305",
+    "BJNR002190897BJNE097605360",
+    "BJNR002190897BJNE097703360",
+    "BJNR002190897BJNE100002123",
+    "BJNR002190897BJNE006002360",
+    "BJNR002190897BJNE006104360",
+    "BJNR002190897BJNE006210360",
+    "BJNR002190897BJNE100402360",
+    "BJNR002190897BJNE006302360",
+    "BJNR002190897BJNE006403140",
+    "BJNR002190897BJNE006501140",
+    "BJNR002190897BJNE006604360",
+    "BJNR002190897BJNE006705123",
+    "BJNR002190897BJNE006801140",
+    "BJNR002190897BJNE006902360",
+    "BJNR002190897BJNE086603360",
+    "BJNR002190897BJNE007003360",
+    "BJNR002190897BJNE007103360",
+    "BJNR002190897BJNE007202360",
+    "BJNR002190897BJNE007302360",
+    "BJNR002190897BJNE007401140",
+    "BJNR002190897BJNE007902360",
+    "BJNR002190897BJNE008016360",
+    "BJNR002190897BJNE008109360",
+    "BJNR002190897BJNE008204140",
+    "BJNR002190897BJNE008305360",
+    "BJNR002190897BJNE008411360",
+    "BJNR002190897BJNE112902360",
+    "BJNR002190897BJNE113001123",
+    "BJNR002190897BJNE113100123",
+    "BJNR002190897BJNE113200123",
+    "BJNR002190897BJNE113300123",
+    "BJNR002190897BJNE100106360",
+    "BJNR002190897BJNE008506360",
+    "BJNR002190897BJNE008610360",
+    "BJNR002190897BJNE008712360",
+    "BJNR002190897BJNE086902277",
+    "BJNR002190897BJNE008811360",
+    "BJNR002190897BJNE008904123",
+    "BJNR002190897BJNE009001377",
+    "BJNR002190897BJNE009101360",
+    "BJNR002190897BJNE009209360",
+    "BJNR002190897BJNE009304360",
+    "BJNR002190897BJNE009401377",
+    "BJNR002190897BJNE009502140",
+    "BJNR002190897BJNE009603360",
+    "BJNR002190897BJNE009702140",
+    "BJNR002190897BJNE009800306",
+    "BJNR002190897BJNE009901377",
+    "BJNR002190897BJNE010000306",
+    "BJNR002190897BJNE010102360",
+    "BJNR002190897BJNE010202360",
+    "BJNR002190897BJNE010301377",
+    "BJNR002190897BJNE100200140",
+    "BJNR002190897BJNE010403360",
+    "BJNR002190897BJNE010502360",
+    "BJNR002190897BJNE010600306",
+    "BJNR002190897BJNE010703119",
+    "BJNR002190897BJNE010809360",
+    "BJNR002190897BJNE010916360",
+    "BJNR002190897BJNE011010360",
+    "BJNR002190897BJNE113402360",
+    "BJNR002190897BJNE113501123",
+    "BJNR002190897BJNE113600123",
+    "BJNR002190897BJNE113700123",
+    "BJNR002190897BJNE098207360",
+    "BJNR002190897BJNE011102360",
+    "BJNR002190897BJNE113900360",
+    "BJNR002190897BJNE011212360",
+    "BJNR002190897BJNE011311360",
+    "BJNR002190897BJNE011408123",
+    "BJNR002190897BJNE098303360",
+    "BJNR002190897BJNE100301360",
+    "BJNR002190897BJNE011505360",
+    "BJNR002190897BJNE011606360",
+    "BJNR002190897BJNE098400377",
+    "BJNR002190897BJNE011707360",
+    "BJNR002190897BJNE011807360",
+    "BJNR002190897BJNE011909360",
+    "BJNR002190897BJNE098500377",
+    "BJNR002190897BJNE012017129",
+    "BJNR002190897BJNE083015360",
+    "BJNR002190897BJNE012106360",
+    "BJNR002190897BJNE012206360",
+    "BJNR002190897BJNE099104129",
+    "BJNR002190897BJNE012312360",
+    "BJNR002190897BJNE012407129",
+    "BJNR002190897BJNE112621360",
+    "BJNR002190897BJNE012707360",
+    "BJNR002190897BJNE114000360",
+    "BJNR002190897BJNE012803360",
+    "BJNR002190897BJNE012903360",
+    "BJNR002190897BJNE112700123",
+    "BJNR002190897BJNE013017360",
+    "BJNR002190897BJNE013122360",
+    "BJNR002190897BJNE097806129",
+    "BJNR002190897BJNE097904123",
+    "BJNR002190897BJNE112801360",
+    "BJNR002190897BJNE013209360",
+    "BJNR002190897BJNE013303360",
+    "BJNR002190897BJNE013407360",
+    "BJNR002190897BJNE013510360",
+    "BJNR002190897BJNE082918360",
+    "BJNR002190897BJNE099705360",
+    "BJNR002190897BJNE083101377",
+    "BJNR002190897BJNE083204360",
+    "BJNR002190897BJNE083300309",
+    "BJNR002190897BJNE083403360",
+    "BJNR002190897BJNE083501140",
+    "BJNR002190897BJNE083600309",
+    "BJNR002190897BJNE084402140",
+    "BJNR002190897BJNE083710360",
+    "BJNR002190897BJNE084801377",
+    "BJNR002190897BJNE084611360",
+    "BJNR002190897BJNE084011360",
+    "BJNR002190897BJNE084106360",
+    "BJNR002190897BJNE084218360",
+    "BJNR002190897BJNE084308360",
+    "BJNR002190897BJNE084906360",
+    "BJNR002190897BJNE085008360",
+    "BJNR002190897BJNE085104360",
+    "BJNR002190897BJNE085201360",
+    "BJNR002190897BJNE085301360",
+    "BJNR002190897BJNE085402360",
+    "BJNR002190897BJNE085500307",
+    "BJNR002190897BJNE085600307",
+    "BJNR002190897BJNE085700307",
+    "BJNR002190897BJNE085802377",
+    "BJNR002190897BJNE085906360",
+    "BJNR002190897BJNE086004360",
+    "BJNR002190897BJNE086106360",
+    "BJNR002190897BJNE086204360",
+    "BJNR002190897BJNE086317360",
+    "BJNR002190897BJNE086408360",
+    "BJNR002190897BJNE098102123",
+    "BJNR002190897BJNE101700360",
+    "BJNR002190897BJNE101801119",
+    "BJNR002190897BJNE101901360",
+    "BJNR002190897BJNE102000360",
+    "BJNR002190897BJNE102100360",
+    "BJNR002190897BJNE102200360",
+    "BJNR002190897BJNE102303360",
+    "BJNR002190897BJNE102400360",
+    "BJNR002190897BJNE102500360",
+    "BJNR002190897BJNE115200360",
+    "BJNR002190897BJNE115300360",
+    "BJNR002190897BJNE115400360",
+    "BJNR002190897BJNE115500360",
+    "BJNR002190897BJNE115600360",
+    "BJNR002190897BJNE115700360",
+    "BJNR002190897BJNE115800360",
+    "BJNR002190897BJNE115900360",
+    "BJNR002190897BJNE116000360",
+    "BJNR002190897BJNE116100360",
+    "BJNR002190897BJNE116200360",
+    "BJNR002190897BJNE116300360",
+    "BJNR002190897BJNE116400360",
+    "BJNR002190897BJNE116500360",
+    "BJNR002190897BJNE116600360",
+    "BJNR002190897BJNE116700360",
+    "BJNR002190897BJNE116800360",
+    "BJNR002190897BJNE088004360",
+    "BJNR002190897BJNE088105360",
+    "BJNR002190897BJNE023001307",
+    "BJNR002190897BJNE023100300",
+    "BJNR002190897BJNE023200300",
+    "BJNR002190897BJNE023300300",
+    "BJNR002190897BJNE023400300",
+    "BJNR002190897BJNE023500300",
+    "BJNR002190897BJNE023600300",
+    "BJNR002190897BJNE023701377",
+    "BJNR002190897BJNE023801307",
+    "BJNR002190897BJNE023901305",
+    "BJNR002190897BJNE024000300",
+    "BJNR002190897BJNE024100300",
+    "BJNR002190897BJNE086701140",
+    "BJNR002190897BJNE024200300",
+    "BJNR002190897BJNE024300300",
+    "BJNR002190897BJNE024400300",
+    "BJNR002190897BJNE024500300",
+    "BJNR002190897BJNE024600300",
+    "BJNR002190897BJNE024700300",
+    "BJNR002190897BJNE024800300",
+    "BJNR002190897BJNE024900300",
+    "BJNR002190897BJNE025002125",
+    "BJNR002190897BJNE025100300",
+    "BJNR002190897BJNE025201360",
+    "BJNR002190897BJNE115100360",
+    "BJNR002190897BJNE025302377",
+    "BJNR002190897BJNE025403360",
+    "BJNR002190897BJNE025501377",
+    "BJNR002190897BJNE025600300",
+    "BJNR002190897BJNE025701307",
+    "BJNR002190897BJNE025800300",
+    "BJNR002190897BJNE025900300",
+    "BJNR002190897BJNE026101125",
+    "BJNR002190897BJNE026200300",
+    "BJNR002190897BJNE026301377",
+    "BJNR002190897BJNE026400300",
+    "BJNR002190897BJNE026500300",
+    "BJNR002190897BJNE026601377",
+    "BJNR002190897BJNE026700300",
+    "BJNR002190897BJNE026800300",
+    "BJNR002190897BJNE026901377",
+    "BJNR002190897BJNE027001377",
+    "BJNR002190897BJNE027201307",
+    "BJNR002190897BJNE027300300",
+    "BJNR002190897BJNE027400300",
+    "BJNR002190897BJNE027500300",
+    "BJNR002190897BJNE027600300",
+    "BJNR002190897BJNE027700300",
+    "BJNR002190897BJNE027800300",
+    "BJNR002190897BJNE027900300",
+    "BJNR002190897BJNE028000300",
+    "BJNR002190897BJNE028100300",
+    "BJNR002190897BJNE028200300",
+    "BJNR002190897BJNE028300300",
+    "BJNR002190897BJNE028400300",
+    "BJNR002190897BJNE028500300",
+    "BJNR002190897BJNE028601377",
+    "BJNR002190897BJNE028700300",
+    "BJNR002190897BJNE028800300",
+    "BJNR002190897BJNE028900300",
+    "BJNR002190897BJNE029000300",
+    "BJNR002190897BJNE029100300",
+    "BJNR002190897BJNE029200300",
+    "BJNR002190897BJNE029300300",
+    "BJNR002190897BJNE029400300",
+    "BJNR002190897BJNE029500300",
+    "BJNR002190897BJNE088300307",
+    "BJNR002190897BJNE088404360",
+    "BJNR002190897BJNE088500307",
+    "BJNR002190897BJNE088601377",
+    "BJNR002190897BJNE088701377",
+    "BJNR002190897BJNE088805360",
+    "BJNR002190897BJNE088901377",
+    "BJNR002190897BJNE089002377",
+    "BJNR002190897BJNE089100307",
+    "BJNR002190897BJNE089201377",
+    "BJNR002190897BJNE089302377",
+    "BJNR002190897BJNE089401377",
+    "BJNR002190897BJNE089501377",
+    "BJNR002190897BJNE089601377",
+    "BJNR002190897BJNE089701377",
+    "BJNR002190897BJNE089800307",
+    "BJNR002190897BJNE089900307",
+    "BJNR002190897BJNE090000307",
+    "BJNR002190897BJNE090100307",
+    "BJNR002190897BJNE090200307",
+    "BJNR002190897BJNE090300307",
+    "BJNR002190897BJNE090400307",
+    "BJNR002190897BJNE090500307",
+    "BJNR002190897BJNE090600307",
+    "BJNR002190897BJNE090702377",
+    "BJNR002190897BJNE090800307",
+    "BJNR002190897BJNE090900307",
+    "BJNR002190897BJNE091001377",
+    "BJNR002190897BJNE091100307",
+    "BJNR002190897BJNE091200307",
+    "BJNR002190897BJNE091302125",
+    "BJNR002190897BJNE091402377",
+    "BJNR002190897BJNE091501377",
+    "BJNR002190897BJNE091701377",
+    "BJNR002190897BJNE091801377",
+    "BJNR002190897BJNE091901377",
+    "BJNR002190897BJNE092004360",
+    "BJNR002190897BJNE100500377",
+    "BJNR002190897BJNE092101377",
+    "BJNR002190897BJNE092201377",
+    "BJNR002190897BJNE092301377",
+    "BJNR002190897BJNE092401377",
+    "BJNR002190897BJNE092502377",
+    "BJNR002190897BJNE092600307",
+    "BJNR002190897BJNE092700307",
+    "BJNR002190897BJNE092801305",
+    "BJNR002190897BJNE092901305",
+    "BJNR002190897BJNE093002377",
+    "BJNR002190897BJNE093100307",
+    "BJNR002190897BJNE093201377",
+    "BJNR002190897BJNE093300307",
+    "BJNR002190897BJNE093401305",
+    "BJNR002190897BJNE093502377",
+    "BJNR002190897BJNE093601377",
+    "BJNR002190897BJNE093700307",
+    "BJNR002190897BJNE093800307",
+    "BJNR002190897BJNE093900307",
+    "BJNR002190897BJNE094000307",
+    "BJNR002190897BJNE094100307",
+    "BJNR002190897BJNE094200307",
+    "BJNR002190897BJNE094303377",
+    "BJNR002190897BJNE094400307",
+    "BJNR002190897BJNE094500307",
+    "BJNR002190897BJNE094600307",
+    "BJNR002190897BJNE094700307",
+    "BJNR002190897BJNE094800307",
+    "BJNR002190897BJNE094900307",
+    "BJNR002190897BJNE095000307",
+    "BJNR002190897BJNE095100307",
+    "BJNR002190897BJNE095201377",
+    "BJNR002190897BJNE095301377",
+    "BJNR002190897BJNE095402377",
+    "BJNR002190897BJNE095501125",
+    "BJNR002190897BJNE095604125",
+    "BJNR002190897BJNE095700307",
+    "BJNR002190897BJNE095800307",
+    "BJNR002190897BJNE095900307",
+    "BJNR002190897BJNE096001305",
+    "BJNR002190897BJNE096100307",
+    "BJNR002190897BJNE096200307",
+    "BJNR002190897BJNE096300307",
+    "BJNR002190897BJNE096400307",
+    "BJNR002190897BJNE096501377",
+    "BJNR002190897BJNE096604360",
+    "BJNR002190897BJNE096701377",
+    "BJNR002190897BJNE096801377",
+    "BJNR002190897BJNE096901377",
+    "BJNR002190897BJNE097001377",
+    "BJNR002190897BJNE097102377",
+    "BJNR002190897BJNE038604377",
+    "BJNR002190897BJNE038701377",
+    "BJNR002190897BJNE038801377",
+    "BJNR002190897BJNE038902377",
+    "BJNR002190897BJNE039001377",
+    "BJNR002190897BJNE039101377",
+    "BJNR002190897BJNE039201377",
+    "BJNR002190897BJNE039302377",
+    "BJNR002190897BJNE039401377",
+    "BJNR002190897BJNE039502377",
+    "BJNR002190897BJNE079705125",
+    "BJNR002190897BJNE079801377",
+    "BJNR002190897BJNE040201377",
+    "BJNR002190897BJNE040301377",
+    "BJNR002190897BJNE040401377",
+    "BJNR002190897BJNE040501377",
+    "BJNR002190897BJNE040601377",
+    "BJNR002190897BJNE040701377",
+    "BJNR002190897BJNE040801377",
+    "BJNR002190897BJNE040901377",
+    "BJNR002190897BJNE041001377",
+    "BJNR002190897BJNE041101377",
+    "BJNR002190897BJNE041201377",
+    "BJNR002190897BJNE041301377",
+    "BJNR002190897BJNE041401377",
+    "BJNR002190897BJNE041502377",
+    "BJNR002190897BJNE041601377",
+    "BJNR002190897BJNE041701377",
+    "BJNR002190897BJNE041801377",
+    "BJNR002190897BJNE041902377",
+    "BJNR002190897BJNE042001377",
+    "BJNR002190897BJNE042101377",
+    "BJNR002190897BJNE042201377",
+    "BJNR002190897BJNE042302125",
+    "BJNR002190897BJNE042401377",
+    "BJNR002190897BJNE042501377",
+    "BJNR002190897BJNE042601377",
+    "BJNR002190897BJNE042701377",
+    "BJNR002190897BJNE042801377",
+    "BJNR002190897BJNE042901377",
+    "BJNR002190897BJNE043004360",
+    "BJNR002190897BJNE043101377",
+    "BJNR002190897BJNE043201377",
+    "BJNR002190897BJNE043301377",
+    "BJNR002190897BJNE043401377",
+    "BJNR002190897BJNE043501377",
+    "BJNR002190897BJNE043602377",
+    "BJNR002190897BJNE043701377",
+    "BJNR002190897BJNE043801377",
+    "BJNR002190897BJNE043901377",
+    "BJNR002190897BJNE044004360",
+    "BJNR002190897BJNE044101377",
+    "BJNR002190897BJNE044201377",
+    "BJNR002190897BJNE100600377",
+    "BJNR002190897BJNE100700377",
+    "BJNR002190897BJNE044401377",
+    "BJNR002190897BJNE044501377",
+    "BJNR002190897BJNE044601377",
+    "BJNR002190897BJNE044701377",
+    "BJNR002190897BJNE044801377",
+    "BJNR002190897BJNE044902123",
+    "BJNR002190897BJNE045001377",
+    "BJNR002190897BJNE045101377",
+    "BJNR002190897BJNE045201377",
+    "BJNR002190897BJNE045301377",
+    "BJNR002190897BJNE045401377",
+    "BJNR002190897BJNE045501377",
+    "BJNR002190897BJNE045601377",
+    "BJNR002190897BJNE045701377",
+    "BJNR002190897BJNE045801377",
+    "BJNR002190897BJNE100801125",
+    "BJNR002190897BJNE100900377",
+    "BJNR002190897BJNE101000377",
+    "BJNR002190897BJNE101100377",
+    "BJNR002190897BJNE101200377",
+    "BJNR002190897BJNE101300377",
+    "BJNR002190897BJNE046001377",
+    "BJNR002190897BJNE101400377",
+    "BJNR002190897BJNE101500377",
+    "BJNR002190897BJNE046201377",
+    "BJNR002190897BJNE046301377",
+    "BJNR002190897BJNE046401377",
+    "BJNR002190897BJNE046501377",
+    "BJNR002190897BJNE046601377",
+    "BJNR002190897BJNE046701377",
+    "BJNR002190897BJNE046801377",
+    "BJNR002190897BJNE046901377",
+    "BJNR002190897BJNE047001377",
+    "BJNR002190897BJNE047101377",
+    "BJNR002190897BJNE047501377",
+    "BJNR002190897BJNE047601377",
+    "BJNR002190897BJNE047701377",
+    "BJNR002190897BJNE047801377",
+    "BJNR002190897BJNE047901377",
+    "BJNR002190897BJNE048001377",
+    "BJNR002190897BJNE048101377",
+    "BJNR002190897BJNE048201377",
+    "BJNR002190897BJNE048301377",
+    "BJNR002190897BJNE048401377",
+    "BJNR002190897BJNE048501377",
+    "BJNR002190897BJNE048601377",
+    "BJNR002190897BJNE048701377",
+    "BJNR002190897BJNE048801377",
+    "BJNR002190897BJNE048901377",
+    "BJNR002190897BJNE049001377",
+    "BJNR002190897BJNE049101377",
+    "BJNR002190897BJNE049201377",
+    "BJNR002190897BJNE049301377",
+    "BJNR002190897BJNE049401377",
+    "BJNR002190897BJNE049501377",
+    "BJNR002190897BJNE049601377",
+    "BJNR002190897BJNE049701377",
+    "BJNR002190897BJNE049801377",
+    "BJNR002190897BJNE049901377",
+    "BJNR002190897BJNE050001377",
+    "BJNR002190897BJNE050101377",
+    "BJNR002190897BJNE050201377",
+    "BJNR002190897BJNE050301377",
+    "BJNR002190897BJNE050401377",
+    "BJNR002190897BJNE050501377",
+    "BJNR002190897BJNE050601377",
+    "BJNR002190897BJNE050701377",
+    "BJNR002190897BJNE050801377",
+    "BJNR002190897BJNE050901377",
+    "BJNR002190897BJNE051001377",
+    "BJNR002190897BJNE051101377",
+    "BJNR002190897BJNE051201377",
+    "BJNR002190897BJNE051301377",
+    "BJNR002190897BJNE051401377",
+    "BJNR002190897BJNE051501377",
+    "BJNR002190897BJNE051601377",
+    "BJNR002190897BJNE051701377",
+    "BJNR002190897BJNE051801377",
+    "BJNR002190897BJNE051902125",
+    "BJNR002190897BJNE052001377",
+    "BJNR002190897BJNE052101377",
+    "BJNR002190897BJNE080502377",
+    "BJNR002190897BJNE052301377",
+    "BJNR002190897BJNE052401377",
+    "BJNR002190897BJNE052502377",
+    "BJNR002190897BJNE052601377",
+    "BJNR002190897BJNE052701377",
+    "BJNR002190897BJNE052801377",
+    "BJNR002190897BJNE052901377"
+  ],
+  "parsed_official_doknr": [
+    "BJNR002190897BJNE000401307",
+    "BJNR002190897BJNE000501307",
+    "BJNR002190897BJNE000601307",
+    "BJNR002190897BJNE000701307",
+    "BJNR002190897BJNE000801307",
+    "BJNR002190897BJNE000901307",
+    "BJNR002190897BJNE001000300",
+    "BJNR002190897BJNE001201377",
+    "BJNR002190897BJNE079507360",
+    "BJNR002190897BJNE099017360",
+    "BJNR002190897BJNE001307360",
+    "BJNR002190897BJNE038606360",
+    "BJNR002190897BJNE101602360",
+    "BJNR002190897BJNE114100360",
+    "BJNR002190897BJNE116901129",
+    "BJNR002190897BJNE001402360",
+    "BJNR002190897BJNE113801360",
+    "BJNR002190897BJNE001501377",
+    "BJNR002190897BJNE001604360",
+    "BJNR002190897BJNE001704140",
+    "BJNR002190897BJNE114200360",
+    "BJNR002190897BJNE001804360",
+    "BJNR002190897BJNE082503140",
+    "BJNR002190897BJNE082605360",
+    "BJNR002190897BJNE082705360",
+    "BJNR002190897BJNE082803360",
+    "BJNR002190897BJNE082900307",
+    "BJNR002190897BJNE002102377",
+    "BJNR002190897BJNE002203360",
+    "BJNR002190897BJNE099300140",
+    "BJNR002190897BJNE002300300",
+    "BJNR002190897BJNE002501307",
+    "BJNR002190897BJNE002601307",
+    "BJNR002190897BJNE002701307",
+    "BJNR002190897BJNE037500309",
+    "BJNR002190897BJNE002801307",
+    "BJNR002190897BJNE002901307",
+    "BJNR002190897BJNE003000300",
+    "BJNR002190897BJNE003101307",
+    "BJNR002190897BJNE003200300",
+    "BJNR002190897BJNE003302377",
+    "BJNR002190897BJNE003401377",
+    "BJNR002190897BJNE003501307",
+    "BJNR002190897BJNE003603140",
+    "BJNR002190897BJNE003702360",
+    "BJNR002190897BJNE003801140",
+    "BJNR002190897BJNE003903360",
+    "BJNR002190897BJNE004002377",
+    "BJNR002190897BJNE004104377",
+    "BJNR002190897BJNE004201377",
+    "BJNR002190897BJNE097300307",
+    "BJNR002190897BJNE004400300",
+    "BJNR002190897BJNE097201377",
+    "BJNR002190897BJNE004601306",
+    "BJNR002190897BJNE005900300",
+    "BJNR002190897BJNE006000300",
+    "BJNR002190897BJNE006100300",
+    "BJNR002190897BJNE006200300",
+    "BJNR002190897BJNE006300300",
+    "BJNR002190897BJNE006402377",
+    "BJNR002190897BJNE006500300",
+    "BJNR002190897BJNE006600300",
+    "BJNR002190897BJNE006700300",
+    "BJNR002190897BJNE006800300",
+    "BJNR002190897BJNE006900300",
+    "BJNR002190897BJNE007100300",
+    "BJNR002190897BJNE007200300",
+    "BJNR002190897BJNE007301377",
+    "BJNR002190897BJNE007400300",
+    "BJNR002190897BJNE007501307",
+    "BJNR002190897BJNE007600300",
+    "BJNR002190897BJNE007700300",
+    "BJNR002190897BJNE037700309",
+    "BJNR002190897BJNE007802377",
+    "BJNR002190897BJNE007900300",
+    "BJNR002190897BJNE008001311",
+    "BJNR002190897BJNE008100300",
+    "BJNR002190897BJNE008200300",
+    "BJNR002190897BJNE008306125",
+    "BJNR002190897BJNE008400300",
+    "BJNR002190897BJNE008501311",
+    "BJNR002190897BJNE008600300",
+    "BJNR002190897BJNE008700300",
+    "BJNR002190897BJNE037800309",
+    "BJNR002190897BJNE008800300",
+    "BJNR002190897BJNE008900300",
+    "BJNR002190897BJNE009000300",
+    "BJNR002190897BJNE037900309",
+    "BJNR002190897BJNE009100300",
+    "BJNR002190897BJNE009200300",
+    "BJNR002190897BJNE009401307",
+    "BJNR002190897BJNE009500300",
+    "BJNR002190897BJNE009601309",
+    "BJNR002190897BJNE009701309",
+    "BJNR002190897BJNE009800300",
+    "BJNR002190897BJNE009901309",
+    "BJNR002190897BJNE010001309",
+    "BJNR002190897BJNE010100300",
+    "BJNR002190897BJNE010200300",
+    "BJNR002190897BJNE010300300",
+    "BJNR002190897BJNE010401377",
+    "BJNR002190897BJNE010500300",
+    "BJNR002190897BJNE010601309",
+    "BJNR002190897BJNE010700300",
+    "BJNR002190897BJNE010808140",
+    "BJNR002190897BJNE010900300",
+    "BJNR002190897BJNE011002307",
+    "BJNR002190897BJNE011100300",
+    "BJNR002190897BJNE011200300",
+    "BJNR002190897BJNE011300300",
+    "BJNR002190897BJNE011409360",
+    "BJNR002190897BJNE011500300",
+    "BJNR002190897BJNE011602305",
+    "BJNR002190897BJNE097400307",
+    "BJNR002190897BJNE011900300",
+    "BJNR002190897BJNE012000300",
+    "BJNR002190897BJNE012100300",
+    "BJNR002190897BJNE012200300",
+    "BJNR002190897BJNE012300300",
+    "BJNR002190897BJNE012400300",
+    "BJNR002190897BJNE012502377",
+    "BJNR002190897BJNE012600300",
+    "BJNR002190897BJNE012700300",
+    "BJNR002190897BJNE012801311",
+    "BJNR002190897BJNE012901309",
+    "BJNR002190897BJNE099200377",
+    "BJNR002190897BJNE013304360",
+    "BJNR002190897BJNE013408360",
+    "BJNR002190897BJNE013511360",
+    "BJNR002190897BJNE013604360",
+    "BJNR002190897BJNE013801360",
+    "BJNR002190897BJNE013901360",
+    "BJNR002190897BJNE014001360",
+    "BJNR002190897BJNE014101360",
+    "BJNR002190897BJNE014202360",
+    "BJNR002190897BJNE014301360",
+    "BJNR002190897BJNE014401360",
+    "BJNR002190897BJNE014501360",
+    "BJNR002190897BJNE014601360",
+    "BJNR002190897BJNE014702360",
+    "BJNR002190897BJNE014801360",
+    "BJNR002190897BJNE014901360",
+    "BJNR002190897BJNE015001360",
+    "BJNR002190897BJNE015101360",
+    "BJNR002190897BJNE015302360",
+    "BJNR002190897BJNE015401360",
+    "BJNR002190897BJNE015502360",
+    "BJNR002190897BJNE015601360",
+    "BJNR002190897BJNE015701360",
+    "BJNR002190897BJNE015801360",
+    "BJNR002190897BJNE015901360",
+    "BJNR002190897BJNE016001360",
+    "BJNR002190897BJNE016406360",
+    "BJNR002190897BJNE016501360",
+    "BJNR002190897BJNE016601360",
+    "BJNR002190897BJNE016701360",
+    "BJNR002190897BJNE016801360",
+    "BJNR002190897BJNE016902360",
+    "BJNR002190897BJNE114600360",
+    "BJNR002190897BJNE114700360",
+    "BJNR002190897BJNE017202360",
+    "BJNR002190897BJNE017302360",
+    "BJNR002190897BJNE017404360",
+    "BJNR002190897BJNE114800360",
+    "BJNR002190897BJNE017602360",
+    "BJNR002190897BJNE017702360",
+    "BJNR002190897BJNE017902360",
+    "BJNR002190897BJNE018002360",
+    "BJNR002190897BJNE018101360",
+    "BJNR002190897BJNE018204360",
+    "BJNR002190897BJNE018301360",
+    "BJNR002190897BJNE018402360",
+    "BJNR002190897BJNE018501360",
+    "BJNR002190897BJNE018601360",
+    "BJNR002190897BJNE018701360",
+    "BJNR002190897BJNE019701360",
+    "BJNR002190897BJNE114300360",
+    "BJNR002190897BJNE019900300",
+    "BJNR002190897BJNE020001360",
+    "BJNR002190897BJNE020101360",
+    "BJNR002190897BJNE020202360",
+    "BJNR002190897BJNE020301360",
+    "BJNR002190897BJNE020401360",
+    "BJNR002190897BJNE020501360",
+    "BJNR002190897BJNE020601360",
+    "BJNR002190897BJNE020702360",
+    "BJNR002190897BJNE020802360",
+    "BJNR002190897BJNE038201140",
+    "BJNR002190897BJNE020900300",
+    "BJNR002190897BJNE021001360",
+    "BJNR002190897BJNE114400360",
+    "BJNR002190897BJNE021202360",
+    "BJNR002190897BJNE021301307",
+    "BJNR002190897BJNE021404360",
+    "BJNR002190897BJNE114900360",
+    "BJNR002190897BJNE115000360",
+    "BJNR002190897BJNE021602360",
+    "BJNR002190897BJNE022001306",
+    "BJNR002190897BJNE022101306",
+    "BJNR002190897BJNE022201306",
+    "BJNR002190897BJNE022302360",
+    "BJNR002190897BJNE022402360",
+    "BJNR002190897BJNE022501306",
+    "BJNR002190897BJNE022602307",
+    "BJNR002190897BJNE022702307",
+    "BJNR002190897BJNE003300306",
+    "BJNR002190897BJNE003400306",
+    "BJNR002190897BJNE086500307",
+    "BJNR002190897BJNE003600306",
+    "BJNR002190897BJNE099803125",
+    "BJNR002190897BJNE003701140",
+    "BJNR002190897BJNE003800306",
+    "BJNR002190897BJNE088200307",
+    "BJNR002190897BJNE004000306",
+    "BJNR002190897BJNE004105140",
+    "BJNR002190897BJNE004202140",
+    "BJNR002190897BJNE004302140",
+    "BJNR002190897BJNE004401140",
+    "BJNR002190897BJNE004501140",
+    "BJNR002190897BJNE004600306",
+    "BJNR002190897BJNE004701140",
+    "BJNR002190897BJNE004807360",
+    "BJNR002190897BJNE004901140",
+    "BJNR002190897BJNE005002360",
+    "BJNR002190897BJNE005101140",
+    "BJNR002190897BJNE099900140",
+    "BJNR002190897BJNE005204129",
+    "BJNR002190897BJNE005300306",
+    "BJNR002190897BJNE005400306",
+    "BJNR002190897BJNE005500306",
+    "BJNR002190897BJNE005600306",
+    "BJNR002190897BJNE005701307",
+    "BJNR002190897BJNE005800306",
+    "BJNR002190897BJNE005917360",
+    "BJNR002190897BJNE097500305",
+    "BJNR002190897BJNE097605360",
+    "BJNR002190897BJNE097703360",
+    "BJNR002190897BJNE100002123",
+    "BJNR002190897BJNE006002360",
+    "BJNR002190897BJNE006104360",
+    "BJNR002190897BJNE006210360",
+    "BJNR002190897BJNE100402360",
+    "BJNR002190897BJNE006302360",
+    "BJNR002190897BJNE006403140",
+    "BJNR002190897BJNE006501140",
+    "BJNR002190897BJNE006604360",
+    "BJNR002190897BJNE006705123",
+    "BJNR002190897BJNE006801140",
+    "BJNR002190897BJNE006902360",
+    "BJNR002190897BJNE086603360",
+    "BJNR002190897BJNE007003360",
+    "BJNR002190897BJNE007103360",
+    "BJNR002190897BJNE007202360",
+    "BJNR002190897BJNE007302360",
+    "BJNR002190897BJNE007401140",
+    "BJNR002190897BJNE007902360",
+    "BJNR002190897BJNE008016360",
+    "BJNR002190897BJNE008109360",
+    "BJNR002190897BJNE008204140",
+    "BJNR002190897BJNE008305360",
+    "BJNR002190897BJNE008411360",
+    "BJNR002190897BJNE112902360",
+    "BJNR002190897BJNE113001123",
+    "BJNR002190897BJNE113100123",
+    "BJNR002190897BJNE113200123",
+    "BJNR002190897BJNE113300123",
+    "BJNR002190897BJNE100106360",
+    "BJNR002190897BJNE008506360",
+    "BJNR002190897BJNE008610360",
+    "BJNR002190897BJNE008712360",
+    "BJNR002190897BJNE086902277",
+    "BJNR002190897BJNE008811360",
+    "BJNR002190897BJNE008904123",
+    "BJNR002190897BJNE009001377",
+    "BJNR002190897BJNE009101360",
+    "BJNR002190897BJNE009209360",
+    "BJNR002190897BJNE009304360",
+    "BJNR002190897BJNE009401377",
+    "BJNR002190897BJNE009502140",
+    "BJNR002190897BJNE009603360",
+    "BJNR002190897BJNE009702140",
+    "BJNR002190897BJNE009800306",
+    "BJNR002190897BJNE009901377",
+    "BJNR002190897BJNE010000306",
+    "BJNR002190897BJNE010102360",
+    "BJNR002190897BJNE010202360",
+    "BJNR002190897BJNE010301377",
+    "BJNR002190897BJNE100200140",
+    "BJNR002190897BJNE010403360",
+    "BJNR002190897BJNE010502360",
+    "BJNR002190897BJNE010600306",
+    "BJNR002190897BJNE010703119",
+    "BJNR002190897BJNE010809360",
+    "BJNR002190897BJNE010916360",
+    "BJNR002190897BJNE011010360",
+    "BJNR002190897BJNE113402360",
+    "BJNR002190897BJNE113501123",
+    "BJNR002190897BJNE113600123",
+    "BJNR002190897BJNE113700123",
+    "BJNR002190897BJNE098207360",
+    "BJNR002190897BJNE011102360",
+    "BJNR002190897BJNE113900360",
+    "BJNR002190897BJNE011212360",
+    "BJNR002190897BJNE011311360",
+    "BJNR002190897BJNE011408123",
+    "BJNR002190897BJNE098303360",
+    "BJNR002190897BJNE100301360",
+    "BJNR002190897BJNE011505360",
+    "BJNR002190897BJNE011606360",
+    "BJNR002190897BJNE098400377",
+    "BJNR002190897BJNE011707360",
+    "BJNR002190897BJNE011807360",
+    "BJNR002190897BJNE011909360",
+    "BJNR002190897BJNE098500377",
+    "BJNR002190897BJNE012017129",
+    "BJNR002190897BJNE083015360",
+    "BJNR002190897BJNE012106360",
+    "BJNR002190897BJNE012206360",
+    "BJNR002190897BJNE099104129",
+    "BJNR002190897BJNE012312360",
+    "BJNR002190897BJNE012407129",
+    "BJNR002190897BJNE112621360",
+    "BJNR002190897BJNE012707360",
+    "BJNR002190897BJNE114000360",
+    "BJNR002190897BJNE012803360",
+    "BJNR002190897BJNE012903360",
+    "BJNR002190897BJNE112700123",
+    "BJNR002190897BJNE013017360",
+    "BJNR002190897BJNE013122360",
+    "BJNR002190897BJNE097806129",
+    "BJNR002190897BJNE097904123",
+    "BJNR002190897BJNE112801360",
+    "BJNR002190897BJNE013209360",
+    "BJNR002190897BJNE013303360",
+    "BJNR002190897BJNE013407360",
+    "BJNR002190897BJNE013510360",
+    "BJNR002190897BJNE082918360",
+    "BJNR002190897BJNE099705360",
+    "BJNR002190897BJNE083101377",
+    "BJNR002190897BJNE083204360",
+    "BJNR002190897BJNE083300309",
+    "BJNR002190897BJNE083403360",
+    "BJNR002190897BJNE083501140",
+    "BJNR002190897BJNE083600309",
+    "BJNR002190897BJNE084402140",
+    "BJNR002190897BJNE083710360",
+    "BJNR002190897BJNE084801377",
+    "BJNR002190897BJNE084611360",
+    "BJNR002190897BJNE084011360",
+    "BJNR002190897BJNE084106360",
+    "BJNR002190897BJNE084218360",
+    "BJNR002190897BJNE084308360",
+    "BJNR002190897BJNE084906360",
+    "BJNR002190897BJNE085008360",
+    "BJNR002190897BJNE085104360",
+    "BJNR002190897BJNE085201360",
+    "BJNR002190897BJNE085301360",
+    "BJNR002190897BJNE085402360",
+    "BJNR002190897BJNE085500307",
+    "BJNR002190897BJNE085600307",
+    "BJNR002190897BJNE085700307",
+    "BJNR002190897BJNE085802377",
+    "BJNR002190897BJNE085906360",
+    "BJNR002190897BJNE086004360",
+    "BJNR002190897BJNE086106360",
+    "BJNR002190897BJNE086204360",
+    "BJNR002190897BJNE086317360",
+    "BJNR002190897BJNE086408360",
+    "BJNR002190897BJNE098102123",
+    "BJNR002190897BJNE101700360",
+    "BJNR002190897BJNE101801119",
+    "BJNR002190897BJNE101901360",
+    "BJNR002190897BJNE102000360",
+    "BJNR002190897BJNE102100360",
+    "BJNR002190897BJNE102200360",
+    "BJNR002190897BJNE102303360",
+    "BJNR002190897BJNE102400360",
+    "BJNR002190897BJNE102500360",
+    "BJNR002190897BJNE115200360",
+    "BJNR002190897BJNE115300360",
+    "BJNR002190897BJNE115400360",
+    "BJNR002190897BJNE115500360",
+    "BJNR002190897BJNE115600360",
+    "BJNR002190897BJNE115700360",
+    "BJNR002190897BJNE115800360",
+    "BJNR002190897BJNE115900360",
+    "BJNR002190897BJNE116000360",
+    "BJNR002190897BJNE116100360",
+    "BJNR002190897BJNE116200360",
+    "BJNR002190897BJNE116300360",
+    "BJNR002190897BJNE116400360",
+    "BJNR002190897BJNE116500360",
+    "BJNR002190897BJNE116600360",
+    "BJNR002190897BJNE116700360",
+    "BJNR002190897BJNE116800360",
+    "BJNR002190897BJNE088004360",
+    "BJNR002190897BJNE088105360",
+    "BJNR002190897BJNE023001307",
+    "BJNR002190897BJNE023100300",
+    "BJNR002190897BJNE023200300",
+    "BJNR002190897BJNE023300300",
+    "BJNR002190897BJNE023400300",
+    "BJNR002190897BJNE023500300",
+    "BJNR002190897BJNE023600300",
+    "BJNR002190897BJNE023701377",
+    "BJNR002190897BJNE023801307",
+    "BJNR002190897BJNE023901305",
+    "BJNR002190897BJNE024000300",
+    "BJNR002190897BJNE024100300",
+    "BJNR002190897BJNE086701140",
+    "BJNR002190897BJNE024200300",
+    "BJNR002190897BJNE024300300",
+    "BJNR002190897BJNE024400300",
+    "BJNR002190897BJNE024500300",
+    "BJNR002190897BJNE024600300",
+    "BJNR002190897BJNE024700300",
+    "BJNR002190897BJNE024800300",
+    "BJNR002190897BJNE024900300",
+    "BJNR002190897BJNE025002125",
+    "BJNR002190897BJNE025100300",
+    "BJNR002190897BJNE025201360",
+    "BJNR002190897BJNE115100360",
+    "BJNR002190897BJNE025302377",
+    "BJNR002190897BJNE025403360",
+    "BJNR002190897BJNE025501377",
+    "BJNR002190897BJNE025600300",
+    "BJNR002190897BJNE025701307",
+    "BJNR002190897BJNE025800300",
+    "BJNR002190897BJNE025900300",
+    "BJNR002190897BJNE026101125",
+    "BJNR002190897BJNE026200300",
+    "BJNR002190897BJNE026301377",
+    "BJNR002190897BJNE026400300",
+    "BJNR002190897BJNE026500300",
+    "BJNR002190897BJNE026601377",
+    "BJNR002190897BJNE026700300",
+    "BJNR002190897BJNE026800300",
+    "BJNR002190897BJNE026901377",
+    "BJNR002190897BJNE027001377",
+    "BJNR002190897BJNE027201307",
+    "BJNR002190897BJNE027300300",
+    "BJNR002190897BJNE027400300",
+    "BJNR002190897BJNE027500300",
+    "BJNR002190897BJNE027600300",
+    "BJNR002190897BJNE027700300",
+    "BJNR002190897BJNE027800300",
+    "BJNR002190897BJNE027900300",
+    "BJNR002190897BJNE028000300",
+    "BJNR002190897BJNE028100300",
+    "BJNR002190897BJNE028200300",
+    "BJNR002190897BJNE028300300",
+    "BJNR002190897BJNE028400300",
+    "BJNR002190897BJNE028500300",
+    "BJNR002190897BJNE028601377",
+    "BJNR002190897BJNE028700300",
+    "BJNR002190897BJNE028800300",
+    "BJNR002190897BJNE028900300",
+    "BJNR002190897BJNE029000300",
+    "BJNR002190897BJNE029100300",
+    "BJNR002190897BJNE029200300",
+    "BJNR002190897BJNE029300300",
+    "BJNR002190897BJNE029400300",
+    "BJNR002190897BJNE029500300",
+    "BJNR002190897BJNE088300307",
+    "BJNR002190897BJNE088404360",
+    "BJNR002190897BJNE088500307",
+    "BJNR002190897BJNE088601377",
+    "BJNR002190897BJNE088701377",
+    "BJNR002190897BJNE088805360",
+    "BJNR002190897BJNE088901377",
+    "BJNR002190897BJNE089002377",
+    "BJNR002190897BJNE089100307",
+    "BJNR002190897BJNE089201377",
+    "BJNR002190897BJNE089302377",
+    "BJNR002190897BJNE089401377",
+    "BJNR002190897BJNE089501377",
+    "BJNR002190897BJNE089601377",
+    "BJNR002190897BJNE089701377",
+    "BJNR002190897BJNE089800307",
+    "BJNR002190897BJNE089900307",
+    "BJNR002190897BJNE090000307",
+    "BJNR002190897BJNE090100307",
+    "BJNR002190897BJNE090200307",
+    "BJNR002190897BJNE090300307",
+    "BJNR002190897BJNE090400307",
+    "BJNR002190897BJNE090500307",
+    "BJNR002190897BJNE090600307",
+    "BJNR002190897BJNE090702377",
+    "BJNR002190897BJNE090800307",
+    "BJNR002190897BJNE090900307",
+    "BJNR002190897BJNE091001377",
+    "BJNR002190897BJNE091100307",
+    "BJNR002190897BJNE091200307",
+    "BJNR002190897BJNE091302125",
+    "BJNR002190897BJNE091402377",
+    "BJNR002190897BJNE091501377",
+    "BJNR002190897BJNE091701377",
+    "BJNR002190897BJNE091801377",
+    "BJNR002190897BJNE091901377",
+    "BJNR002190897BJNE092004360",
+    "BJNR002190897BJNE100500377",
+    "BJNR002190897BJNE092101377",
+    "BJNR002190897BJNE092201377",
+    "BJNR002190897BJNE092301377",
+    "BJNR002190897BJNE092401377",
+    "BJNR002190897BJNE092502377",
+    "BJNR002190897BJNE092600307",
+    "BJNR002190897BJNE092700307",
+    "BJNR002190897BJNE092801305",
+    "BJNR002190897BJNE092901305",
+    "BJNR002190897BJNE093002377",
+    "BJNR002190897BJNE093100307",
+    "BJNR002190897BJNE093201377",
+    "BJNR002190897BJNE093300307",
+    "BJNR002190897BJNE093401305",
+    "BJNR002190897BJNE093502377",
+    "BJNR002190897BJNE093601377",
+    "BJNR002190897BJNE093700307",
+    "BJNR002190897BJNE093800307",
+    "BJNR002190897BJNE093900307",
+    "BJNR002190897BJNE094000307",
+    "BJNR002190897BJNE094100307",
+    "BJNR002190897BJNE094200307",
+    "BJNR002190897BJNE094303377",
+    "BJNR002190897BJNE094400307",
+    "BJNR002190897BJNE094500307",
+    "BJNR002190897BJNE094600307",
+    "BJNR002190897BJNE094700307",
+    "BJNR002190897BJNE094800307",
+    "BJNR002190897BJNE094900307",
+    "BJNR002190897BJNE095000307",
+    "BJNR002190897BJNE095100307",
+    "BJNR002190897BJNE095201377",
+    "BJNR002190897BJNE095301377",
+    "BJNR002190897BJNE095402377",
+    "BJNR002190897BJNE095501125",
+    "BJNR002190897BJNE095604125",
+    "BJNR002190897BJNE095700307",
+    "BJNR002190897BJNE095800307",
+    "BJNR002190897BJNE095900307",
+    "BJNR002190897BJNE096001305",
+    "BJNR002190897BJNE096100307",
+    "BJNR002190897BJNE096200307",
+    "BJNR002190897BJNE096300307",
+    "BJNR002190897BJNE096400307",
+    "BJNR002190897BJNE096501377",
+    "BJNR002190897BJNE096604360",
+    "BJNR002190897BJNE096701377",
+    "BJNR002190897BJNE096801377",
+    "BJNR002190897BJNE096901377",
+    "BJNR002190897BJNE097001377",
+    "BJNR002190897BJNE097102377",
+    "BJNR002190897BJNE038604377",
+    "BJNR002190897BJNE038701377",
+    "BJNR002190897BJNE038801377",
+    "BJNR002190897BJNE038902377",
+    "BJNR002190897BJNE039001377",
+    "BJNR002190897BJNE039101377",
+    "BJNR002190897BJNE039201377",
+    "BJNR002190897BJNE039302377",
+    "BJNR002190897BJNE039401377",
+    "BJNR002190897BJNE039502377",
+    "BJNR002190897BJNE079705125",
+    "BJNR002190897BJNE079801377",
+    "BJNR002190897BJNE040201377",
+    "BJNR002190897BJNE040301377",
+    "BJNR002190897BJNE040401377",
+    "BJNR002190897BJNE040501377",
+    "BJNR002190897BJNE040601377",
+    "BJNR002190897BJNE040701377",
+    "BJNR002190897BJNE040801377",
+    "BJNR002190897BJNE040901377",
+    "BJNR002190897BJNE041001377",
+    "BJNR002190897BJNE041101377",
+    "BJNR002190897BJNE041201377",
+    "BJNR002190897BJNE041301377",
+    "BJNR002190897BJNE041401377",
+    "BJNR002190897BJNE041502377",
+    "BJNR002190897BJNE041601377",
+    "BJNR002190897BJNE041701377",
+    "BJNR002190897BJNE041801377",
+    "BJNR002190897BJNE041902377",
+    "BJNR002190897BJNE042001377",
+    "BJNR002190897BJNE042101377",
+    "BJNR002190897BJNE042201377",
+    "BJNR002190897BJNE042302125",
+    "BJNR002190897BJNE042401377",
+    "BJNR002190897BJNE042501377",
+    "BJNR002190897BJNE042601377",
+    "BJNR002190897BJNE042701377",
+    "BJNR002190897BJNE042801377",
+    "BJNR002190897BJNE042901377",
+    "BJNR002190897BJNE043004360",
+    "BJNR002190897BJNE043101377",
+    "BJNR002190897BJNE043201377",
+    "BJNR002190897BJNE043301377",
+    "BJNR002190897BJNE043401377",
+    "BJNR002190897BJNE043501377",
+    "BJNR002190897BJNE043602377",
+    "BJNR002190897BJNE043701377",
+    "BJNR002190897BJNE043801377",
+    "BJNR002190897BJNE043901377",
+    "BJNR002190897BJNE044004360",
+    "BJNR002190897BJNE044101377",
+    "BJNR002190897BJNE044201377",
+    "BJNR002190897BJNE100600377",
+    "BJNR002190897BJNE100700377",
+    "BJNR002190897BJNE044401377",
+    "BJNR002190897BJNE044501377",
+    "BJNR002190897BJNE044601377",
+    "BJNR002190897BJNE044701377",
+    "BJNR002190897BJNE044801377",
+    "BJNR002190897BJNE044902123",
+    "BJNR002190897BJNE045001377",
+    "BJNR002190897BJNE045101377",
+    "BJNR002190897BJNE045201377",
+    "BJNR002190897BJNE045301377",
+    "BJNR002190897BJNE045401377",
+    "BJNR002190897BJNE045501377",
+    "BJNR002190897BJNE045601377",
+    "BJNR002190897BJNE045701377",
+    "BJNR002190897BJNE045801377",
+    "BJNR002190897BJNE100801125",
+    "BJNR002190897BJNE100900377",
+    "BJNR002190897BJNE101000377",
+    "BJNR002190897BJNE101100377",
+    "BJNR002190897BJNE101200377",
+    "BJNR002190897BJNE101300377",
+    "BJNR002190897BJNE046001377",
+    "BJNR002190897BJNE101400377",
+    "BJNR002190897BJNE101500377",
+    "BJNR002190897BJNE046201377",
+    "BJNR002190897BJNE046301377",
+    "BJNR002190897BJNE046401377",
+    "BJNR002190897BJNE046501377",
+    "BJNR002190897BJNE046601377",
+    "BJNR002190897BJNE046701377",
+    "BJNR002190897BJNE046801377",
+    "BJNR002190897BJNE046901377",
+    "BJNR002190897BJNE047001377",
+    "BJNR002190897BJNE047101377",
+    "BJNR002190897BJNE047501377",
+    "BJNR002190897BJNE047601377",
+    "BJNR002190897BJNE047701377",
+    "BJNR002190897BJNE047801377",
+    "BJNR002190897BJNE047901377",
+    "BJNR002190897BJNE048001377",
+    "BJNR002190897BJNE048101377",
+    "BJNR002190897BJNE048201377",
+    "BJNR002190897BJNE048301377",
+    "BJNR002190897BJNE048401377",
+    "BJNR002190897BJNE048501377",
+    "BJNR002190897BJNE048601377",
+    "BJNR002190897BJNE048701377",
+    "BJNR002190897BJNE048801377",
+    "BJNR002190897BJNE048901377",
+    "BJNR002190897BJNE049001377",
+    "BJNR002190897BJNE049101377",
+    "BJNR002190897BJNE049201377",
+    "BJNR002190897BJNE049301377",
+    "BJNR002190897BJNE049401377",
+    "BJNR002190897BJNE049501377",
+    "BJNR002190897BJNE049601377",
+    "BJNR002190897BJNE049701377",
+    "BJNR002190897BJNE049801377",
+    "BJNR002190897BJNE049901377",
+    "BJNR002190897BJNE050001377",
+    "BJNR002190897BJNE050101377",
+    "BJNR002190897BJNE050201377",
+    "BJNR002190897BJNE050301377",
+    "BJNR002190897BJNE050401377",
+    "BJNR002190897BJNE050501377",
+    "BJNR002190897BJNE050601377",
+    "BJNR002190897BJNE050701377",
+    "BJNR002190897BJNE050801377",
+    "BJNR002190897BJNE050901377",
+    "BJNR002190897BJNE051001377",
+    "BJNR002190897BJNE051101377",
+    "BJNR002190897BJNE051201377",
+    "BJNR002190897BJNE051301377",
+    "BJNR002190897BJNE051401377",
+    "BJNR002190897BJNE051501377",
+    "BJNR002190897BJNE051601377",
+    "BJNR002190897BJNE051701377",
+    "BJNR002190897BJNE051801377",
+    "BJNR002190897BJNE051902125",
+    "BJNR002190897BJNE052001377",
+    "BJNR002190897BJNE052101377",
+    "BJNR002190897BJNE080502377",
+    "BJNR002190897BJNE052301377",
+    "BJNR002190897BJNE052401377",
+    "BJNR002190897BJNE052502377",
+    "BJNR002190897BJNE052601377",
+    "BJNR002190897BJNE052701377",
+    "BJNR002190897BJNE052801377",
+    "BJNR002190897BJNE052901377"
+  ],
+  "missing": [],
+  "extra": [],
+  "duplicates": [],
+  "counts": {
+    "metadata_and_global_notes": 1,
+    "structure": 117,
+    "statutory_unit": 696
+  },
+  "grouped_slots": [
+    {
+      "id": "p13b-13c",
+      "label": "(XXXX) §§ 13b u. 13c"
+    },
+    {
+      "id": "p38-47b",
+      "label": "(XXXX) §§ 38 bis 47b"
+    },
+    {
+      "id": "p66-72",
+      "label": "(XXXX) §§ 66 bis 72"
+    },
+    {
+      "id": "p76-82",
+      "label": "(XXXX) §§ 76 bis 82"
+    },
+    {
+      "id": "p153-160",
+      "label": "(XXXX) §§ 153 bis 160"
+    },
+    {
+      "id": "p180-229",
+      "label": "(XXXX) §§ 180 bis 229"
+    },
+    {
+      "id": "p279-283",
+      "label": "(XXXX) §§ 279 bis 283"
+    }
+  ],
+  "annex_disposition": "Alle 814 XML-Normknoten und sämtliche Metadaten-/Gliederungsüberschriften geprüft: keine eigene Anlage, kein Anhang und keine gesonderte Schluss-/Übergangsvorschrift. Anlage-Verweise in Fußnoten betreffen andere Gesetze. EGHGB bleibt gesondert.",
+  "annex_heading_candidates": [
+    "BJNR002190897BJNG001600306",
+    "BJNR002190897BJNE013407360",
+    "BJNR002190897BJNE083204360"
+  ],
+  "annex_heading_disposition": "Fünfter Titel Anhang bezeichnet den Jahresabschlussanhang (§§ 284 ff.); §§ 338 und 340c betreffen ebenfalls Rechnungslegungsanhänge. Als Struktur beziehungsweise Normen vollständig erhalten, keine Gesetzesanlagen.",
+  "entrance_formula": "Kein Eingangsformel-Knoten und kein unzugeordneter operativer Text im amtlichen XML; Kopfnorm enthält ausschließlich Metadaten und bewahrte globale Quellenhinweise.",
+  "ok": true
+}

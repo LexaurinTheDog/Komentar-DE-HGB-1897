@@ -142,6 +142,105 @@
       "sha256": "f316e8160b2d33f81fb397e1eed1c1c5b171670cf985f041e973eb1778557036",
       "expected_format": "pdf",
       "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-21T02:49:02.266092+00:00",
+      "http_status": 200,
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "path": "sources/hgb-2026-10-21.zip",
+      "bytes": 218961,
+      "expected_format": "zip",
+      "headers": {
+        "Date": "Wed, 21 Oct 2026 02:49:02 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Thu, 09 Jul 2026 19:55:15 GMT",
+        "ETag": "\"35751-6563300b392bf\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "218961",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "application/zip",
+        "Connection": "close"
+      },
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "members": [
+        "BJNR002190897.xml"
+      ],
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/",
+      "accessed_at": "2026-10-21T02:49:02.577265+00:00",
+      "http_status": 200,
+      "sha256": "810430435a9544bd9249cfb2d8ff09442deaa3c4211a2e5e0002c0715c41bcc0",
+      "path": "sources/hgb-index-2026-10-21.html",
+      "bytes": 139611,
+      "expected_format": "html",
+      "headers": {
+        "Date": "Wed, 21 Oct 2026 02:49:02 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Wed, 21 Oct 2026 00:15:31 GMT",
+        "ETag": "\"2215b-65e4ea522ae36\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "139611",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/BJNR002190897.html",
+      "accessed_at": "2026-10-21T02:49:04.605296+00:00",
+      "http_status": 200,
+      "sha256": "87685f8f870b2c19d9787e251222ff6d448ae426408acb56791429cf1b73c87e",
+      "path": "sources/hgb-full-2026-10-21.html",
+      "bytes": 1355853,
+      "expected_format": "html",
+      "headers": {
+        "Date": "Wed, 21 Oct 2026 02:49:02 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Wed, 21 Oct 2026 00:15:25 GMT",
+        "ETag": "\"14b04d-65e4ea4c8129a\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "1355853",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktuDienst.html",
+      "accessed_at": "2026-10-21T02:49:04.756800+00:00",
+      "http_status": 200,
+      "sha256": "69db6ae8b1f1955832f8bfbdf75264e27d46d1517ae8aefd82146bf255595596",
+      "path": "sources/aktualitaet-2026-10-21.html",
+      "bytes": 75210,
+      "expected_format": "html",
+      "headers": {
+        "Date": "Wed, 21 Oct 2026 02:49:04 GMT",
+        "Server": "Apache",
+        "Last-Modified": "Tue, 20 Oct 2026 05:30:01 GMT",
+        "ETag": "\"125ca-65e3eec07e7f6\"",
+        "Accept-Ranges": "bytes",
+        "Content-Length": "75210",
+        "Vary": "Accept-Encoding",
+        "X-Content-Type-Options": "nosniff",
+        "X-Frame-Options": "sameorigin",
+        "X-XSS-Protection": "1; mode=block",
+        "Content-Type": "text/html",
+        "Connection": "close"
+      },
+      "format_valid": true
     }
   ],
   "version_information": {
@@ -163,8 +262,16 @@
   },
   "derived_canonical": {
     "path": "sources/hgb-canonical.md",
-    "sha256": "17a087db86f00c3cf7880a5f818c01dc0c2de8c66d34761f3387492735cfc7ec",
+    "sha256": "f27c7b94137f75b4adb61234c0cdde5004646cd6773a47912461b083edfa89aa",
     "from_xml": "sources/hgb-2026-10-19.xml",
     "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361"
+  },
+  "preflight_recheck": {
+    "verified_at": "2026-10-21T02:49:02.266092+00:00",
+    "decisive_date": "2026-10-19",
+    "recheck_date": "2026-10-21",
+    "same_xml_sha256": true,
+    "coverage": "sources/preflight-coverage.json",
+    "commencement": "sources/commencement.md"
   }
 }

@@ -20,3 +20,7 @@ Zeitliche Fassungen wurden anhand des Standortfördergesetzes getrennt. Die aktu
 463 Kommentare ab § 264 fehlen. Der gemeinsame Builder lehnt das Gesamtmanuskript deshalb ab; die strenge Gesamtvalidierung ist negativ. Ein lesbarer Export der 15 bereits vollständig kommentierten Kapitel ist ein ausdrücklich gekennzeichneter Teilstand und keine Verengung der Gesamtzuweisung. [Build-Ergebnis](build-result.json), [Validierung](validation.json) und [Status](status.json) bleiben zugänglich.
 
 Die rechtliche Qualität jedes später hinzukommenden Abschnitts, zusätzliche einschlägige Rechtsprechung, externe Querverweise und eine unabhängige Durchsicht des gesamten fertigen Manuskripts stehen weiter aus. Es wird kein Abschlussstatus `drafted_technical_validation` vergeben.
+
+## Begrenzte Quellen-/Parsernachprüfung vom 21. Oktober 2026
+
+Alle 814 amtlichen XML-Knoten wurden zugeordnet (696 Normen, 117 Strukturknoten, eine Kopfnorm). Keine unzugeordnete Eingangsformel oder operative Anlage wurde festgestellt. Die Bezeichnungen der sieben Sammelleerstellen wurden repariert, ohne die stabilen Kommentar-IDs oder Kommentartexte zu ändern. [preflight-result.json](preflight-result.json) dokumentiert den abgeschlossenen Teilauftrag. Dies ist keine inhaltliche Zweitprüfung der Kommentare.

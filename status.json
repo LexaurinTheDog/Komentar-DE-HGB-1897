@@ -4,7 +4,7 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-19T20:05:34.112068+00:00",
+  "updated_at": "2026-10-21T02:51:01.002757+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
   "completed_units": 233,
@@ -23,7 +23,9 @@
     "commencement_checked": true,
     "commencement_evidence": "sources/commencement.md",
     "intake_changed": false,
-    "verification": "sources/verification.json"
+    "verification": "sources/verification.json",
+    "preflight_complete": true,
+    "rechecked_at": "2026-10-21"
   },
   "case_law_sources": [
     "BGH 2024-01-09 II ZR 220/22",
@@ -69,5 +71,6 @@
     "missing": [],
     "ok": true,
     "scope": "Lokale Markdown-Dateiverknüpfungen; keine behauptete Erreichbarkeitsprüfung sämtlicher aus amtlichen Quellen übernommener externer URLs."
-  }
+  },
+  "preflight_result": "preflight-result.json"
 }

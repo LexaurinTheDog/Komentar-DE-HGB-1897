@@ -4896,7 +4896,7 @@
     },
     {
       "id": "p13b-13c",
-      "label": "§§ 13b u. 13c",
+      "label": "(XXXX) §§ 13b u. 13c",
       "title": "(weggefallen)",
       "notes": []
     },
@@ -4914,7 +4914,7 @@
     },
     {
       "id": "p38-47b",
-      "label": "§§ 38 bis 47b",
+      "label": "(XXXX) §§ 38 bis 47b",
       "title": "(weggefallen)",
       "notes": []
     },
@@ -4926,7 +4926,7 @@
     },
     {
       "id": "p66-72",
-      "label": "§§ 66 bis 72",
+      "label": "(XXXX) §§ 66 bis 72",
       "title": "(weggefallen)",
       "notes": []
     },
@@ -4950,7 +4950,7 @@
     },
     {
       "id": "p76-82",
-      "label": "§§ 76 bis 82",
+      "label": "(XXXX) §§ 76 bis 82",
       "title": "(weggefallen)",
       "notes": []
     },
@@ -4962,7 +4962,7 @@
     },
     {
       "id": "p153-160",
-      "label": "§§ 153 bis 160",
+      "label": "(XXXX) §§ 153 bis 160",
       "title": "",
       "notes": [
         "(+++ §§ 153 bis 160: Weggefallen aufgrund Neuregelung gem. Art. 51 Nr. 3 G v. 10.8.2021 I 3436 mWv 1.1.2024 +++)"
@@ -4978,7 +4978,7 @@
     },
     {
       "id": "p180-229",
-      "label": "§§ 180 bis 229",
+      "label": "(XXXX) §§ 180 bis 229",
       "title": "(weggefallen)",
       "notes": []
     },
@@ -5016,7 +5016,7 @@
     },
     {
       "id": "p279-283",
-      "label": "§§ 279 bis 283",
+      "label": "(XXXX) §§ 279 bis 283",
       "title": "(weggefallen)",
       "notes": []
     },
@@ -5084,37 +5084,37 @@
   "grouped_slots": [
     {
       "id": "p13b-13c",
-      "label": "§§ 13b u. 13c",
+      "label": "(XXXX) §§ 13b u. 13c",
       "disposition": "Amtliche Sammelbezeichnung für weggefallene Vorschriften bleibt als eine XML-Einheit erhalten; keine historische Fassung ergänzt."
     },
     {
       "id": "p38-47b",
-      "label": "§§ 38 bis 47b",
+      "label": "(XXXX) §§ 38 bis 47b",
       "disposition": "Amtliche Sammelbezeichnung für weggefallene Vorschriften bleibt als eine XML-Einheit erhalten; keine historische Fassung ergänzt."
     },
     {
       "id": "p66-72",
-      "label": "§§ 66 bis 72",
+      "label": "(XXXX) §§ 66 bis 72",
       "disposition": "Amtliche Sammelbezeichnung für weggefallene Vorschriften bleibt als eine XML-Einheit erhalten; keine historische Fassung ergänzt."
     },
     {
       "id": "p76-82",
-      "label": "§§ 76 bis 82",
+      "label": "(XXXX) §§ 76 bis 82",
       "disposition": "Amtliche Sammelbezeichnung für weggefallene Vorschriften bleibt als eine XML-Einheit erhalten; keine historische Fassung ergänzt."
     },
     {
       "id": "p153-160",
-      "label": "§§ 153 bis 160",
+      "label": "(XXXX) §§ 153 bis 160",
       "disposition": "Amtliche Sammelbezeichnung für weggefallene Vorschriften bleibt als eine XML-Einheit erhalten; keine historische Fassung ergänzt."
     },
     {
       "id": "p180-229",
-      "label": "§§ 180 bis 229",
+      "label": "(XXXX) §§ 180 bis 229",
       "disposition": "Amtliche Sammelbezeichnung für weggefallene Vorschriften bleibt als eine XML-Einheit erhalten; keine historische Fassung ergänzt."
     },
     {
       "id": "p279-283",
-      "label": "§§ 279 bis 283",
+      "label": "(XXXX) §§ 279 bis 283",
       "disposition": "Amtliche Sammelbezeichnung für weggefallene Vorschriften bleibt als eine XML-Einheit erhalten; keine historische Fassung ergänzt."
     }
   ],
@@ -5132,7 +5132,7 @@
     },
     {
       "id": "p13b-13c",
-      "label": "§§ 13b u. 13c",
+      "label": "(XXXX) §§ 13b u. 13c",
       "title": "(weggefallen)",
       "body": "",
       "disposition": "Amtliche Leerstelle einschließlich vorhandener Strich-/Titelmarkierung bewahrt; kein historischer Wortlaut ergänzt."
@@ -5160,7 +5160,7 @@
     },
     {
       "id": "p38-47b",
-      "label": "§§ 38 bis 47b",
+      "label": "(XXXX) §§ 38 bis 47b",
       "title": "(weggefallen)",
       "body": "",
       "disposition": "Amtliche Leerstelle einschließlich vorhandener Strich-/Titelmarkierung bewahrt; kein historischer Wortlaut ergänzt."
@@ -5174,7 +5174,7 @@
     },
     {
       "id": "p66-72",
-      "label": "§§ 66 bis 72",
+      "label": "(XXXX) §§ 66 bis 72",
       "title": "(weggefallen)",
       "body": "",
       "disposition": "Amtliche Leerstelle einschließlich vorhandener Strich-/Titelmarkierung bewahrt; kein historischer Wortlaut ergänzt."
@@ -5202,7 +5202,7 @@
     },
     {
       "id": "p76-82",
-      "label": "§§ 76 bis 82",
+      "label": "(XXXX) §§ 76 bis 82",
       "title": "(weggefallen)",
       "body": "",
       "disposition": "Amtliche Leerstelle einschließlich vorhandener Strich-/Titelmarkierung bewahrt; kein historischer Wortlaut ergänzt."
@@ -5216,7 +5216,7 @@
     },
     {
       "id": "p153-160",
-      "label": "§§ 153 bis 160",
+      "label": "(XXXX) §§ 153 bis 160",
       "title": "",
       "body": "",
       "disposition": "Amtliche Leerstelle einschließlich vorhandener Strich-/Titelmarkierung bewahrt; kein historischer Wortlaut ergänzt."
@@ -5237,7 +5237,7 @@
     },
     {
       "id": "p180-229",
-      "label": "§§ 180 bis 229",
+      "label": "(XXXX) §§ 180 bis 229",
       "title": "(weggefallen)",
       "body": "",
       "disposition": "Amtliche Leerstelle einschließlich vorhandener Strich-/Titelmarkierung bewahrt; kein historischer Wortlaut ergänzt."
@@ -5279,7 +5279,7 @@
     },
     {
       "id": "p279-283",
-      "label": "§§ 279 bis 283",
+      "label": "(XXXX) §§ 279 bis 283",
       "title": "(weggefallen)",
       "body": "",
       "disposition": "Amtliche Leerstelle einschließlich vorhandener Strich-/Titelmarkierung bewahrt; kein historischer Wortlaut ergänzt."
