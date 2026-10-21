@@ -3,179 +3,183 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p1",
-    "p2",
-    "p3",
-    "p4",
-    "p5",
-    "p6",
-    "p7",
-    "p8",
-    "p8a",
-    "p8b",
-    "p9",
-    "p9a",
-    "p9b",
-    "p9c",
-    "p9d",
-    "p10",
-    "p10a",
-    "p11",
-    "p12",
-    "p13"
+    "p13a",
+    "p13b-13c",
+    "p13d",
+    "p13e",
+    "p13f",
+    "p13g",
+    "p13h",
+    "p14",
+    "p15",
+    "p15a",
+    "p16",
+    "p17",
+    "p18",
+    "p19",
+    "p20",
+    "p21",
+    "p22",
+    "p23",
+    "p24",
+    "p25"
   ],
   "decisive_date": "2026-10-19",
-  "reviewed_at": "2026-10-21T02:53:12.533126+00:00",
+  "reviewed_at": "2026-10-21T02:55:19.948444+00:00",
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p1",
+      "id": "p13a",
       "result": "checked_unchanged",
-      "finding": "Betreiberbezug, Regel-Ausnahme-Verhältnis, Organisationsbedarf und Abgrenzung zu § 241a geprüft; unverändert.",
-      "official_doknr": "BJNR002190897BJNE000401307",
-      "commentary_sha256": "4a84dba2c7e5eaed788376becfe75d9d40d8e1ae9ff9aa1dffdc60617b5bef6a"
+      "finding": "Alle drei Absätze, Datenkatalog und Ausschluss nach § 15 Absatz 5 geprüft; unverändert.",
+      "official_doknr": "BJNR002190897BJNE114200360",
+      "commentary_sha256": "6f276488c9a8e49b2c262c07531455d0fbc78ff063e6fc642150bf8f287b17a6"
     },
     {
-      "id": "p2",
+      "id": "p13b-13c",
       "result": "checked_unchanged",
-      "finding": "Konstitutive Eintragung, Eintragungswahlrecht und Grenze des Löschungsantrags bei § 1 Absatz 2 geprüft; unverändert.",
-      "official_doknr": "BJNR002190897BJNE000501307",
-      "commentary_sha256": "ff9efe3c5cc419951df09586f7b9f0dbc2c23442bec4e50525772d577f81dfa6"
+      "finding": "Amtliche gemeinsame Leerstelle mit (XXXX)-Bezeichnung und leerem Textkörper; keine historische Norm ergänzt.",
+      "official_doknr": "BJNR002190897BJNE001804360",
+      "commentary_sha256": "bad977e6d5e782bcd4eca20257246e3c31667f3307d724543338cdcd3eaa2c59"
     },
     {
-      "id": "p3",
+      "id": "p13d",
+      "result": "checked_unchanged",
+      "finding": "Örtliche Zuständigkeit, Eintragungsinhalt und Ausschluss bestimmter Kapitalgesellschaften aus Absatz 3 geprüft.",
+      "official_doknr": "BJNR002190897BJNE082503140",
+      "commentary_sha256": "5d87644a200312df0c1ed0dcdcb62f21aeca73096c1316694e25bfc8577ff7cf"
+    },
+    {
+      "id": "p13e",
       "result": "corrected",
-      "finding": "Alle drei Absätze geprüft. Löschung nach allgemeinen Vorschriften ergänzt; kein absolutes Löschungsverbot. Formulierung zum Gesamtbetriebsbedarf präzisiert.",
-      "official_doknr": "BJNR002190897BJNE000601307",
-      "commentary_sha256": "0fab6467f8a09b0f6227171f6c3d7c1216be642adaef9312975dcf9d10392514"
+      "finding": "Alle Absätze einschließlich 3a geprüft; Pflichtige bei Insolvenzanmeldung und Ablehnung der Eröffnung ausdrücklich ergänzt.",
+      "official_doknr": "BJNR002190897BJNE082605360",
+      "commentary_sha256": "5b2719dc950a32ce0ce1363d61e411ae72c50dc60fde9fb933e3755f07a54c02"
     },
     {
-      "id": "p4",
-      "result": "checked_unchanged",
-      "finding": "Amtlicher Wegfallmarker im Titel, leerer Textkörper; keine historische Regel als geltend dargestellt; unverändert.",
-      "official_doknr": "BJNR002190897BJNE000701307",
-      "commentary_sha256": "d5d3dd8c37599efb86baadeed4e00cbe516340e84e03470340ed80b323783a71"
-    },
-    {
-      "id": "p5",
-      "result": "checked_unchanged",
-      "finding": "Schutzrichtung und begrenzter Einwendungsausschluss gegenüber Berufung auf Eintragung; §§ 15, 343, 344 gegengeprüft; unverändert.",
-      "official_doknr": "BJNR002190897BJNE000801307",
-      "commentary_sha256": "f47149a287e783523a3a97ed949749217cae3903a4bc45fc0f1938a8e08afb0e"
-    },
-    {
-      "id": "p6",
-      "result": "checked_unchanged",
-      "finding": "Handelsgesellschaft und Gesellschafter unterschieden; Formkaufmannsklausel und Verweise §§ 105, 161 geprüft; unverändert.",
-      "official_doknr": "BJNR002190897BJNE000901307",
-      "commentary_sha256": "a8d1d62eeb1fdc7b1389236e95c02154100452709b751513a8eb70472359c28f"
-    },
-    {
-      "id": "p7",
-      "result": "checked_unchanged",
-      "finding": "Öffentlich-rechtliche Erlaubnis von Kaufmannseigenschaft und Vertragswirksamkeit getrennt; Prüfliste auf Sachbezug geprüft; unverändert.",
-      "official_doknr": "BJNR002190897BJNE001000300",
-      "commentary_sha256": "d924cb3b7c201c8f7808bd4bf24126409f7bc8a597cb29df44faf8b38251dacf"
-    },
-    {
-      "id": "p8",
-      "result": "checked_unchanged",
-      "finding": "Elektronisches Gerichtsregister und Bezeichnungsschutz einschließlich Beifügung geprüft; Beispiel passt zu Absatz 2; unverändert.",
-      "official_doknr": "BJNR002190897BJNE001201377",
-      "commentary_sha256": "cd81569eaad61dec0a8ef6fc7e48457ab2e8424201bb81eb1045affcc12d2539"
-    },
-    {
-      "id": "p8a",
+      "id": "p13f",
       "result": "corrected",
-      "finding": "Wirksamkeit, sachgesetzliche Konstitutivität und technische Länderermächtigung geprüft; Weiterübertragung auf Landesjustizverwaltung ergänzt.",
-      "official_doknr": "BJNR002190897BJNE079507360",
-      "commentary_sha256": "82f034375266779727bc9c0da73fd530aeb3f646be587e6a9594bb2de5496c79"
+      "finding": "Alle sieben Absätze geprüft; Anmeldezeitpunkt statt Errichtungszeitpunkt als Zweijahreskriterium präzisiert; Zusatzangaben, gerichtliche Bekanntmachung und EU-/EWR-Ausnahmen konkretisiert.",
+      "official_doknr": "BJNR002190897BJNE082705360",
+      "commentary_sha256": "67b90f26e4d9a95e443c066f8ea0a79ae36a920bf0ac8c2bf7ef6e429727420d"
     },
     {
-      "id": "p8b",
+      "id": "p13g",
       "result": "corrected",
-      "finding": "Alle fünf Absätze und Datenkategorien geprüft; Gesellschaftsregister, Insolvenz-Ausnahme, Hinterlegungsausnahme und besondere Zweckbindung der Bundesanzeigerdaten ergänzt.",
-      "official_doknr": "BJNR002190897BJNE099017360",
-      "commentary_sha256": "574e9381e948d204061cdae345899c9e52c09e06b215324540bb807d3362796c"
+      "finding": "Alle sechs Absätze geprüft; Zweijahreskriterium an Anmeldung angeknüpft und genaue GmbHG-Verweisungen sowie EU-/EWR-Ausnahmen ergänzt.",
+      "official_doknr": "BJNR002190897BJNE082803360",
+      "commentary_sha256": "6277879945edf83b03a864671829ac5a793119ae9198afe18664151829bc486d"
     },
     {
-      "id": "p9",
+      "id": "p13h",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze geprüft; innerdeutsche Verlegung, Übernahme ohne erneute Vollprüfung und Firmenprüfung nach § 30 zutreffend.",
+      "official_doknr": "BJNR002190897BJNE082900307",
+      "commentary_sha256": "e7706ee85a5acc8e19b5dd79d5c348cf582becfad020cfde7db5936a526016fd"
+    },
+    {
+      "id": "p14",
       "result": "corrected",
-      "finding": "Alle sechs Absätze geprüft; Vertrauensdienst-Authentifizierung und grundsätzlich amtlicher Ausdruck/beglaubigte Abschrift mit Verzichtsmöglichkeit ergänzt; Zehnjahresgrenze zutreffend.",
-      "official_doknr": "BJNR002190897BJNE001307360",
-      "commentary_sha256": "b96903642c6ab77863de7332126c14182d01632811d7671894e795d4b6c3b88d"
+      "finding": "Pflicht und Einzelhöchstbetrag geprüft; gebundene Durchsetzung im Beispiel statt bloßer Kann-Formulierung präzisiert.",
+      "official_doknr": "BJNR002190897BJNE002102377",
+      "commentary_sha256": "224f46d914a1676ef137f826ac804d4e59bf4513344ce41b58360a4a0c1c6d7d"
     },
     {
-      "id": "p9a",
-      "result": "corrected",
-      "finding": "Alle drei Absätze geprüft; Beleihung, Zustimmungserfordernisse, Zweckschutz und Soll-Mindestdauer von fünf Jahren präzisiert.",
-      "official_doknr": "BJNR002190897BJNE038606360",
-      "commentary_sha256": "d47673bf28edee6e1c4d097f2745faee79098787c467b69e60ac73ee675c8da7"
-    },
-    {
-      "id": "p9b",
+      "id": "p15",
       "result": "checked_unchanged",
-      "finding": "Alle vier Absätze samt Nummern/Buchstaben geprüft; öffentlicher Abruf und zwischenbehördlicher Austausch unterschieden, europäische Kennung und Rechnungslegungsänderungen zutreffend; unverändert.",
-      "official_doknr": "BJNR002190897BJNE101602360",
-      "commentary_sha256": "da5a33e02bdaf0419727b2b1c99d7b4ae08cde30db17fbcadac2107fa14eb8f2"
+      "finding": "Alle fünf Absätze geprüft. BGH II ZR 220/22 vollständig gelesen; Rn. 25–32 tragen Kenntnismaßstab, Rn. 33–36 Missbrauchsschranke. Keine Übertragung auf Absatz 3.",
+      "official_doknr": "BJNR002190897BJNE002203360",
+      "commentary_sha256": "c094d4ca3a659b87384e4fca30f7c5c963d5225c75254591fff6591100ddabc7"
     },
     {
-      "id": "p9c",
+      "id": "p15a",
       "result": "checked_unchanged",
-      "finding": "Alle sechs Absätze geprüft; Antwortbegrenzung, Zweckbindung, Löschung und Verordnungsermächtigung zutreffend. Kein allgemeiner öffentlicher Personenabruf behauptet; unverändert.",
-      "official_doknr": "BJNR002190897BJNE114100360",
-      "commentary_sha256": "cb447250421ec3b7bd3736464b9add530ab0e6db990be252e8f25ad2f4700ce7"
+      "finding": "Alle drei alternativen inländischen Anschriften, persönliche Reichweite, Zuständigkeit und §-132-BGB-Vorbehalt geprüft.",
+      "official_doknr": "BJNR002190897BJNE099300140",
+      "commentary_sha256": "9641c2241c56a5bee74f123534cd1af6611a8b78be78839a8d068a308b90c1c5"
     },
     {
-      "id": "p9d",
+      "id": "p16",
       "result": "checked_unchanged",
-      "finding": "Beide gegenwärtigen Absätze geprüft und Artikel 3, 4, 64 des Standortfördergesetzes gelesen. Spätere Fassungen 2028/2030 nicht eingemischt; unverändert.",
-      "official_doknr": "BJNR002190897BJNE116901129",
-      "commentary_sha256": "651305d30721eba87b6ea5f228f865b2a871e3dfee00edd6a09088430e8d287a"
+      "finding": "Beide Absätze geprüft; vollstreckbare Entscheidung genügt neben Rechtskraft, Aufhebungsfolge nur auf Antrag, Eintragungssperre setzt Widerspruch voraus.",
+      "official_doknr": "BJNR002190897BJNE002300300",
+      "commentary_sha256": "55c752ab72663831097a4680fde20008a9f2d6eb9ed4d8cd601cbd11cfc1b41b"
     },
     {
-      "id": "p10",
+      "id": "p17",
       "result": "checked_unchanged",
-      "finding": "Alle vier Absätze einschließlich widerlegbarer Tagesablaufregel und erstmaliger Abrufbarkeit geprüft; unverändert.",
-      "official_doknr": "BJNR002190897BJNE001402360",
-      "commentary_sha256": "e3a91cab11b14b3831755d7976722d453cdc2d72c028e748068c3cde38e96d1e"
+      "finding": "Beide Absätze geprüft; Rechtsträger und Geschäftsname getrennt. BGH II ZR 140/13 vollständig gelesen; Rn. 8–10 tragen begrenzte Unterscheidung zur Etablissementbezeichnung.",
+      "official_doknr": "BJNR002190897BJNE002501307",
+      "commentary_sha256": "1d22299aa8d29109960e44ad4a8ea571523006404c21bc65b8716b776fbd4557"
     },
     {
-      "id": "p10a",
+      "id": "p18",
       "result": "checked_unchanged",
-      "finding": "Alle drei Absätze geprüft; begrenzte registerbezogene DSGVO-Modifikationen und fehlende Freistellung fremder Datenverarbeitung zutreffend; unverändert.",
-      "official_doknr": "BJNR002190897BJNE113801360",
-      "commentary_sha256": "de4b4edd8f3293be26d36e8b16c1906a14275a639121cb63aff974f4d5a477e2"
+      "finding": "Beide Absätze geprüft; abstrakte Unterscheidungskraft, wesentliche Irreführung und begrenzte Registerprüfung korrekt getrennt.",
+      "official_doknr": "BJNR002190897BJNE002601307",
+      "commentary_sha256": "59db420f3fccc49c9ea649cc02412208f9387663a8d2307ba2f8baf73fba7370"
     },
     {
-      "id": "p11",
+      "id": "p19",
       "result": "checked_unchanged",
-      "finding": "Beide Absätze geprüft; asymmetrische Berufung auf Übersetzung und Nachweis tatsächlicher Originalkenntnis richtig; unverändert.",
-      "official_doknr": "BJNR002190897BJNE001501377",
-      "commentary_sha256": "60a512fce2dfe1c8990f10be3fcce1aaa723eb9b0614c43557f8bb12a3c5cbde"
+      "finding": "Beide Absätze und sämtliche Rechtsformvarianten geprüft; Fortführungsfälle und Fehlen einer natürlichen persönlich haftenden Person zutreffend.",
+      "official_doknr": "BJNR002190897BJNE002701307",
+      "commentary_sha256": "3801559acf1f4c619ee4b47c6013e008b41461ee7c439021e8c724cea6dc6775"
     },
     {
-      "id": "p12",
-      "result": "corrected",
-      "finding": "Beide Absätze und sämtliche Sätze geprüft; bisher fehlenden Rechtsnachfolgenachweis durch öffentliche Urkunden soweit tunlich ergänzt.",
-      "official_doknr": "BJNR002190897BJNE001604360",
-      "commentary_sha256": "fb88b308d8c0678958e1b93d79e279c973a01f01d81a7cafd6d6aefd296a599b"
+      "id": "p20",
+      "result": "checked_unchanged",
+      "finding": "Amtlicher Wegfallmarker und leerer Textkörper geprüft; keine heutige Sachregel erfunden.",
+      "official_doknr": "BJNR002190897BJNE037500309",
+      "commentary_sha256": "4fe94fb53913d13a9b0d30735fe2ea014ad0d13c9eab1d11006db125124823f3"
     },
     {
-      "id": "p13",
-      "result": "corrected",
-      "finding": "Alle drei Absätze geprüft; Anmeldepflichtige und Gerichtsanknüpfung nach Einzelkaufmann/juristischer Person bzw. Handelsgesellschaft präzisiert; Aufhebung und Auslandsabgrenzung zutreffend.",
-      "official_doknr": "BJNR002190897BJNE001704140",
-      "commentary_sha256": "0384dd3be2189cd1aec8409c81577837505324e987f91d8178438c6a1c644dfa"
+      "id": "p21",
+      "result": "checked_unchanged",
+      "finding": "Identitätswahrender Namenswechsel von Inhaberwechsel getrennt; Fortführungswahlrecht sowie §§ 19 und 31 geprüft.",
+      "official_doknr": "BJNR002190897BJNE002801307",
+      "commentary_sha256": "5359f108686a41cdd373c8b585b9e78ed94a2b7c4bed5a22a3059969d31e503b"
+    },
+    {
+      "id": "p22",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft; ausdrückliche Einwilligung, lebzeitiger/todesbedingter Erwerb, Pacht/Nießbrauch und Trennung zur Haftung korrekt.",
+      "official_doknr": "BJNR002190897BJNE002901307",
+      "commentary_sha256": "09454fd82bcdc76ada0dfbf6f70f003a3d69d959e7e9b6802d0b17ae8b0d9626"
+    },
+    {
+      "id": "p23",
+      "result": "checked_unchanged",
+      "finding": "Bindung der Firma an Handelsgeschäft geprüft; keine pauschale Erstreckung auf alle Kennzeichenrechte.",
+      "official_doknr": "BJNR002190897BJNE003000300",
+      "commentary_sha256": "35e831e6fc37e89bf2cc7d7b3a9e21ac128709b0f9a9d729757ac77e0b8830e7"
+    },
+    {
+      "id": "p24",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft; Eintritt/Ausscheiden, ausdrückliche Zustimmung bei namensgebendem Ausscheidenden und §§ 19/28 zutreffend.",
+      "official_doknr": "BJNR002190897BJNE003101307",
+      "commentary_sha256": "17df2a8ce97e28d16e67b55d20150038082f4193f5f564edee91f61d74456923"
+    },
+    {
+      "id": "p25",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze samt Forderungszuordnung geprüft; Außenwirkung abweichender Vereinbarung und besonderer Verpflichtungsgrund unterschieden. BGH II ZR 140/13 Rn. 8–10 ohne Überdehnung verwendet.",
+      "official_doknr": "BJNR002190897BJNE003200300",
+      "commentary_sha256": "ab6e077f9d53df6375fa7695dfb1f32d20cf3bf7646aef7c51882c474f4b0d44"
     }
   ],
-  "source_evidence": "sources/hgb-review-p1-p13.xml",
+  "source_evidence": "sources/hgb-review-p13a-p25.xml",
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "case_law_checked": [
+    "cases/BGH-2024-II-ZR-220-22.md",
+    "cases/BGH-2013-II-ZR-140-13.md"
+  ],
   "limitations": [
-    "Abschluss ausschließlich der 20 ausdrücklich zugewiesenen Einheiten; keine Gesamtfreigabe des Buches.",
-    "Keine neue Rechtsprechung aufgenommen; in diesen Einheiten keine konkrete Gerichtsentscheidung zitiert. Keine umfassende Rechtsprechungs- oder Verfassungsmäßigkeitsprüfung behauptet.",
-    "Fremdgesetzliche Verweisungen nur in ihrem Zusammenhang mit dem amtlichen HGB geprüft; keine vollständige Kommentierung der verwiesenen Gesetze.",
-    "463 Kommentare außerhalb des Prüfauftrags fehlen weiterhin; Gesamtbuild und Gesamtvalidierung bleiben deshalb negativ.",
+    "Abschluss ausschließlich der 20 ausdrücklich zugewiesenen Einheiten; keine Gesamtfreigabe.",
+    "Selektive Prüfung der zwei bereits zitierten amtlichen Volltexte; keine erschöpfende neue Rechtsprechungsrecherche.",
+    "Fremdgesetzliche Verweisungen im Zusammenhang mit HGB geprüft; keine vollständige Kommentierung der verwiesenen Gesetze.",
+    "463 Kommentare außerhalb des Prüfauftrags fehlen; Gesamtbuild und Gesamtvalidierung bleiben negativ.",
     "Keine externe anwaltliche Freigabe."
   ],
   "technical_verification": {
@@ -183,10 +187,10 @@
     "statutory_verbatim_ratio": 1.0,
     "official_coverage_missing": [],
     "official_coverage_duplicates": [],
-    "local_markdown_links_ok": true,
     "full_build_ok": false,
     "full_validation_ok": false,
-    "reason": "463 fehlende Kommentare außerhalb des begrenzten Prüfauftrags",
-    "partial_export": "checkpoint-export.json"
+    "reason": "463 fehlende Kommentare außerhalb des Prüfauftrags",
+    "partial_export": "checkpoint-export.json",
+    "local_markdown_links_ok": true
   }
 }

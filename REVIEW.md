@@ -27,10 +27,18 @@ Alle 814 amtlichen XML-Knoten wurden zugeordnet (696 Normen, 117 Strukturknoten,
 
 ## Unabhängiger begrenzter zweiter Durchgang am 21. Oktober 2026
 
-Ein frischer Prüfprozess hat ausschließlich die 20 Einheiten `p1`–`p13` einschließlich `p8a`, `p8b`, `p9a`–`p9d` und `p10a` vollständig gegen den amtlichen XML-Text gelesen. Die früheren Aussagen über eine noch nicht erfolgte Zweitprüfung beschreiben den damaligen Gesamtstand; eine Prüfung aller 696 Einheiten wird auch jetzt nicht behauptet. Einzelbefunde und genaue Kennungen stehen in [review-result.json](review-result.json).
+Ein frischer Prüfprozess hat ausschließlich die 20 Einheiten `p1`–`p13` einschließlich `p8a`, `p8b`, `p9a`–`p9d` und `p10a` vollständig gegen den amtlichen XML-Text gelesen. Die früheren Aussagen über eine noch nicht erfolgte Zweitprüfung beschreiben den damaligen Gesamtstand; eine Prüfung aller 696 Einheiten wird auch jetzt nicht behauptet. Einzelbefunde und genaue Kennungen dieses früheren Durchgangs bleiben im [Prüfledger](batch-review-ledger.json) erhalten.
 
 Sieben Kommentare wurden ergänzt oder präzisiert: § 3 (allgemeiner Löschungsweg), § 8a (Weiterübertragung), § 8b (Datenkategorien, Hinterlegung und Zweckbindung), § 9 (Authentifizierung und Bestätigung), § 9a (Soll-Mindestdauer), § 12 (Rechtsnachfolge) und § 13 (Anmeldepflichtige und Gericht). Die übrigen 13 Kommentare bleiben nach sachlicher Prüfung erhalten. Keine fremden Kommentarabschnitte wurden ersetzt.
 
 Der erneute amtliche Abruf lieferte HTTP 200 und denselben XML-Hash wie am 19. Oktober. Die zeitliche Trennung des § 9d wurde anhand der verkündeten Artikel 3, 4 und 64 erneut geprüft. Die Kontrolle aller XML-Knoten bestätigt weiterhin 696 Vorschriften, 117 Gliederungsknoten und eine Kopfnorm ohne unzugeordneten operativen Text; keine fehlende Eingangsformel oder eigene Gesetzesanlage. Die technischen Kontrollen ersetzen die hier protokollierte Einzelprüfung nicht.
 
 Der Teilprüfauftrag ist abgeschlossen. Das Buch bleibt ein unvollständiger Entwurf mit 463 fehlenden Kommentaren außerhalb des Prüfauftrags. Neue Rechtsprechung wurde in diesem Durchgang nicht aufgenommen; die geprüften Kommentare enthalten keine konkrete Entscheidungszitation. Eine externe anwaltliche Freigabe liegt nicht vor.
+
+## Begrenzter zweiter Durchgang: §§ 13a–25, 21. Oktober 2026
+
+Die exakt 20 zugewiesenen Einheiten wurden jeweils vollständig mit dem amtlichen Text verglichen; die Kennungen und Einzelbefunde stehen in [review-result.json](review-result.json) und dauerhaft in [review-p13a-p25.json](review-p13a-p25.json). Vier Kommentare wurden berichtigt oder vertieft: § 13e (Insolvenzanmeldepflichtige), § 13f (Anmeldezeitpunkt, Anlagen und EU-/EWR-Ausnahmen), § 13g (Zweijahresbezug und Ausnahmen) und § 14 (gebundene Durchsetzung). Die übrigen 16 Kommentare wurden nach Einzelprüfung erhalten.
+
+Die amtlichen Volltexte zu BGH II ZR 220/22 und II ZR 140/13 wurden vollständig gelesen und die zitierten Randnummern mit Aussagen, Verfahrenskontext und Fallkarten verglichen. Keine neue Entscheidung wurde aufgenommen. Die Kenntnisregel des § 15 Absatz 1 wird nicht auf dessen geänderten Absatz 3 übertragen; der Hotelbeschluss belegt keine allgemeine Ausnahme für Hotelbetriebe.
+
+Der erneute amtliche ZIP-Abruf ergab HTTP 200 und denselben XML-Hash wie der maßgebliche Ausgangstext vom 19. Oktober. Die vorhandene Inkrafttretensprüfung und vollständige Knotenzuordnung wurden gegengeprüft. Keine historische Doppelfassung, eigenständige Anlage oder fehlende Eingangsformel wurde festgestellt. Die technischen Prüfungen ergeben vollständige Normabdeckung und 100 Prozent Wortlautübereinstimmung; sie ersetzen keine inhaltliche Prüfung. Der Teilauftrag ist abgeschlossen; 463 nicht ausgearbeitete Kommentare außerhalb dieses Auftrags verhindern weiterhin den Gesamtbuild.
