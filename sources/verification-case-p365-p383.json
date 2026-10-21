@@ -1,0 +1,14 @@
+{
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300012018.zip",
+  "http_status": 200,
+  "accessed_at": "2026-10-21T05:16:43.931474+00:00",
+  "path": "sources/case-KORE300012018-p365-p383.xml",
+  "sha256": "9caf152022c4f6e26e652084aab08147e380cf4cc28803830766d4868e32e51d",
+  "zip_sha256": "c62d47fd493530a05e1265807ad1635d58b1ed7b3a1b63c5a7d3c2a07b6f1da5",
+  "format_valid": true,
+  "rejected_responses": [
+    "bgh-80544-p365-p383.response: HTML statt PDF",
+    "bgh-74163-p365-p383.response: HTML statt PDF",
+    "Direkte .xml-URL: allgemeiner items-Feed statt Entscheidungs-XML; nicht als Entscheidung verwendet"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-21",
+  "scope": [
+    "p365",
+    "p365a",
+    "p366",
+    "p367",
+    "p368",
+    "p369",
+    "p370",
+    "p371",
+    "p372",
+    "p373",
+    "p374",
+    "p375",
+    "p376",
+    "p377",
+    "p378",
+    "p379",
+    "p380",
+    "p381",
+    "p382",
+    "p383"
+  ],
+  "queries": [
+    "site.bundesgerichtshof.de \"377\" \"VIII ZR\" Untersuchung Rüge",
+    "site.rechtsprechung-im-internet.de \"VIII ZR 246/16\"",
+    "site.rechtsprechung-im-internet.de \"VIII ZR 38/15\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search": "manifest.jsonl: VIII ZR 38/15|VIII ZR 246/16",
+  "local_hits": [
+    "KORE300012018",
+    "KORE300362016"
+  ],
+  "fully_read": [
+    "BGH VIII ZR 246/16, amtlicher XML-Volltext, Tatbestand und Rn. 1–47"
+  ],
+  "case_cards": [
+    "cases/BGH-2017-VIIIZR246-16.md"
+  ],
+  "limits": "Selektive Recherche. VIII ZR 38/15 nicht separat volltextgeprüft und nicht als eigenständige Autorität zitiert. Für übrige zugewiesene Normen keine zusätzliche ausreichend geprüfte Entscheidung aufgenommen."
+}
