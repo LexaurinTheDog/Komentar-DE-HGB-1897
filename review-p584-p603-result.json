@@ -1,0 +1,134 @@
+{
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p584",
+    "p585",
+    "p586",
+    "p587",
+    "p588",
+    "p589",
+    "p590",
+    "p591",
+    "p592",
+    "p593",
+    "p594",
+    "p595",
+    "p596",
+    "p597",
+    "p598",
+    "p599",
+    "p600",
+    "p601",
+    "p602",
+    "p603"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p584",
+      "review": "Vertretung für Schiff und Bordvermögen; beide Kontrolltatbestände und Antragsurteil; zusätzliche Grobheitsschwelle entfernt.",
+      "disposition": "corrected"
+    },
+    {
+      "id": "p585",
+      "review": "Schiffssicherung einschließlich Sondervergütung getrennt von Ladungssicherung; Alleinbesitz, Sicherheitsangebot und Immunitätsausnahmen.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p586",
+      "review": "Sachpfandrang, zeitliche Umkehr, Ereignisbezug, Jahresfrist und Klagegegner.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p587",
+      "review": "Sicherheitsanspruch, Bemühenspflicht, Entfernungssperre und schuldhafte persönliche Haftung.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p588",
+      "review": "Gemeinsame Gefahr, Kapitänsanordnung, bewusstes Opfer; Eigentum gegenüber Gefahrtragung.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p589",
+      "review": "Fortbestand der Abrechnung, Ausschluss des schuldigen Beteiligten und Regress getrennt.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p590",
+      "review": "Hypothetischer Endwert, Differenzwert, Reparaturvermutung, Frachtverlust und Rechnungspreis.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p591",
+      "review": "Beteiligte, Ausnahmen, Endwert zuzüglich Vergütung und Bruttofracht.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p592",
+      "review": "Proportionale Verrechnung und Haftungsgrenze; Zahlenbeispiel rechnerisch kontrolliert.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p593",
+      "review": "Schiffseigentümer und Frachtgläubiger als Beitragsschuldner; keine umfassende Ladungssicherung am Schiff.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p594",
+      "review": "Alle fünf Absätze; Verweisungen auf §§ 368 und 495 Abs. 4 konkretisiert und begrenzt.",
+      "disposition": "corrected"
+    },
+    {
+      "id": "p595",
+      "review": "Initiativrecht, Reederpflicht, Ort, Dispacheur und Urkundenvorlage.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p596",
+      "review": "Alle fünf Katalognummern, Vertragsausnahme nur bei Sachschäden und Nuklearausschluss.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p597",
+      "review": "Gesetzliches Pfandrecht gegen jeden Besitzer, Zinsen und zweckgebundene Verfolgungskosten.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p598",
+      "review": "Zubehör-Ausnahme, Ersatzansprüche und ausdrücklicher Versicherungsausschluss.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p599",
+      "review": "Akzessorisches Erlöschen gegenüber Verjährung und eigener Pfandrechtsfrist.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p600",
+      "review": "Jahresbeginn, Beschlagnahme/Beitritt, kontinuierliche Bindung bis Verwertung und rechtliche Verhinderung.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p601",
+      "review": "Vollstreckung, Ausrüsterprozess, Urteilswirkung und Registerlegitimation samt Einwendungen.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p602",
+      "review": "Vorrang gegenüber sonstigen Pfandrechten und öffentlicher Sachhaftung; interner Rang getrennt.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p603",
+      "review": "Katalograng, spätere Nummer-4-Forderungen und drei gesetzliche Entstehungszeitpunkte.",
+      "disposition": "checked"
+    }
+  ],
+  "limitations": [
+    "Begrenzte unabhängige zweite Durchsicht nur §§ 584–603; keine Gesamtbuchfreigabe und keine externe anwaltliche Prüfung.",
+    "Keine Gerichtsentscheidung in diesen Kommentaren zitiert; vorhandene selektive Recherche ohne ausreichend einschlägigen verifizierten Volltext geprüft, keine erschöpfende Judikaturrecherche."
+  ],
+  "source_preflight": "preflight-p584-p603-review-result.json"
+}
