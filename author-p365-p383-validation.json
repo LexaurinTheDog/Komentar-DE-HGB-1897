@@ -1,0 +1,22 @@
+{
+  "bounded": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 33918,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "whole_book": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 696,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 762802,
+    "errors": [
+      "krátký/chybějící komentář u 256 jednotek: ['p384(0<400)', 'p385(0<400)', 'p386(0<400)', 'p387(0<400)', 'p388(0<400)', 'p389(0<400)', 'p390(0<400)', 'p391(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  }
+}
