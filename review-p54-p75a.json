@@ -1,0 +1,200 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p54",
+    "p55",
+    "p56",
+    "p57",
+    "p58",
+    "p59",
+    "p60",
+    "p61",
+    "p62",
+    "p63",
+    "p64",
+    "p65",
+    "p66-72",
+    "p73",
+    "p74",
+    "p74a",
+    "p74b",
+    "p74c",
+    "p75",
+    "p75a"
+  ],
+  "unresolved_blockers": [],
+  "reviewed_at": "2026-10-21T02:58:26.930063+00:00",
+  "findings": [
+    {
+      "id": "p54",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze, drei Vollmachtsarten, Sonderbefugnisse und Kenntnis/Kennenmüssen vollständig geprüft.",
+      "official_doknr": "BJNR002190897BJNE006500300",
+      "commentary_sha256": "19d906da9ace75670e355ae886a1d0356136fa24e593e64667c9d47d7f4110d2"
+    },
+    {
+      "id": "p55",
+      "result": "checked_unchanged",
+      "finding": "Alle vier Absätze; Abschlussvollmacht, Vertragsänderung, Zahlungsannahme und Empfang/Beweissicherung getrennt geprüft.",
+      "official_doknr": "BJNR002190897BJNE006600300",
+      "commentary_sha256": "9870062e5012497e11fb71bd0dc37f44f10143c383013c946133435d27810288"
+    },
+    {
+      "id": "p56",
+      "result": "checked_unchanged",
+      "finding": "Anstellung, Laden/offenes Warenlager, gewöhnliche Verkäufe und Empfangnahmen geprüft; keine allgemeine Prokura unterstellt.",
+      "official_doknr": "BJNR002190897BJNE006700300",
+      "commentary_sha256": "3293ee01709087a3de8f2c3717255b9e4281b5db8ed78092ea1455431ebbe727"
+    },
+    {
+      "id": "p57",
+      "result": "checked_unchanged",
+      "finding": "Gebot des Vollmachtszusatzes und Verbot eines Prokurazusatzes geprüft; Zeichnung nicht mit Vollmachtserteilung verwechselt.",
+      "official_doknr": "BJNR002190897BJNE006800300",
+      "commentary_sha256": "469eefac3aa21ddc1ed5b42ccb956b58a0a49ef93e003979378c789e7e207ba2"
+    },
+    {
+      "id": "p58",
+      "result": "checked_unchanged",
+      "finding": "Zustimmung zur Übertragung sowie Abgrenzung zum absoluten Übertragungsverbot der Prokura geprüft; Prüfliste sachgerecht.",
+      "official_doknr": "BJNR002190897BJNE006900300",
+      "commentary_sha256": "cf9a71da0413476aa88a0ca0f8fca2f1995baf33f142bd1f5ed7e33a424933bc"
+    },
+    {
+      "id": "p59",
+      "result": "checked_unchanged",
+      "finding": "Definition und Rangfolge Vereinbarung, Ortsgebrauch, angemessene Leistung geprüft; keine Abweichung von zwingendem Arbeitsrecht behauptet.",
+      "official_doknr": "BJNR002190897BJNE007100300",
+      "commentary_sha256": "eee2a87b02e7f41b35c2cc80dcb65fb4815667be13e861683a91d37bd97b7490"
+    },
+    {
+      "id": "p60",
+      "result": "corrected",
+      "finding": "Beide Absätze geprüft; ausdrücklich ergänzt, dass das eigene Handelsgewerbe nicht auf den Handelszweig des Prinzipals beschränkt ist.",
+      "official_doknr": "BJNR002190897BJNE007200300",
+      "commentary_sha256": "bd44f17aeaec7da18ea6ec8b3e6930de2a5296209db33c8bb39c1134d89da6a9"
+    },
+    {
+      "id": "p61",
+      "result": "checked_unchanged",
+      "finding": "Wahl zwischen Schadensersatz und Eintritt/Abschöpfung sowie beide Verjährungsfristen vollständig geprüft.",
+      "official_doknr": "BJNR002190897BJNE007301377",
+      "commentary_sha256": "97da0f2af80b48a63cfe4d8948733e3a9800eacadaa33ba1adc7a5138e3e8aeb"
+    },
+    {
+      "id": "p62",
+      "result": "corrected",
+      "finding": "Alle vier Absätze geprüft; Schutz von guten Sitten, Anstand und Religion ausdrücklich benannt, statt pauschalem Verweis auf Schutzgüter.",
+      "official_doknr": "BJNR002190897BJNE007400300",
+      "commentary_sha256": "2f4fe641e0a960499387b1dc4d1cbcb6f4c2f3ccdf0e7e9864a4155a9429c906"
+    },
+    {
+      "id": "p63",
+      "result": "checked_unchanged",
+      "finding": "Amtlichen leeren Text und Wegfallkennzeichnung geprüft; keine historische Regel hineingelesen.",
+      "official_doknr": "BJNR002190897BJNE007501307",
+      "commentary_sha256": "4d51ea470ee0f8c0fa6b5d1a91666a9463243927f256bb0039e12b042df65907"
+    },
+    {
+      "id": "p64",
+      "result": "corrected",
+      "finding": "Monatsendzahlung und zwingende Nichtigkeit späterer Fälligkeitsabrede geprüft; Rechtsfolge im Beispiel eindeutig ausgesprochen.",
+      "official_doknr": "BJNR002190897BJNE007600300",
+      "commentary_sha256": "0a0988847ae2a8a27fec90c75f9699197bc942635316a672e463380139a9fdc3"
+    },
+    {
+      "id": "p65",
+      "result": "checked_unchanged",
+      "finding": "Exakte Verweisung auf § 87 Absätze 1/3 und §§ 87a–87c geprüft; keine pauschale Übernahme des Handelsvertreterrechts.",
+      "official_doknr": "BJNR002190897BJNE007700300",
+      "commentary_sha256": "3e0907d71b30cb6af2bf7ddbb7eb88ec55f61da9b649089ae51427c36b01cb19"
+    },
+    {
+      "id": "p66-72",
+      "result": "checked_unchanged",
+      "finding": "Amtliche Sammelleerstelle (XXXX) §§ 66 bis 72 geprüft; keine fingierten Einzeltexte oder heutigen Kündigungsfristen.",
+      "official_doknr": "BJNR002190897BJNE037700309",
+      "commentary_sha256": "99b159c662466a058a70fbdcef3502d6e00ce3f82af3e3ac819744df8b4c5a4b"
+    },
+    {
+      "id": "p73",
+      "result": "checked_unchanged",
+      "finding": "Wegfall und leeren amtlichen Text geprüft; keine gegenwärtige Anspruchsgrundlage konstruiert.",
+      "official_doknr": "BJNR002190897BJNE007802377",
+      "commentary_sha256": "a732c2730b6fde2a414f33a44012ec91a87d383918f4960872980a67f63c1ef2"
+    },
+    {
+      "id": "p74",
+      "result": "checked_unchanged",
+      "finding": "Schriftform, Aushändigung, Unterschrift des Prinzipals und Entschädigungsminimum geprüft; Beispiel enthält keine erfundene Rechtsfolge.",
+      "official_doknr": "BJNR002190897BJNE007900300",
+      "commentary_sha256": "29c02da41f09f8deee11dda7381e443de44c3f7d1232089b03fa22fb262edc17"
+    },
+    {
+      "id": "p74a",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze, Unverbindlichkeit/Nichtigkeit, Zweijahresgrenze und § 138 BGB geprüft; BAG Rn. 23–27 anhand Volltext bestätigt.",
+      "official_doknr": "BJNR002190897BJNE008001311",
+      "commentary_sha256": "0973ab942388617e985f4d62425fdc2b7524abc3368414aed3dd1cb29c2af786"
+    },
+    {
+      "id": "p74b",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze; Monatszahlung, Dreijahresdurchschnitt/kürzere Vertragsgeltung und Auslagenersatz geprüft.",
+      "official_doknr": "BJNR002190897BJNE008100300",
+      "commentary_sha256": "e795332ef5b8efbec45f567309cd69175265d9efb62184825b6b8b1ebfc653ec"
+    },
+    {
+      "id": "p74c",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze; 110/125-Prozent-Grenze, böswilliges Unterlassen, Freiheitsstrafe und Auskunft geprüft; Zahlenbeispiel richtig.",
+      "official_doknr": "BJNR002190897BJNE008200300",
+      "commentary_sha256": "613103c18ceb571f82320f9f737219d6be1615223586c3a50c6b64c5f46b4fff"
+    },
+    {
+      "id": "p75",
+      "result": "corrected",
+      "finding": "Materiellen Fehler korrigiert: aktuelle ausdrückliche Verweisung in Absatz 3 statt historischer Nichtigkeitsaussage. Absatz 2 um schriftliche Monatsfrist und § 74b ergänzt; Fallkarte berichtigt.",
+      "official_doknr": "BJNR002190897BJNE008306125",
+      "commentary_sha256": "df9b1b2b15565ad9772df4a97eb1c16d7fda19669a2897525c4b7d55b2db7100"
+    },
+    {
+      "id": "p75a",
+      "result": "corrected",
+      "finding": "Erklärung vor Vertragsende, sofortige Lösung und Jahresfrist geprüft; Beispiel um Begrenzung auf ursprüngliche Karenzdauer ergänzt.",
+      "official_doknr": "BJNR002190897BJNE008400300",
+      "commentary_sha256": "d85504c771f34c5303055dfbcc16a8e293f04e73f3314d3abc0eaa5b0530882c"
+    }
+  ],
+  "source_evidence": "sources/hgb-review-p54-p75a.xml",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "case_law_checked": [
+    {
+      "court": "BAG",
+      "date": "2015-07-07",
+      "docket": "10 AZR 260/14",
+      "full_text_read": true,
+      "paragraphs": "1–31, insbesondere 12–15 und 21–30",
+      "evidence": "sources/BAG-review-p54-p75a.html",
+      "limitation": "Rn. 12–14 betreffen früheren Absatz 3; keine Nichtigkeit des heutigen Verweises."
+    }
+  ],
+  "limitations": [
+    "Genau die 20 zugewiesenen Einheiten geprüft, keine Gesamtfreigabe.",
+    "Selektive Rechtsprechungsprüfung des bereits zitierten Urteils; keine neue erschöpfende Recherche und keine externe anwaltliche Freigabe.",
+    "463 fehlende Kommentare außerhalb des Auftrags verhindern den Gesamtbuild; Teilcheckpoint ist kein vollständiges Buch."
+  ],
+  "technical_validation": {
+    "assigned_units": 20,
+    "assigned_complete": true,
+    "official_xml_coverage": 696,
+    "statutory_verbatim_ratio": 1.0,
+    "local_links_ok": true,
+    "repeated_exact_prose_paragraphs": 0,
+    "full_build_ok": false,
+    "full_build_blocker": "463 Kommentare außerhalb dieses begrenzten Auftrags fehlen.",
+    "partial_checkpoint_exported": true
+  }
+}

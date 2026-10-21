@@ -77,5 +77,18 @@
     "version_evidence": "sources/commencement.md; sources/bgbl-2026-33.txt Artikel 64 Absätze 5, 7 und 8; Standangaben im erneut abgerufenen XML",
     "historical_versions_checked": "Keine doppelten amtlichen Kennungen; identisch zur wirksamkeitsgeprüften kanonischen Fassung; keine historischen Fassungen verkettet.",
     "annexes_checked": "Alle 814 Normknoten geprüft; 696 Normkennungen vollständig, 117 Gliederungsknoten, Kopfnorm ohne operativen Text; keine gesonderte Anlage oder ausgelassene Eingangsformel."
+  },
+  "bounded_review_p54_p75a": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T02:58:26.930063+00:00",
+    "http_status": 200,
+    "source_evidence": "sources/hgb-review-p54-p75a.xml",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "version_evidence": "Erneut identischer amtlicher XML-Text; sources/commencement.md und BGBl. 2026 I Nr. 33 Artikel 64 geprüft: 2026 wirksame Änderungen getrennt von 2028/2030.",
+    "historical_versions_checked": "696 eindeutige offizielle IDs; keine historischen Dubletten; § 75 Abs. 3 speziell mit dem im BAG-Urteil von 2015 wiedergegebenen früheren Regelungsgehalt verglichen.",
+    "annexes_checked": "Alle 814 Normknoten zugeordnet: 696 Einheiten, 117 Gliederungsknoten, eine Kopfnorm ohne operativen Text. Keine separate Gesetzesanlage, keine fehlende Eingangsformel; Rechnungslegungsanhänge sind keine Gesetzesanlagen.",
+    "unresolved_blockers": []
   }
 }
