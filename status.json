@@ -4,14 +4,14 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T04:40:04.531657+00:00",
+  "updated_at": "2026-10-21T04:42:51.341868+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
   "completed_units": 360,
   "remaining_units": 336,
   "completed_scope": "§§ 1–341g einschließlich Buchstabenparagraphen und amtlicher Sammelleerstellen",
   "next_unit": "p341h",
-  "commentary_chars": 606972,
+  "commentary_chars": 608890,
   "source_checks": {
     "official_xml_http": 200,
     "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
@@ -927,5 +927,32 @@
     },
     "validation_scope": "Strenge Gesamtvalidierung; einziger Fehler: 336 außerhalb dieser Charge noch fehlende Kommentare.",
     "independent_second_pass": "ausstehend"
+  },
+  "last_bounded_review": {
+    "reviewed_ids": [
+      "p340d",
+      "p340e",
+      "p340f",
+      "p340g",
+      "p340h",
+      "p340i",
+      "p340j",
+      "p340k",
+      "p340l",
+      "p340m",
+      "p340n",
+      "p340o",
+      "p341",
+      "p341a",
+      "p341b",
+      "p341c",
+      "p341d",
+      "p341e",
+      "p341f",
+      "p341g"
+    ],
+    "units_reviewed": 20,
+    "complete": true,
+    "evidence": "review-p340d-p341g.json"
   }
 }
