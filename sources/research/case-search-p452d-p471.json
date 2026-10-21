@@ -1,0 +1,13 @@
+{
+  "verified_at": "2026-10-21T06:03:55.236681+00:00",
+  "queries": [
+    "site.bundesgerichtshof.de \"459\" \"Spediteur\" Fixkosten",
+    "site.bundesgerichtshof.de \"469\" \"Lagerhalter\"",
+    "site.rechtsprechung-im-internet.de \"I ZR 150/10\""
+  ],
+  "local_search": "rg exact case_number I ZR 150/10 in national corpus manifest; full KORE313082012 read, paragraphs 1–42",
+  "candidate": "BGH 16.02.2012 I ZR 150/10",
+  "official_primary": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE313082012.zip",
+  "failed_endpoint": "BGH juris PDF nr=59858 timed out in browser; official RII ZIP used successfully",
+  "limits": "Selective research, not exhaustive. No separately verified case cited for other technical units. Search snippets and commercial annotations not used as authority."
+}

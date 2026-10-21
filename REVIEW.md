@@ -211,3 +211,7 @@ Alle 20 zugewiesenen Einheiten einzeln gegen den amtlichen Wortlaut geprüft. §
 ## Begrenzte Zweitprüfung §§ 444–452c, 21. Oktober 2026
 
 Alle 20 zugewiesenen Einheiten einschließlich der weggefallenen Nummer § 451c einzeln gegen amtlichen Wortlaut geprüft. Gewichtsbezug in § 449, Widerleglichkeit in § 451d, Anzeigeform in § 451f, Informationszeitpunkt in § 451g und Schadensortbeispiel in § 452a präzisiert. BGH I ZR 128/15 vollständig erneut gelesen; alte Seefrachtgrenzen und ADSp 2003 nicht als heutiges Recht übernommen. [Einzelergebnisse](review-p444-p452c.json), [Abdeckung](review-p444-p452c-coverage.json), [Teilvalidierung](review-p444-p452c-bounded-validation.json). Teilbuild erfolgreich, 100 % Wortlautübereinstimmung. Gesamtbuch wegen 176 fehlender Kommentare außerhalb des Auftrags weiter unvollständig. Keine externe fachliche Freigabe.
+
+## Autorencharge §§ 452d–471, 21. Oktober 2026
+
+20 von 20 zugewiesenen Einheiten ausgearbeitet; Rechtsstand zum Titelbeginn 19. Oktober 2026, amtlicher Wiederabruf bytegleich. [Quellenprüfung](sources/verification-p452d-p471.json), [Abdeckung](author-p452d-p471-coverage.json), [Fallkarte BGH I ZR 150/10](cases/bgh-I-ZR-150-10-p454-p461.md). Selektive Rechtsprechung, keine erschöpfende Übersicht. Teilbuild und strenge Teilvalidierung; Gesamtband mit 156 noch fehlenden Kommentaren unvollständig. Unabhängige Zweitprüfung dieser Charge steht aus. Originalkommentar © 2026 Vojtěch Říha, Apache-2.0.

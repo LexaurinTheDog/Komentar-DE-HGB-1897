@@ -1,0 +1,51 @@
+{
+  "kind": "author",
+  "complete": true,
+  "assigned_units": 20,
+  "completed_units": 20,
+  "assigned_ids": [
+    "p452d",
+    "p453",
+    "p454",
+    "p455",
+    "p456",
+    "p457",
+    "p458",
+    "p459",
+    "p460",
+    "p461",
+    "p462",
+    "p463",
+    "p464",
+    "p465",
+    "p466",
+    "p467",
+    "p468",
+    "p469",
+    "p470",
+    "p471"
+  ],
+  "stage": "bounded_draft_technical_validation",
+  "whole_book_complete": false,
+  "independent_review": false,
+  "source_checks": "sources/verification-p452d-p471.json",
+  "statutory_text_agreement": 1.0,
+  "coverage": "author-p452d-p471-coverage.json",
+  "validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 38380,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "case_law_sources": [
+    "BGH 2012-02-16 I ZR 150/10; KORE313082012"
+  ],
+  "remaining_limitations": [
+    "Independent second pass pending for this batch.",
+    "Selective case law research.",
+    "Full manuscript still missing 156 units outside this assignment."
+  ]
+}

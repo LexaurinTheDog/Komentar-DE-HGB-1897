@@ -47,3 +47,7 @@ Der vollständige Normbestand steht in units.jsonl. Vorhandene Autorenbatches:
 
 - [§§ 424–431](29-hgb-teil-424-431.md)
 - [§§ 432–443](30-hgb-teil-432-443.md)
+
+- [§ 452d](31-hgb-teil-p452d.md)
+- [Speditionsgeschäft §§ 453–466](32-hgb-teil-p453-p466.md)
+- [Lagergeschäft §§ 467–471](33-hgb-teil-p467-p471.md)

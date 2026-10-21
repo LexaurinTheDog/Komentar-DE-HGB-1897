@@ -77,3 +77,7 @@ Zweitprüfung §§ 365–383: [amtliches XML](sources/hgb-review-p365-p383.xml),
 Charge §§ 404–423: [XML](sources/hgb-p404-p423.xml), [Abruf](sources/verification-p404-p423.json), [Suchprotokoll](sources/research/case-search-p404-p423.json), [BGH-Fallkarte](cases/BGH-2010-IZR37-09.md).
 
 Charge §§ 424–443: [XML](sources/hgb-p424-p443.xml), [Abruf](sources/verification-p424-p443.json), [Suchprotokoll](sources/research/case-search-p424-p443.json), [BGH-Fallkarte zur früheren Formanforderung](cases/BGH-2012-IZR75-11.md).
+
+## Autorencharge §§ 452d–471, 21. Oktober 2026
+
+20 von 20 zugewiesenen Einheiten ausgearbeitet; Rechtsstand zum Titelbeginn 19. Oktober 2026, amtlicher Wiederabruf bytegleich. [Quellenprüfung](sources/verification-p452d-p471.json), [Abdeckung](author-p452d-p471-coverage.json), [Fallkarte BGH I ZR 150/10](cases/bgh-I-ZR-150-10-p454-p461.md). Selektive Rechtsprechung, keine erschöpfende Übersicht. Teilbuild und strenge Teilvalidierung; Gesamtband mit 156 noch fehlenden Kommentaren unvollständig. Unabhängige Zweitprüfung dieser Charge steht aus. Originalkommentar © 2026 Vojtěch Říha, Apache-2.0.

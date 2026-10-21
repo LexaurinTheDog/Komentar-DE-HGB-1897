@@ -1,0 +1,17 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.gesetze-im-internet.de/hgb/",
+  "verified_at": "2026-10-21T06:03:55.236681+00:00",
+  "version_evidence": [
+    "sources/verification-p452d-p471.json: newly fetched official XML byte-identical to effective title-start canonical",
+    "sources/commencement.md: Articles 3, 4, 64 Standortfördergesetz and 2028/2030 commencement distinction",
+    "sources/change-map.json: unchanged intake preserved"
+  ],
+  "historical_versions_checked": "Single effective XML per provision, no historical duplicates; exact consecutive official identifiers § 452d–§ 471 checked independently.",
+  "annexes_checked": "No annex or empty/repealed slot within assigned scope. Existing full-title structural and opening-formula audit preserved.",
+  "unresolved_blockers": [],
+  "limitations": [
+    "Batch preflight reuses documented title-start commencement analysis; does not claim exhaustive independent BGBl review."
+  ]
+}
