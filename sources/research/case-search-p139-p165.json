@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-21",
+  "scope": [
+    "p139",
+    "p140",
+    "p141",
+    "p142",
+    "p143",
+    "p144",
+    "p145",
+    "p146",
+    "p147",
+    "p148",
+    "p149",
+    "p150",
+    "p151",
+    "p152",
+    "p153-160",
+    "p161",
+    "p162",
+    "p163",
+    "p164",
+    "p165"
+  ],
+  "searches": [
+    {
+      "provider": "official web search",
+      "query": "site.bundesgerichtshof.de Liquidator Kommanditgesellschaft Weisungen § 146 § 148 Liquidation",
+      "result": "Older cases and legislative materials returned; no holding adopted without full-text and law-version verification.",
+      "candidate_urls": [
+        "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2011-7&Gericht=bgh&Sort=1&anz=358&nr=57624&pos=19",
+        "https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Blank=1&Datum=2019-2-6&Gericht=bgh&anz=19&nr=53679&pos=14"
+      ]
+    },
+    {
+      "provider": "local judicial manifest",
+      "path": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl",
+      "query": "Liquidator|Liquidation|Kommandit",
+      "result": "No matches returned by rg."
+    }
+  ],
+  "selected_cases": [],
+  "limitations": "Selective search only; no case read or cited as authority; no claim that relevant decisions do not exist."
+}
