@@ -1,0 +1,182 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p252",
+    "p253",
+    "p254",
+    "p255",
+    "p256",
+    "p256a",
+    "p257",
+    "p258",
+    "p259",
+    "p260",
+    "p261",
+    "p262",
+    "p263",
+    "p264",
+    "p264a",
+    "p264b",
+    "p264c",
+    "p264d",
+    "p265",
+    "p266"
+  ],
+  "unresolved_blockers": [],
+  "reviewed_at": "2026-10-21T03:34:06.934593+00:00",
+  "source_evidence": "sources/hgb-review-p252-p266.xml",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "findings": [
+    {
+      "id": "p252",
+      "result": "corrected",
+      "finding": "Alle sechs Grundsätze und Ausnahme geprüft; Erkenntniszeitraum bis zur Aufstellung ausdrücklich ergänzt.",
+      "official_doknr": "BJNR002190897BJNE004701140",
+      "commentary_sha256": "5c910ae5df9625cf5812da822337b2e7da5e281f393af81546f28c67270c21c9"
+    },
+    {
+      "id": "p253",
+      "result": "corrected",
+      "finding": "Alle sechs Absätze geprüft; Zeitwertvoraussetzungen und Kleinstausnahme, Rentenverbindlichkeiten sowie jährliche Pensionsdifferenz und konkrete Ausschüttungsdeckung präzisiert.",
+      "official_doknr": "BJNR002190897BJNE004807360",
+      "commentary_sha256": "bc385e8ebfc944d1b04ce73d1d246c1ee7e34d36f03c38c42f01f5db892304b7"
+    },
+    {
+      "id": "p254",
+      "result": "corrected",
+      "finding": "Risiko-, Instrumenten-, Umfangs- und Zeitgrenze geprüft; Rückstellungsausnahme des § 249 Absatz 1 ergänzt.",
+      "official_doknr": "BJNR002190897BJNE004901140",
+      "commentary_sha256": "da905a2c733a821ce5d2578688563f3bba32ac33a8c8d3311fb94ba98d1ae53b"
+    },
+    {
+      "id": "p255",
+      "result": "corrected",
+      "finding": "Absätze 1, 2, 2a, 3 und 4 geprüft; Pflichtkosten und Wahlkosten einzeln erläutert, zuletzt ermittelten Zeitwert als Fortführungsbasis ergänzt.",
+      "official_doknr": "BJNR002190897BJNE005002360",
+      "commentary_sha256": "9a75b2e43f604198a76e2aa4f84dc29146ea902bb2a43f68fbe5d7821e147d9b"
+    },
+    {
+      "id": "p256",
+      "result": "checked_unchanged",
+      "finding": "Verbrauchsfolge, Vorratsgleichartigkeit, GoB und Verweis auf Fest-/Gruppenbewertung geprüft; keine physische Verbrauchsfolge verlangt.",
+      "official_doknr": "BJNR002190897BJNE005101140",
+      "commentary_sha256": "11689bc0f9e4bfce13c1029f209ea7663a5a2a8caaeef1379ebd0267d53d623f"
+    },
+    {
+      "id": "p256a",
+      "result": "checked_unchanged",
+      "finding": "Stichtagsmittelkurs, Einjahresgrenze und ausschließlich bezeichnete Ausnahmen geprüft; Bewertungseinheit richtig abgegrenzt.",
+      "official_doknr": "BJNR002190897BJNE099900140",
+      "commentary_sha256": "c7a0729f9376c8d4b9ced122e9f64e628207e07a7a8ad99243918636ca95f21d"
+    },
+    {
+      "id": "p257",
+      "result": "corrected",
+      "finding": "Alle Unterlagen, Fristen und Fristbeginne geprüft; bildliche/inhaltsbezogene Reproduktion unterschieden und Ausdrucksoption für originäre Datenträgerunterlagen ergänzt.",
+      "official_doknr": "BJNR002190897BJNE005204129",
+      "commentary_sha256": "1c1009fbb8bb2df6bfffd3dc1694b11e90c9455cada2c5d3eee4676ffb49fd71"
+    },
+    {
+      "id": "p258",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze geprüft: gerichtliche Anordnung auf Antrag oder von Amts wegen, ZPO-Vorbehalt; kein außergerichtliches Zugriffsrecht behauptet.",
+      "official_doknr": "BJNR002190897BJNE005300306",
+      "commentary_sha256": "1c777e306b76dbfe3e4bbf4a7bcc006a59068dd4ceeaf72a7adefba59612e36e"
+    },
+    {
+      "id": "p259",
+      "result": "checked_unchanged",
+      "finding": "Streitbezogene Parteieinsicht von notwendiger gerichtlicher Ordnungskontrolle des übrigen Inhalts zutreffend getrennt.",
+      "official_doknr": "BJNR002190897BJNE005400306",
+      "commentary_sha256": "44f25054ed6406a04402b6fd470fce8b0f09a29ece0c58945bd49638ac308276"
+    },
+    {
+      "id": "p260",
+      "result": "checked_unchanged",
+      "finding": "Nicht abschließende Auseinandersetzungsfälle und gerichtliche Kann-Anordnung zutreffend; Querverweise auf aktuelle §§ 152, 166, 233 geprüft.",
+      "official_doknr": "BJNR002190897BJNE005500306",
+      "commentary_sha256": "4de5d1e7309406bc8bf6437b6983be4a41e7ba8d1f78dc583957d84a5a8d6f69"
+    },
+    {
+      "id": "p261",
+      "result": "checked_unchanged",
+      "finding": "Eigene Kosten für Lesbarkeitshilfen und erforderliche Ausdrucke/Reproduktionen geprüft; keine zusätzliche materielle Einsichtsbefugnis erfunden.",
+      "official_doknr": "BJNR002190897BJNE005600306",
+      "commentary_sha256": "e5fc05da19c964318e3da9f5548e9c9e549b5a61a1aefd968e82761f1a6327be"
+    },
+    {
+      "id": "p262",
+      "result": "checked_unchanged",
+      "finding": "Leeres amtliches Textfeld und Wegfalltitel geprüft und erhalten; kein historischer Inhalt rekonstruiert.",
+      "official_doknr": "BJNR002190897BJNE005701307",
+      "commentary_sha256": "f1d32fd72d58a5ab9694a118c7fa9fbdc5e38add172f2a8ca2e42309a4267d80"
+    },
+    {
+      "id": "p263",
+      "result": "checked_unchanged",
+      "finding": "Kommunale Organisationsformen ohne Rechtspersönlichkeit, Landesrechtsvorbehalt und GmbH-Abgrenzung zutreffend.",
+      "official_doknr": "BJNR002190897BJNE005800306",
+      "commentary_sha256": "c693bb560ec2bcf8bc493c0a1c24030ea14f9498e3ee0623c52ac93aebc9bb8e"
+    },
+    {
+      "id": "p264",
+      "result": "corrected",
+      "finding": "Alle Absätze und kumulativen Befreiungsmerkmale geprüft; Emittentenkreis, genauer Einstandszeitraum, Offenlegungsunterlagen, Sprachen und Ausschluss bloßer Hinterlegung präzisiert.",
+      "official_doknr": "BJNR002190897BJNE005917360",
+      "commentary_sha256": "4f4e0d63d2212214870f121752174ae57f3dd3ef6b1728a910d5ff8d9df78829"
+    },
+    {
+      "id": "p264a",
+      "result": "checked_unchanged",
+      "finding": "Haftungskette, natürlicher persönlich Haftender und organschaftliche Vertreterzuordnung geprüft; Geschäftsführer nicht mit persönlich haftendem Gesellschafter verwechselt.",
+      "official_doknr": "BJNR002190897BJNE097500305",
+      "commentary_sha256": "6b1fc995577a8d94ffa703d890a10b950461ce619e55535c6986200e6b179e75"
+    },
+    {
+      "id": "p264b",
+      "result": "checked_unchanged",
+      "finding": "Beide Einbeziehungswege, größere Gesamtheit und selektive Verweisung geprüft; amtlichen OLG-Volltext vollständig erneut gelesen, Aussagen Rn. 22–33 mit Altfassungsgrenze bestätigt.",
+      "official_doknr": "BJNR002190897BJNE097605360",
+      "commentary_sha256": "e1bdaa5572f49fcc98517b2cb759a5a5f84985816095a76081c6235614f1f4c1"
+    },
+    {
+      "id": "p264c",
+      "result": "corrected",
+      "finding": "Alle fünf Absätze geprüft; vollständige Eigenkapitalgliederung und Kapitalanteilsgruppen sowie Bezug der Steuerkorrektur auf Komplementärsteuersatz ergänzt.",
+      "official_doknr": "BJNR002190897BJNE097703360",
+      "commentary_sha256": "b977f208462c1afa15152e2c188895775b249a50c1ec5b749c32ff92ac0ac3f6"
+    },
+    {
+      "id": "p264d",
+      "result": "checked_unchanged",
+      "finding": "Organisierter Markt, eigene Wertpapiere, Antrag und interne Rechtsfolgenverweise geprüft; Fremdwertpapierbesitz zutreffend ausgeschlossen.",
+      "official_doknr": "BJNR002190897BJNE100002123",
+      "commentary_sha256": "bcceddadc4faaf5b699988d5a3675d660d5a70958cedf7350646253389378ef2"
+    },
+    {
+      "id": "p265",
+      "result": "corrected",
+      "finding": "Alle acht Absätze geprüft; Zusammenfassungsbefugnis ausdrücklich auf arabisch nummerierte Posten begrenzt.",
+      "official_doknr": "BJNR002190897BJNE006002360",
+      "commentary_sha256": "1c085121c31525c3fcccebe3583eb19ad6bba4e9224b6589406ee39b582ea40a"
+    },
+    {
+      "id": "p266",
+      "result": "checked_unchanged",
+      "finding": "Gesamte Aktiv-/Passivhierarchie und drei größenabhängige Gliederungstiefen gelesen; interne Verweise auf §§ 247, 248, 250, 272, 274 und 264c geprüft; Beispiel und Prüfliste sachgerecht.",
+      "official_doknr": "BJNR002190897BJNE006104360",
+      "commentary_sha256": "eef14a30044323537af5097e150db33d39006377e2079168acdb0531827b5f18"
+    }
+  ],
+  "case_law_sources": [
+    "cases/OLG-Koeln-2023-28-Wx-21-22.md"
+  ],
+  "case_search_log": "sources/research/case-search-p264-p266.json",
+  "limitations": [
+    "Nur die genau bezeichneten 20 Einheiten materiell zweitgeprüft; keine Gesamtfreigabe oder externe anwaltliche Prüfung.",
+    "Selektive Rechtsprechungsgrundlage; vorhandenen amtlichen OLG-Volltext vollständig erneut gelesen. Keine umfassende neue Rechtsprechungssuche und keine erschöpfende Abdeckung.",
+    "Gesamtbuch bleibt außerhalb dieser Gruppe unvollständig; vollständiger Builder kann deshalb scheitern."
+  ]
+}

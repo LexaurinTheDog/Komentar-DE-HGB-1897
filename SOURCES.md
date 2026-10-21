@@ -45,3 +45,5 @@ Begrenzte Zweitprüfung §§ 166–232: [Abrufnachweis](sources/review-p166-p232
 Prüfgruppe §§ 233–251: [XML-Abruf](sources/review-p233-p251-fetch.json), [Fallkarte BFH](cases/BFH-2023-IV-R-22-20.md), [Suchprotokoll](sources/research/case-search-p233-p251.json), [Prüfbericht](review-p233-p251.json).
 
 Quellen der Charge §§ 264–266: [amtliches XML](sources/hgb-author-p264-p266.xml), [Fallkarte OLG Köln](cases/OLG-Koeln-2023-28-Wx-21-22.md), [Suchprotokoll](sources/research/case-search-p264-p266.json).
+
+Prüfgruppe §§ 252–266: [amtlicher erneuter XML-Abruf](sources/review-p252-p266-fetch.json), [XML](sources/hgb-review-p252-p266.xml), [Einzelprüfung](review-p252-p266.json), [Abdeckungsnachweis](review-p252-p266-coverage.json), [vorhandene selektive Fallrecherche](sources/research/case-search-p264-p266.json), [erneut geprüfter OLG-Volltext mit Fallkarte](cases/OLG-Koeln-2023-28-Wx-21-22.md).

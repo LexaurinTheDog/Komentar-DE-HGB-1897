@@ -461,6 +461,18 @@
       "accessed_at": "2026-10-21T03:29:46.618468+00:00",
       "sha256": "0488c2a0dce5d4d920447b11e7320e3c515d2ad87453d84c977efbbbefe31a1e",
       "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-21T03:34:06.934593+00:00",
+      "http_status": 200,
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "zip_sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "path": "sources/hgb-review-p252-p266.xml",
+      "bytes": 1120900,
+      "format_valid": true,
+      "expected_format": "official XML from valid ZIP",
+      "same_effective_source": true
     }
   ],
   "version_information": {

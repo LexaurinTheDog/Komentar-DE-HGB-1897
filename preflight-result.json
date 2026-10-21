@@ -191,5 +191,18 @@
     "historical_versions_checked": "Keine Verkettung; 696 eindeutige amtliche Einheiten unverändert und alle Texte erneut verglichen.",
     "annexes_checked": "Keine eigene Gesetzesanlage; 117 Strukturknoten und leere Kopfnorm nach vorhandenem preflight-coverage.json; keine fehlende operative Eingangsformel.",
     "unresolved_blockers": []
+  },
+  "bounded_review_p252_p266": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T03:34:06.934593+00:00",
+    "http_status": 200,
+    "source_evidence": "sources/hgb-review-p252-p266.xml",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "version_evidence": "Erneut identisch mit wirksamkeitsgeprüfter Quelle. commencement.md, change-map.json und Inkrafttretensnachweis BGBl. 2026 I Nr. 33 gelesen: wirksam 2026 getrennt von 2028/2030. Abrufdatum ist nicht die Begründung der Wirksamkeit.",
+    "historical_versions_checked": "814 eindeutige Normknoten, 696 amtliche Kennungen und sämtliche Texte erneut verglichen; Intake erhalten, keine historischen Versionen verkettet.",
+    "annexes_checked": "814 Knoten vollständig zugeordnet; keine eigenständige Anlage oder ausgelassene operative Eingangsformel. § 262 bleibt leere amtliche Einheit. Rechnungslegungsanhang ist keine Gesetzesanlage.",
+    "unresolved_blockers": []
   }
 }
