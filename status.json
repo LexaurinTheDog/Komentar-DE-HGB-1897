@@ -335,5 +335,33 @@
     "placeholder_scan": {
       "matches": []
     }
+  },
+  "bounded_review_p267_p288": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "p267",
+      "p267a",
+      "p268",
+      "p269",
+      "p270",
+      "p271",
+      "p272",
+      "p273",
+      "p274",
+      "p274a",
+      "p275",
+      "p276",
+      "p277",
+      "p278",
+      "p279-283",
+      "p284",
+      "p285",
+      "p286",
+      "p287",
+      "p288"
+    ],
+    "result": "review-p267-p288.json",
+    "whole_book_complete": false
   }
 }

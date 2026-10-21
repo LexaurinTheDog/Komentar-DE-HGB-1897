@@ -1,0 +1,182 @@
+{
+  "kind": "bounded_independent_second_pass",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p267",
+    "p267a",
+    "p268",
+    "p269",
+    "p270",
+    "p271",
+    "p272",
+    "p273",
+    "p274",
+    "p274a",
+    "p275",
+    "p276",
+    "p277",
+    "p278",
+    "p279-283",
+    "p284",
+    "p285",
+    "p286",
+    "p287",
+    "p288"
+  ],
+  "unresolved_blockers": [],
+  "reviewed_at": "2026-10-21T03:44:34.032812+00:00",
+  "source_evidence": "sources/hgb-review-p267-p288.xml",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "findings": [
+    {
+      "id": "p267",
+      "result": "corrected",
+      "finding": "Größenschwellen, Gleichheit, Zweijahresregel, Gründung/Formwechsel und Kapitalmarktklausel geprüft; Zwölfmonatsumsatz und vier genaue Beschäftigtenstichtage ergänzt.",
+      "official_doknr": "BJNR002190897BJNE006210360",
+      "commentary_sha256": "f73d6856ff7a8d87afcbeab53a54a10a5d2a6e9df54d98e99166de56ebedc603"
+    },
+    {
+      "id": "p267a",
+      "result": "checked_unchanged",
+      "finding": "Grenzen, Klein-Untergruppe, entsprechende Zeitregeln und alle drei Ausschlüsse geprüft; passiver Beteiligungszweck von aktivem Betrieb unterschieden.",
+      "official_doknr": "BJNR002190897BJNE100402360",
+      "commentary_sha256": "ccadf3bc81abfc9ba92db1baff3026f305c3357f6261b6efccafbe19a3fd2f55"
+    },
+    {
+      "id": "p268",
+      "result": "corrected",
+      "finding": "Alle Absätze einschließlich weggefallenem Absatz 2 geprüft; separate Haftungsverhältnisse samt Sicherheiten präzisiert; Fehlbetrag, Fristen und drei Ausschüttungssperren zutreffend.",
+      "official_doknr": "BJNR002190897BJNE006302360",
+      "commentary_sha256": "ae1372ee99b1eaa9776e5cdefd6307aa045cc67c535cc886e514f1d3d7d8c0b9"
+    },
+    {
+      "id": "p269",
+      "result": "checked_unchanged",
+      "finding": "Amtlich leeres Textfeld und Wegfalltitel geprüft; kein historisches Aktivierungswahlrecht als geltend dargestellt.",
+      "official_doknr": "BJNR002190897BJNE006403140",
+      "commentary_sha256": "0390a86bbf2a03a5b5792c2baa8cd945e349ead4aeb83adbf102f3e46527a738"
+    },
+    {
+      "id": "p270",
+      "result": "checked_unchanged",
+      "finding": "Beide Absätze: Kapitalrücklage bei Aufstellung, Gewinnrücklagen bei Ergebnisverwendungsbilanz; Kompetenz und Ausweis richtig getrennt.",
+      "official_doknr": "BJNR002190897BJNE006501140",
+      "commentary_sha256": "c4248b0585a2fec0debe79dcc2a13699d4d28fc8f5a5cab938dfcb1f9d67f952"
+    },
+    {
+      "id": "p271",
+      "result": "checked_unchanged",
+      "finding": "Beteiligungszweck, Vermutung erst über 20 Prozent, Verbriefung, Genossenschaftsausschluss und Mutter-/Tochter-/Schwesterbeziehung geprüft.",
+      "official_doknr": "BJNR002190897BJNE006604360",
+      "commentary_sha256": "f956315dffea582a28a8e03dcaeb3ab799f481f343cdea1642a90f0470d76d87"
+    },
+    {
+      "id": "p272",
+      "result": "corrected",
+      "finding": "Absätze 1 bis 5 einschließlich 1a/1b geprüft; eingefordertes Kapital, Bildung/Auflösung der Spiegelrücklage und Auflösung der Beteiligungsertragsrücklage ergänzt. Zahlenbeispiel nachgerechnet.",
+      "official_doknr": "BJNR002190897BJNE006705123",
+      "commentary_sha256": "d06be792287824df520b78786e174c871c10e3ae76fcad6cd465834551b1cae5"
+    },
+    {
+      "id": "p273",
+      "result": "checked_unchanged",
+      "finding": "Leeres amtliches Textfeld und Wegfalltitel erhalten; heutige Nachbarregeln nicht historisiert.",
+      "official_doknr": "BJNR002190897BJNE006801140",
+      "commentary_sha256": "3aedcae6ea15f5791daefa686fcf230b2c157fea7ec12bf4cf10c0bc06ec2fbd"
+    },
+    {
+      "id": "p274",
+      "result": "checked_unchanged",
+      "finding": "Temporäre Differenzen, Aktivierungswahlrecht/Passivpflicht, unsaldierte Option, Verlustvorträge, fünf Jahre, Steuersatz, Abzinsungsverbot, Auflösung und Mindeststeuerausnahme geprüft.",
+      "official_doknr": "BJNR002190897BJNE006902360",
+      "commentary_sha256": "7c23709ba209e86b68dfdf14b74778c631471aa07fc522320e9b71f38178591b"
+    },
+    {
+      "id": "p274a",
+      "result": "checked_unchanged",
+      "finding": "Vier konkrete Befreiungen geprüft; Restlaufzeiten bleiben, tatsächliche Steuerschuld entfällt nicht.",
+      "official_doknr": "BJNR002190897BJNE086603360",
+      "commentary_sha256": "acd9ba0b63772937fa0b70188ff80bb76ac9818da82f854371bd84e671db7e0a"
+    },
+    {
+      "id": "p275",
+      "result": "checked_unchanged",
+      "finding": "Beide vollständigen Staffeln mit Davon-Vermerken, Steuerstufen, Rücklagenfolge und Acht-Posten-Kleinststaffel geprüft; Produktionsbeispiel tragfähig.",
+      "official_doknr": "BJNR002190897BJNE007003360",
+      "commentary_sha256": "5070f905c7f181dd7b64eaf09ad69686453de0287da12136d5d83203ad167505"
+    },
+    {
+      "id": "p276",
+      "result": "corrected",
+      "finding": "Umfang beider Rohergebnisformeln und Ausschluss bei Kleinststaffel geprüft; beim Umsatzkostenverfahren Doppeladdition des Zwischensaldos ausdrücklich ausgeschlossen. Beispiel 470.000 Euro nachgerechnet.",
+      "official_doknr": "BJNR002190897BJNE007103360",
+      "commentary_sha256": "5b0aa7d7778dd2cbd3250d2a989bee17b383762c21a7bd9c886a4d39962ace33"
+    },
+    {
+      "id": "p277",
+      "result": "checked_unchanged",
+      "finding": "Alle fünf Absätze geprüft; Absatz 4 weggefallen, außergewöhnliche Aufwendungen heute über Anhang; Umsatzabzüge, Abschreibungen, Vertragsgewinne und getrennte Zins- sowie Währungsposten richtig.",
+      "official_doknr": "BJNR002190897BJNE007202360",
+      "commentary_sha256": "d8de041b87e09d8067053a07cbd3820b1e34a6ffd469fa2c19d4cdd8f22755e8"
+    },
+    {
+      "id": "p278",
+      "result": "checked_unchanged",
+      "finding": "Amtliche Leerstelle erhalten; keine zusätzliche GuV-Pflicht erfunden.",
+      "official_doknr": "BJNR002190897BJNE007302360",
+      "commentary_sha256": "b7b942f575a34116050eb2d3a9f37f0addbbb4edc49caadd328f0a059cf03c29"
+    },
+    {
+      "id": "p279-283",
+      "result": "checked_unchanged",
+      "finding": "Amtliche Sammelleerstelle §§ 279 bis 283 erhalten; keine fünf erfundenen Textnormen oder historische Bewertungsvorschriften eingefügt.",
+      "official_doknr": "BJNR002190897BJNE007401140",
+      "commentary_sha256": "a3abd2121dae2bc8b743f94983f0c2a4341608d6c8a2a1015544a46e9804fda7"
+    },
+    {
+      "id": "p284",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze und Unterpunkte geprüft; Anlagenspiegel und Zinsaktivierung richtig. Amtlichen BGH-Volltext vollständig erneut gelesen, Rn. 8–13 tragen die begrenzte systematische Aussage.",
+      "official_doknr": "BJNR002190897BJNE007902360",
+      "commentary_sha256": "153c1bdde933b893c93552665d844e5e31b8c8cc389c11774e9cce8ac934aa73"
+    },
+    {
+      "id": "p285",
+      "result": "corrected",
+      "finding": "Sämtliche Nummern 1–34 einschließlich Buchstaben und Leerstellen 5/6 gegen Quelle geprüft. Angaben zu Organfinanzierung, Beteiligungen, Prüferhonorar, Finanzinstrumenten, Verrechnung, Investmentanteilen und latenten Steuern konkretisiert; missverständliche Konzernhonorarausnahme korrigiert.",
+      "official_doknr": "BJNR002190897BJNE008016360",
+      "commentary_sha256": "22a82efedba72ec89d06f9ddc1ab695c34e71c10408397795e9aa630a950f5a6"
+    },
+    {
+      "id": "p286",
+      "result": "corrected",
+      "finding": "Alle fünf Absätze geprüft; Nachteil auch des anderen Unternehmens ergänzt; Kapitalmarktausnahme über Tochter, Hinweis und individuelle Vergütungsschwelle zutreffend.",
+      "official_doknr": "BJNR002190897BJNE008109360",
+      "commentary_sha256": "1bee7241599f3b34c72c203369deb20e1ceac53ff175fe1a8b586242c438cf3d"
+    },
+    {
+      "id": "p287",
+      "result": "checked_unchanged",
+      "finding": "Amtliche Leerstelle und fehlender heutiger Befreiungstatbestand geprüft; keine historische Wirkung behauptet.",
+      "official_doknr": "BJNR002190897BJNE008204140",
+      "commentary_sha256": "eebc97178c067252efa8f35a637aa656aab0cce1da1bb7ff2adc6d7d4441d05b"
+    },
+    {
+      "id": "p288",
+      "result": "checked_unchanged",
+      "finding": "Vollständigen Befreiungskatalog beider Absätze einschließlich verbleibender Nummern und Buchstaben gelesen; Kreditangaben bleiben. WPK-Anforderung und eingeschränkter Nahestehendenkreis zutreffend.",
+      "official_doknr": "BJNR002190897BJNE008305360",
+      "commentary_sha256": "7f863ff8cdbed421f00a7e12319d29da2a5042a71161f3142633652686b8cd8b"
+    }
+  ],
+  "case_law_sources": [
+    "cases/BGH-2010-Xa-ZR-175-07.md"
+  ],
+  "case_search_log": "sources/research/case-search-p267-p288.json",
+  "limitations": [
+    "Genau diese 20 Einheiten materiell zweitgeprüft; keine Gesamtfreigabe und keine externe anwaltliche Prüfung.",
+    "Vorhandenen amtlichen BGH-Volltext vollständig erneut gelesen; selektive Rechtsprechung, keine neue erschöpfende Suche.",
+    "Gesamtbuch bleibt ab p289 unvollständig; Gesamtbuild und Gesamtvalidierung können deshalb nicht bestehen."
+  ]
+}

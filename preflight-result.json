@@ -214,5 +214,18 @@
     "historical_versions_checked": "Keine historischen Doppelkennungen oder Verkettung; Originalintake und amtliche Fassungen bleiben erhalten. 696 eindeutige amtliche Normen und vollständiger Wortlaut erneut abgeglichen.",
     "annexes_checked": "Vorhandene vollständige XML-Knotendisposition sources/preflight-coverage.json geprüft: 117 Strukturknoten, eine nichtoperative Kopfnorm, keine eigene operative Gesetzesanlage oder fehlende Eingangsformel; Anhang §§ 284 ff. ist ein Rechnungslegungsbestandteil.",
     "unresolved_blockers": []
+  },
+  "bounded_review_p267_p288": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T03:44:34.032812+00:00",
+    "http_status": 200,
+    "source_evidence": "sources/hgb-review-p267-p288.xml",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "version_evidence": "Wiederabruf identisch mit wirksamkeitsgeprüfter Fassung; commencement.md, change-map.json und BGBl. 2026 I Nr. 33 Artikel 64 gelesen. Wirksamkeit 2026 von künftigen Änderungen 2028/2030 getrennt; Abrufdatum allein ist kein Wirksamkeitsbeweis.",
+    "historical_versions_checked": "814 eindeutige Knoten, 696 amtliche Kennungen und alle Texte mit Parser verglichen; keine historischen Fassungen verkettet. Originalintake erhalten.",
+    "annexes_checked": "Alle 814 Knoten zugeordnet: 696 Normen, 117 Gliederungen, Kopfnorm ohne operativen Inhalt. Keine eigene Gesetzesanlage oder fehlende operative Eingangsformel. Alle leeren Stellen dieser Charge ausdrücklich gelesen.",
+    "unresolved_blockers": []
   }
 }

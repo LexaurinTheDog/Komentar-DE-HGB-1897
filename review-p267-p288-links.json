@@ -1,0 +1,16 @@
+{
+  "complete": true,
+  "checked": [
+    {
+      "file": "16-hgb-16.md",
+      "target": "cases/OLG-Koeln-2023-28-Wx-21-22.md",
+      "exists": true
+    },
+    {
+      "file": "16-hgb-16.md",
+      "target": "cases/BGH-2010-Xa-ZR-175-07.md",
+      "exists": true
+    }
+  ],
+  "limits": "Local links in the two rebuilt chapter files."
+}
