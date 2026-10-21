@@ -178,5 +178,29 @@
     "Nur die 20 beauftragten Einheiten; keine Gesamtfreigabe und keine externe anwaltliche Prüfung.",
     "Selektive Rechtsprechung zu § 89b; keine erschöpfende Prüfung aller Fallgruppen. Keine zusätzliche Entscheidung für die technischen Maklernormen aufgenommen.",
     "Gesamtbuch bleibt außerhalb des Auftrags unvollständig; 463 noch fehlende Kommentare."
-  ]
+  ],
+  "technical_validation": {
+    "assigned_units": 20,
+    "assigned_complete": true,
+    "official_xml_coverage": 696,
+    "statutory_verbatim_ratio": 1.0,
+    "local_links_checked": 56,
+    "local_links_ok": true,
+    "repeated_exact_prose_paragraphs": 0,
+    "full_build_ok": false,
+    "full_build_blocker": "463 fehlende Kommentare außerhalb der zugewiesenen Gruppe",
+    "partial_checkpoint_exported": true,
+    "strict_validator": {
+      "repo": "Komentar-DE-HGB-1897",
+      "units": 696,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 299737,
+      "errors": [
+        "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "strict_validator_exit_code": 1
+  }
 }
