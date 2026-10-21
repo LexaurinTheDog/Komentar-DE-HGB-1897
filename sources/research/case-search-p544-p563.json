@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-10-21T07:08:31.067703+00:00",
+  "queries": [
+    "site.rechtsprechung-im-internet.de Zeitcharter § 561 HGB",
+    "site.bundesgerichtshof.de \"§ 550\" \"Fahrgast\""
+  ],
+  "local_search": "rg of local DE rii markdown; 15 candidate documents, list in local-search-p544-p563.txt",
+  "candidate_inspected": "BFH STRE201610104 full text saved; tax definition of equipped ships, not used as authority for private-law duties. Other hits predominantly investment prospectus disputes.",
+  "used_cases": [],
+  "limits": "Selective search; no directly relevant verified holding relied upon. No exhaustive coverage claimed."
+}

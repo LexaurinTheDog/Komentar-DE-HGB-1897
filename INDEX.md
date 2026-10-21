@@ -65,3 +65,6 @@ Autorencharge §§ 484–503: genau 20 weitere Vorschriften ausgearbeitet. [Teil
 - [§§ 524–530](36-hgb-teil-p524-p530.md)
 - [§§ 531–543](37-hgb-teil-p531-p543.md)
 - [Quellen und Prüfstand](README-p524-p543.md)
+
+- [§§ 544–552](37-hgb-teil-p544-p563.md) — Personenbeförderung, Abschluss
+- [§§ 553–563](38-hgb-teil-p544-p563.md) — Schiffsmiete und Zeitcharter, erster Teil

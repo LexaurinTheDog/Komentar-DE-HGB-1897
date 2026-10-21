@@ -1,0 +1,19 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+  "verified_at": "2026-10-21T07:03:01.592810+00:00",
+  "version_evidence": {
+    "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "accessed_at": "2026-10-21T07:03:01.592810+00:00",
+    "http_status": 200,
+    "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "format": "Validated ZIP and HGB XML",
+    "same_as_title_start": true,
+    "version_evidence": "commencement.md; change-map.json; bgbl-2026-33.txt, Artikel 3, 4 und 64"
+  },
+  "historical_versions_checked": "696 eindeutige Normbezeichnungen; amtliches XML identisch mit gesicherter Anfangsfassung. Keine historischen Texte verkettet.",
+  "annexes_checked": "814 Normknoten: 696 Normen, 117 Strukturknoten, eine Kopfnorm. Keine operative Anlage oder ausgelassene Eingangsformel; siehe completeness-report.json.",
+  "unresolved_blockers": []
+}
