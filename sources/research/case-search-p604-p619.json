@@ -1,5 +1,5 @@
 {
-  "verified_at": "2026-10-21T07:39:07.861191+00:00",
+  "verified_at": "2026-10-21T07:40:10.457170+00:00",
   "queries": [
     "site.rechtsprechung-im-internet.de \"§ 608\" \"HGB\"",
     "site.rechtsprechung-im-internet.de \"§ 615\" \"HGB\" Haftung",
@@ -14,7 +14,8 @@
     "path": "/Volumes/LaCie/law-intake/eu/de/rii",
     "command": "rg -l -e \"§ 605\" -e \"§ 607\" -e \"§ 608\" -e \"§ 615\" -e \"§ 617\" -e \"Haftungsbeschränkungsübereinkommen\" --glob \"*.md\"",
     "result_path": "local-search-p604-p619.txt",
-    "matching_files": 0
+    "matching_files": 367,
+    "screening": "Breite Suche liefert auch BGB-Nummern und historische HGB-Fassungen; 34 engere Kontexttreffer gesichtet, keine zusätzliche aktuelle Autorität übernommen."
   },
   "verified_full_text": "../olg-bremen-2-u-11-22.pdf; 19 pages read in full",
   "rejected_or_not_used": [

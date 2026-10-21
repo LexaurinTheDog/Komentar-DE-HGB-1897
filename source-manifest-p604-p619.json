@@ -84,11 +84,15 @@
     },
     {
       "path": "sources/research/case-search-p604-p619.json",
-      "sha256": "7c38088d4d425a6efea8daf4efa6f70394991d5ae94fa07abec464654eb2783b"
+      "sha256": "7b7194c400b003c62dd27458926017cdd25752a8be87c24d658f196114d0acfe"
     },
     {
       "path": "sources/research/local-search-p604-p619.txt",
       "sha256": "b27fe0235d66ea5417129333c1981807035c6d8f734a1b9ccd9ac29599097876"
+    },
+    {
+      "path": "sources/research/local-specific-p604-p619.json",
+      "sha256": "a25f3aa8f0d6435dae6bfdad6302806ec7b88b9ca18920bb927c989e51cab3ef"
     },
     {
       "path": "sources/research/preflight-2026-10-21-search.json",
