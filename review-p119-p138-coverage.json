@@ -1,0 +1,41 @@
+{
+  "complete": true,
+  "source_path": "sources/hgb-review-p119-p138.xml",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "official_nodes": 814,
+  "expected_units": 696,
+  "parsed_units": 696,
+  "missing": [],
+  "extra": [],
+  "duplicates": [],
+  "all_statutory_texts_match": true,
+  "reviewed_ids": [
+    "p119",
+    "p120",
+    "p121",
+    "p122",
+    "p123",
+    "p124",
+    "p125",
+    "p126",
+    "p127",
+    "p128",
+    "p129",
+    "p130",
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p135",
+    "p136",
+    "p137",
+    "p138"
+  ],
+  "reviewed_commentary_count": 20,
+  "duplicate_long_paragraphs": 0,
+  "limitations": "Technische Vollständigkeit und Mindestlänge beweisen nicht die juristische Qualität.",
+  "new_evidence_and_chapter_links": {
+    "checked": 7,
+    "missing": []
+  }
+}

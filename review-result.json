@@ -3,202 +3,178 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p100",
-    "p101",
-    "p102",
-    "p103",
-    "p104",
-    "p104a",
-    "p105",
-    "p106",
-    "p107",
-    "p108",
-    "p109",
-    "p110",
-    "p111",
-    "p112",
-    "p113",
-    "p114",
-    "p115",
-    "p116",
-    "p117",
-    "p118"
+    "p119",
+    "p120",
+    "p121",
+    "p122",
+    "p123",
+    "p124",
+    "p125",
+    "p126",
+    "p127",
+    "p128",
+    "p129",
+    "p130",
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p135",
+    "p136",
+    "p137",
+    "p138"
   ],
   "unresolved_blockers": [],
-  "reviewed_at": "2026-10-21T03:11:28.869833+00:00",
-  "source_evidence": "sources/hgb-review-p100-p118.xml",
+  "reviewed_at": "2026-10-21T03:14:50.682397+00:00",
+  "source_evidence": "sources/hgb-review-p119-p138.xml",
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
   "findings": [
     {
-      "id": "p100",
+      "id": "p119",
       "result": "corrected",
-      "finding": "Täglichkeit, Zeitfolge, Inhalt nach § 94 sowie §§ 239/257 geprüft; Signaturstandard präzisiert.",
-      "official_doknr": "BJNR002190897BJNE012502377",
-      "commentary_sha256": "c2574ae9a1bef0f94ef2f60734c5999b843fd151eda02c5e1d1f3d135bbf22fa"
+      "finding": "Beide Absätze gelesen: Aufwendungs-/Verlustzins mit § 716 BGB und Fünfprozentzinssatz aus § 352 Abs. 2 präzisiert; drei Vorenthaltungstatbestände, Beginn und Mehrschaden zutreffend.",
+      "official_doknr": "BJNR002190897BJNE014801360",
+      "commentary_sha256": "d2605bc57e242af3c40615dc638d26908f2fe6e8cc498f8e5621f8f6d7eaabfe"
     },
     {
-      "id": "p101",
-      "result": "checked_unchanged",
-      "finding": "Jederzeitiger geschäftsbezogener vollständiger und unterzeichneter Auszug geprüft; keine Gesamteinsicht zugesagt.",
-      "official_doknr": "BJNR002190897BJNE012600300",
-      "commentary_sha256": "bb30b4f13d998bbdb1eac911b5a49f4f438220819290afd0ab1c07662729c41d"
-    },
-    {
-      "id": "p102",
-      "result": "checked_unchanged",
-      "finding": "Gerichtliche Vorlage im laufenden Rechtsstreit auch ohne Antrag und Vergleichszweck geprüft; keine Beweisverbindlichkeit unterstellt.",
-      "official_doknr": "BJNR002190897BJNE012700300",
-      "commentary_sha256": "f14a4126b9a62543dfb802d027ce8d775df0f75ecf6b168a0abc0c85a6e4ca14"
-    },
-    {
-      "id": "p103",
+      "id": "p120",
       "result": "corrected",
-      "finding": "Fahrlässigkeit auf Nummer 1 begrenzt; Nummer 2 mit amtlichem § 10 OWiG abgeglichen und korrigiert; Bußgeldhöchstbetrag richtig.",
-      "official_doknr": "BJNR002190897BJNE012801311",
-      "commentary_sha256": "f29e28440598e84209a4adc454a1b06433b069766371ee7c1e014b879f82d3bb"
+      "finding": "Beide Absätze gelesen: Rangfolge des § 709 Abs. 3 BGB ergänzt; Aufstellung, Anteilsermittlung, Kapitalfortschreibung, Feststellung und Auszahlung getrennt.",
+      "official_doknr": "BJNR002190897BJNE014901360",
+      "commentary_sha256": "688c45da3b14e60b30f6d54e29b0a2d6e9a365025d202c4ce7f36d4a19447fcd"
     },
     {
-      "id": "p104",
+      "id": "p121",
       "result": "checked_unchanged",
-      "finding": "Unterschied der Ausnahmen Kleinverkehr und Versicherungs-/Bausparvermittlung sowie nicht befreite Pflichten geprüft.",
-      "official_doknr": "BJNR002190897BJNE012901309",
-      "commentary_sha256": "723329ae4fb98f274a1ba3a783f87052350383994b1e713c7bb7b3a0c98fa057"
+      "finding": "Beschlusszuständigkeit und Verweise auf §§ 108/109 und 110 ff. geprüft; Aufstellung ersetzt Feststellung nicht.",
+      "official_doknr": "BJNR002190897BJNE015001360",
+      "commentary_sha256": "88b1d608fe2a5734f05e33e3baed1ea05925c51998069f08d91e5db4c4f2ece2"
     },
     {
-      "id": "p104a",
+      "id": "p122",
       "result": "checked_unchanged",
-      "finding": "Verweis auf § 8b Abs. 3 Satz 1 Nr. 2, Vorsatz/Leichtfertigkeit, 200.000 Euro und BaFin geprüft.",
-      "official_doknr": "BJNR002190897BJNE099200377",
-      "commentary_sha256": "8ce5add272fb78fbd7fa5749baaf761439c25265d1c94cf8811f245fd02784ae"
+      "finding": "Festgestellter Jahresabschluss und beide Durchsetzungshindernisse geprüft; erkennbarer Gesellschaftsschaden nicht mit freier Thesaurierung gleichgesetzt.",
+      "official_doknr": "BJNR002190897BJNE015101360",
+      "commentary_sha256": "ffb0880fbc5b0607839f66478a2e32c5311003a5c61a2d9421bf05cb8f04dfbb"
     },
     {
-      "id": "p105",
+      "id": "p123",
       "result": "checked_unchanged",
-      "finding": "Rechtsfähigkeit, unbeschränkte Außenhaftung und ergänzende BGB-Anwendung geprüft; § 107 und § 123 richtig eingeordnet.",
-      "official_doknr": "BJNR002190897BJNE013304360",
-      "commentary_sha256": "67856002b8df47805ad2ed1e252556fb0a400ef9639fd91a6e461cefb90694a6"
+      "finding": "Beide Absätze gelesen; Zustimmung sämtlicher Gesellschafter, Außenaufnahme, konstitutiver §-107-Vorbehalt und Unwirksamkeit späterer interner Entstehungsabrede richtig.",
+      "official_doknr": "BJNR002190897BJNE015302360",
+      "commentary_sha256": "cde218a5724a8052c8a1988a3e927de1d27b05b822286f29ef7920e496714088"
     },
     {
-      "id": "p106",
+      "id": "p124",
       "result": "corrected",
-      "finding": "Alle sieben Absätze geprüft; Anmeldedaten und Versicherung ergänzt, Statuswechselkette, Folgeänderungen und Anmeldepersonen getrennt.",
-      "official_doknr": "BJNR002190897BJNE013408360",
-      "commentary_sha256": "9ae4aebb22d5073adb79418df1c64744466dee3106b918eb04fa8b6194f893d0"
+      "finding": "Alle sechs Absätze gelesen; Einzel-, Gesamt- und gemischte Vertretung getrennt; Niederlassungsgrenze, gerichtlicher Entzug und passive Einzelvertretung vertieft.",
+      "official_doknr": "BJNR002190897BJNE015401360",
+      "commentary_sha256": "1722513d079e138aaf32cedf13cdb0f664acdac0ed4bc2814a6976cd674bc54c"
     },
     {
-      "id": "p107",
+      "id": "p125",
       "result": "checked_unchanged",
-      "finding": "Alle drei Absätze geprüft; Berufsrechtsvorbehalt, konstitutiver Registerzugang und Rückwechsel nur ohne Handelsgewerbe erläutert.",
-      "official_doknr": "BJNR002190897BJNE013511360",
-      "commentary_sha256": "ee6fed8ee29357074ed71b45c7af8f0cf9b997dab011c33d5780cb104d2180cc"
+      "finding": "Beide Absätze gelesen; Registerangaben, kapitalgesellschaftliche Beteiligungskette, Rückausnahme und §-37a-Verweise richtig; digitale Geschäftsbriefe eingeschlossen.",
+      "official_doknr": "BJNR002190897BJNE015502360",
+      "commentary_sha256": "e004f055a34e57508aba511c0931575959ec20e676dbd0227cc6caee193cd355"
     },
     {
-      "id": "p108",
+      "id": "p126",
       "result": "checked_unchanged",
-      "finding": "Öffnung auf Innenrechtstitel beschränkt, besondere zwingende Grenze des § 112 und Außenwirkung getrennt geprüft.",
-      "official_doknr": "BJNR002190897BJNE013604360",
-      "commentary_sha256": "834943a841df1a2e9232cf0c8fb8117c918e2f88592eb7cce24f5807a08bd00e"
+      "finding": "Unmittelbare unbeschränkte persönliche Gesamtschuld und unwirksame interne Haftungsausnahme geprüft; Ausgleich und Vollstreckungstitel getrennt.",
+      "official_doknr": "BJNR002190897BJNE015601360",
+      "commentary_sha256": "f53967cd2f713e9c29aa2b31a27ba2877a9640c65ddb677af3685c12173e408e"
     },
     {
-      "id": "p109",
+      "id": "p127",
       "result": "checked_unchanged",
-      "finding": "Alle vier Absätze geprüft; Versammlung, Einberufung, Einstimmigkeit und Beschlussfähigkeit trotz fehlender Stimmberechtigung getrennt.",
-      "official_doknr": "BJNR002190897BJNE013801360",
-      "commentary_sha256": "d11f758dcc93818deb251fb48bd42e414cfd53d007f62f2decc1badd9a26fc6b"
+      "finding": "Altverbindlichkeiten beim Eintritt, Begründung statt bloßer Fälligkeit, §§ 126/128 und interne Freistellung geprüft.",
+      "official_doknr": "BJNR002190897BJNE015701360",
+      "commentary_sha256": "d079a0c77a82f8c8082953cf5851dc77368fec06aa78d0b8e40393a74dd2003e"
     },
     {
-      "id": "p110",
+      "id": "p128",
       "result": "checked_unchanged",
-      "finding": "Beide Absätze und beide Nichtigkeitsalternativen geprüft; Inhaltsverstoß gegen unabdingbares Recht nicht mit jedem Verfahrensfehler gleichgesetzt.",
-      "official_doknr": "BJNR002190897BJNE013901360",
-      "commentary_sha256": "e2d4a40dea8a7dc7acfe6db8623aa2a15d513da41234275d443eba2e6c2eaa8f"
+      "finding": "Beide Absätze gelesen; Gesellschaftseinwendungen und noch nicht ausgeübte Gestaltungsrechte getrennt; keine fremde private Gegenforderung als Gesellschaftsrecht behandelt.",
+      "official_doknr": "BJNR002190897BJNE015801360",
+      "commentary_sha256": "7e1656d28b968ecbb918d6c2c0f2859ba1d627ec92136277faf7065cab0fd2f5"
     },
     {
-      "id": "p111",
+      "id": "p129",
       "result": "checked_unchanged",
-      "finding": "Mitgliedschaftskette zum Beschlusszeitpunkt und berechtigtes Interesse des ausgeschiedenen Rechtsvorgängers geprüft.",
-      "official_doknr": "BJNR002190897BJNE014001360",
-      "commentary_sha256": "3d2c2cb4344bd2af1e08aaaecafda0adad55eb3f18b12197209e0254e69b4ac1"
+      "finding": "Beide Absätze gelesen; Titel gegen Gesellschaft und gegen Gesellschafter strikt getrennt, ohne persönliche Haftung auszuschließen.",
+      "official_doknr": "BJNR002190897BJNE015901360",
+      "commentary_sha256": "114d66e184096914702994f2e5c09c16450282ffc6e9ac97f7233df97a746d1e"
     },
     {
-      "id": "p112",
+      "id": "p130",
       "result": "checked_unchanged",
-      "finding": "Drei Monate, vertragliche Monatsuntergrenze, Bekanntgabe und Hemmung einschließlich Monatsnachlauf geprüft.",
-      "official_doknr": "BJNR002190897BJNE014101360",
-      "commentary_sha256": "d2a686b21b006c4e0e6e9d240b671e814653a0464fdc646c56b46dfc1ce18979"
+      "finding": "Alle drei Absätze und fünf Ausscheidensgründe geprüft; vertragliche Auflösung, zusätzliche Gründe, Fristablauf und Rechtskraft richtig getrennt.",
+      "official_doknr": "BJNR002190897BJNE016001360",
+      "commentary_sha256": "7dd623c7e4d366a9144fdc5894c8a7e5ae79895bd3bf4534f69b09bd5d67514f"
     },
     {
-      "id": "p113",
-      "result": "checked_unchanged",
-      "finding": "Alle sechs Absätze geprüft; Landgericht, Gesellschaft als Beklagte, Ersatzvertretung, Information, Verbindung, Streitwert und Erstreckung richtig.",
-      "official_doknr": "BJNR002190897BJNE014202360",
-      "commentary_sha256": "ad95ac3a5b5900b1b7e18e887d8eb55a305a3cd4ba8cd148db3ed18049aec345"
-    },
-    {
-      "id": "p114",
-      "result": "checked_unchanged",
-      "finding": "Verweis auf §§ 111/113 ohne § 112 und zwingende Prozessverbindung geprüft; keine allgemeine Fristfreiheit für bloß umbenannte Anfechtung behauptet.",
-      "official_doknr": "BJNR002190897BJNE014301360",
-      "commentary_sha256": "0b99f3c710bb1ebcf1d7d5e605fd2221b356b63d5779e5d682c87d072e568dfa"
-    },
-    {
-      "id": "p115",
-      "result": "checked_unchanged",
-      "finding": "Verbindung mit positiver Beschlussfeststellung und entsprechende Anfechtungsregeln geprüft; kein richterlicher Zweckmäßigkeitsersatz zugesagt.",
-      "official_doknr": "BJNR002190897BJNE014401360",
-      "commentary_sha256": "dd11d926261bfb044520e611805983b83d75aa3303c39d2a3dd351c0ce80ef89"
-    },
-    {
-      "id": "p116",
+      "id": "p131",
       "result": "corrected",
-      "finding": "Alle sechs Absätze geprüft; Einzel-/Gesamtgeschäftsführung, Widerspruch und Prokura unterschieden; Entziehungsgründe und Kündigungsverweis vertieft.",
-      "official_doknr": "BJNR002190897BJNE014501360",
-      "commentary_sha256": "3152883c144a40790733549a38378acdddea84568f79652eaf8024c2849342f6"
+      "finding": "Alle fünf Absätze gelesen; Nachfolgevoraussetzung, Antrag/Ablehnung/Kündigung, Dreimonatsfrist, §-210-Ablaufhemmung, Nachlasshaftung und zwingender Schutz geprüft; Ablaufhemmung erläutert.",
+      "official_doknr": "BJNR002190897BJNE016406360",
+      "commentary_sha256": "0d4939630f43be70de8e718724e2382fbd4014fb9c9b667ff6dbaf7da67288a1"
     },
     {
-      "id": "p117",
-      "result": "checked_unchanged",
-      "finding": "Beide Verbotsalternativen und Einwilligungsfiktion nur bei bekannter Altbeteiligung geprüft.",
-      "official_doknr": "BJNR002190897BJNE014601360",
-      "commentary_sha256": "6d8f6245dc3f6136cef06b3de1c9b4eb46e92b542208a9db6d9bd2321409997a"
+      "id": "p132",
+      "result": "corrected",
+      "finding": "Alle sechs Absätze gelesen; unbestimmte/bestimmte Dauer, wichtiger Grund und Unzeit unterschieden; beide Ausnahmen beim Volljährigkeitsrecht ausdrücklich ergänzt.",
+      "official_doknr": "BJNR002190897BJNE016501360",
+      "commentary_sha256": "90fe31ff7a745c447514dee44fe1a5cdf3b320b199da0ca42570c6ed9e0479e2"
     },
     {
-      "id": "p118",
+      "id": "p133",
       "result": "checked_unchanged",
-      "finding": "Alle vier Absätze geprüft; Anspruchsinhaber, Geschäftsrechnungsübernahme/Vergütung, Beschluss der anderen, beide Fristen und gesonderte Ausschlussvoraussetzungen richtig.",
-      "official_doknr": "BJNR002190897BJNE014702360",
-      "commentary_sha256": "bbfc6ed37244ab0e1b335c8faf94b4ef0a6a6f3053fd52ea96f72f58129a6a20"
+      "finding": "Kumulative Voraussetzungen, bewegliches Vermögen, Sechsmonatsrückblick, nicht bloß vorläufiger Titel, Anteilspfändung und gesonderte Kündigungsfrist geprüft.",
+      "official_doknr": "BJNR002190897BJNE016601360",
+      "commentary_sha256": "81a7a21122717c3d7ace236b49fcde2b55db2a6e62e5812be7f9d4a1d427495d"
+    },
+    {
+      "id": "p134",
+      "result": "checked_unchanged",
+      "finding": "Wichtiger Grund, Antrag der anderen, Vertragsvorbehalt und Einpersonenrest geprüft; Rechtskraft und Bewertungsstichtag nach §§ 130/135 getrennt.",
+      "official_doknr": "BJNR002190897BJNE016701360",
+      "commentary_sha256": "09e6fe017c66b86756e5c6d908a9e34c5555d6a39846b4bc11e46ec3e5065b01"
+    },
+    {
+      "id": "p135",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze gelesen; vertraglicher Vorbehalt, Haftungsbefreiung/Sicherheit, Klageerhebung als Bewertungsstichtag und Schätzung richtig.",
+      "official_doknr": "BJNR002190897BJNE016801360",
+      "commentary_sha256": "d624aa2c4e29dfd93871edff27ff43fe2a065c23a656de92c120bacc5495a300"
+    },
+    {
+      "id": "p136",
+      "result": "checked_unchanged",
+      "finding": "Fehlbetragsausgleich gegenüber Gesellschaft nach Gewinn-/Verlustquote geprüft; nicht mit unmittelbarer Gläubigerhaftung oder bloßer Illiquidität gleichgesetzt.",
+      "official_doknr": "BJNR002190897BJNE016902360",
+      "commentary_sha256": "2ad6f88762d6a9bb24cdf1db9f39aa543a205e4620091ff1d6fc0020b11ea28c"
+    },
+    {
+      "id": "p137",
+      "result": "corrected",
+      "finding": "Alle drei Absätze gelesen; Sicherungsalternativen einschließlich Verwaltungsakt ergänzt; Fristbeginn, Pflichtverletzung vor Ausscheiden, schriftliches Anerkenntnis, Registerstichtag beim Statuswechsel und fortbestehende Kommanditistenhaftung geprüft.",
+      "official_doknr": "BJNR002190897BJNE114600360",
+      "commentary_sha256": "e9901ed322996847bc7b16f03fa01e992baacfdfd39ecac0ff72d87e783fe392"
+    },
+    {
+      "id": "p138",
+      "result": "checked_unchanged",
+      "finding": "Alle drei Absätze und Kataloge geprüft; Gesellschaftsinsolvenz von Gesellschafterinsolvenz getrennt, Rechtskraft, Löschung, Haftungskettenausnahme und Vertragsgründe richtig.",
+      "official_doknr": "BJNR002190897BJNE114700360",
+      "commentary_sha256": "88618b7e0f385578e04d03f0aba683bd6b504c33d216681a3a76942cce66e25d"
     }
   ],
   "case_law_sources": [],
-  "case_search_log": "sources/research/case-search-p100-p118.json",
+  "case_search_log": "sources/research/case-search-p119-p138.json",
   "limitations": [
-    "Nur die 20 beauftragten Einheiten; keine Gesamtfreigabe oder externe anwaltliche Prüfung.",
-    "Selektive Recherche in amtlicher Websuche und lokalem Justizmanifest ergab keine für diese Gruppe übernommene verifizierte Entscheidung; keine erschöpfende Rechtsprechungsabdeckung.",
-    "Gesamtbuch bleibt mit 463 fehlenden Kommentaren außerhalb dieses Auftrags unvollständig."
-  ],
-  "technical_validation": {
-    "assigned_units": 20,
-    "assigned_complete": true,
-    "official_xml_coverage": 696,
-    "statutory_verbatim_ratio": 1.0,
-    "local_links_checked": 56,
-    "local_links_ok": true,
-    "repeated_exact_prose_paragraphs": 0,
-    "full_build_ok": false,
-    "full_build_blocker": "463 fehlende Kommentare außerhalb des Auftrags",
-    "partial_checkpoint_exported": true,
-    "strict_validator": {
-      "repo": "Komentar-DE-HGB-1897",
-      "units": 696,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 300979,
-      "errors": [
-        "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    },
-    "strict_validator_exit_code": 1
-  }
+    "Nur die 20 beauftragten Einheiten geprüft; keine Gesamtfreigabe oder externe anwaltliche Prüfung.",
+    "Selektive amtliche Websuche und lokales Justizmanifest; kein neuer Entscheidungsbeleg übernommen. Historische Nachhaftungsrechtsprechung ohne Prüfung des geänderten Rechts nicht als aktueller Beleg verwertet.",
+    "463 fehlende Kommentare außerhalb dieses Auftrags; vollständiger Build weiterhin blockiert, Teilcheckpoint möglich."
+  ]
 }

@@ -34,3 +34,7 @@ Der gesamte Gesetzestext ist erfasst. Kommentiert sind 233/696 Einheiten; die Ge
 ## Teilprüfung §§ 100–118
 
 [Amtlicher erneuter HGB-Abruf](sources/review-p100-p118-fetch.json), [XML](sources/hgb-review-p100-p118.xml), [Einzelprüfung](review-p100-p118.json), [vollständiger XML-Abgleich](review-p100-p118-coverage.json), [selektives Rechercheprotokoll](sources/research/case-search-p100-p118.json). Ergänzende amtliche Gesetzestexte: [§ 10 OWiG](sources/review-p100-p118-owig-10.html), [§ 671 BGB](sources/review-p100-p118-bgb-671.html), [§ 126a BGB](sources/review-p100-p118-bgb-126a.html); URL, HTTP-Ergebnis und SHA-256 im [Verifikationsprotokoll](sources/verification.json).
+
+### Teilprüfung §§ 119–138
+
+Erneuter amtlicher [HGB-XML-Abruf](sources/hgb-review-p119-p138.xml), [Abrufprotokoll](sources/review-p119-p138-fetch.json), [externe BGB-Quellen](sources/review-p119-p138-external.json), [selektives Suchprotokoll](sources/research/case-search-p119-p138.json) und [Einzelbefunde](review-p119-p138.json). Maßgeblicher Beginn der Titelbearbeitung bleibt der 19. Oktober 2026; Abruf am 21. Oktober. Die Quellenfassung ist unverändert. Neue Rechtsprechungsbelege wurden in diesem Teilauftrag nicht aufgenommen.

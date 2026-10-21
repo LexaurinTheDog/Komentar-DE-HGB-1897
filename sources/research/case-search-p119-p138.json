@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-21",
+  "scope": ["p119", "p120", "p121", "p122", "p123", "p124", "p125", "p126", "p127", "p128", "p129", "p130", "p131", "p132", "p133", "p134", "p135", "p136", "p137", "p138"],
+  "searches": [
+    {"provider": "web search", "query": "site.bundesgerichtshof.de Nachhaftung Pflichtverletzung Gesellschafter 2024 2025", "result": "Candidate V ZR 250/19, 3 July 2020, official PDF URL returned; older law, not adopted as current authority and no holding attributed without full-text/version review.", "candidate_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2020-7-3&Gericht=bgh&anz=2&nr=109272&pos=1"},
+    {"provider": "local national judicial manifest", "path": "/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl", "query": "Nachhaftung|Ausschließung|Ausschliessung|Gewinnverteilung", "result": "No matches returned by rg; limited keyword search only."}
+  ],
+  "selected_cases": [],
+  "limitations": "No new case citation. The candidate was not read in full or relied upon. This bounded review does not establish exhaustive case-law coverage or absence of relevant case law. Current statutory paragraph 137(1), sentence 2, governs the commentary's statement about the time of breach."
+}

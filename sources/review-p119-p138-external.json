@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__709.html",
+    "path": "sources/review-p119-p138-bgb-709.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T03:14:58.146425+00:00",
+    "sha256": "aa1208977b574aa1e928a6aafe97f3e430e3dfcd82c6e7b874c1ab6234091067",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__716.html",
+    "path": "sources/review-p119-p138-bgb-716.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T03:14:58.248951+00:00",
+    "sha256": "5bcc4a72f591e6c390223c4f1e899e5b0d0794f9e34e21c79e20c9c23cfb8b62",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__210.html",
+    "path": "sources/review-p119-p138-bgb-210.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T03:14:58.350498+00:00",
+    "sha256": "d40127b87a55024af5af1b2d3360a04ea681fa16340c31d1e17a5e0c2333492f",
+    "format_valid": true
+  }
+]
