@@ -1,0 +1,59 @@
+{
+  "scope": [
+    "p504",
+    "p505",
+    "p506",
+    "p507",
+    "p508",
+    "p509",
+    "p510",
+    "p511",
+    "p512",
+    "p513",
+    "p514",
+    "p515",
+    "p516",
+    "p517",
+    "p518",
+    "p519",
+    "p520",
+    "p521",
+    "p522",
+    "p523"
+  ],
+  "scope_total_units": 20,
+  "completed_units": 20,
+  "title_total_units": 696,
+  "source_checks": "HTTP 200 official ZIP/XML, byte-identical to canonical; raw XML inventory 696 IDs and no duplicates; effective-date review preserved",
+  "case_law_sources": [
+    "BGH 18.03.2010 I ZR 181/08, historical comparison only, full Rn.1–64 read and compared"
+  ],
+  "validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 33945,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "whole_book_validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 696,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1041500,
+    "errors": [
+      "krátký/chybějící komentář u 96 jednotek: ['p524(0<400)', 'p525(0<400)', 'p526(0<400)', 'p527(0<400)', 'p528(0<400)', 'p529(0<400)', 'p530(0<400)', 'p531(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "remaining_limitations": [
+    "Independent second pass outstanding for this batch",
+    "Selective case research; historical case is not authority for present §507 no.2",
+    "Whole title remains incomplete outside assigned scope"
+  ],
+  "stage": "drafted_technical_validation",
+  "stage_scope": "bounded batch only",
+  "verified_at": "2026-10-21T06:46:52.688486+00:00"
+}
