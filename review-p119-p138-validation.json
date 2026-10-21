@@ -1,0 +1,20 @@
+{
+  "repo": "Komentar-DE-HGB-1897",
+  "units": 696,
+  "verbatim_ratio": 1.0,
+  "commentary_chars": 303413,
+  "errors": [
+    "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']"
+  ],
+  "warnings": [],
+  "ok": false,
+  "exit_code": 1,
+  "scope_note": "Assigned p119–p138: 20/20 independently reviewed; full validator fails on 463 absent comments outside this batch.",
+  "full_build": {
+    "exit_code": 1,
+    "stderr": "CHYBÍ komentář k 463 jednotkám, např.: ['p264', 'p264a', 'p264b', 'p264c', 'p264d', 'p265', 'p266', 'p267', 'p267a', 'p268']",
+    "partial_export": "_export_review_p119_p138.py; chapters 10 and 11"
+  },
+  "bounded_coverage": "review-p119-p138-coverage.json",
+  "checked_at": "2026-10-21T03:18:03.042610+00:00"
+}
