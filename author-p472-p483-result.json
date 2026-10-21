@@ -1,0 +1,60 @@
+{
+  "kind": "author",
+  "complete": true,
+  "scope": [
+    "p472",
+    "p473",
+    "p474",
+    "p475",
+    "p475a",
+    "p475b",
+    "p475c",
+    "p475d",
+    "p475e",
+    "p475f",
+    "p475g",
+    "p475h",
+    "p476",
+    "p477",
+    "p478",
+    "p479",
+    "p480",
+    "p481",
+    "p482",
+    "p483"
+  ],
+  "total_assigned_units": 20,
+  "completed_units": 20,
+  "commentary_chars": 38857,
+  "decisive_date": "2026-10-19",
+  "source_checks": {
+    "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T06:08:11.136460+00:00",
+    "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "zip_sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+    "format": "valid ZIP with parsed HGB XML",
+    "same_canonical": true
+  },
+  "completeness": "_batch-p472-p483/completeness-report.json",
+  "preflight": "_batch-p472-p483/preflight-result.json",
+  "validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 38857,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "case_law_sources": [
+    "BGH 2018-09-20 I ZR 146/17, Rn. 8–20, full official text and correction read"
+  ],
+  "remaining_limitations": [
+    "Independent second pass outstanding.",
+    "Selective case-law research only.",
+    "Whole book incomplete: 136 units outside assignment."
+  ],
+  "whole_book_complete": false,
+  "stage": "bounded_drafted_technical_validation"
+}

@@ -1,0 +1,9 @@
+# Autorenkontrolle der Charge §§ 472–483
+
+Alle 20 zugewiesenen Einheiten wurden gegen ihren amtlichen Wortlaut gelesen. Die Erläuterungen trennen insbesondere Herausgabe und Vertragsbeendigung (§ 473), Abdingbarkeit und Verbrauchergrenzen (§§ 475, 475h), formelle Legitimation und materielle Berechtigung (§§ 475d–475g) sowie Eigentümer, Betreiber und Verfrachter (§§ 476–481). Der Verweis auf § 439 und der ausdrückliche Verweis auf § 509 wurden am vollständigen jeweiligen Wortlaut nachgelesen. Bei der Autorenkontrolle wurde ein unzutreffender Hinweis auf eine Aufrechnungsregel in § 439 entfernt und die entsprechende Anwendung des § 509 genauer erläutert.
+
+Die BGH-Entscheidung I ZR 146/17 wurde mit Tenor, Tatbestand, sämtlichen Gründen und Berichtigung gelesen. Die Zurückverweisung und der nur revisionsrechtlich unterstellte Vorsatz sind ausdrücklich begrenzt. Für den Lagerschein und die seehandelsrechtlichen Einzelvorschriften wird keine zusätzliche ungeprüfte Entscheidung zitiert. Die Recherche ist selektiv; ein negativer Suchbefund beweist nicht die Abwesenheit einschlägiger Rechtsprechung.
+
+Die technische Prüfung erfasst genau diese 20 Einheiten, ihre Kennungen und den vollständigen Wortlaut. Der Gesamtbuild wird ebenfalls versucht, sein Abbruch wegen außerhalb der Charge fehlender Erläuterungen wird gesondert dokumentiert. Die strenge Teilstandsvalidierung ersetzt weder Gesamtvollständigkeit noch inhaltliche Zweitprüfung. Alle Absätze wurden auf inhaltliche Eigenständigkeit und Bezug zur jeweiligen Vorschrift gelesen; eine ergänzende Prüfung sucht identische Absätze und defekte lokale Links.
+
+Dies ist eine eigene Autorenkontrolle, keine unabhängige oder externe fachliche Prüfung. Offene Grenzen: unabhängige Zweitprüfung, selektive statt vollständige Rechtsprechungsabdeckung, zusätzliche Prüfung besonderer zeitlicher Anwendungsregeln bei historischen Einzelfällen. Keine Selbstzertifizierung als unabhängiger Prüfer.

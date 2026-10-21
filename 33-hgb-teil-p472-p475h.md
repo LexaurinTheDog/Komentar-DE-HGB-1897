@@ -1,0 +1,239 @@
+# Kommentarkapitel 33 — Lagergeschäft: §§ 472–475h
+
+#### Viertes Buch — Handelsgeschäfte
+
+#### Sechster Abschnitt — Lagergeschäft
+
+### § 472 — Versicherung. Einlagerung bei einem Dritten
+
+**Wortlaut der Vorschrift:**
+
+> (1) Der Lagerhalter ist verpflichtet, das Gut auf Verlangen des Einlagerers zu versichern. Ist der Einlagerer ein Verbraucher, so hat ihn der Lagerhalter auf die Möglichkeit hinzuweisen, das Gut zu versichern.
+>
+> (2) Der Lagerhalter ist nur berechtigt, das Gut bei einem Dritten einzulagern, wenn der Einlagerer ihm dies ausdrücklich gestattet hat.
+
+Die Versicherungspflicht nach Absatz 1 entsteht durch ein Verlangen des Einlagerers. Der Lagerhalter muss also nicht schon kraft jeder Einlagerung eine Güterversicherung abschließen. Ein einmal erklärter Versicherungswunsch darf aber nicht mit dem Hinweis auf die eigene Betriebshaftpflicht erledigt werden: Eine Versicherung des Gutes und die Absicherung einer eigenen Haftung haben verschiedene Gegenstände. Versicherungsumfang, Wertangaben, versicherte Gefahren und Beginn des Schutzes sind so zu klären, dass das Verlangen tatsächlich umgesetzt werden kann. Bei einem Verbraucher muss der Lagerhalter von sich aus auf die Versicherungsmöglichkeit hinweisen; die anschließende Entscheidung bleibt beim Einlagerer.
+
+Absatz 2 schützt die Entscheidung über den Verwahrungsort und den tatsächlichen Obhutsbetrieb. Eine Einlagerung bei einem selbständigen Dritten bedarf ausdrücklicher Gestattung. Aus dem bloßen Schweigen auf eine nachträgliche Nachricht lässt sich eine solche Erlaubnis nicht ohne weiteres gewinnen. Die Gestattung der Drittverwahrung beseitigt weder die Versicherungspflicht noch die eigene Haftung: § 475 Satz 2 hält die Verantwortlichkeit des vertraglichen Lagerhalters ausdrücklich aufrecht. Ob ein anderer Standort noch zum eigenen Betrieb gehört oder eine Drittverwahrung vorliegt, ist anhand der tatsächlichen und vertraglichen Organisation zu prüfen.
+
+Beispiel: Eine Verbraucherin lagert Musikinstrumente ein. Der Lagerhalter muss die Möglichkeit der Güterversicherung ansprechen. Verlangt sie Versicherungsschutz, muss er dessen Beschaffung veranlassen und darf nicht nur seine Haftpflichtpolice nennen. Wird die eigene Halle knapp, darf er die Instrumente nicht allein wegen des Platzmangels zu einem fremden Lagerunternehmen verbringen; dazu benötigt er die ausdrückliche Gestattung.
+
+### § 473 — Dauer der Lagerung
+
+**Wortlaut der Vorschrift:**
+
+> (1) Der Einlagerer kann das Gut jederzeit herausverlangen. Ist der Lagervertrag auf unbestimmte Zeit geschlossen, so kann er den Vertrag jedoch nur unter Einhaltung einer Kündigungsfrist von einem Monat kündigen, es sei denn, es liegt ein wichtiger Grund vor, der zur Kündigung des Vertrags ohne Einhaltung der Kündigungsfrist berechtigt.
+>
+> (2) Der Lagerhalter kann die Rücknahme des Gutes nach Ablauf der vereinbarten Lagerzeit oder bei Einlagerung auf unbestimmte Zeit nach Kündigung des Vertrags unter Einhaltung einer Kündigungsfrist von einem Monat verlangen. Liegt ein wichtiger Grund vor, so kann der Lagerhalter auch vor Ablauf der Lagerzeit und ohne Einhaltung einer Kündigungsfrist die Rücknahme des Gutes verlangen.
+>
+> (3) Ist ein Lagerschein ausgestellt, so sind die Kündigung und das Rücknahmeverlangen an den letzten dem Lagerhalter bekannt gewordenen legitimierten Besitzer des Lagerscheins zu richten.
+
+Das jederzeitige Herausgabeverlangen des Einlagerers und die Beendigung des Vertrags sind verschiedene Vorgänge. Absatz 1 erlaubt die Rückforderung des Gutes auch während einer vereinbarten Lagerzeit. Daraus folgt noch keine automatische Befreiung von sämtlichen weiteren Vergütungsfolgen. Bei unbestimmter Vertragsdauer beträgt die ordentliche Kündigungsfrist einen Monat; ein wichtiger Grund kann die fristlose Kündigung tragen. Ob und in welchem Umfang nach vorzeitiger Abholung noch Entgelt geschuldet wird, muss daher anhand der Vertragsbeendigung und der Vergütungsregelung geprüft werden.
+
+Absatz 2 regelt spiegelbildlich das Rücknahmeverlangen des Lagerhalters, aber nicht identisch: Bei fester Dauer muss er grundsätzlich den Ablauf der vereinbarten Lagerzeit abwarten, bei unbestimmter Dauer mit Monatsfrist kündigen. Ein wichtiger Grund kann auch vorzeitig und ohne Frist zur Rücknahme verpflichten. Bloß günstigere anderweitige Nutzungsmöglichkeiten der Halle begründen nicht von selbst einen solchen Grund. Das Rücknahmeverlangen ist außerdem keine Ermächtigung, das Gut sofort unbeaufsichtigt vor die Tür zu stellen; die weitere Obhut und gegebenenfalls besondere Sicherungsmaßnahmen bleiben zu beurteilen.
+
+Nach Absatz 3 müssen Kündigung und Rücknahmeverlangen bei einem ausgestellten Lagerschein an dessen letzten dem Lagerhalter bekannt gewordenen legitimierten Besitzer gerichtet werden. Die Kenntnis über einen Wechsel des Scheinbesitzers muss deshalb im Betrieb zuverlässig weitergegeben werden. Die Nachricht an den ursprünglichen Einlagerer genügt nicht allein deshalb, weil dieser den Vertrag geschlossen hat.
+
+Beispiel: Ein Händler holt Ware nach zwei Wochen aus einem auf drei Monate vereinbarten Lager ab. Die Abholung ist möglich; die Vergütungsabrechnung folgt daraus nicht abschließend. Hat er inzwischen einen Lagerschein übertragen und ist der neue legitimierte Besitzer bekannt, muss der Lagerhalter ein späteres Rücknahmeverlangen an diesen richten.
+
+### § 474 — Aufwendungsersatz
+
+**Wortlaut der Vorschrift:**
+
+> Der Lagerhalter hat Anspruch auf Ersatz seiner für das Gut gemachten Aufwendungen, soweit er sie den Umständen nach für erforderlich halten durfte.
+
+Der Aufwendungsersatz steht neben der vereinbarten Lagervergütung nach § 467. Er erfasst für das konkrete Gut gemachte Aufwendungen, die der Lagerhalter den Umständen nach für erforderlich halten durfte. Die Beurteilung erfolgt aus der damaligen Handlungssituation, nicht allein nach dem späteren Erfolg. Ein vertretbarer Erhaltungsversuch kann ersatzfähig sein, obwohl er den Schaden nicht vollständig verhindert. Umgekehrt wird jede beliebige Ausgabe nicht schon deshalb erstattungsfähig, weil das Gut dabei eine Rolle spielte.
+
+Zunächst ist zu klären, welche Leistungen bereits mit der Vergütung abgegolten sind. Gewöhnliche Betriebskosten dürfen nicht ohne Weiteres zusätzlich als Sonderaufwendungen abgerechnet werden. Für besondere Kosten sind Anlass, Bezug zum Gut, Umfang und Entscheidungsgrundlage nachzuweisen. Bei Erhaltungsmaßnahmen steht die Erforderlichkeit in engem Zusammenhang mit § 471: Erreichbare Weisungen, drohende Gefahr und verfügbare mildere Mittel können die Entscheidung beeinflussen. Bei einer auf Verlangen beschafften Versicherung nach § 472 ist auch die vereinbarte Kostenverteilung zu beachten. § 474 enthält keine Erlaubnis, vermeidbare Mehrkosten aus eigenem Fehlverhalten unterschiedslos weiterzugeben.
+
+Beispiel: Nach einem unerwarteten Kühlungsdefekt droht einem verderblichen Warenbestand kurzfristig der Verlust. Kosten einer unter den gegebenen Umständen angemessenen Ersatzkühlung können ersatzfähige Aufwendungen sein. Der Lagerhalter muss jedoch erläutern können, weshalb diese Maßnahme und deren Umfang erforderlich erschienen. Eine ohnehin vereinbarte monatliche Wartungspauschale darf er nicht ein zweites Mal als Aufwand für dieselbe Leistung berechnen.
+
+### § 475 — Haftung für Verlust oder Beschädigung
+
+**Wortlaut der Vorschrift:**
+
+> Der Lagerhalter haftet für den Schaden, der durch Verlust oder Beschädigung des Gutes in der Zeit von der Übernahme zur Lagerung bis zur Auslieferung entsteht, es sei denn, daß der Schaden durch die Sorgfalt eines ordentlichen Kaufmanns nicht abgewendet werden konnte. Dies gilt auch dann, wenn der Lagerhalter gemäß § 472 Abs. 2 das Gut bei einem Dritten einlagert.
+
+§ 475 ordnet eine Obhutshaftung mit Entlastungsmöglichkeit an. Erforderlich sind Verlust oder Beschädigung während des Zeitraums zwischen Übernahme zur Lagerung und Auslieferung sowie ein dadurch entstandener Schaden. Der Einlagerer muss den haftungsbegründenden Güterschaden und dessen zeitliche Zuordnung darlegen; der Lagerhalter kann sich durch den Nachweis entlasten, dass die Sorgfalt eines ordentlichen Kaufmanns den Schaden nicht hätte abwenden können. Eine unbekannte Schadensursache ist für sich genommen kein Entlastungsnachweis. Eingangs- und Ausgangszustand, Bestandsbewegungen sowie Schutz- und Kontrollmaßnahmen sind deshalb praktisch besonders wichtig.
+
+Die Vorschrift enthält keine dem § 431 entsprechende gesetzliche Gewichtshaftungsgrenze. Solche Grenzen dürfen nicht aus dem Frachtrecht übernommen werden. Vereinbarte Haftungsregelungen müssen dagegen gesondert geprüft werden. Nach BGH, Urteil vom 20. September 2018 – I ZR 146/17, Rn. 8–16, bleibt Lagerrecht auch beim dortigen Konsignationslager mit zusätzlichen Aufgaben anwendbar. Die Haftung ist grundsätzlich vertraglich gestaltbar; Allgemeine Geschäftsbedingungen und Individualvereinbarungen unterliegen dabei unterschiedlichen Grenzen. Die konkret behandelte Schwundklausel wurde so ausgelegt, dass eigener Vorsatz nicht freigezeichnet war. Das Urteil billigt keinen allgemeinen schadensfreien Schwund und stellt vorsätzliches Verhalten im konkreten Fall nicht abschließend fest; die Sache wurde zurückverwiesen. Einzelheiten: [Fallkarte](cases/bgh-I-ZR-146-17-p475.md).
+
+Satz 2 verhindert, dass eine nach § 472 Absatz 2 erlaubte Fremdeinlagerung die eigene Haftung verdrängt. Der Vertragspartner bleibt verantwortlich; mögliche Rückgriffsansprüche gegen den Drittlagerhalter sind eine andere Rechtsbeziehung.
+
+Beispiel: Aus einem mit Zustimmung eingeschalteten Fremdlager fehlen nachweislich zehn eingelagerte Geräte. Der ursprüngliche Lagerhalter kann den Anspruch nicht allein mit dem Hinweis abwehren, er habe die Geräte nicht selbst verwahrt. Ob eine Haftungsbegrenzung eingreift, hängt von der tatsächlich wirksam vereinbarten Regelung ab.
+
+### § 475a — Verjährung
+
+**Wortlaut der Vorschrift:**
+
+> Auf die Verjährung von Ansprüchen aus einer Lagerung, die den Vorschriften dieses Abschnitts unterliegt, findet § 439 entsprechende Anwendung. Im Falle des gänzlichen Verlusts beginnt die Verjährung mit Ablauf des Tages, an dem der Lagerhalter dem Einlagerer oder, wenn ein Lagerschein ausgestellt ist, dem letzten ihm bekannt gewordenen legitimierten Besitzer des Lagerscheins den Verlust anzeigt.
+
+Die Verweisung auf § 439 betrifft die Verjährung von Ansprüchen aus einer diesem Lagerabschnitt unterliegenden Lagerung. Sie beschränkt sich nicht ihrem Wortlaut nach auf einen einzelnen Schadensersatzanspruch. § 439 ist entsprechend anzuwenden: insbesondere die regelmäßige einjährige Frist und die dort geregelte dreijährige Frist bei dem bezeichneten qualifizierten Verschulden. Ebenso sind der besondere Beginn bei Rückgriffsansprüchen, die Hemmung durch Anspruchserhebung in Textform und die Grenzen von Verjährungsvereinbarungen entsprechend zu beachten. Die erneute Erhebung desselben Ersatzanspruchs hemmt nach § 439 Absatz 3 nicht nochmals. Die Lagerung wird damit nicht in einen Frachtvertrag umgedeutet; Bezugspunkte des Frachtrechts sind sachgerecht auf die Lagerbeziehung zu übertragen.
+
+Für gänzlichen Verlust gibt Satz 2 einen ausdrücklich eigenen Fristbeginn vor. Entscheidend ist der Ablauf des Tages, an dem der Lagerhalter den Verlust anzeigt. Bei ausgestelltem Lagerschein muss die Anzeige an den letzten ihm bekannt gewordenen legitimierten Besitzer erfolgen. Weder der interne Tag der Fehlbestandsentdeckung noch allein die ursprünglich vereinbarte Auslagerungszeit ersetzt diese Anzeige. Der Sonderfall des gänzlichen Verlusts darf umgekehrt nicht unbesehen auf eine bloße Teilbeschädigung ausgedehnt werden.
+
+Bei Verbrauchern schützt § 475h vor nachteiligen Abweichungen. Eine vertragliche Fristverkürzung ist deshalb nicht schon wegen der grundsätzlichen Gestaltbarkeit des Lagerrechts zulässig. Anspruchsart, Kenntnisstand, Anzeigeempfänger und etwaige Hemmungsschritte müssen getrennt dokumentiert werden.
+
+Beispiel: Der gesamte eingelagerte Bestand ist verloren. Der Lagerhalter entdeckt dies am Montag und zeigt es dem maßgeblichen Berechtigten erst am Donnerstag an. Für den besonderen Beginn nach Satz 2 ist der Ablauf des Donnerstags maßgeblich. Eine interne Inventurnotiz vom Montag ist keine Verlustanzeige an den Berechtigten.
+
+### § 475b — Pfandrecht des Lagerhalters
+
+**Wortlaut der Vorschrift:**
+
+> (1) Der Lagerhalter hat für alle Forderungen aus dem Lagervertrag ein Pfandrecht an dem ihm zur Lagerung übergebenen Gut des Einlagerers oder eines Dritten, der der Lagerung zugestimmt hat. An dem Gut des Einlagerers hat der Lagerhalter auch ein Pfandrecht für alle unbestrittenen Forderungen aus anderen mit dem Einlagerer abgeschlossenen Lager-, Fracht-, Seefracht- und Speditionsverträgen. Das Pfandrecht erstreckt sich auch auf die Forderung aus einer Versicherung sowie auf die Begleitpapiere.
+>
+> (2) Ist ein Orderlagerschein durch Indossament übertragen worden, so besteht das Pfandrecht dem legitimierten Besitzer des Lagerscheins gegenüber nur wegen der Vergütungen und Aufwendungen, die aus dem Lagerschein ersichtlich sind oder ihm bei Erwerb des Lagerscheins bekannt oder infolge grober Fahrlässigkeit unbekannt waren.
+>
+> (3) Das Pfandrecht besteht, solange der Lagerhalter das Gut in seinem Besitz hat, insbesondere solange er mittels Konnossements, Ladescheins oder Lagerscheins darüber verfügen kann.
+
+Das gesetzliche Pfandrecht sichert nach Absatz 1 zunächst alle Forderungen aus dem konkreten Lagervertrag. Es erfasst übergebenes Gut des Einlagerers und auch Gut eines Dritten, wenn dieser der Lagerung zugestimmt hat. Eigentum und Zustimmung sind somit eigenständige Prüfungspunkte. Für unbestrittene Forderungen aus anderen Lager-, Fracht-, Seefracht- und Speditionsverträgen besteht die zusätzliche Sicherung nur an Gut des Einlagerers. Die erweiterte Sicherung darf nicht schon aufgrund der bloßen Einlagerung fremden Eigentums auf sämtliche Altverbindlichkeiten erstreckt werden. Versicherungsforderung und Begleitpapiere werden in den Sicherungsumfang einbezogen.
+
+Absatz 2 schützt den Verkehr mit dem durch Indossament übertragenen Orderlagerschein. Gegenüber seinem legitimierten Besitzer besteht das Pfandrecht nur für die bezeichneten Vergütungen und Aufwendungen, die aus dem Schein ersichtlich sind oder bei Erwerb bekannt beziehungsweise grob fahrlässig unbekannt waren. Eine im Lagerkonto bestehende Forderung ist daher gegenüber dem Erwerber nicht ohne Weiteres pfandgesichert. Inhalt und Erwerbszeitpunkt des Scheins gewinnen für die Reichweite des Rechts besondere Bedeutung.
+
+Absatz 3 knüpft den Fortbestand an den Besitz des Lagerhalters. Dieser muss nicht ausschließlich körperlicher Eigenbesitz sein; die Verfügung mittels der genannten Warenpapiere kann genügen. Aus der bloßen Existenz einer unbeglichenen Rechnung folgt dagegen kein zeitlich unbegrenztes Pfandrecht nach bereits endgültig aufgegebenem Besitz. Auch darf die Entstehung des Pfandrechts nicht mit einer voraussetzungslosen sofortigen Verwertung gleichgesetzt werden.
+
+Beispiel: Ein Einlagerer verwahrt mit Zustimmung des Eigentümers fremde Maschinen. Für die Forderung aus dieser Lagerung kommt das Pfandrecht in Betracht. Eine unbestrittene alte Frachtforderung gegen den Einlagerer ist an diesen fremden Maschinen nach der erweiterten Sicherungsregel gerade nicht allein deshalb gesichert.
+
+### § 475c — Lagerschein. Verordnungsermächtigung
+
+**Wortlaut der Vorschrift:**
+
+> (1) Über die Verpflichtung zur Auslieferung des Gutes kann von dem Lagerhalter, nachdem er das Gut erhalten hat, ein Lagerschein ausgestellt werden, der die folgenden Angaben enthalten soll:
+>
+> 1.
+>
+> Ort und Tag der Ausstellung des Lagerscheins;
+>
+> 2.
+>
+> Name und Anschrift des Einlagerers;
+>
+> 3.
+>
+> Name und Anschrift des Lagerhalters;
+>
+> 4.
+>
+> Ort und Tag der Einlagerung;
+>
+> 5.
+>
+> die übliche Bezeichnung der Art des Gutes und die Art der Verpackung, bei gefährlichen Gütern ihre nach den Gefahrgutvorschriften vorgesehene, sonst ihre allgemein anerkannte Bezeichnung;
+>
+> 6.
+>
+> Anzahl, Zeichen und Nummern der Packstücke;
+>
+> 7.
+>
+> Rohgewicht oder die anders angegebene Menge des Gutes;
+>
+> 8.
+>
+> im Falle der Sammellagerung einen Vermerk hierüber.
+>
+> (2) In den Lagerschein können weitere Angaben eingetragen werden, die der Lagerhalter für zweckmäßig hält.
+>
+> (3) Der Lagerschein ist vom Lagerhalter zu unterzeichnen. Eine Nachbildung der eigenhändigen Unterschrift durch Druck oder Stempel genügt.
+>
+> (4) Dem Lagerschein gleichgestellt ist eine elektronische Aufzeichnung, die dieselben Funktionen erfüllt wie der Lagerschein, sofern sichergestellt ist, dass die Authentizität und die Integrität der Aufzeichnung gewahrt bleiben (elektronischer Lagerschein). Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit dem Bundesministerium des Innern und für Heimat durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der Ausstellung, Vorlage, Rückgabe und Übertragung eines elektronischen Lagerscheins sowie die Einzelheiten des Verfahrens über nachträgliche Eintragungen in einen elektronischen Lagerschein zu regeln.
+
+Der Lagerschein verbrieft die Verpflichtung zur Auslieferung bereits empfangenen Gutes. Absatz 1 erlaubt seine Ausstellung erst nach Empfang; ein Dokument über eine nur erwartete Lieferung darf nicht ungeprüft als Empfangsbestätigung behandelt werden. Die acht Sollangaben sichern Identifizierung und Nachvollziehbarkeit: Ausstellungs- und Einlagerungsdaten, beteiligte Personen, Waren- und Verpackungsart, Kennzeichnung und Menge sowie gegebenenfalls Sammellagerung. Die Gefahrenbezeichnung muss dem besonderen Risiko entsprechen. Ein fehlendes Sollmerkmal rechtfertigt nicht automatisch den Schluss, es existiere überhaupt kein Lagerschein; umgekehrt ist nicht jede Lagerliste schon aufgrund ihrer Überschrift ein solches Wertpapier.
+
+Absatz 2 lässt zweckmäßige Zusatzangaben zu. Gerade Angaben über Vergütungen und Aufwendungen können wegen § 475b Absatz 2 für spätere Erwerber wichtig sein. Nach Absatz 3 ist die Unterzeichnung durch den Lagerhalter erforderlich, wobei Druck oder Stempel als Nachbildung genügen. Diese Erleichterung darf nicht mit einem vollständigen Verzicht auf zurechenbare Ausstellung verwechselt werden.
+
+Absatz 4 stellt eine elektronische Aufzeichnung nur bei Funktionsgleichheit sowie gesicherter Authentizität und Integrität gleich. Ein beliebig vervielfältigbarer Scan erfüllt diese Voraussetzungen nicht schon deshalb, weil er den Papierinhalt sichtbar macht. Für Vorlage, Rückgabe und Übertragung müssen die Funktionen des Scheins im jeweiligen System erhalten sein. Die Verordnungsermächtigung ist für sich genommen kein Nachweis einer tatsächlich erlassenen oder im Einzelfall einschlägigen Verordnung.
+
+Beispiel: Ein Lagerhalter stellt nach Übernahme von 80 Säcken einen unterschriebenen Schein mit Sammellagerungsvermerk aus. Eine daneben versandte PDF-Kopie dokumentiert die Angaben, beweist aber allein noch keine rechtlich funktionsgleiche elektronische Originalaufzeichnung. Bei einem späteren Auslieferungsverlangen sind die Form des tatsächlich ausgegebenen Scheins und seine Legitimation zu klären.
+
+### § 475d — Wirkung des Lagerscheins. Legitimation
+
+**Wortlaut der Vorschrift:**
+
+> (1) Der Lagerschein begründet die Vermutung, dass das Gut und seine Verpackung in Bezug auf den äußerlich erkennbaren Zustand sowie auf Anzahl, Zeichen und Nummern der Packstücke wie im Lagerschein beschrieben übernommen worden sind. Ist das Rohgewicht oder die anders angegebene Menge des Gutes oder der Inhalt vom Lagerhalter überprüft und das Ergebnis der Überprüfung in den Lagerschein eingetragen worden, so begründet dieser auch die Vermutung, dass Gewicht, Menge oder Inhalt mit den Angaben im Lagerschein übereinstimmt.
+>
+> (2) Wird der Lagerschein an eine Person begeben, die darin als zum Empfang des Gutes berechtigt benannt ist, kann der Lagerhalter ihr gegenüber die Vermutung nach Absatz 1 nicht widerlegen, es sei denn, der Person war im Zeitpunkt der Begebung des Lagerscheins bekannt oder infolge grober Fahrlässigkeit unbekannt, dass die Angaben im Lagerschein unrichtig sind. Gleiches gilt gegenüber einem Dritten, dem der Lagerschein übertragen wird.
+>
+> (3) Die im Lagerschein verbrieften lagervertraglichen Ansprüche können nur von dem aus dem Lagerschein Berechtigten geltend gemacht werden. Zugunsten des legitimierten Besitzers des Lagerscheins wird vermutet, dass er der aus dem Lagerschein Berechtigte ist. Legitimierter Besitzer des Lagerscheins ist, wer einen Lagerschein besitzt, der
+>
+> 1.
+>
+> auf den Inhaber lautet,
+>
+> 2.
+>
+> an Order lautet und den Besitzer als denjenigen, der zum Empfang des Gutes berechtigt ist, benennt oder durch eine ununterbrochene Reihe von Indossamenten ausweist oder
+>
+> 3.
+>
+> auf den Namen des Besitzers lautet.
+
+Absatz 1 verleiht dem Lagerschein eine abgestufte Beweiswirkung. Äußerlich erkennbarer Zustand von Gut und Verpackung sowie Anzahl, Zeichen und Nummern der Packstücke werden grundsätzlich von der Übernahmevermutung erfasst. Rohgewicht, anderweitige Menge und Inhalt genießen diese Wirkung dagegen nur, wenn der Lagerhalter sie überprüft und das Ergebnis eingetragen hat. Eine vom Einlagerer übernommene Gewichtsangabe darf deshalb nicht ohne Prüfung einer selbst bestätigten Verwiegung gleichgesetzt werden. Die Vermutung betrifft den Übernahmezustand, nicht automatisch das Schicksal der Ware während jeder späteren Lagerphase.
+
+Absatz 2 verstärkt den Schutz im Verhältnis zum bei Begebung benannten Empfänger und zu späteren Erwerbern: Die Vermutung ist ihnen gegenüber grundsätzlich nicht widerlegbar. Ausgenommen ist der Erwerb in Kenntnis oder grob fahrlässiger Unkenntnis der Unrichtigkeit. Dieser Schutzmechanismus ist vom Nachweis der materiellen Berechtigung zu unterscheiden; er macht eine unrichtige Beschreibung nicht in jeder Beziehung und gegenüber jedermann richtig.
+
+Absatz 3 konzentriert die verbrieften lagervertraglichen Ansprüche beim aus dem Schein Berechtigten. Für den legitimierten Besitzer wird diese Berechtigung vermutet. Die formelle Legitimation richtet sich nach der Papierart: Besitz eines Inhaberscheins, ordnungsgemäße Benennung oder ununterbrochene Indossamentenkette beim Orderschein, eigener Name beim Namensschein. Bloßer körperlicher Besitz genügt also nicht bei jeder Gestaltung. § 475e ergänzt die Regeln für die tatsächliche Auslieferung.
+
+Beispiel: Ein Orderschein bestätigt 40 äußerlich unbeschädigte Kisten, nennt aber ungeprüft ein Gesamtgewicht. Der spätere Erwerber kann sich bei erfüllten Voraussetzungen auf die Übernahmevermutung für die Kisten stützen. Für das Gewicht greift die besondere Vermutung erst nach dokumentierter Prüfung. Seine eigene Legitimation muss er zusätzlich durch die passende Benennung oder Indossamentenkette belegen.
+
+### § 475e — Auslieferung gegen Rückgabe des Lagerscheins
+
+**Wortlaut der Vorschrift:**
+
+> (1) Der legitimierte Besitzer des Lagerscheins ist berechtigt, vom Lagerhalter die Auslieferung des Gutes zu verlangen.
+>
+> (2) Ist ein Lagerschein ausgestellt, so ist der Lagerhalter zur Auslieferung des Gutes nur gegen Rückgabe des Lagerscheins, auf dem die Auslieferung bescheinigt ist, verpflichtet. Der Lagerhalter ist nicht verpflichtet, die Echtheit der Indossamente zu prüfen. Er darf das Gut jedoch nicht dem legitimierten Besitzer des Lagerscheins ausliefern, wenn ihm bekannt oder infolge grober Fahrlässigkeit unbekannt ist, dass der legitimierte Besitzer des Lagerscheins nicht der aus dem Lagerschein Berechtigte ist.
+>
+> (3) Die Auslieferung eines Teils des Gutes erfolgt gegen Abschreibung auf dem Lagerschein. Der Abschreibungsvermerk ist vom Lagerhalter zu unterschreiben.
+>
+> (4) Der Lagerhalter haftet dem aus dem Lagerschein Berechtigten für den Schaden, der daraus entsteht, daß er das Gut ausgeliefert hat, ohne sich den Lagerschein zurückgeben zu lassen oder ohne einen Abschreibungsvermerk einzutragen.
+
+Absatz 1 gibt dem legitimierten Besitzer das Recht, Auslieferung zu verlangen. Die Abwicklung nach Absatz 2 soll verhindern, dass das Gut herausgegeben wird, während der Schein weiter im Verkehr bleibt. Der Lagerhalter ist deshalb nur gegen Rückgabe des mit Auslieferungsbescheinigung versehenen Scheins zur Leistung verpflichtet. Eine bloße Kopie oder die Zusicherung, das Original später nachzureichen, ersetzt diese Sicherung nicht ohne Weiteres.
+
+Die Befreiung von einer Echtheitsprüfung der Indossamente bedeutet keine allgemeine Befreiung von der Legitimationskontrolle. Der Lagerhalter muss insbesondere die zu der Papierart passende formelle Berechtigung beachten. Selbst bei formeller Legitimation ist die Auslieferung verboten, wenn er die fehlende materielle Berechtigung kennt oder grob fahrlässig nicht kennt. Konkrete erhebliche Warnzeichen dürfen daher nicht zugunsten einer rein schematischen Prüfung ignoriert werden.
+
+Absatz 3 erlaubt Teilauslieferung gegen Abschreibung auf dem Schein; der Lagerhalter muss den Vermerk unterschreiben. So bleibt das Papier für den Restbestand verwendbar und weist zugleich die bereits erfüllte Menge aus. Absatz 4 begründet Schadensersatz gegenüber dem aus dem Schein Berechtigten, wenn ohne Rückgabe oder erforderlichen Abschreibungsvermerk ausgeliefert wurde und daraus ein Schaden entstanden ist. Die Norm setzt einen solchen Folgeschaden voraus, nicht lediglich einen formellen Fehler ohne jede nachteilige Wirkung. Bei Verbrauchern ist die Haftung nach § 475h gegen nachteilige Abweichungen geschützt.
+
+Beispiel: Von 100 dokumentierten Kisten werden 30 herausgegeben. Der Lagerhalter muss die Teilmenge auf dem Schein abschreiben und unterschreiben. Unterbleibt das, kann der Schein weiterhin einen scheinbaren Anspruch auf alle 100 Kisten vermitteln. Entsteht dem wirklichen Berechtigten dadurch ein Schaden, ist Absatz 4 gesondert zu prüfen.
+
+### § 475f — Einwendungen
+
+**Wortlaut der Vorschrift:**
+
+> Dem aus dem Lagerschein Berechtigten kann der Lagerhalter nur solche Einwendungen entgegensetzen, die die Gültigkeit der Erklärungen im Lagerschein betreffen oder sich aus dem Inhalt des Lagerscheins ergeben oder dem Lagerhalter unmittelbar gegenüber dem aus dem Lagerschein Berechtigten zustehen. Eine Vereinbarung, auf die im Lagerschein lediglich verwiesen wird, ist nicht Inhalt des Lagerscheins.
+
+Der Lagerschein soll eine verlässliche Grundlage des verbrieften Anspruchs bilden. § 475f beschränkt deshalb die Einwendungen des Lagerhalters gegenüber dem Berechtigten auf drei Gruppen: Einwendungen gegen die Gültigkeit der Erklärungen im Schein, solche aus dessen Inhalt und solche, die ihm unmittelbar gegenüber gerade diesem Berechtigten zustehen. Einwendungen aus einer anderen persönlichen Beziehung zum ursprünglichen Einlagerer können einem späteren Berechtigten nicht allein aufgrund dieser früheren Beziehung entgegengehalten werden.
+
+Die dritte Gruppe verhindert zugleich die Fehlvorstellung eines vollständig einwendungsfreien Papiers. Eine unmittelbar mit dem jetzigen Berechtigten bestehende Abrede oder eine ihm gegenüber eingetretene Erfüllungslage kann rechtlich erheblich bleiben. Welche Einwendung vorliegt, ist konkret zu bestimmen. Daneben ist das besondere Pfandrecht nach § 475b einschließlich seines Erwerberschutzes zu beachten; Einwendungsbeschränkung und Sicherungsrecht dürfen nicht undifferenziert zusammengefasst werden.
+
+Satz 2 zieht eine wichtige Inhaltsgrenze: Ein bloßer Verweis auf eine andere Vereinbarung macht diese nicht zum Inhalt des Lagerscheins. Die Formel „gemäß Lagervertrag“ transportiert deshalb nicht automatisch sämtliche dort vereinbarten Einschränkungen in das Verhältnis zu einem Erwerber. Die Wirksamkeit einer Vertragsklausel im ursprünglichen Lagerverhältnis beantwortet diese wertpapierrechtliche Frage noch nicht.
+
+Beispiel: Der ursprüngliche Lagervertrag enthält eine besondere Haftungsbegrenzung, der Schein verweist nur pauschal auf diesen Vertrag. Wird der Schein an einen anderen Berechtigten übertragen, darf der Lagerhalter die Begrenzung nicht allein unter Berufung auf diesen Verweis als Scheininhalt behandeln. Ob sie ihm aus einer unmittelbaren Vereinbarung mit dem Erwerber zusteht, ist eine eigene Frage.
+
+### § 475g — Traditionswirkung des Lagerscheins
+
+**Wortlaut der Vorschrift:**
+
+> Die Begebung des Lagerscheins an denjenigen, der darin als der zum Empfang des Gutes Berechtigte benannt ist, hat, sofern der Lagerhalter das Gut im Besitz hat, für den Erwerb von Rechten an dem Gut dieselben Wirkungen wie die Übergabe des Gutes. Gleiches gilt für die Übertragung des Lagerscheins an Dritte.
+
+Die Traditionswirkung ermöglicht Verfügungsgeschäfte über eingelagerte Ware, ohne sie körperlich aus dem Lager bewegen zu müssen. Die Begebung an den im Schein als empfangsberechtigt Benannten sowie die spätere Übertragung an Dritte haben bei fortbestehendem Besitz des Lagerhalters für den Rechtserwerb dieselbe Wirkung wie die Übergabe der Ware. Der Schein vermittelt damit eine gesetzlich geregelte Übergabefunktion, die über seine Beweiswirkung nach § 475d hinausgeht.
+
+§ 475g ersetzt aber nur das Element der Übergabe. Er erklärt nicht jeden Scheinbesitzer automatisch zum Eigentümer und macht weitere Voraussetzungen des beabsichtigten Rechtserwerbs nicht entbehrlich. Zu prüfen bleiben insbesondere die zugrunde liegende Verfügung und die Berechtigung beziehungsweise ein gegebenenfalls eingreifender Erwerbsschutz. Ebenso wenig ersetzt eine bloße Nachricht, dass ein Schein existiere, schon dessen rechtlich erforderliche Begebung oder Übertragung. Beim elektronischen Schein müssen die Funktionsanforderungen des § 475c Absatz 4 gewahrt sein.
+
+Der Besitz des Lagerhalters ist ausdrückliche Voraussetzung. Hat er das Gut bereits endgültig ausgegeben, kann der im Umlauf gebliebene Schein nicht allein durch § 475g so behandelt werden, als läge das Gut noch im Lager. Gerade dieses Risiko erklärt die Rückgabe- und Abschreibungspflichten des § 475e.
+
+Beispiel: Ein Eigentümer verkauft eingelagerten Kaffee und überträgt dem Käufer den dazugehörigen Lagerschein in der rechtlich erforderlichen Weise. Solange der Lagerhalter den Kaffee besitzt, kann die Scheinübertragung für den Erwerb die körperliche Übergabe ersetzen. Ob Eigentum tatsächlich übergeht, hängt zusätzlich von den übrigen Voraussetzungen des Verfügungsgeschäfts ab.
+
+### § 475h — Abweichende Vereinbarungen
+
+**Wortlaut der Vorschrift:**
+
+> Ist der Einlagerer ein Verbraucher, so kann nicht zu dessen Nachteil von den §§ 475a und 475e Absatz 4 abgewichen werden.
+
+§ 475h sichert bei einem Verbraucher als Einlagerer zwei bestimmte Regelungskomplexe gegen nachteilige Abweichungen: die Verjährung nach § 475a und die Haftung wegen scheinfremder oder nicht abgeschriebener Auslieferung nach § 475e Absatz 4. Die Norm ist damit gezielt und nicht als allgemeines Verbot jeder vertraglichen Gestaltung des Lagerrechts formuliert. Verbraucherstatus und Nachteiligkeit der konkreten Abweichung sind jeweils gesondert zu prüfen; ein größerer Lagerbestand macht einen privaten Einlagerer nicht schon zum Unternehmer.
+
+Auch eine individuell ausgehandelte Klausel kann diese zwingende Grenze nicht allein wegen ihres Aushandelns überwinden. Umgekehrt besagt die Beschränkung auf zwei Vorschriften nicht, alle anderen Abreden seien automatisch wirksam. Für sie bleiben insbesondere allgemeine Vertrags- und Klauselgrenzen erheblich. Die grundsätzlich mögliche Haftungsgestaltung nach § 475, wie sie der BGH in I ZR 146/17 für einen unternehmerischen Lagervertrag behandelt, darf daher nicht als Freigabe zur Verkürzung der ausdrücklich geschützten Verbraucherpositionen gelesen werden.
+
+Beispiel: Ein privater Einlagerer soll unterschreiben, dass Ersatzansprüche wegen Auslieferung ohne Rücknahme des Lagerscheins ausgeschlossen sind. Soweit die Klausel seinen Schutz aus § 475e Absatz 4 verschlechtert, greift § 475h unabhängig davon ein, ob das Formular als „Sondervereinbarung“ überschrieben ist.
+
+Prüfliste zum Abschluss des Lagerabschnitts: Empfangsbestand und Zustand sichern; Verbraucherhinweis zur Versicherung und ausdrückliche Erlaubnis einer Drittverwahrung dokumentieren; Zugang und Erhaltungsweisungen organisieren; Vertragsende von Herausgabe trennen; Aufwendungen belegen; Verjährungsbeginn samt richtigem Anzeigeempfänger festhalten; Eigentum, Zustimmung und Pfandforderungen unterscheiden; bei Lagerscheinen Legitimation, Rückgabe oder Teilabschreibung sowie die Grenzen von Einwendungen prüfen.

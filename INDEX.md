@@ -51,3 +51,5 @@ Der vollständige Normbestand steht in units.jsonl. Vorhandene Autorenbatches:
 - [§ 452d](31-hgb-teil-p452d.md)
 - [Speditionsgeschäft §§ 453–466](32-hgb-teil-p453-p466.md)
 - [Lagergeschäft §§ 467–471](33-hgb-teil-p467-p471.md)
+
+Autorencharge §§ 472–483: genau 20 zusätzliche Einheiten. [Teilstandsübersicht](README-p472-p483.md), [Ergebnis](author-p472-p483-result.json), [Quellen](batch-p472-p483-SOURCES.md). 560 von 696 Einheiten sind nun kommentiert; 136 ab § 484 bleiben offen. Der Teilstandsbuild und die strenge Teilstandsvalidierung sind erfolgreich, Wortlautübereinstimmung 100 %. Keine unabhängige Zweitprüfung dieser Charge.

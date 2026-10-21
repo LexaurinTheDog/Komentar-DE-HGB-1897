@@ -1,0 +1,38 @@
+{
+  "complete": true,
+  "scope": [
+    "p472",
+    "p473",
+    "p474",
+    "p475",
+    "p475a",
+    "p475b",
+    "p475c",
+    "p475d",
+    "p475e",
+    "p475f",
+    "p475g",
+    "p475h",
+    "p476",
+    "p477",
+    "p478",
+    "p479",
+    "p480",
+    "p481",
+    "p482",
+    "p483"
+  ],
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+  "verified_at": "2026-10-21T06:08:11.136460+00:00",
+  "version_evidence": {
+    "http_status": 200,
+    "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "same_effective_canonical": true,
+    "commencement": "sources/commencement.md; BGBl. 2026 I Nr. 33 Artikel 3, 4, 64; 2026 effective provisions distinct from 2028/2030 changes",
+    "change_map": "sources/change-map.json"
+  },
+  "historical_versions_checked": "Unique official IDs; re-fetched XML identical to preserved effective version; no historical concatenation.",
+  "annexes_checked": "All 814 norm nodes checked: 696 numbered units, 117 structure nodes, metadata node without operative text. No separate operative annex or Eingangsformel; no historical duplicates concatenated.",
+  "unresolved_blockers": []
+}

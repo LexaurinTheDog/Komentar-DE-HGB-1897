@@ -1,0 +1,9 @@
+# Einleitung zum Teilstand §§ 472–483
+
+Der Abschluss des Lagerrechts verbindet Schutz des tatsächlich eingelagerten Gutes mit den besonderen Anforderungen eines umlauffähigen Lagerscheins. Obhutshaftung, Versicherung und Auslieferung sind voneinander zu unterscheiden. Die Übertragung eines Scheins kann Rechte an der Ware vermitteln, ersetzt aber nicht sämtliche weiteren Voraussetzungen eines Rechtserwerbs. Die Verbraucherregel des § 475h schützt bestimmte Ansprüche besonders, ohne das gesamte Lagerrecht unterschiedslos für zwingend zu erklären.
+
+Mit § 476 beginnt das Seehandelsrecht. Eigentum, Erwerbsbetrieb, Vertragsschluss und tatsächliche Beförderung können bei verschiedenen Personen liegen. Die Erläuterungen trennen deshalb Reeder, Ausrüster, Verfrachter, Befrachter und anliefernden Dritten. Die ersten Bestimmungen zum Stückgutfrachtvertrag zeigen zudem den Unterschied zwischen allgemeinen Güterdaten und besonderen Gefahrgutmitteilungen.
+
+Rechtsstand ist der 19. Oktober 2026, Wiederabruf am 21. Oktober. Der erhaltene amtliche XML-Text ist identisch. Standvermerk und Abrufdatum allein sind keine Inkrafttretensnachweise; die vorhandene gesonderte Prüfung der Verkündung und künftigen Änderungen bleibt maßgeblich. Der Text wurde nicht aus historischen Fassungen zusammengesetzt. Der elektronische Lagerschein wird nach seiner gesetzlichen Funktionsanforderung erläutert; eine konkrete technische Lösung oder erlassene Ausführungsverordnung wird nicht ungeprüft behauptet.
+
+Die selektive Entscheidungsauswertung zu § 475 unterscheidet die Aussagen des BGH von Parteivortrag und der aufgehobenen Vorentscheidung. Alle Beispiele sind erfunden. Mindestlängen, Wortlautgleichheit und Kennungsabdeckung sind technische Kontrollen, keine selbständige Bestätigung juristischer Fehlerfreiheit. Eine frische unabhängige Zweitprüfung dieses Abschnitts steht aus. Eigenständiger Kommentar © 2026 Vojtěch Říha; Apache-2.0.

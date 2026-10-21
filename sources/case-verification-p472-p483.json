@@ -1,0 +1,10 @@
+{
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE300012019.zip",
+  "http_status": 200,
+  "accessed_at": "2026-10-21T06:13:07.789671+00:00",
+  "sha256": "9d869cea956311c57dd296f9bac01e5d240bf0c0a8f9885abc0203bed2790fe4",
+  "zip_sha256": "b5e7cbbfd100131c18d357b8d1ab290803dc226e721a93df318d0ec0be6d97f2",
+  "format": "ZIP parsed as judicial XML",
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii/rii-kore300012019.md",
+  "full_text_read": true
+}

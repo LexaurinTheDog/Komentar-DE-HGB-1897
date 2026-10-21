@@ -1,0 +1,7 @@
+# HGB – Autorencharge §§ 472–483
+
+Dieser begrenzte Arbeitsentwurf umfasst genau 20 Normeinheiten: §§ 472–475, 475a–475h und 476–483. Er ergänzt den Lagerabschnitt, behandelt die Personen der Schifffahrt und beginnt den Stückgutfrachtvertrag. Das Gesamtbuch bleibt unvollständig. Maßgeblicher Rechtsstand ist der Beginn der Titelbearbeitung am 19. Oktober 2026. Der erneute amtliche XML-ZIP-Abruf vom 21. Oktober 2026 ergab HTTP 200 und denselben XML-Hash; die Inkrafttretensprüfung unterscheidet bereits geltende Änderungen von Änderungen 2028/2030.
+
+Quelle: [Gesetze im Internet](https://www.gesetze-im-internet.de/hgb/). Der Wortlaut ist mechanisch aus der verifizierten kanonischen Quelle übernommen. Eigenständige deutsche Erläuterungen behandeln die einzelnen Tatbestände, Rechtsfolgen, interne Verweise und fiktive Beispiele. Die Entscheidung BGH I ZR 146/17 wurde vollständig im amtlichen Text gelesen und selektiv ausgewertet; keine erschöpfende Rechtsprechungserhebung. [Quellen und Grenzen](batch-p472-p483-SOURCES.md), [Fallkarte](cases/bgh-I-ZR-146-17-p475.md), [Autorenprüfung](batch-p472-p483-REVIEW.md), [Einleitung](00-einleitung-p472-p483.md).
+
+Originalkommentar © 2026 Vojtěch Říha, [Apache-2.0](LICENSE). Amtlicher Gesetzes- und Entscheidungstext wird als amtliches Quellenmaterial getrennt behandelt. Keine Übernahme kommerzieller Kommentierungen. Technischer Entwurf; keine unabhängige Zweitprüfung und keine externe professionelle Freigabe. Keine Veröffentlichung oder externe Übermittlung.

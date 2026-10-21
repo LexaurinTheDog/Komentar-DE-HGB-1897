@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-21",
+  "official_queries": [
+    "site.bundesgerichtshof.de \"Lagerschein\" \"475\"",
+    "site.bundesgerichtshof.de \"§ 483\" \"HGB\"",
+    "site.rechtsprechung-im-internet.de \"475\" \"Lagerhalter\"",
+    "site.rechtsprechung-im-internet.de \"480\" \"Reeder\"",
+    "site.bundesgerichtshof.de \"I ZR 146/17\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_hit_log": "research/local-hits-p472-p483.txt",
+  "selected_full_text": "bgh-I-ZR-146-17-p472-p483.xml",
+  "selected_case": "BGH, 2018-09-20, I ZR 146/17",
+  "not_relied_on": [
+    "OLG Frankfurt 7 U 189/14: search hit only",
+    "BGH 2005 PDF nr=34635: search hit only",
+    "OLG Hamburg 6 U 70/23: third-party search hits only"
+  ],
+  "limits": "Selektive Recherche. Für p472–p474, p475a–p475g und p476–p483 keine weitere volltextverifizierte Entscheidung in dieser Charge; kein Nachweis fehlender Rechtsprechung."
+}
