@@ -3,121 +3,121 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p404",
-    "p405",
-    "p406",
-    "p407",
-    "p408",
-    "p409",
-    "p410",
-    "p411",
-    "p412",
-    "p413",
-    "p414",
-    "p415",
-    "p416",
-    "p417",
-    "p418",
-    "p419",
-    "p420",
-    "p421",
-    "p422",
-    "p423"
+    "p424",
+    "p425",
+    "p426",
+    "p427",
+    "p428",
+    "p429",
+    "p430",
+    "p431",
+    "p432",
+    "p433",
+    "p434",
+    "p435",
+    "p436",
+    "p437",
+    "p438",
+    "p439",
+    "p440",
+    "p441",
+    "p442",
+    "p443"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p404",
-      "result": "Verweisung auf §§ 397 und 398 samt gesichertem Forderungskatalog und Selbsteintrittsvoraussetzungen geprüft; keine grenzenlose Sicherheit behauptet."
+      "id": "p424",
+      "result": "Alle vier Absätze: zusätzliche Mindestwartezeit, Benachrichtigungsverlangen bei Entschädigungsempfang, Monatsfrist, Zug-um-Zug-Rückzahlung sowie freie Verfügung geprüft. Dreitagesbeispiel rechnet zutreffend weitere zwanzig Tage."
     },
     {
-      "id": "p405",
-      "result": "Alle drei Absätze: Erklärungsfiktion, Nichtigkeit späterer Festlegung sowie Zugang des Widerrufs vor Abgabe der Anzeige zur Absendung zutreffend unterschieden."
+      "id": "p425",
+      "result": "Beide Absätze: Obhutszeit, verschuldensunabhängiger Grundtatbestand, Lieferfrist und kausale Schadensteilung geprüft; Verpackungsmangel nicht automatisch als pauschale Kürzung behandelt."
     },
     {
-      "id": "p406",
-      "result": "Beide Absätze: andere Geschäfte, Kaufmann ohne ständige Kommissionstätigkeit und nicht vertretbare herzustellende bewegliche Sachen aus Unternehmerstoff geprüft. Abschnittscheckliste zutreffend."
+      "id": "p426",
+      "result": "Größte Sorgfalt, Unvermeidbarkeit des Umstands und Unabwendbarkeit der Folgen kumulativ erläutert; Naturereignisbeispiel trägt keinen automatischen Haftungsausschluss."
     },
     {
-      "id": "p407",
-      "result": "Alle drei Absätze: Beförderung und Ablieferung, Frachtpflicht, gewerblicher Anwendungsbereich und ausdrückliche Ausnahme §§ 348–350 geprüft. Kein Automatismus zur Anwendung auf Seefracht."
+      "id": "p427",
+      "result": "Alle fünf Absätze und sechs Gefahrengruppen: Kausalität, widerlegbare Vermutung, Sonderfall außergewöhnlich großer Verlust sowie Weisungs-, Einrichtungs- und Tiertransportpflichten korrekt abgegrenzt."
     },
     {
-      "id": "p408",
-      "result": "Alle drei Absätze und zwölf Angabengruppen gelesen: Frachtbrief als Dokumentation, drei Originale, Unterschrift und elektronische Funktionsgleichheit geprüft."
+      "id": "p428",
+      "result": "Beide Sätze: Leute bei Verrichtung und andere Beförderungshilfspersonen getrennt; Zurechnung und eigener Anspruch gegen ausführenden Frachtführer nicht verwechselt."
     },
     {
-      "id": "p409",
-      "result": "Alle drei Absätze: beiderseitige Unterzeichnung, äußerer Zustand, begründeter Vorbehalt und tatsächlich geprüfte Menge/Inhalt getrennt; § 420 Abs. 5 richtig abgegrenzt."
+      "id": "p429",
+      "result": "Alle drei Absätze: Übernahmeort und -zeit, hypothetischer beschädigter Wert, Kostenvermutung und Rechnungspreisvermutung geprüft. Beispiel zieht enthaltene Fracht vor Anwendung von § 431 ab."
     },
     {
-      "id": "p410",
-      "result": "Beide Absätze: rechtzeitige Textform, genaue Gefahr, Kenntnis bei Übernahme und Erforderlichkeit geprüft. Ausdrücklichen Haftungsausschluss für erlaubte Maßnahmen nach Abs. 2 Nr. 1 ergänzt; Aufwendungsersatz nach Nr. 2 davon getrennt."
+      "id": "p430",
+      "result": "Schadensfeststellung von Reparatur getrennt; Zusammenrechnung mit § 429 unter § 431 Abs. 1 zutreffend. Keine automatische unbeschränkte Gutachterkostenerstattung behauptet."
     },
     {
-      "id": "p411",
-      "result": "Alle drei Sätze: bedarfsabhängige Verpackung, innere Lademittelsicherung und Kennzeichnung geprüft; Abgrenzung zur Fahrzeugverladung korrekt."
+      "id": "p431",
+      "result": "Alle vier Absätze und beide Gewichtsvarianten geprüft: Rohgewicht entwerteter Sendung, 8,33 SZR, dreifache Fracht für Verspätung und Übernahmetag als Regelumrechnungstag richtig."
     },
     {
-      "id": "p412",
-      "result": "Alle vier Absätze: beförderungs- und betriebssichere Verladung, unentgeltliche Grundzeit, Standgeld und Verordnungsermächtigung geprüft. Amtlichen BGH-Volltext I ZR 37/09 Rn. 1–19 gelesen, Rn. 10–17 tragen die Aussage; historische Querverweise nicht übernommen."
+      "id": "p432",
+      "result": "Fracht, Abgaben und Anlasskosten sowie quotale Beschädigungserstattung geprüft; Ausschluss weiterer Schäden und § 435 korrekt getrennt. Beispiel eines Viertelminderwerts trägt ein Viertel Kosten."
     },
     {
-      "id": "p413",
-      "result": "Beide Absätze: amtliche Behandlung, Urkundenbereitstellung, Umgang mit übergebenen Dokumenten, Entlastung und Verlusthaftungshöchstbetrag geprüft."
+      "id": "p433",
+      "result": "Reine Vermögensschäden ohne Güterschaden oder Verspätung von Sach- und Personenschäden getrennt; dreifacher hypothetischer Verlustbetrag nicht als dreifache Fracht missverstanden."
     },
     {
-      "id": "p414",
-      "result": "Alle drei Absätze und vier Haftungsgründe: Kausalität, verschuldensunabhängige Haftung, Mitverursachung und Verbraucherverschulden geprüft."
+      "id": "p434",
+      "result": "Beide Absätze und drei Ausnahmen geprüft. Präzisiert: Zwei-Rechnungseinheiten-Schwelle ist gewichtsbezogen (§§ 431, 449); Rückausnahme betrifft nur Nr. 1, nicht Nr. 2 und 3."
     },
     {
-      "id": "p415",
-      "result": "Alle drei Absätze: jederzeitige Kündigung, alternatives Abrechnungswahlrecht, Fautfracht, Ersparnisse und Risikosphäre sowie Entladung bereits geladenen Guts geprüft."
+      "id": "p435",
+      "result": "Vorsatz und bewusste Leichtfertigkeit, Zurechnung über § 428 sowie Kausalität geprüft. Wortlautbereich präzisiert: Privilegien dieses Unterabschnitts und des Frachtvertrags; keine grenzenlose Aufhebung aller gesetzlichen Beschränkungen."
     },
     {
-      "id": "p416",
-      "result": "Alle vier Sätze: Teilabfahrt auf Verlangen, Vollfracht abzüglich Ersatzfracht im selben Beförderungsmittel, Sicherheit und Begrenzung bei Frachtführerrisiko geprüft."
+      "id": "p436",
+      "result": "Beide Sätze: persönliche außervertragliche Haftung und Schutz der Leute von Zurechnung unterschieden; Verlust persönlicher Privilegien verlangt eigenes qualifiziertes Verhalten."
     },
     {
-      "id": "p417",
-      "result": "Alle fünf Absätze: Ladepflicht/Bereitstellung, Nachfrist, offensichtliche Erfolglosigkeit, Teilbeförderung, endgültige Weigerung und Risikosphärensperre geprüft."
+      "id": "p437",
+      "result": "Alle vier Absätze: tatsächliche Teilbeförderung, Schaden im ausgeführten Abschnitt, Textformzustimmung zur Haftungserweiterung, Einwendungen, Gesamtschuld und Leute geprüft."
     },
     {
-      "id": "p418",
-      "result": "Alle sechs Absätze: Weisungsinhalt und Grenzen, Vorschuss, Befugniswechsel, Drittempfänger, bedingte Vorlagepflicht, Nachricht und begrenzte Haftung geprüft."
+      "id": "p438",
+      "result": "Alle fünf Absätze: sichtbarer/verdeckter Schaden, sieben Tage, widerlegbare Vermutung, Verspätungserlöschen nach 21 Tagen, Textform und Absendung sowie Anzeige an Ablieferer korrekt."
     },
     {
-      "id": "p419",
-      "result": "Alle vier Absätze: Weisungseinholung, Rückfall ohne Ladeschein, Rollenwechsel, Eigenmaßnahmen mit Auswahlhaftung, Verkauf, Vernichtung und Kostenfolgen geprüft."
+      "id": "p439",
+      "result": "Alle vier Absätze und amtliche Entscheidung vollständig geprüft. Breiten Anspruchsbereich des Abs. 1 und Verjährungshemmung statt Anspruchshemmung präzisiert; Zugang von Anspruchserhebung und Ablehnung gegenüber Absendungsregel des § 438 hervorgehoben. Alte Unterschriftspflicht aus I ZR 75/11 ausdrücklich nicht fortgeschrieben."
     },
     {
-      "id": "p420",
-      "result": "Alle fünf Absätze: Fälligkeit, gutbezogene Aufwendungen, Interesse an Teilstrecke, Unmöglichkeit aus Absendersphäre, Verzögerungsvergütung und besondere Mengenvermutung geprüft."
+      "id": "p440",
+      "result": "Alle vier Absätze: konnexe und unbestrittene inkonnexe Forderungen, zustimmender Dritte, Begleitpapiere, Besitz, gerichtliche Dreitagesfrist und Adressat der Verwertungsmitteilungen geprüft."
     },
     {
-      "id": "p421",
-      "result": "Alle vier Absätze: Empfängerrecht, parallele Anspruchsbefugnis, Frachtbetrag und Angemessenheit, differenzierte Mitteilungspflicht bei Zusatzvergütung und fortbestehende Absenderpflicht geprüft."
+      "id": "p441",
+      "result": "Alle drei Absätze: konkreter Einziehungsauftrag, Fortbestand, gesetzlicher Übergang bei Befriedigung und Spediteur geprüft; keine automatische Forderungssicherung ohne Ausgangspfandrecht behauptet."
     },
     {
-      "id": "p422",
-      "result": "Alle drei Absätze: Einziehungsabrede, Zahlungsmittel, relative Gläubigerzuordnung und verschuldensunabhängige kausale Haftung bis zum Nachnahmebetrag geprüft."
+      "id": "p442",
+      "result": "Beide Absätze: späteres Versendungspfandrecht vorrangig, sonstige Kommissions-/Lagerpfandrechte und Vorschusspfandrechte nachrangig; keine allgemeine Rangordnung gegenüber beliebigen Drittrechten behauptet."
     },
     {
-      "id": "p423",
-      "result": "Vereinbarte und objektiv erforderliche Lieferfrist sowie Ablieferung als Leistungserfolg geprüft; Verweise auf §§ 418, 425 und 431 Abs. 3 gegen JSONL gelesen. Praktische Abwicklungscheckliste für den geprüften Frachtrechtsblock ergänzt."
+      "id": "p443",
+      "result": "Alle drei Absätze: Sollangaben nach § 408 Abs. 1, Unterzeichnung/Nachbildung, Orderfiktion und elektronische Funktionsgleichheit geprüft. Verordnungsermächtigung nicht als bereits existierendes technisches Verfahren dargestellt."
     }
   ],
   "limitations": [
-    "Nur §§ 404–423 zweitgeprüft; keine Gesamtbuchfertigstellung.",
-    "216 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung.",
-    "Selektive Rechtsprechung: amtlicher BGH I ZR 37/09 erneut vollständig gelesen; keine erschöpfende Folgeentscheidungsrecherche.",
-    "Aktualität anhand amtlichem Wiederabruf, bewahrter Änderungskarte und Verkündung geprüft; keine lückenlose BGBl-Jahresauswertung.",
+    "Nur §§ 424–443 zweitgeprüft; keine Gesamtbuchfertigstellung.",
+    "196 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung.",
+    "Selektive Rechtsprechung: BGH I ZR 75/11 vollständig erneut gelesen; keine erschöpfende Folgeentscheidungsrecherche und keine zusätzliche ungeprüfte Autorität.",
+    "Aktualität anhand amtlichem XML-Wiederabruf, bewahrter Änderungskarte und Verkündung geprüft; keine lückenlose BGBl-Jahresauswertung.",
     "Keine externe fachliche Freigabe; Mindestlängenprüfung beweist keine juristische Qualität."
   ],
-  "verified_at": "2026-10-21T05:37:07.876470+00:00",
+  "verified_at": "2026-10-21T05:46:04.966546+00:00",
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
   "statutory_text_agreement": 1.0,
-  "coverage_evidence": "review-p404-p423-coverage.json",
+  "coverage_evidence": "review-p424-p443-coverage.json",
   "full_book_complete": false,
   "bounded_build_success": true
 }
