@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-10-21T07:25:59.766157+00:00",
+  "queries": [
+    "site.rechtsprechung-im-internet.de Schiffsgläubiger § 600 HGB",
+    "site.rechtsprechung-im-internet.de \"Schiffsgläubiger\"",
+    "site.rechtsprechung-im-internet.de \"Große Haverei\""
+  ],
+  "result": "Kein ausreichend einschlägiger amtlicher Entscheidungs-Volltext verifiziert. Historische Drittanbieter-Fundstellen nicht übernommen. Keine Entscheidungen oder gerichtlichen Aussagen zitiert.",
+  "local_corpus": "Sichtbare Intake-Wurzel geprüft; keine nationale gerichtliche Sammlung für diese Recherche identifiziert. Keine Behauptung einer vollständigen Korpussuche.",
+  "limits": "Selektive Suche, keine erschöpfende Rechtsprechungsabdeckung."
+}

@@ -1,0 +1,46 @@
+{
+  "task": "bounded_author",
+  "assigned_ids": [
+    "p584",
+    "p585",
+    "p586",
+    "p587",
+    "p588",
+    "p589",
+    "p590",
+    "p591",
+    "p592",
+    "p593",
+    "p594",
+    "p595",
+    "p596",
+    "p597",
+    "p598",
+    "p599",
+    "p600",
+    "p601",
+    "p602",
+    "p603"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "source_checks": "HTTP 200, ZIP/XML parsed, SHA-256 identical to title-start XML; every assigned text matched mechanically",
+  "case_law_sources": [],
+  "validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 31107,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "whole_book_complete": false,
+  "stage": "bounded_draft_technical_validation",
+  "remaining_limitations": [
+    "Unabhängige Zweitprüfung dieser Charge ausstehend",
+    "Selektive Rechtsprechungssuche ohne zitierfähigen verifizierten amtlichen Volltext",
+    "Gesamtband noch nicht vollständig kommentiert"
+  ],
+  "full_build_exit": 1
+}

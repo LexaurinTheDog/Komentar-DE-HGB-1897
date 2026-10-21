@@ -1,0 +1,47 @@
+[
+  {
+    "file": "INDEX.md",
+    "target": "00-einleitung.md",
+    "exists": true
+  },
+  {
+    "file": "INDEX.md",
+    "target": "39-hgb-teil-p584-p603-39.md",
+    "exists": true
+  },
+  {
+    "file": "INDEX.md",
+    "target": "40-hgb-teil-p584-p603-40.md",
+    "exists": true
+  },
+  {
+    "file": "INDEX.md",
+    "target": "41-hgb-teil-p584-p603-41.md",
+    "exists": true
+  },
+  {
+    "file": "README.md",
+    "target": "sources/verification-p584-p603.json",
+    "exists": true
+  },
+  {
+    "file": "README.md",
+    "target": "author-p584-p603-coverage.json",
+    "exists": true
+  },
+  {
+    "file": "README.md",
+    "target": "sources/commencement.md",
+    "exists": true
+  },
+  {
+    "file": "README.md",
+    "target": "sources/research/case-search-p584-p603.json",
+    "exists": true
+  },
+  {
+    "file": "README.md",
+    "target": "LICENSE",
+    "exists": true
+  }
+]
