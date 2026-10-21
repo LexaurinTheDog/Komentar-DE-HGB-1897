@@ -7,3 +7,5 @@ Unterstützte Einheit: § 605, ergänzend § 607. Gelesen: vollständiger Text, 
 Tragender Schluss: Der Wechsel von der behaupteten Benennung als Empfängerin zur Rechtsübertragung durch Indossamente änderte hier den Streitgegenstand. Für diesen Anspruch wirkte die ursprüngliche Klage nicht verjährungshemmend. Die anderslautende landgerichtliche Würdigung auf S. 3 ist nicht die Auffassung des Senats.
 
 Grenzen: Keine generelle Verneinung der Hemmung bei unvollständigem Vortrag; maßgeblich war die wesentliche Änderung des Erwerbssachverhalts. Keine Entscheidung zu § 608. Sachverhalt 2017/2018, Anwendung der nach 2013 geltenden Seefrachtvorschriften. Die Datumsangaben und der BGB-Verweis auf S. 8 sind nicht widerspruchsfrei; daraus wird kein Fristberechnungsbeispiel abgeleitet. Keine Aussage zur späteren Rechtskraft oder erschöpfenden Rechtsprechungslage.
+
+Zweitprüfung 21. Oktober 2026: vollständige 19 Seiten erneut gelesen; Fundstelle und Abgrenzung zur erstinstanzlichen Auffassung bestätigt. Verjährungshemmung nach Klageerhebung ist von der besonderen außergerichtlichen Hemmung nach § 608 zu trennen.

@@ -1,0 +1,111 @@
+{
+  "complete": true,
+  "units_reviewed": 16,
+  "reviewed_ids": [
+    "p604",
+    "p605",
+    "p606",
+    "p607",
+    "p608",
+    "p609",
+    "p610",
+    "p611",
+    "p612",
+    "p613",
+    "p614",
+    "p615",
+    "p616",
+    "p617",
+    "p618",
+    "p619"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p604",
+      "review": "Binnenrang je Katalognummer präzisiert; umgekehrte zeitliche Rangfolge auf ganze Nummer 4 einschließlich Haverei/Wrack erstreckt; Entstehungsfiktionen des § 603 Abs. 3 ergänzt.",
+      "disposition": "corrected"
+    },
+    {
+      "id": "p605",
+      "review": "Vier Anspruchsgruppen und unterschiedliche Beginnregeln geprüft. Bremer Urteil vollständig gelesen: Senatsauffassung, Streitgegenstandswechsel und keine allgemeine Verneinung der Hemmung bei Vortragsergänzung.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p606",
+      "review": "Alle vier Zweijahresgruppen, nationaler Fahrgast-Anwendungsbereich und Abgrenzung des Reederregresses geprüft.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p607",
+      "review": "Sieben Absätze einschließlich Dreimonatsunterrichtung, Zeitcharterregress, letzter Reise und Höchstverschiebung bei Tod geprüft.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p608",
+      "review": "Ersatzanspruch, beiderseitige Textform, Ablehnung, Restfrist und Wiederholungsverbot geprüft; reine Vergütung nicht pauschal einbezogen.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p609",
+      "review": "Individualabrede bei Stückgut/Konnossement; Drittwirkung; nachträgliche Fahrgastverlängerung und Verkürzungsverbot geprüft.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p610",
+      "review": "Konkrete Konkurrenz vertraglicher/außervertraglicher Schadensersatzansprüche, keine Anspruchsbegründung oder pauschale Seeschadensfrist.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p611",
+      "review": "Absätze 1–5 einschließlich Bunkeröl, Ölhaftungsregime, getrennter Summen nach Absatz 3 und Ausnahmen nach Absatz 4 geprüft.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p612",
+      "review": "Beide Kostenkategorien, Entgeltausnahme, gleicher Personenkreis/Ereignis und ausschließlich verfügbare Sondersumme geprüft.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p613",
+      "review": "250-Tonnen-Grenze einschließlich, Hälfte der 2000-Tonnen-Summe, Verweis nur auf Artikel 6 Absatz 1 Buchstabe b und Beispiel geprüft.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p614",
+      "review": "Vier Infrastrukturarten, Vorrang innerhalb Sachschadenssumme und ausdrücklicher Personenschadensvorbehalt geprüft.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p615",
+      "review": "Alle vier Absätze: 2000 Tonnen, zwölf zugelassene Fahrgäste, Fondsausnahme und gesonderte Summe für nicht an Bord tätigen Lotsen.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p616",
+      "review": "Kumulative Organzurechnung und Konventionsausschluss geprüft; Absatz 2 von persönlich haftendem Gesellschafter auf jeden Gesellschafter mit konkreter persönlicher Haftung berichtigt.",
+      "disposition": "corrected"
+    },
+    {
+      "id": "p617",
+      "review": "Fondsverfahren und Beschränkung ohne Fonds geprüft; § 305a ZPO amtlich gelesen und Sondervoraussetzungen/bedingte spätere Fondserrichtung erklärt.",
+      "disposition": "corrected"
+    },
+    {
+      "id": "p618",
+      "review": "Bergerstellung, Hauptsachegericht, Abschlag und Bedingungen; §§ 935/940 ZPO amtlich gelesen, Entbehrlichkeit dieser Voraussetzungen und Abgrenzung § 587 geprüft.",
+      "disposition": "checked"
+    },
+    {
+      "id": "p619",
+      "review": "Abschließende Verfahrensstücke, Kapitän des betroffenen Schiffes/Schiffer, dinglicher Gegenstand und keine allgemeine persönliche Zustellungsvertretung geprüft.",
+      "disposition": "checked"
+    }
+  ],
+  "limitations": [
+    "Begrenzte zweite Durchsicht ausschließlich §§ 604–619; keine Gesamtbuchfreigabe und keine externe anwaltliche Prüfung.",
+    "Eine selektiv recherchierte Entscheidung (OLG Bremen 2 U 11/22) am gesamten amtlichen Volltext geprüft; keine erschöpfende Rechtsprechungsabdeckung.",
+    "Internationale Haftungssummen werden nicht beziffert; Verweisungssystem des HGB erläutert, keine vollständige eigenständige Kommentierung der Übereinkommen."
+  ],
+  "source_preflight": "preflight-p604-p619-review-result.json"
+}
