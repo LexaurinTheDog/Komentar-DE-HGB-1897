@@ -609,5 +609,20 @@
     "historical_versions_checked": "Alle 814 amtlichen doknr eindeutig; 696 amtliche Normkennungen gegen Parser und Texte abgeglichen. Keine historischen Fassungen verkettet; Quellstände bleiben erhalten.",
     "annexes_checked": "696 Vorschriften, 117 Gliederungsknoten, textlose Metadatenkopfnorm. Keine eigene operative Anlage oder fehlende operative Eingangsformel im amtlichen XML; Sammelleerstellen bewahrt, keine in dieser Charge.",
     "unresolved_blockers": []
+  },
+  "bounded_review_p504_p523": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T06:48:16.226979+00:00",
+    "version_evidence": {
+      "fetch": "sources/review-p504-p523-fetch.json",
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "identical_to_start": true,
+      "commencement": "Quellenprüfung: sources/commencement.md, sources/bgbl-2026-33.txt (Artikel 64), sources/change-map.json. 2026 wirksame Änderungen von 2028/2030 getrennt. Wiederabruf bytegleich; keine abweichende Fassung gegenüber Titelbeginn oder erhaltenem Intake."
+    },
+    "historical_versions_checked": "814 eindeutige amtliche doknr; 696 Normkennungen, 117 Gliederungsknoten, ein Metadatenkopf. Keine Aneinanderreihung historischer Fassungen. Für die 20 Einheiten mechanischer Volltextvergleich mit neuem amtlichem XML.",
+    "annexes_checked": "Keine selbständige operative Anlage im amtlichen HGB-XML; alle 117 Gliederungsknoten und alle Normkennungen berücksichtigt. Der unnummerierte Metadatenkopf enthält keinen operativen Wortlaut. Sammelleerstellen im Gesamtbestand bleiben erhalten; keine Leerstelle in dieser Charge.",
+    "unresolved_blockers": []
   }
 }

@@ -1,0 +1,21 @@
+{
+  "checked_local_links": 3,
+  "missing": [],
+  "links": [
+    {
+      "file": "36-hgb-teil-p506-p523.md",
+      "target": "cases/bgh-I-ZR-181-08-p507.md",
+      "exists": true
+    },
+    {
+      "file": "cases/bgh-I-ZR-181-08-p507.md",
+      "target": "../sources/case-KORE318202010-p504-p523.xml",
+      "exists": true
+    },
+    {
+      "file": "cases/bgh-I-ZR-181-08-p507.md",
+      "target": "../sources/verification-case-p504-p523.json",
+      "exists": true
+    }
+  ]
+}

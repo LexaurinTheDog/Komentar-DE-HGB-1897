@@ -3,118 +3,117 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p484",
-    "p485",
-    "p486",
-    "p487",
-    "p488",
-    "p489",
-    "p490",
-    "p491",
-    "p492",
-    "p493",
-    "p494",
-    "p495",
-    "p496",
-    "p497",
-    "p498",
-    "p499",
-    "p500",
-    "p501",
-    "p502",
-    "p503"
+    "p504",
+    "p505",
+    "p506",
+    "p507",
+    "p508",
+    "p509",
+    "p510",
+    "p511",
+    "p512",
+    "p513",
+    "p514",
+    "p515",
+    "p516",
+    "p517",
+    "p518",
+    "p519",
+    "p520",
+    "p521",
+    "p522",
+    "p523"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p484",
-      "result": "Alle drei Sätze geprüft: bedingte Verpackungs- und Kennzeichnungspflicht, innere Lademittelsicherung von Schiffsverladung getrennt; §§ 486/488/499 und Maschinenbeispiel zutreffend."
+      "id": "p504",
+      "result": "Beide Absätze geprüft: 666,67 SZR/Stück und 2 SZR/kg Rohgewicht ausdrücklich ergänzt; höhere Grenze, Lademittelangaben und Entwertung bei Teilschaden zutreffend. Rechenbeispiel 6.666,70 gegen 2.000 korrekt."
     },
     {
-      "id": "p485",
-      "result": "See- und Ladungstüchtigkeit anhand aller gesetzlichen Ausstattungsmerkmale geprüft; § 498 Absatz 2 und bis Reiseantritt reichende Entdeckbarkeitsprüfung zutreffend, keine Garantiehaftung behauptet."
+      "id": "p505",
+      "result": "Alle drei Sätze geprüft: SZR, Euro, Ablieferungstag/vereinbarter Tag und IWF-Methode zutreffend. Fehlende ausdrückliche Verlusttagsregel offen benannt statt erfunden."
     },
     {
-      "id": "p486",
-      "result": "Alle vier Absätze geprüft: Abladungszeit, Empfangsbekenntnis in Textform, gesetzliche Ladeverteilung, Containerumladung und beide Voraussetzungen zustimmungsfreier Deckladung; Abladerrolle bei Konnossement korrekt."
+      "id": "p506",
+      "result": "Beide Absätze samt drei Ausnahmen und Rückausnahme vollständig geprüft. Außervertragliche Ansprüche, kumulative Voraussetzungen der Nummer 2 und Abhandenkommen korrekt unterschieden."
     },
     {
-      "id": "p487",
-      "result": "Beide Absätze geprüft: erforderliche Begleitunterlagen, Urkundenverlust/-beschädigung/-fehlverwendung, Entlastung, Haftungsgrenze, individuelles Aushandeln und Drittwirkung im Konnossement zutreffend."
+      "id": "p507",
+      "result": "Beide Nummern und vollständiges BGH-Urteil I ZR 181/08 geprüft: eigenes qualifiziertes Verhalten und eigenständiger heutiger Unterdecktatbestand getrennt. Altes Recht ausdrücklich nur historischer Vergleich."
     },
     {
-      "id": "p488",
-      "result": "Alle fünf Absätze und Tatbestandsnummern geprüft: verschuldensabhängige Grundfälle, Dritthaftung, verschuldensunabhängige Konnossementsfälle, eigene Angaben, Mitverursachung nur nach Absatz 3 und Gestaltungsmöglichkeiten unterschieden."
+      "id": "p508",
+      "result": "Alle drei Absätze geprüft: persönlicher Schutz, eigenes qualifiziertes Verschulden, Gesamtschuld ohne Doppelersatz. Keine automatische Übertragung des Gehilfenverschuldens auf § 507."
     },
     {
-      "id": "p489",
-      "result": "Alle drei Absätze geprüft: jederzeitige Kündigung, alternative konkrete Berechnung/Fautfracht, Risikosphäre und Interesse, Kosten bei Maßnahmen nach § 492 Absatz 3 Satz 2–4 korrekt."
+      "id": "p509",
+      "result": "Alle fünf Absätze geprüft: tatsächlicher Beförderungsabschnitt, Textformzustimmung, Einwendungen, Gesamtschuld und Hilfspersonen. Haftungserweiterungen ausdrücklich sowohl mit Befrachter als auch Empfänger erfasst."
     },
     {
-      "id": "p490",
-      "result": "Alle fünf Absätze geprüft: angemessene Frist, offensichtlicher Fristmisserfolg, Teilabladung und Ersatzladung, zusätzliche Sicherheit, unterschiedliche fristlose Wege und Verfrachtersphäre sachgerecht."
+      "id": "p510",
+      "result": "Alle vier Absätze geprüft: erkennbare/verdeckte Schäden, Dreitagesfrist, Textform, Absendung und abliefernde Person. Vermutung von Anspruchsausschluss getrennt."
     },
     {
-      "id": "p491",
-      "result": "Alle fünf Absätze geprüft: Weisungsinhalt und drohende Nachteile, Kosten/Vorschuss, Übergang am Löschplatz, Seefrachtbriefvorlage, unverzügliche Nachricht, begrenzte Ersatzhaftung; § 520 vollständig gegengelesen."
+      "id": "p511",
+      "result": "Alle vier Absätze geprüft: doppelte vereinbarte Lieferfrist, 30/60 Tage, Sicherungsrechte, Benachrichtigung, Monatsfrist, Rückerstattung und freie Verfügung korrekt. Fehlende Lieferfrist nicht aus Erinnerung ergänzt."
     },
     {
-      "id": "p492",
-      "result": "Alle vier Absätze geprüft: Hindernis nach Übernahme, Rückfall ohne Konnossement, Rollentausch, Auswahlhaftung, Verkaufsvoraussetzungen/Vernichtung und Beendigungsfiktion; Risikosphäre von Handlungsbefugnis getrennt."
+      "id": "p512",
+      "result": "Beide Absätze geprüft: individuelles Aushandeln, Mehrfachverträge, nautische Ausnahme mit Ladungsinteresse, Feuer/Explosion und nur höhere Formulargrenzen; §§ 506/507/525 gegengelesen."
     },
     {
-      "id": "p493",
-      "result": "Alle fünf Absätze geprüft. Aufwendungsersatz präzisiert: erforderlich halten dürfen aus damaliger Sicht, nicht objektiver nachträglicher Erfolg. Teilfrachtinteresse, Unmöglichkeit/Annahmeverzug, Wartevergütung und Mengenvermutung korrekt."
+      "id": "p513",
+      "result": "Beide Absätze geprüft: verlangtes Orderpapier, drei Ordervarianten, Zeichnungsbefugnis, tatsächliche Übergabe plus Benennung und Befrachterauffangregel. Keine automatische Abladerstellung des Terminals."
     },
     {
-      "id": "p494",
-      "result": "Alle vier Absätze geprüft: Empfängeranspruch und fremdes Interesse, parallele Anspruchsbefugnis ohne Doppelersatz, Dokumentobergrenze/angemessene Fracht, Mitteilung der Verzögerungsvergütung und Befrachterschuld zutreffend."
+      "id": "p514",
+      "result": "Alle drei Absätze geprüft: Übernahme, Verpflichtungsinhalt, Bordkonnossement/Bordvermerk, tatsächliches Schiff und Verladedatum sowie Originalanzahl. §§ 520/521 zutreffend unterschieden."
     },
     {
-      "id": "p495",
-      "result": "Alle vier Absätze geprüft. Eigentümergruppen präzisiert: Abladereigentum unmittelbar erfasst, Zustimmungserfordernis ausdrücklich für übrigen Dritteigentümer. Altansprüche nur an Befrachtergut, Besitz/Zehntagesfrist und Benachrichtigungen korrekt."
+      "id": "p515",
+      "result": "Alle zehn Nummern und Absatz 2 geprüft: Sollinhalt, Frachtzahlung, Originalzahl und vor Übernahme in Textform mitgeteilte Angaben. Fehlende Angabe nicht pauschal als Unwirksamkeit behandelt."
     },
     {
-      "id": "p496",
-      "result": "Alle drei Absätze geprüft: vorausgesetzter Einziehungsauftrag, Fortbestand vorheriger Pfandrechte, gesetzlicher Forderungs-/Pfandrechtsübergang nach Befriedigung und Einbeziehung beteiligter Spediteure zutreffend."
+      "id": "p516",
+      "result": "Alle drei Absätze geprüft: Unterschriftsnachbildung, elektronische Funktionsgleichheit/Authentizität/Integrität und Verordnungsermächtigung. Keine unbewiesene Verordnungs- oder Zulassungsbehauptung."
     },
     {
-      "id": "p497",
-      "result": "Verweisung mit vollständig gelesenem § 442 abgeglichen: umgekehrte Zeitfolge nur innerhalb der Versendungs-/Beförderungsrechte; Ranggruppe nichtversendungsbedingter Rechte und Vorschüsse richtig begrenzt. Prüfliste sachgerecht."
+      "id": "p517",
+      "result": "Beide Absätze und vier Vorbehaltsalternativen geprüft: geschlossene Lademittel nur bei Prüfung plus Eintragung, äußerlich guter Zustand bei Schweigen und Umfang des Vorbehalts. Beweiswirkung von Stückzählung getrennt."
     },
     {
-      "id": "p498",
-      "result": "Alle drei Absätze sowie vollständiges Urteil BGH I ZR 181/08 geprüft: tatsächlicher Obhutsschaden, Entlastung/Tüchtigkeitsmangel und Mitverschulden. Historischer § 606 ausdrücklich vom heutigen § 500 abgegrenzt; Parteivortrag nicht als Feststellung übernommen."
+      "id": "p518",
+      "result": "Einzeltatbestand geprüft: qualifizierte Zeichnungsbefugnis, fehlende/falsche Verfrachterangabe und Ersatzzuordnung an Reeder im Dokumentenverhältnis. Schadenshaftung nach § 523 Absatz 3 getrennt."
     },
     {
-      "id": "p499",
-      "result": "Alle neun Nummern und vier Absätze geprüft; gesetzliche Ursachen nun einzeln zugeordnet, gerichtliche Beschlagnahme und Seegewässergrenze für Menschenrettung/Bergung ausdrücklich ergänzt. Wahrscheinlichkeitsvermutung, Untüchtigkeit sowie Schutz-/Tiertransportanforderungen korrekt."
+      "id": "p519",
+      "result": "Alle drei Legitimationswege geprüft: Inhaber, Order/Indossamentenkette, Name. Materielle Berechtigung von widerleglicher Legitimation getrennt; §§ 520/521 gegengelesen."
     },
     {
-      "id": "p500",
-      "result": "Beide Sätze geprüft: fehlende erforderliche Zustimmung, Verschuldensunabhängigkeit und widerlegliche Deckkausalität; kein automatischer Verlust aller Höchstbeträge behauptet."
+      "id": "p520",
+      "result": "Beide Absätze geprüft: ausschließlich legitimierter Besitzer, sämtliche Ausfertigungen, Wissenssperre, kausaler Schaden und Verlustbetrag als Grenze. Keine Verwechslung mit einzelner Ablieferungsausfertigung."
     },
     {
-      "id": "p501",
-      "result": "Beide Zurechnungssätze geprüft: Leute/Besatzung und sonstige Ausführungsgehilfen; sachlicher Leistungsbezug statt allgemeiner Hafenhaftung. §§ 512/525 vollständig gelesen, nautischer Haftungsausschluss nicht als gesetzlicher Normalfall dargestellt."
+      "id": "p521",
+      "result": "Alle vier Absätze geprüft: Löschplatz, Zahlungsverweis, Rückgabe/Bescheinigung, Wissenssperre, eine Ausfertigung, mehrere Anmelder, sichere Hinterlegung/Verkauf und Fehlablieferungsgrenze. Sprachfehler korrigiert."
     },
     {
-      "id": "p502",
-      "result": "Alle vier Absätze geprüft: unterschiedliche Bewertungszeitpunkte bei Verlust/Beschädigung, Differenz- und Kostenvermutung, Marktpreis/Rechnungsvermuten, ersparte Kosten/Fracht; § 504 gegengelesen."
+      "id": "p522",
+      "result": "Alle drei Absätze geprüft: drei Einwendungsgruppen, bloßer Verweis ausgeschlossen, Begebung/gutgläubiger Erwerb und Aussteller-Ausnahme des ausführenden Verfrachters. Keine zusätzliche Vermutung erfunden."
     },
     {
-      "id": "p503",
-      "result": "Einzelsatz und § 504 Absatz 1 geprüft: gesonderte Feststellungskosten ohne Doppelansatz bei Reparatur, gemeinsame Höchstgrenze und Zusammenhang mit bestehendem Güterschadensanspruch zutreffend."
+      "id": "p523",
+      "result": "Alle vier Absätze geprüft: fehlende/unrichtige Angaben und Vorbehalte, Sorgfaltsentlastung, unterschiedliche Zeitpunkte in Absatz 2, Reederhaftung und Grenze. Zeichnungsvoraussetzungen ausdrücklich statt unklarer Kurzform benannt; praktische Dokumentenprüfliste ergänzt."
     }
   ],
   "limitations": [
-    "Nur die zugewiesenen §§ 484–503 inhaltlich geprüft; keine Gesamtbuchfertigstellung.",
-    "116 noch fehlende Kommentare außerhalb der Charge verhindern Gesamtbuild/-validierung.",
-    "Selektive Rechtsprechung; BGH I ZR 181/08 vollständig erneut gelesen. Keine erschöpfende Folgeentscheidungsrecherche. Urteil nach altem Seehandelsrecht nur als historischer Vergleich verwendet.",
-    "Amtlicher Wiederabruf und dokumentierte Inkrafttretensbelege, keine eigene lückenlose Auswertung aller BGBl-Ausgaben.",
-    "Keine externe fachliche Freigabe; technische Übereinstimmung und Mindestlänge beweisen keine juristische Fehlerfreiheit."
+    "Inhaltliche Zweitprüfung ausschließlich §§ 504–523; keine Gesamtbuchfertigstellung.",
+    "Selektive Rechtsprechung: BGH I ZR 181/08 vollständig erneut gelesen, nur als historischer Vergleich. Keine erschöpfende Rechtsprechungsrecherche.",
+    "Amtlicher Wiederabruf, Inkrafttretensbelege und Veränderungskarte geprüft; keine lückenlose eigene Auswertung aller Bundesgesetzblätter.",
+    "Keine externe fachliche Freigabe. Technische Übereinstimmung und Mindestlänge beweisen keine juristische Fehlerfreiheit."
   ],
-  "verified_at": "2026-10-21T06:34:58.107332+00:00",
+  "verified_at": "2026-10-21T06:48:16.226979+00:00",
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
   "statutory_text_agreement": 1.0,
   "full_book_complete": false

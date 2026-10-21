@@ -1,0 +1,120 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p504",
+    "p505",
+    "p506",
+    "p507",
+    "p508",
+    "p509",
+    "p510",
+    "p511",
+    "p512",
+    "p513",
+    "p514",
+    "p515",
+    "p516",
+    "p517",
+    "p518",
+    "p519",
+    "p520",
+    "p521",
+    "p522",
+    "p523"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p504",
+      "result": "Beide Absätze geprüft: 666,67 SZR/Stück und 2 SZR/kg Rohgewicht ausdrücklich ergänzt; höhere Grenze, Lademittelangaben und Entwertung bei Teilschaden zutreffend. Rechenbeispiel 6.666,70 gegen 2.000 korrekt."
+    },
+    {
+      "id": "p505",
+      "result": "Alle drei Sätze geprüft: SZR, Euro, Ablieferungstag/vereinbarter Tag und IWF-Methode zutreffend. Fehlende ausdrückliche Verlusttagsregel offen benannt statt erfunden."
+    },
+    {
+      "id": "p506",
+      "result": "Beide Absätze samt drei Ausnahmen und Rückausnahme vollständig geprüft. Außervertragliche Ansprüche, kumulative Voraussetzungen der Nummer 2 und Abhandenkommen korrekt unterschieden."
+    },
+    {
+      "id": "p507",
+      "result": "Beide Nummern und vollständiges BGH-Urteil I ZR 181/08 geprüft: eigenes qualifiziertes Verhalten und eigenständiger heutiger Unterdecktatbestand getrennt. Altes Recht ausdrücklich nur historischer Vergleich."
+    },
+    {
+      "id": "p508",
+      "result": "Alle drei Absätze geprüft: persönlicher Schutz, eigenes qualifiziertes Verschulden, Gesamtschuld ohne Doppelersatz. Keine automatische Übertragung des Gehilfenverschuldens auf § 507."
+    },
+    {
+      "id": "p509",
+      "result": "Alle fünf Absätze geprüft: tatsächlicher Beförderungsabschnitt, Textformzustimmung, Einwendungen, Gesamtschuld und Hilfspersonen. Haftungserweiterungen ausdrücklich sowohl mit Befrachter als auch Empfänger erfasst."
+    },
+    {
+      "id": "p510",
+      "result": "Alle vier Absätze geprüft: erkennbare/verdeckte Schäden, Dreitagesfrist, Textform, Absendung und abliefernde Person. Vermutung von Anspruchsausschluss getrennt."
+    },
+    {
+      "id": "p511",
+      "result": "Alle vier Absätze geprüft: doppelte vereinbarte Lieferfrist, 30/60 Tage, Sicherungsrechte, Benachrichtigung, Monatsfrist, Rückerstattung und freie Verfügung korrekt. Fehlende Lieferfrist nicht aus Erinnerung ergänzt."
+    },
+    {
+      "id": "p512",
+      "result": "Beide Absätze geprüft: individuelles Aushandeln, Mehrfachverträge, nautische Ausnahme mit Ladungsinteresse, Feuer/Explosion und nur höhere Formulargrenzen; §§ 506/507/525 gegengelesen."
+    },
+    {
+      "id": "p513",
+      "result": "Beide Absätze geprüft: verlangtes Orderpapier, drei Ordervarianten, Zeichnungsbefugnis, tatsächliche Übergabe plus Benennung und Befrachterauffangregel. Keine automatische Abladerstellung des Terminals."
+    },
+    {
+      "id": "p514",
+      "result": "Alle drei Absätze geprüft: Übernahme, Verpflichtungsinhalt, Bordkonnossement/Bordvermerk, tatsächliches Schiff und Verladedatum sowie Originalanzahl. §§ 520/521 zutreffend unterschieden."
+    },
+    {
+      "id": "p515",
+      "result": "Alle zehn Nummern und Absatz 2 geprüft: Sollinhalt, Frachtzahlung, Originalzahl und vor Übernahme in Textform mitgeteilte Angaben. Fehlende Angabe nicht pauschal als Unwirksamkeit behandelt."
+    },
+    {
+      "id": "p516",
+      "result": "Alle drei Absätze geprüft: Unterschriftsnachbildung, elektronische Funktionsgleichheit/Authentizität/Integrität und Verordnungsermächtigung. Keine unbewiesene Verordnungs- oder Zulassungsbehauptung."
+    },
+    {
+      "id": "p517",
+      "result": "Beide Absätze und vier Vorbehaltsalternativen geprüft: geschlossene Lademittel nur bei Prüfung plus Eintragung, äußerlich guter Zustand bei Schweigen und Umfang des Vorbehalts. Beweiswirkung von Stückzählung getrennt."
+    },
+    {
+      "id": "p518",
+      "result": "Einzeltatbestand geprüft: qualifizierte Zeichnungsbefugnis, fehlende/falsche Verfrachterangabe und Ersatzzuordnung an Reeder im Dokumentenverhältnis. Schadenshaftung nach § 523 Absatz 3 getrennt."
+    },
+    {
+      "id": "p519",
+      "result": "Alle drei Legitimationswege geprüft: Inhaber, Order/Indossamentenkette, Name. Materielle Berechtigung von widerleglicher Legitimation getrennt; §§ 520/521 gegengelesen."
+    },
+    {
+      "id": "p520",
+      "result": "Beide Absätze geprüft: ausschließlich legitimierter Besitzer, sämtliche Ausfertigungen, Wissenssperre, kausaler Schaden und Verlustbetrag als Grenze. Keine Verwechslung mit einzelner Ablieferungsausfertigung."
+    },
+    {
+      "id": "p521",
+      "result": "Alle vier Absätze geprüft: Löschplatz, Zahlungsverweis, Rückgabe/Bescheinigung, Wissenssperre, eine Ausfertigung, mehrere Anmelder, sichere Hinterlegung/Verkauf und Fehlablieferungsgrenze. Sprachfehler korrigiert."
+    },
+    {
+      "id": "p522",
+      "result": "Alle drei Absätze geprüft: drei Einwendungsgruppen, bloßer Verweis ausgeschlossen, Begebung/gutgläubiger Erwerb und Aussteller-Ausnahme des ausführenden Verfrachters. Keine zusätzliche Vermutung erfunden."
+    },
+    {
+      "id": "p523",
+      "result": "Alle vier Absätze geprüft: fehlende/unrichtige Angaben und Vorbehalte, Sorgfaltsentlastung, unterschiedliche Zeitpunkte in Absatz 2, Reederhaftung und Grenze. Zeichnungsvoraussetzungen ausdrücklich statt unklarer Kurzform benannt; praktische Dokumentenprüfliste ergänzt."
+    }
+  ],
+  "limitations": [
+    "Inhaltliche Zweitprüfung ausschließlich §§ 504–523; keine Gesamtbuchfertigstellung.",
+    "Selektive Rechtsprechung: BGH I ZR 181/08 vollständig erneut gelesen, nur als historischer Vergleich. Keine erschöpfende Rechtsprechungsrecherche.",
+    "Amtlicher Wiederabruf, Inkrafttretensbelege und Veränderungskarte geprüft; keine lückenlose eigene Auswertung aller Bundesgesetzblätter.",
+    "Keine externe fachliche Freigabe. Technische Übereinstimmung und Mindestlänge beweisen keine juristische Fehlerfreiheit."
+  ],
+  "verified_at": "2026-10-21T06:48:16.226979+00:00",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "statutory_text_agreement": 1.0,
+  "full_book_complete": false
+}
