@@ -1,0 +1,44 @@
+{
+  "stage": "bounded_author_checkpoint",
+  "complete": true,
+  "assigned_units": 20,
+  "completed_units": 20,
+  "ids": [
+    "p444",
+    "p445",
+    "p446",
+    "p447",
+    "p448",
+    "p449",
+    "p450",
+    "p451",
+    "p451a",
+    "p451b",
+    "p451c",
+    "p451d",
+    "p451e",
+    "p451f",
+    "p451g",
+    "p451h",
+    "p452",
+    "p452a",
+    "p452b",
+    "p452c"
+  ],
+  "commentary_chars": 30345,
+  "identical_paragraphs": 0,
+  "source_verification": "sources/verification-p444-p452c.json",
+  "coverage": "author-p444-p452c-coverage.json",
+  "case_law_sources": [],
+  "limitations": [
+    "Gesamtbuch unvollständig; unabhängige Zweitprüfung der Charge ausstehend.",
+    "Amtlicher BGH-Volltextabruf blockiert; keine Entscheidung ungeprüft zitiert."
+  ],
+  "validation": {
+    "ok": true,
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "errors": [],
+    "warnings": []
+  }
+}

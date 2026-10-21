@@ -1,0 +1,14 @@
+{
+  "queries": [
+    "site.bundesgerichtshof.de \"452a\" \"Schadensort\"",
+    "site.bundesgerichtshof.de \"451g\" Umzug"
+  ],
+  "candidate": "BGH 01.12.2016 I ZR 128/15",
+  "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2016-12-1&Gericht=bgh&anz=14&nr=77622&pos=3",
+  "http_status": 200,
+  "accessed_at": "2026-10-21T05:51:25.741793+00:00",
+  "response_sha256": "19a3dcf0ee6bceb9c229b37e4fcada4a313c9a1b280b81325e2ec72dcb8f6aa9",
+  "format_valid_pdf": false,
+  "disposition": "Amtlicher Volltext nicht verfügbar; keine Aussagen aus Suchsnippet übernommen.",
+  "limitations": "Keine vollständige Rechtsprechungsabdeckung; keine Fallkarte ohne Volltext."
+}
