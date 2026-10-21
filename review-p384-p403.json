@@ -1,0 +1,123 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p384",
+    "p385",
+    "p386",
+    "p387",
+    "p388",
+    "p389",
+    "p390",
+    "p391",
+    "p392",
+    "p393",
+    "p394",
+    "p395",
+    "p396",
+    "p397",
+    "p398",
+    "p399",
+    "p400",
+    "p401",
+    "p402",
+    "p403"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p384",
+      "result": "Alle drei Absätze: Sorgfalt, Weisungen, Nachrichten, Rechenschaft, Herausgabe und Namhaftmachungshaftung geprüft. Eigenständige Kundenstammherausgabe nach BGH Rn. 37–40 ergänzt."
+    },
+    {
+      "id": "p385",
+      "result": "Beide Absätze: Schadensersatz und interne Nichtzurechnung von Außenwirksamkeit getrennt; § 665 BGB und Gefährdung durch Aufschub zutreffend."
+    },
+    {
+      "id": "p386",
+      "result": "Beide Absätze: unverzügliche Zurückweisung, begrenzte Genehmigung, gleichzeitiges Deckungsangebot und Mehrschaden zutreffend."
+    },
+    {
+      "id": "p387",
+      "result": "Beide Absätze: bessere Bedingungen und beiderseitige Preisvorteile dem Kommittenten zugewiesen; Provision getrennt."
+    },
+    {
+      "id": "p388",
+      "result": "Beide Absätze: äußerlich erkennbarer Ablieferungsschaden, drei Sicherungspflichten, kausaler Schaden und Notverkaufsvoraussetzungen samt § 373 geprüft."
+    },
+    {
+      "id": "p389",
+      "result": "Erforderliche unterlassene Disposition von bloßem Schweigen getrennt; Verweis auf § 373 zutreffend."
+    },
+    {
+      "id": "p390",
+      "result": "Beide Absätze: Obhutshaftung mit Entlastung, keine Garantie; Versicherung nur bei Weisung und unabhängige Sorgfaltspflicht zutreffend."
+    },
+    {
+      "id": "p391",
+      "result": "Beiderseitiges Handelsgeschäft, entsprechende Käuferregeln, weggefallener § 378 und erhaltene Abtretung trotz verspäteter Anzeige zutreffend."
+    },
+    {
+      "id": "p392",
+      "result": "Beide Absätze: Abtretung für Außenanspruch und relative Zuordnung gegenüber Kommissionärsgläubigern getrennt. BGH Rn. 12, 16–19 gelesen."
+    },
+    {
+      "id": "p393",
+      "result": "Alle drei Absätze: eigene Gefahr, örtlicher Handelsgebrauch und gegenläufige Weisung, sofortige Zahlung und hypothetischer Barpreis samt Limitdifferenz geprüft."
+    },
+    {
+      "id": "p394",
+      "result": "Beide Absätze: Übernahme oder Niederlassungsgebrauch, unmittelbare Haftung bei Verfall, Vertragsumfang und besondere Provision zutreffend."
+    },
+    {
+      "id": "p395",
+      "result": "Bedingtes Indossamentserfordernis, übliche Form und Vorbehaltlosigkeit geprüft; kein genereller Indossierungszwang behauptet."
+    },
+    {
+      "id": "p396",
+      "result": "Beide Absätze: Ausführung, Ortsgebrauch bei Auslieferungsprovision, nur persönliche Verhinderung und Eigenbetriebsmittel geprüft. BGH-Vertragskosten nicht als gesetzliche Pauschale übernommen."
+    },
+    {
+      "id": "p397",
+      "result": "Alle drei Sätze: Forderungskatalog, Dritteigentum mit Zustimmung, laufende Rechnung nur bei Kommittentengut und Besitz/Papierverfügung geprüft."
+    },
+    {
+      "id": "p398",
+      "result": "Eigentümerbefriedigung nach Pfandrecht auf §-397-Ansprüche begrenzt; Überschuss und Verfahren beachtet."
+    },
+    {
+      "id": "p399",
+      "result": "Forderung als Sicherungsobjekt, §-397-Katalog, Rang gegenüber Kommittent und Gläubigern und Verhältnis zu § 392 geprüft."
+    },
+    {
+      "id": "p400",
+      "result": "Alle fünf Absätze geprüft. Kursarten und Preisgrenze des amtlich festgestellten Preises für Waren UND Wertpapiere ausdrücklich ergänzt. Absendeabgabe vom Zugang unterschieden."
+    },
+    {
+      "id": "p401",
+      "result": "Beide Absätze: günstigere sorgfaltsgemäße Möglichkeit und konkretes auftragsveranlasstes Drittgeschäft vor Absendung getrennt; kein pauschaler Zugriff auf Eigenhandel."
+    },
+    {
+      "id": "p402",
+      "result": "Einseitig zwingender Schutz genau auf § 400 Abs. 2–5 und § 401 begrenzt; Abs. 1 nicht fälschlich erfasst."
+    },
+    {
+      "id": "p403",
+      "result": "Gewöhnliche Provision und regelmäßig vorkommende Kosten geprüft, keine besondere Eintrittsprovision erfunden. Checkliste deckt nur behandelten Teilblock."
+    }
+  ],
+  "limitations": [
+    "Nur die zugewiesenen 20 Einheiten zweitgeprüft; keine Gesamtbuchfertigstellung.",
+    "236 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung.",
+    "Selektive Rechtsprechung: BGH I ZR 229/15 erneut im amtlichen Volltext gelesen; keine erschöpfende Folgeentscheidungsrecherche. Keine weitere Entscheidung übernommen.",
+    "Aktualität anhand erneutem amtlichem XML und bewahrter Verkündung geprüft; keine lückenlose BGBl-Jahresauswertung.",
+    "Keine externe anwaltliche Freigabe."
+  ],
+  "verified_at": "2026-10-21T05:29:43.770296+00:00",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "statutory_text_agreement": 1.0,
+  "coverage_evidence": "review-p384-p403-coverage.json",
+  "full_book_complete": false,
+  "bounded_build_success": true
+}

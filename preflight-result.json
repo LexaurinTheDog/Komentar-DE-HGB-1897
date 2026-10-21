@@ -450,5 +450,34 @@
     "historical_versions_checked": "696 eindeutige amtliche Kennungen und Texte vollständig mit Parser abgeglichen; keine historischen Fassungen verkettet.",
     "annexes_checked": "814 Knoten: 696 Normeinheiten, 117 Gliederungen, nichtoperative Kopfnorm. Keine eigene operative Anlage oder ausgelassene Eingangsformel. §§ 370, 378, 382 als Leerstellen erhalten.",
     "unresolved_blockers": []
+  },
+  "bounded_author_p384_p403": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T05:25:27.857594+00:00",
+    "version_evidence": {
+      "fetch": "sources/verification-p384-p403.json",
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "commencement": "sources/commencement.md; sources/bgbl-2026-33.txt Art. 3/4 und 64: 2026 wirksame Änderungen von 2028/2030 getrennt; Charge unverändert."
+    },
+    "historical_versions_checked": "696 Kennungen und Texte mit erneutem XML geprüft; unverändert gegen Titelbeginn; keine historischen Fassungen verkettet.",
+    "annexes_checked": "Alle amtlichen Normknoten geprüft; keine nicht zugeordnete operative Eingangsformel oder Anlage; Nachweis author-p384-p403-coverage.json.",
+    "unresolved_blockers": []
+  },
+  "bounded_review_p384_p403": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T05:29:43.770296+00:00",
+    "version_evidence": {
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "fetch": "sources/review-p384-p403-fetch.json",
+      "commencement": "BGBl. 2026 I Nr. 33 Artikel 3, 4 und 64 erneut gelesen; wirksame 2026 und künftige 2028/2030-Fassungen getrennt; Charge unberührt.",
+      "change_map": "sources/change-map.json"
+    },
+    "historical_versions_checked": "696 eindeutige amtliche IDs und Texte abgeglichen; keine historischen Fassungen verkettet.",
+    "annexes_checked": "814 XML-Knoten geprüft: 696 Normeinheiten, 117 Gliederungen, 1 Kopfnorm ohne operativen Text. Keine operative Anlage oder Eingangsformel ausgelassen.",
+    "unresolved_blockers": []
   }
 }

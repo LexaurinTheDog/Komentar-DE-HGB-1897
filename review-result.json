@@ -3,131 +3,121 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p365",
-    "p365a",
-    "p366",
-    "p367",
-    "p368",
-    "p369",
-    "p370",
-    "p371",
-    "p372",
-    "p373",
-    "p374",
-    "p375",
-    "p376",
-    "p377",
-    "p378",
-    "p379",
-    "p380",
-    "p381",
-    "p382",
-    "p383"
+    "p384",
+    "p385",
+    "p386",
+    "p387",
+    "p388",
+    "p389",
+    "p390",
+    "p391",
+    "p392",
+    "p393",
+    "p394",
+    "p395",
+    "p396",
+    "p397",
+    "p398",
+    "p399",
+    "p400",
+    "p401",
+    "p402",
+    "p403"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p365",
-      "result": "Beide Absätze gelesen; entsprechende WG-Verweisungen einzeln amtlich überprüft. Form, Blankoindossament, ununterbrochene Kette, Herausgabe bei Bösgläubigkeit/grober Fahrlässigkeit und begrenzte Prüfungspflicht konkretisiert. Kraftloserklärung und vorläufige Leistung gegen Sicherheit zutreffend."
+      "id": "p384",
+      "result": "Alle drei Absätze: Sorgfalt, Weisungen, Nachrichten, Rechenschaft, Herausgabe und Namhaftmachungshaftung geprüft. Eigenständige Kundenstammherausgabe nach BGH Rn. 37–40 ergänzt."
     },
     {
-      "id": "p365a",
-      "result": "Beide Sätze geprüft: ausschließlich elektronische Transportversicherungspolice, Funktionsgleichheit, Authentizität und Integrität; Ermächtigung ist kein Erlassnachweis. Kein unüberprüfter Verordnungsbestand behauptet."
+      "id": "p385",
+      "result": "Beide Absätze: Schadensersatz und interne Nichtzurechnung von Außenwirksamkeit getrennt; § 665 BGB und Gefährdung durch Aufschub zutreffend."
     },
     {
-      "id": "p366",
-      "result": "Alle drei Absätze geprüft: Verfügungsbefugnis von Vollmacht getrennt; Lastenfreiheit und Ausnahme für inkonnexe Forderungen zutreffend. § 935 BGB als fortbestehende Erwerbssperre und Kenntnis/grobe Fahrlässigkeit im Beispiel präzisiert."
+      "id": "p386",
+      "result": "Beide Absätze: unverzügliche Zurückweisung, begrenzte Genehmigung, gleichzeitiges Deckungsangebot und Mehrschaden zutreffend."
     },
     {
-      "id": "p367",
-      "result": "Alle drei Absätze geprüft: maßgeblicher Jahresablauf, vor-2007-Veröffentlichungen und Blankoindossament zutreffend. Ausnahme für Ertragsscheine auf den nächsten folgenden Einlösungstermin präzisiert."
+      "id": "p387",
+      "result": "Beide Absätze: bessere Bedingungen und beiderseitige Preisvorteile dem Kommittenten zugewiesen; Provision getrennt."
     },
     {
-      "id": "p368",
-      "result": "Beide Absätze geprüft: beiderseitiges Handelsgeschäft, spezielle einseitige Erweiterung nur für Frachtführer/Verfrachter/Spediteur. Fristbeginn bei untunlicher Androhung anhand § 1234 Absatz 2 BGB ergänzt."
+      "id": "p388",
+      "result": "Beide Absätze: äußerlich erkennbarer Ablieferungsschaden, drei Sicherungspflichten, kausaler Schaden und Notverkaufsvoraussetzungen samt § 373 geprüft."
     },
     {
-      "id": "p369",
-      "result": "Alle vier Absätze geprüft: fällige beiderseitige Handelsforderung, Besitz mit Schuldnerwillen, rückzuübertragendes Eigentum einschließlich Erwerb von Dritten, begrenzte Drittwirkung, Zweckbindung und Ausschluss der Bürgensicherheit zutreffend."
+      "id": "p389",
+      "result": "Erforderliche unterlassene Disposition von bloßem Schweigen getrennt; Verweis auf § 373 zutreffend."
     },
     {
-      "id": "p370",
-      "result": "Amtliche leere Norm und Wegfallbezeichnung geprüft; kein historischer Inhalt als gegenwärtiges Recht ausgegeben."
+      "id": "p390",
+      "result": "Beide Absätze: Obhutshaftung mit Entlastung, keine Garantie; Versicherung nur bei Weisung und unabhängige Sorgfaltspflicht zutreffend."
     },
     {
-      "id": "p371",
-      "result": "Alle vier Absätze geprüft: Vorrang begrenzt, Pfandverwertung, Wochenfrist und Titel gegen richtigen Beteiligten zutreffend. Entsprechende Anwendung der Eigentümerschutzregeln auf Schuldner bei Gläubigereigentum ergänzt."
+      "id": "p391",
+      "result": "Beiderseitiges Handelsgeschäft, entsprechende Käuferregeln, weggefallener § 378 und erhaltene Abtretung trotz verspäteter Anzeige zutreffend."
     },
     {
-      "id": "p372",
-      "result": "Beide Absätze geprüft: Eigentum bei Besitzerwerb, positive Kenntnis vom späteren Wechsel und eigenständiger Kenntniszeitpunkt der Rechtshängigkeit bei Urteilsbindung sauber unterschieden."
+      "id": "p392",
+      "result": "Beide Absätze: Abtretung für Außenanspruch und relative Zuordnung gegenüber Kommissionärsgläubigern getrennt. BGH Rn. 12, 16–19 gelesen."
     },
     {
-      "id": "p373",
-      "result": "Alle fünf Absätze geprüft: Annahmeverzug, sichere Lagerung, Androhung/Notverkauf, Rechnung des Käufers, Mitbieten und Nachrichtenpflichten zutreffend. Aktuelle BGB-Verweisungsziele für Zeitpunkt, Ort und virtuelle/hybride Zugangsdaten konkretisiert."
+      "id": "p393",
+      "result": "Alle drei Absätze: eigene Gefahr, örtlicher Handelsgebrauch und gegenläufige Weisung, sofortige Zahlung und hypothetischer Barpreis samt Limitdifferenz geprüft."
     },
     {
-      "id": "p374",
-      "result": "Erhaltung der BGB-Befugnisse zutreffend; keine automatische Vertragsbeendigung oder verschuldensunabhängiger Schadensersatz aus Annahmeverzug behauptet."
+      "id": "p394",
+      "result": "Beide Absätze: Übernahme oder Niederlassungsgebrauch, unmittelbare Haftung bei Verfall, Vertragsumfang und besondere Provision zutreffend."
     },
     {
-      "id": "p375",
-      "result": "Beide Absätze geprüft: Bestimmungspflicht, Verzug, alternative Rechtsbehelfe, Mitteilung der Eigenbestimmung und angemessene Änderungsfrist zutreffend; Vertragsrahmen bleibt bindend."
+      "id": "p395",
+      "result": "Bedingtes Indossamentserfordernis, übliche Form und Vorbehaltlosigkeit geprüft; kein genereller Indossierungszwang behauptet."
     },
     {
-      "id": "p376",
-      "result": "Alle vier Absätze geprüft: qualifizierte Fixabrede, Verzug nur für Schadensersatz, sofortige Erfüllungsanzeige, abstrakte Differenz, besonderer Deckungsvorgang, Mitbieten und Nachrichtenpflicht zutreffend."
+      "id": "p396",
+      "result": "Beide Absätze: Ausführung, Ortsgebrauch bei Auslieferungsprovision, nur persönliche Verhinderung und Eigenbetriebsmittel geprüft. BGH-Vertragskosten nicht als gesetzliche Pauschale übernommen."
     },
     {
-      "id": "p377",
-      "result": "Alle fünf Absätze geprüft: Obliegenheit, Tunlichkeit, verborgene Mängel, rechtzeitige Absendung und Arglist zutreffend. BGH VIII ZR 246/16 vollständig erneut gelesen, Vorinstanz/Parteivortrag von Senatsbegründung und LFGB aF von allgemeinen §-377-Aussagen getrennt."
+      "id": "p397",
+      "result": "Alle drei Sätze: Forderungskatalog, Dritteigentum mit Zustimmung, laufende Rechnung nur bei Kommittentengut und Besitz/Papierverfügung geprüft."
     },
     {
-      "id": "p378",
-      "result": "Amtliche leere Norm und Wegfallbezeichnung geprüft; frühere Falsch-/Mengenlieferungsregel nicht als geltendes Recht fortgeschrieben."
+      "id": "p398",
+      "result": "Eigentümerbefriedigung nach Pfandrecht auf §-397-Ansprüche begrenzt; Überschuss und Verfahren beachtet."
     },
     {
-      "id": "p379",
-      "result": "Beide Absätze geprüft: beiderseitiger Handelskauf und Fernübersendung, einstweilige Obhut, Verderbsgefahr plus Gefahr im Verzug und §-373-Verfahrensbindung zutreffend."
+      "id": "p399",
+      "result": "Forderung als Sicherungsobjekt, §-397-Katalog, Rang gegenüber Kommittent und Gläubigern und Verhältnis zu § 392 geprüft."
     },
     {
-      "id": "p380",
-      "result": "Beide Absätze geprüft: Nettogewichtsregel, abweichender Vertrag/örtlicher Handelsbrauch, pauschale Tara, Gutgewicht und Refaktie zutreffend; kein allgemeiner Pauschalsatz erfunden."
+      "id": "p400",
+      "result": "Alle fünf Absätze geprüft. Kursarten und Preisgrenze des amtlich festgestellten Preises für Waren UND Wertpapiere ausdrücklich ergänzt. Absendeabgabe vom Zugang unterschieden."
     },
     {
-      "id": "p381",
-      "result": "Beide Absätze geprüft: Wertpapierkauf und Lieferung herzustellender beweglicher Sachen; Voraussetzungen einzelner Handelskaufnormen und Einordnung gemischter Verträge bleiben erhalten."
+      "id": "p401",
+      "result": "Beide Absätze: günstigere sorgfaltsgemäße Möglichkeit und konkretes auftragsveranlasstes Drittgeschäft vor Absendung getrennt; kein pauschaler Zugriff auf Eigenhandel."
     },
     {
-      "id": "p382",
-      "result": "Amtliche leere Norm und Wegfallbezeichnung geprüft; Abschnittsgrenze zwischen § 381 und § 383 zutreffend. Abschnittscheckliste konkret und sachgerecht."
+      "id": "p402",
+      "result": "Einseitig zwingender Schutz genau auf § 400 Abs. 2–5 und § 401 begrenzt; Abs. 1 nicht fälschlich erfasst."
     },
     {
-      "id": "p383",
-      "result": "Beide Absätze geprüft: gewerbsmäßiges Kaufen/Verkaufen im eigenen Namen für fremde Rechnung; Kleingewerbe ohne §-2-Eintragung und begrenzte Erweiterung mit Ausnahme §§ 348–350 zutreffend."
+      "id": "p403",
+      "result": "Gewöhnliche Provision und regelmäßig vorkommende Kosten geprüft, keine besondere Eintrittsprovision erfunden. Checkliste deckt nur behandelten Teilblock."
     }
   ],
   "limitations": [
-    "Ausschließlich die zugewiesenen 20 Einheiten inhaltlich zweitgeprüft; kein Gesamtbuchabschluss.",
-    "256 fehlende Kommentare außerhalb der Charge verhindern Gesamtbuild und Gesamtvalidierung.",
-    "Selektive Rechtsprechungsprüfung: vorhandenes BGH-Urteil vollständig erneut gelesen; keine erschöpfende Nachverfolgung aller Folgeentscheidungen. Für übrige Einheiten keine zusätzliche verifizierte Entscheidung übernommen.",
-    "Aktualitätskontrolle anhand amtlichem Wiederabruf und erhaltener Verkündung; keine lückenlose eigene BGBl-Jahresauswertung.",
-    "Keine externe anwaltliche Freigabe; technische Validierung ist kein Nachweis juristischer Fehlerfreiheit."
+    "Nur die zugewiesenen 20 Einheiten zweitgeprüft; keine Gesamtbuchfertigstellung.",
+    "236 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung.",
+    "Selektive Rechtsprechung: BGH I ZR 229/15 erneut im amtlichen Volltext gelesen; keine erschöpfende Folgeentscheidungsrecherche. Keine weitere Entscheidung übernommen.",
+    "Aktualität anhand erneutem amtlichem XML und bewahrter Verkündung geprüft; keine lückenlose BGBl-Jahresauswertung.",
+    "Keine externe anwaltliche Freigabe."
   ],
-  "verified_at": "2026-10-21T05:20:39.787591+00:00",
+  "verified_at": "2026-10-21T05:29:43.770296+00:00",
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
   "statutory_text_agreement": 1.0,
-  "coverage_evidence": "review-p365-p383-coverage.json",
+  "coverage_evidence": "review-p384-p403-coverage.json",
   "full_book_complete": false,
-  "bounded_build_success": true,
-  "shared_build_success": false,
-  "validation": {
-    "repo": "Komentar-DE-HGB-1897",
-    "units": 20,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 35335,
-    "errors": [],
-    "warnings": [],
-    "ok": true
-  }
+  "bounded_build_success": true
 }
