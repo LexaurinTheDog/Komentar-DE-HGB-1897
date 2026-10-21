@@ -1,0 +1,21 @@
+=== p302
+
+§ 302 ist im maßgeblichen amtlichen Text weggefallen. Die Nummer bleibt als historische Leerstelle erhalten; sie enthält weder ein gegenwärtiges Konsolidierungswahlrecht noch eine selbständige Befreiung. Für den heutigen Abschluss ist deshalb unmittelbar anhand der geltenden §§ 301 und 303 ff. zu prüfen, welche Konsolidierungsmaßnahmen erforderlich sind. Die räumliche Stellung zwischen diesen Vorschriften erlaubt keine Ergänzung eines vermeintlich fehlenden Tatbestands.
+
+Beispiel: Eine Konzernrichtlinie verweist noch auf § 302 als Grundlage einer Verrechnung. Die Bilanzierungsabteilung muss den tatsächlich gemeinten geltenden Tatbestand ermitteln und die Richtlinie berichtigen. Aus der alten Verweisung allein folgt keine zulässige Abschlussmethode. Bei historischen Abschlüssen ist dagegen die für deren Geschäftsjahr maßgebliche frühere Rechtslage gesondert zu ermitteln.
+
+=== p303
+
+Die Schuldenkonsolidierung setzt die Sicht des Konzerns als wirtschaftliche Einheit um: Eine Einheit kann gegen sich selbst weder eine Forderung noch eine Schuld ausweisen. Absatz 1 erfasst deshalb nicht nur Darlehen und Lieferverbindlichkeiten, sondern auch konzerninterne Rückstellungen und korrespondierende Rechnungsabgrenzungsposten. Entscheidend ist die Beziehung zwischen tatsächlich einbezogenen Unternehmen. Eine Forderung gegen ein nach § 296 nicht einbezogenes Unternehmen verschwindet nicht schon wegen dessen Konzernzugehörigkeit.
+
+Die Verrechnung setzt eine Abstimmung der Gegenposten voraus. Unterschiedliche Buchungszeitpunkte, Währungsansätze oder Wertberichtigungen können dazu führen, dass Forderung und Verpflichtung nicht betragsgleich sind. Die Differenz muss ihrer Ursache nach untersucht werden; eine beliebige erfolgsneutrale Ausbuchung würde das Konzernergebnis verfälschen. Die Folgewirkungen auf Erträge und Aufwendungen sowie temporäre Steuerdifferenzen sind mit §§ 305 und 306 abzustimmen. Ein rechtlicher Erlass der Forderung ist mit der nur für den Konzernabschluss vorgenommenen Eliminierung nicht verbunden.
+
+Absatz 2 gestattet das Unterlassen nur bei untergeordneter Bedeutung für das tatsächliche Gesamtbild. Eine Vielzahl kleiner Salden darf dabei nicht ungeprüft als jeweils unwesentlich behandelt werden. Beispiel: Die Mutter weist ein Darlehen von 800.000 Euro aus, die einbezogene Tochter die entsprechende Schuld. Beide Posten entfallen im Konzernabschluss; die Einzelabschlüsse und die Rückzahlungspflicht bleiben bestehen. Hat die Mutter 100.000 Euro wertberichtigt, ist zusätzlich die Berechtigung dieser Wertminderung aus Konzernsicht zu klären.
+
+=== p304
+
+Die Zwischenergebniseliminierung verhindert, dass sich der Konzern durch Lieferungen an sich selbst Gewinne verschafft. Absatz 1 knüpft an Vermögensgegenstände an, die am Konzernstichtag noch bilanziert werden und ganz oder teilweise aus konzerninternen Leistungen stammen. Maßstab ist der Wert, der bei rechtlicher Einheit aller einbezogenen Unternehmen zulässig wäre. Der interne Rechnungspreis ist daher nicht automatisch der Anschaffungs- oder Herstellungswert des Konzerns. Die Bewertungsvorschriften, insbesondere §§ 253 und 255, bleiben für diesen Vergleich maßgeblich.
+
+Nicht nur Vorräte, sondern auch intern verkaufte Anlagen oder aktivierte Leistungen können betroffen sein. Bei einer Anlage ist die Korrektur in den Folgejahren über die Abschreibung fortzuführen, bis der Unterschied verbraucht ist oder ein Außenverkauf erfolgt. Auch ein konzerninterner Verlust darf nicht mechanisch eliminiert werden: Soweit er eine aus Konzernsicht erforderliche Wertminderung abbildet, muss diese im zulässigen Konzernwert erhalten bleiben. § 305 bereinigt daneben die zugehörigen Aufwands- und Ertragsströme; § 306 erfasst gegebenenfalls die später wieder abbauende steuerliche Differenz.
+
+Absatz 2 verlangt eine Beurteilung der Bedeutung für das gesamte Abschlussbild und schafft keine freie Wahl bei bedeutenden Warenbeständen. Beispiel: Eine Tochter produziert Waren für 60.000 Euro und liefert sie für 90.000 Euro an die Mutter. Liegen die Waren am Stichtag unverändert auf Lager und bestehen keine weiteren wertrelevanten Umstände, sind im Konzern 30.000 Euro interner Gewinn zu eliminieren. Erst der Absatz an einen konzernfremden Kunden verwirklicht den entsprechenden Außenumsatz.

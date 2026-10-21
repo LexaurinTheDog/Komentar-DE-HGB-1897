@@ -51,3 +51,5 @@ Prüfgruppe §§ 252–266: [amtlicher erneuter XML-Abruf](sources/review-p252-p
 Charge §§ 267–288: [amtlicher Wiederabruf](sources/hgb-author-p267-p288.xml), [Verifikation](sources/verification-p267-p288.json), [Rechtsprechungssuche einschließlich lokalem Korpus](sources/research/case-search-p267-p288.json), [Fallkarte BGH Xa ZR 175/07](cases/BGH-2010-Xa-ZR-175-07.md).
 
 Charge §§ 289–301: [amtliche XML-Quelle](sources/hgb-author-p289-p301.xml), [Verifikation](sources/verification-p289-p301.json), [selektives Suchprotokoll](sources/research/case-search-p289-p301.json), [Fallkarte BAG](cases/BAG-2022-3-AZR-505-21.md).
+
+Charge §§ 302–315e: [amtliches XML](sources/hgb-author-p302-p315e.xml), [Abrufnachweise](sources/verification-p302-p315e.json), [Suchprotokoll mit verworfenem Entscheidungsabruf](sources/research/case-search-p302-p315e.json). In dieser Charge keine zusätzliche Volltextentscheidung verifiziert.

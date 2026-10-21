@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-21",
+  "scope": [
+    "p302",
+    "p303",
+    "p304",
+    "p305",
+    "p306",
+    "p307",
+    "p308",
+    "p308a",
+    "p309",
+    "p310",
+    "p311",
+    "p312",
+    "p313",
+    "p314",
+    "p315",
+    "p315a",
+    "p315b",
+    "p315c",
+    "p315d",
+    "p315e"
+  ],
+  "web_queries": [
+    "site.bundesgerichtshof.de \"§ 315\" \"Konzernlagebericht\"",
+    "site.rechtsprechung-im-internet.de \"Schuldenkonsolidierung\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_queries": [
+    "rg -l II ZR 227/06 --glob *.md (substring search, rejected false positives VIII ZR 227/06)",
+    "exact case_number II ZR 227/06 in manifest: no result",
+    "rg -l Konzernlagebericht|Schuldenkonsolidierung --glob *.md: candidate list only, no holdings inferred"
+  ],
+  "candidate": "BGH 26.11.2007 II ZR 227/06; not cited as authority",
+  "fetch_result": "HTTP 200 but general BGH HTML instead of decision PDF. Format rejected. Browser fallback returned 403.",
+  "verified_case_cards": [],
+  "limits": "Selektive Recherche; in dieser Charge keine hinreichend relevante Entscheidung im amtlichen Volltext verifiziert. Keine Behauptung, dass keine einschlägige Rechtsprechung existiert. Kommentar stützt sich auf den amtlichen Gesetzeswortlaut."
+}

@@ -4,14 +4,14 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T03:54:16.779215+00:00",
+  "updated_at": "2026-10-21T04:06:32.968186+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
-  "completed_units": 280,
-  "remaining_units": 416,
-  "completed_scope": "§§ 1–301 einschließlich Buchstabenparagraphen und amtlicher Sammelleerstellen",
-  "next_unit": "p302",
-  "commentary_chars": 418689,
+  "completed_units": 300,
+  "remaining_units": 396,
+  "completed_scope": "§§ 1–315e einschließlich Buchstabenparagraphen und amtlicher Sammelleerstellen",
+  "next_unit": "p316",
+  "commentary_chars": 463242,
   "source_checks": {
     "official_xml_http": 200,
     "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
@@ -37,23 +37,23 @@
   "case_law_coverage": "Selektive Recherche; Nachweise und Umfang je Fallkarte und Chargenprotokoll, keine erschöpfende Übersicht.",
   "build_result": {
     "success": false,
-    "evidence": "author-p289-p301-build.txt",
-    "reason": "416 fehlende Kommentare außerhalb der Charge"
+    "evidence": "author-p302-p315e-build.txt",
+    "reason": "396 fehlende Kommentare außerhalb der Charge"
   },
   "validation_result": {
     "repo": "Komentar-DE-HGB-1897",
     "units": 696,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 418689,
+    "commentary_chars": 463242,
     "errors": [
-      "krátký/chybějící komentář u 416 jednotek: ['p302(0<120)', 'p303(0<400)', 'p304(0<400)', 'p305(0<400)', 'p306(0<400)', 'p307(0<400)', 'p308(0<400)', 'p308a(0<400)']"
+      "krátký/chybějící komentář u 396 jednotek: ['p316(0<400)', 'p316a(0<400)', 'p317(0<400)', 'p318(0<400)', 'p319(0<400)', 'p319a(0<120)', 'p319b(0<400)', 'p320(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
   "independent_second_pass": false,
   "unresolved_blockers": [
-    "416 noch nicht geschriebene Kommentare ab p302 außerhalb dieser Charge."
+    "396 noch nicht geschriebene Kommentare ab p316 außerhalb dieser Charge."
   ],
   "remaining_limitations": [
     "Gesamtmanuskript unvollständig; kein Abschlussstatus.",
@@ -67,7 +67,7 @@
     "github_writes": false,
     "messages_sent": false
   },
-  "output_type": "Unvollständiger Export: 16 Kapitel und Teilkapitel 17 bis § 301",
+  "output_type": "Unvollständiger Export mit weiteren 20 kommentierten Normeinheiten §§ 302–315e",
   "link_check": {
     "checked_local_markdown_links": 195,
     "missing": [],
@@ -507,5 +507,107 @@
       "ok": false
     },
     "full_book_complete": false
+  },
+  "bounded_author_p302_p315e": {
+    "kind": "author",
+    "complete": true,
+    "assigned_ids": [
+      "p302",
+      "p303",
+      "p304",
+      "p305",
+      "p306",
+      "p307",
+      "p308",
+      "p308a",
+      "p309",
+      "p310",
+      "p311",
+      "p312",
+      "p313",
+      "p314",
+      "p315",
+      "p315a",
+      "p315b",
+      "p315c",
+      "p315d",
+      "p315e"
+    ],
+    "completed_ids": [
+      "p302",
+      "p303",
+      "p304",
+      "p305",
+      "p306",
+      "p307",
+      "p308",
+      "p308a",
+      "p309",
+      "p310",
+      "p311",
+      "p312",
+      "p313",
+      "p314",
+      "p315",
+      "p315a",
+      "p315b",
+      "p315c",
+      "p315d",
+      "p315e"
+    ],
+    "units_authored": 20,
+    "total_units": 696,
+    "completed_units": 300,
+    "remaining_units": 396,
+    "commentary_chars": {
+      "p302": 882,
+      "p303": 1691,
+      "p304": 1688,
+      "p305": 1654,
+      "p306": 1752,
+      "p307": 1948,
+      "p308": 1818,
+      "p308a": 1707,
+      "p309": 2066,
+      "p310": 1811,
+      "p311": 1710,
+      "p312": 2667,
+      "p313": 2695,
+      "p314": 5491,
+      "p315": 2489,
+      "p315a": 2009,
+      "p315b": 2792,
+      "p315c": 2013,
+      "p315d": 2385,
+      "p315e": 2288
+    },
+    "statutory_text_agreement": 1.0,
+    "official_identifiers": 696,
+    "missing_official_identifiers": [],
+    "duplicate_ids": [],
+    "exact_repeated_paragraphs": [],
+    "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "case_cards": [],
+    "shared_build_success": false,
+    "build_evidence": "author-p302-p315e-build.txt",
+    "bounded_export": "18-hgb-18-teil-p302-p315e.md",
+    "validation": {
+      "repo": "Komentar-DE-HGB-1897",
+      "units": 696,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 463242,
+      "errors": [
+        "krátký/chybějící komentář u 396 jednotek: ['p316(0<400)', 'p316a(0<400)', 'p317(0<400)', 'p318(0<400)', 'p319(0<400)', 'p319a(0<120)', 'p319b(0<400)', 'p320(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "full_book_complete": false,
+    "unresolved_blockers": [],
+    "limitations": [
+      "Nur zugewiesene 20 Einheiten verfasst; keine unabhängige Zweitprüfung.",
+      "Selektive Rechtsprechungsrecherche ohne neu verifizierten amtlichen Entscheidungsvolltext; kein ungeprüfter Entscheidungsbeleg verwendet.",
+      "396 fehlende Kommentare außerhalb der Charge verhindern den Gesamtbuild."
+    ]
   }
 }

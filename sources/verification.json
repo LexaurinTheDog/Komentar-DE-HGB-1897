@@ -543,6 +543,24 @@
       "zip_sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
       "format_valid": true,
       "prior_xml_identical": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T04:00:11.901614+00:00",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "path": "sources/hgb-author-p302-p315e.zip",
+      "format_valid": true,
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "prior_identical": true
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2007-11-26&Gericht=bgh&anz=23&nr=43064&pos=15",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T04:00:12.646926+00:00",
+      "sha256": "4d262cc30f6c60105c1466bd4073d45d905525d6a2350c5db6353a1cce8642a1",
+      "path": "sources/BGH-2007-II-ZR-227-06-rejected.html",
+      "format_valid": false
     }
   ],
   "version_information": {
