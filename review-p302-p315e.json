@@ -1,0 +1,177 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p302",
+    "p303",
+    "p304",
+    "p305",
+    "p306",
+    "p307",
+    "p308",
+    "p308a",
+    "p309",
+    "p310",
+    "p311",
+    "p312",
+    "p313",
+    "p314",
+    "p315",
+    "p315a",
+    "p315b",
+    "p315c",
+    "p315d",
+    "p315e"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p302",
+      "corrected": false,
+      "finding": "Weggefallene amtliche Leerstelle bestätigt; keine historische Norm als geltend behandelt."
+    },
+    {
+      "id": "p303",
+      "corrected": false,
+      "finding": "Beide Absätze, Saldenarten, Kreis tatsächlich einbezogener Unternehmen, Wesentlichkeit und Differenzbeispiel geprüft."
+    },
+    {
+      "id": "p304",
+      "corrected": false,
+      "finding": "Beide Absätze, rechtlicher Einheitsmaßstab, Zwischenverlustgrenze und Folgeabschreibungen bestätigt."
+    },
+    {
+      "id": "p305",
+      "corrected": true,
+      "finding": "Unterschiedliche Ausnahmen in Nummern 1 und 2 ausdrücklich getrennt; Absatz 2 und Zusammenwirken mit § 304 bestätigt."
+    },
+    {
+      "id": "p306",
+      "corrected": false,
+      "finding": "Sämtliche Sätze einschließlich zweier Ausschlüsse, Ansatzpflicht aktiver Latenzen und § 274 Abs. 2/3 geprüft."
+    },
+    {
+      "id": "p307",
+      "corrected": false,
+      "finding": "Eigenkapitalausweis und Ergebniszuordnung nach beiden Absätzen; Vollkonsolidierung im Beispiel bestätigt."
+    },
+    {
+      "id": "p308",
+      "corrected": false,
+      "finding": "Absätze 1/2 nach Sätzen und Wegfall Absatz 3 geprüft; unabhängige Wahlrechte, Branchenwerte und zwei Ausnahmen bestätigt."
+    },
+    {
+      "id": "p308a",
+      "corrected": false,
+      "finding": "Drei Kursgrundlagen, Eigenkapitaldifferenz und anteilige erfolgswirksame Auflösung beim Ausscheiden geprüft."
+    },
+    {
+      "id": "p309",
+      "corrected": true,
+      "finding": "Beide Absätze geprüft; dauernde Wertminderung und Zuschreibungsverbot des § 253 ergänzt."
+    },
+    {
+      "id": "p310",
+      "corrected": true,
+      "finding": "Gemeinsame Führung und Verweisungskatalog vollständig geprüft; Mutterkapitalquote bei mittelbarer Beteiligung präzisiert."
+    },
+    {
+      "id": "p311",
+      "corrected": true,
+      "finding": "Vermutung bei 20 Prozent, tatsächlicher Einfluss und Wesentlichkeitsbefreiung geprüft; missverständliches Wort politisch durch geschäfts-/finanzpolitisch ersetzt."
+    },
+    {
+      "id": "p312",
+      "corrected": false,
+      "finding": "Alle sechs Absätze gelesen: Unterschiedszuordnung, Zeitpunkt/Frist, Fortschreibung/Ausschüttung, fakultative Methodenangleichung, Informationsgrenze und letzter Konzernabschluss bestätigt."
+    },
+    {
+      "id": "p313",
+      "corrected": false,
+      "finding": "Absätze 1–4, sämtliche acht Beteiligungskategorien und fünf Sätze der Ausnahmen geprüft; Querverweis § 284 bestätigt."
+    },
+    {
+      "id": "p314",
+      "corrected": true,
+      "finding": "Gesamter Katalog einschließlich 2a, 7a, 7b, 22a und Buchstaben sowie Absätze 2/3 gelesen. Organbezüge und Angaben zu Mutteranteilen/Kapitalinstrumenten konkretisiert."
+    },
+    {
+      "id": "p315",
+      "corrected": false,
+      "finding": "Alle fünf Absätze, Erklärung, Finanzinstrumente, AG-Verweis, nichtfinanzielle Indikatoren und Kontrollsystem geprüft."
+    },
+    {
+      "id": "p315a",
+      "corrected": false,
+      "finding": "Nummern 1–9, Kenntnisgrenze, Zehn-Prozent-Schwelle und Doppelangaben-/Nachteilsklausel bestätigt."
+    },
+    {
+      "id": "p315b",
+      "corrected": true,
+      "finding": "Alle vier Absätze mit unionsbezogener Befreiung, Publikationswegen und Fristen geprüft; zulässige interne Verweise ergänzt."
+    },
+    {
+      "id": "p315c",
+      "corrected": false,
+      "finding": "Alle drei Absätze und tatsächliche Voraussetzungen der §§ 289c–289e geprüft; Risikoschwelle und doppelte Erforderlichkeit bestätigt."
+    },
+    {
+      "id": "p315d",
+      "corrected": false,
+      "finding": "Persönlicher Anwendungsbereich und entsprechende Anwendung von § 289f einschließlich Zusatzbedingungen bestätigt."
+    },
+    {
+      "id": "p315e",
+      "corrected": true,
+      "finding": "Alle drei Absätze und verbleibender HGB-Katalog geprüft; Antrag an organisiertem Markt im Inland in Regel und Beispiel ausdrücklich ergänzt."
+    }
+  ],
+  "limitations": [
+    "Unabhängige inhaltliche Zweitprüfung genau dieser 20 Einheiten; keine Gesamtbuchfreigabe oder externe anwaltliche Prüfung.",
+    "Vorhandenes selektives Suchprotokoll und verworfener PDF-Abruf geprüft. Keine ungesicherte Entscheidung zitiert, keine zusätzliche Volltextentscheidung in dieser Charge verifiziert; keine erschöpfende Rechtsprechungsrecherche.",
+    "396 noch fehlende Kommentare außerhalb der Charge verhindern Gesamtbuild und Gesamtvalidierung."
+  ],
+  "source_preflight": "preflight-result.json#bounded_review_p302_p315e",
+  "coverage": "review-p302-p315e-coverage.json",
+  "commentary_chars": {
+    "p302": 882,
+    "p303": 1691,
+    "p304": 1688,
+    "p305": 1788,
+    "p306": 1752,
+    "p307": 1948,
+    "p308": 1818,
+    "p308a": 1707,
+    "p309": 2253,
+    "p310": 2138,
+    "p311": 1740,
+    "p312": 2667,
+    "p313": 2695,
+    "p314": 6315,
+    "p315": 2489,
+    "p315a": 2009,
+    "p315b": 3017,
+    "p315c": 2013,
+    "p315d": 2385,
+    "p315e": 2506
+  },
+  "duplicate_ids": [],
+  "exact_repeated_paragraphs": [],
+  "full_book_complete": false,
+  "validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 696,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 465187,
+    "errors": [
+      "krátký/chybějící komentář u 396 jednotek: ['p316(0<400)', 'p316a(0<400)', 'p317(0<400)', 'p318(0<400)', 'p319(0<400)', 'p319a(0<120)', 'p319b(0<400)', 'p320(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "bounded_validation_ok": true,
+  "shared_build_success": false,
+  "shared_build_evidence": "review-p302-p315e-build.txt",
+  "validation_evidence": "review-p302-p315e-validation.json"
+}

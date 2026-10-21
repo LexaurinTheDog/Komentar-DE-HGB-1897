@@ -609,5 +609,11 @@
       "Selektive Rechtsprechungsrecherche ohne neu verifizierten amtlichen Entscheidungsvolltext; kein ungeprüfter Entscheidungsbeleg verwendet.",
       "396 fehlende Kommentare außerhalb der Charge verhindern den Gesamtbuild."
     ]
+  },
+  "bounded_review_p302_p315e": {
+    "complete": true,
+    "units_reviewed": 20,
+    "result": "review-p302-p315e.json",
+    "full_book_complete": false
   }
 }
