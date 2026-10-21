@@ -4,14 +4,14 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T06:17:00.003376+00:00",
+  "updated_at": "2026-10-21T06:30:55.135904+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
-  "completed_units": 560,
-  "remaining_units": 136,
-  "completed_scope": "Durch § 483; neue Autorencharge §§ 472–483, unabhängige Zweitprüfung ausstehend.",
-  "next_unit": "p484",
-  "commentary_chars": 970167,
+  "completed_units": 580,
+  "remaining_units": 116,
+  "completed_scope": "Durch § 503; neue Autorencharge §§ 484–503, unabhängige Zweitprüfung dieser Charge ausstehend.",
+  "next_unit": "p504",
+  "commentary_chars": 1006745,
   "source_checks": {
     "official_xml_http": 200,
     "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
@@ -32,7 +32,8 @@
     "bounded_author_p404_p423": "sources/verification-p404-p423.json",
     "bounded_author_p424_p443": "sources/verification-p424-p443.json",
     "bounded_author_p452d_p471": "sources/verification-p452d-p471.json",
-    "bounded_author_p472_p483": "sources/verification-p472-p483.json"
+    "bounded_author_p472_p483": "sources/verification-p472-p483.json",
+    "bounded_author_p484_p503": "sources/verification-p484-p503.json"
   },
   "case_law_sources": [
     "BGH 2024-01-09 II ZR 220/22",
@@ -42,23 +43,24 @@
     "BAG 2022-11-15 3 AZR 505/21",
     "BGH 2020-03-12 VII ZR 236/19",
     "FG Berlin-Brandenburg 2025-11-18 8 K 8017/23 (Revision zugelassen; historische Steuerstreitjahre)",
-    "BGH 2018-09-20 I ZR 146/17"
+    "BGH 2018-09-20 I ZR 146/17",
+    "BGH 2010-03-18 I ZR 181/08 (historischer Vergleich, früheres Seehandelsrecht)"
   ],
   "case_law_coverage": "Selektive Recherche; Nachweise und Umfang je Fallkarte und Chargenprotokoll, keine erschöpfende Übersicht.",
   "build_result": {
     "success": false,
-    "evidence": "author-p472-p483-full-build.txt",
-    "reason": "136 missing comments outside this batch"
+    "evidence": "author-p484-p503-full-build.txt",
+    "reason": "116 missing comments outside this batch"
   },
   "validation_result": {
     "bounded_ok": true,
     "bounded_units": 20,
-    "evidence": "author-p472-p483-bounded-validation.json",
+    "evidence": "author-p484-p503-bounded-validation.json",
     "whole_book_complete": false
   },
-  "independent_second_pass": "Earlier bounded reviews retained; author batch §§ 472–483 requires fresh independent second pass.",
+  "independent_second_pass": "Earlier bounded reviews retained; author batch §§ 484–503 requires fresh independent second pass.",
   "unresolved_blockers": [
-    "136 missing comments from p484 outside this batch."
+    "116 missing comments from p504 outside this batch."
   ],
   "remaining_limitations": [
     "Gesamtmanuskript unvollständig; kein Abschlussstatus.",
@@ -1490,5 +1492,34 @@
       "Selective case law research.",
       "Full manuscript still missing 156 units outside this assignment."
     ]
+  },
+  "bounded_review_p472_p483": {
+    "complete": true,
+    "units_reviewed": 20,
+    "reviewed_ids": [
+      "p472",
+      "p473",
+      "p474",
+      "p475",
+      "p475a",
+      "p475b",
+      "p475c",
+      "p475d",
+      "p475e",
+      "p475f",
+      "p475g",
+      "p475h",
+      "p476",
+      "p477",
+      "p478",
+      "p479",
+      "p480",
+      "p481",
+      "p482",
+      "p483"
+    ],
+    "result": "review-p472-p483.json",
+    "validation": "review-p472-p483-bounded-validation.json",
+    "whole_book_complete": false
   }
 }

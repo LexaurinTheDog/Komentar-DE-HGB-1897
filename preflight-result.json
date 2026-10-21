@@ -582,5 +582,18 @@
     "historical_versions_checked": "696 eindeutige amtliche Kennungen und alle Texte gegen Parser geprüft; keine historischen Versionen verkettet, beide Quellstände erhalten.",
     "annexes_checked": "814 Knoten: 696 Normeinheiten, 117 Gliederungen, nichtoperative textlose Kopfnorm. Keine operative Anlage oder fehlende Eingangsformel; keine Leerstellen in zugewiesener Charge.",
     "unresolved_blockers": []
+  },
+  "bounded_author_p484_p503": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T06:20:52.495058+00:00",
+    "http_status": 200,
+    "version_evidence": "Official XML hash identical to title-start source. Re-read sources/commencement.md, sources/bgbl-2026-33.txt Article 64(5),(7),(8), and change-map.json: 2026 effective text distinguished from future 2028/2030 amendments; no changes to assigned §§ 484–503 since intake.",
+    "historical_versions_checked": "Unique official doknr and enbez inventory; no historical versions concatenated. XML byte-identical to effective canonical source; intake and change map retained.",
+    "annexes_checked": "All 814 norm nodes checked: 696 provisions, 117 structural nodes, metadata head without operative body; no separately numbered operative annex or omitted operative Eingangsformel. Grouped repealed slots preserved.",
+    "unresolved_blockers": [],
+    "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "coverage_evidence": "author-p484-p503-coverage.json"
   }
 }

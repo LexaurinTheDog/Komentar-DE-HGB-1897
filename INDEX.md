@@ -53,3 +53,5 @@ Der vollständige Normbestand steht in units.jsonl. Vorhandene Autorenbatches:
 - [Lagergeschäft §§ 467–471](33-hgb-teil-p467-p471.md)
 
 Autorencharge §§ 472–483: genau 20 zusätzliche Einheiten. [Teilstandsübersicht](README-p472-p483.md), [Ergebnis](author-p472-p483-result.json), [Quellen](batch-p472-p483-SOURCES.md). 560 von 696 Einheiten sind nun kommentiert; 136 ab § 484 bleiben offen. Der Teilstandsbuild und die strenge Teilstandsvalidierung sind erfolgreich, Wortlautübereinstimmung 100 %. Keine unabhängige Zweitprüfung dieser Charge.
+
+Autorencharge §§ 484–503: genau 20 weitere Vorschriften ausgearbeitet. [Teilstandsübersicht](README-p484-p503.md), [Kapitel](35-hgb-teil-p484-p503.md), [Quellen](batch-p484-p503-SOURCES.md), [Autorenkontrolle](batch-p484-p503-REVIEW.md). Nun 580 von 696 Einheiten kommentiert; 116 ab § 504 fehlen weiterhin. Wortlaut und vollständiges XML-Inventar geprüft; keine Gesamtfertigstellung und keine unabhängige Zweitprüfung dieser Charge.

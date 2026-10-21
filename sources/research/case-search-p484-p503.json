@@ -1,0 +1,19 @@
+{
+  "verified_at": "2026-10-21T06:28:25.284982+00:00",
+  "queries": [
+    "site.bundesgerichtshof.de \"§ 498\" \"Seetüchtigkeit\"",
+    "site.rechtsprechung-im-internet.de \"§ 502\" \"Verfrachter\"",
+    "site.rechtsprechung-im-internet.de \"Verfrachter\" \"Deck\"",
+    "site.bundesgerichtshof.de \"I ZR 181/08\""
+  ],
+  "local_search": "rg Seeuntüchtigkeit|Ladungstüchtigkeit and exact case_number I ZR 181/08 in national judicial corpus",
+  "read_rejected_candidate": {
+    "case": "BGH 09.04.2026 I ZB 80/25, KORE707022026",
+    "reason": "Procedural CMNI appeal decision, allegations of unseaworthiness not findings on current HGB §§ 485/498; not used as substantive authority"
+  },
+  "used_case": "BGH 18.03.2010 I ZR 181/08; historical comparison only",
+  "case_paragraphs_checked": 64,
+  "unmatched_paragraphs": [],
+  "bgh_pdf_endpoint": "nr=53192 returned HTML instead of PDF; rejected, official RII XML ZIP used instead",
+  "limits": "Selective search; no sufficiently relevant separately verified primary decision cited for other technical units. No exhaustive claim."
+}

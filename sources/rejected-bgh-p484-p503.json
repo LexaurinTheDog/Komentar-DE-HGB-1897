@@ -1,0 +1,7 @@
+{
+  "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=53192&Blank=1.pdf",
+  "http_status": 200,
+  "accessed_at": "2026-10-21T06:31:16.821622+00:00",
+  "sha256": "2fa475cf39e3eb2676decb85af2529cf852ad1ca03370104e99ac1d5ce24403a",
+  "disposition": "HTML response rejected as PDF; official RII ZIP used"
+}

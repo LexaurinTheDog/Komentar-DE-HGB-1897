@@ -1,0 +1,52 @@
+{
+  "kind": "author",
+  "complete": true,
+  "assigned_ids": [
+    "p484",
+    "p485",
+    "p486",
+    "p487",
+    "p488",
+    "p489",
+    "p490",
+    "p491",
+    "p492",
+    "p493",
+    "p494",
+    "p495",
+    "p496",
+    "p497",
+    "p498",
+    "p499",
+    "p500",
+    "p501",
+    "p502",
+    "p503"
+  ],
+  "completed_units": 20,
+  "total_title_units": 696,
+  "completed_title_units": 580,
+  "whole_book_complete": false,
+  "remaining_title_units": 116,
+  "bounded_validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 35724,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "coverage": "author-p484-p503-coverage.json",
+  "source_verification": "sources/verification-p484-p503.json",
+  "case_law": [
+    "BGH 18.03.2010 I ZR 181/08 – historical comparison only"
+  ],
+  "limitations": [
+    "Independent second pass of this batch remains pending.",
+    "Selective case-law research.",
+    "116 units outside assignment remain uncommented."
+  ],
+  "stage": "bounded_drafted_technical_validation",
+  "updated_at": "2026-10-21T06:31:55.035754+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "assigned_units": 20,
+  "commented_units": 20,
+  "commentary_characters": 35724,
+  "lengths": {
+    "p484": 1750,
+    "p485": 1783,
+    "p486": 1708,
+    "p487": 1752,
+    "p488": 1899,
+    "p489": 1795,
+    "p490": 1712,
+    "p491": 1719,
+    "p492": 1891,
+    "p493": 1766,
+    "p494": 1819,
+    "p495": 1737,
+    "p496": 1507,
+    "p497": 1889,
+    "p498": 2274,
+    "p499": 1798,
+    "p500": 1605,
+    "p501": 1806,
+    "p502": 1766,
+    "p503": 1748
+  },
+  "identical_substantive_paragraphs": [],
+  "missing_local_links": [],
+  "placeholder_matches": [],
+  "quality_limit": "Length and duplicate checks supplement paragraph-specific author reading, not proof of legal quality."
+}
