@@ -239,3 +239,7 @@ Alle 20 zugewiesenen Vorschriften einzeln am erneut abgerufenen amtlichen XML ge
 ## Begrenzte Zweitprüfung §§ 524–543, 21. Oktober 2026
 
 Alle 20 zugewiesenen Einheiten einzeln am erneut abgerufenen amtlichen XML geprüft. Unterzeichnungspflicht (§ 526), Ausnahmen der verschuldensunabhängigen Haftung (§ 538), Gefahrenkatalog (§ 541) und dokumentenrechtliche Freizeichnung (§ 525) präzisiert. Keine ungesicherte Gerichtsentscheidung angeführt. [Einzelprüfung](review-p524-p543.json), [Abdeckung](review-p524-p543-coverage.json), [Teilvalidierung](review-p524-p543-bounded-validation.json), [Quellenabruf](sources/review-p524-p543-fetch.json). Die zuvor ausstehende Zweitprüfung dieser Charge ist durchgeführt. Gesamtband weiterhin in Bearbeitung, keine externe fachliche Freigabe. Frühere Vermerke geben damalige Arbeitsstände wieder. Originalkommentar © 2026 Vojtěch Říha.
+
+## Begrenzte Zweitprüfung §§ 544–563, 21. Oktober 2026
+
+Alle 20 zugewiesenen Einheiten einzeln gegen erneut abgerufenes amtliches XML geprüft. § 547 zum Fortbestand sachlicher Einreden und § 549 zu den drei Fristanknüpfungspunkten präzisiert. [Einzelprüfung](review-p544-p563.json), [Abdeckung](review-p544-p563-coverage.json), [Teilvalidierung](review-p544-p563-bounded-validation.json). Selektive Recherche ohne für diese Erläuterungen verwendete Gerichtsentscheidung. Gesamtband weiterhin in Bearbeitung; keine externe fachliche Freigabe.

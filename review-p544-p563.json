@@ -1,0 +1,118 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p544",
+    "p545",
+    "p546",
+    "p547",
+    "p548",
+    "p549",
+    "p550",
+    "p551",
+    "p552",
+    "p553",
+    "p554",
+    "p555",
+    "p556",
+    "p557",
+    "p558",
+    "p559",
+    "p560",
+    "p561",
+    "p562",
+    "p563"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p544",
+      "result": "SDR und Urteilstag, vereinbarter Tag sowie IWF-Methode geprüft."
+    },
+    {
+      "id": "p545",
+      "result": "Vorsatz, bewusste Leichtfertigkeit, Eigenverhalten und bloßer Wegfall der Höchstbeträge geprüft."
+    },
+    {
+      "id": "p546",
+      "result": "Alle drei Absätze: Abschnittshaftung, Textformzustimmung, Einwendungen und Gesamtschuld geprüft."
+    },
+    {
+      "id": "p547",
+      "result": "Alle drei Absätze geprüft; Fortbestand sachlicher Einreden bei Wegfall der Haftungsbeschränkung präzisiert."
+    },
+    {
+      "id": "p548",
+      "result": "Ausschließliche Anspruchsgrundlage nur für bezeichnete Schäden und Schuldner, § 536-Abgrenzung geprüft."
+    },
+    {
+      "id": "p549",
+      "result": "Alle drei Absätze geprüft; alle drei Anknüpfungspunkte der 15-Tage-Frist ausdrücklich ergänzt."
+    },
+    {
+      "id": "p550",
+      "result": "Beide Fristen und spätere tatsächliche/vorgesehene Ausschiffung geprüft; Erlöschen von Verjährung getrennt."
+    },
+    {
+      "id": "p551",
+      "result": "Zeitliche Grenze des Verbots und Ausnahme § 542 Absatz 4 geprüft."
+    },
+    {
+      "id": "p552",
+      "result": "Beide Absätze: Entgeltforderung, Gepäck und Fortbestand nur bei Zurückbehaltung/Hinterlegung geprüft."
+    },
+    {
+      "id": "p553",
+      "result": "Alle drei Absätze: unbemanntes Schiff, halbmonatliche Vorauszahlung, Erwerbszweck und Ausnahmen §§ 348–350 geprüft."
+    },
+    {
+      "id": "p554",
+      "result": "Beide Absätze: Übergabe, Erhaltung, Rückgabe und vertragsgemäße Abnutzung geprüft."
+    },
+    {
+      "id": "p555",
+      "result": "Rechtssicherungspflicht von Verfügungsvollmacht und Erfolgsgarantie unterschieden; Beispiel geprüft."
+    },
+    {
+      "id": "p556",
+      "result": "Beide Sätze: unbestimmte Laufzeit, erster Werktag, Sonnabend, Quartalsende und Bemessung von Fälligkeit getrennt."
+    },
+    {
+      "id": "p557",
+      "result": "Alle drei Absätze: bemanntes bestimmtes Schiff, vereinbarte Leistungen, Zeitfracht und Erwerbszweck geprüft."
+    },
+    {
+      "id": "p558",
+      "result": "Schriftlicher Dokumentationsanspruch von konstitutiver Form und notarieller Beurkundung getrennt."
+    },
+    {
+      "id": "p559",
+      "result": "Beide Absätze: Zustand/Zeit/Ort und Rücktritt ohne Nachfrist auch bei offensichtlicher Nichterfüllung geprüft."
+    },
+    {
+      "id": "p560",
+      "result": "Fortdauernde Gebrauchstauglichkeit, See- und Ladungstüchtigkeit sowie § 554-Unterschied geprüft."
+    },
+    {
+      "id": "p561",
+      "result": "Alle drei Absätze: wirtschaftliche Verwendung, sorgfältige Hafenwahl, nautische Verantwortung und Weitervercharterung geprüft."
+    },
+    {
+      "id": "p562",
+      "result": "Gegenseitige umfassende bedeutsame Unterrichtung, Dringlichkeit und fortbestehende Aufgabenverteilung geprüft."
+    },
+    {
+      "id": "p563",
+      "result": "Beide Absätze: Güterverladen/-löschen beim Charterer, Seetüchtigkeitsvorsorge beim Vercharterer; Beispiel geprüft."
+    }
+  ],
+  "limitations": [
+    "Nur §§ 544–563 geprüft; keine Gesamtbuchfertigstellung.",
+    "Vorhandenes selektives Suchprotokoll und BFH I R 40/15 vollständig gelesen; steuerrechtliches Urteil nicht als Autorität für privatrechtliche Charterpflichten verwendet. Keine erschöpfende Rechtsprechungsübersicht.",
+    "Keine externe fachliche Freigabe; technische Validierung ersetzt keine fachliche Prüfung."
+  ],
+  "verified_at": "2026-10-21T07:10:39.947383+00:00",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "full_book_complete": false
+}
