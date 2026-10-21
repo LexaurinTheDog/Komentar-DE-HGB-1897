@@ -57,3 +57,5 @@ Charge §§ 302–315e: [amtliches XML](sources/hgb-author-p302-p315e.xml), [Abr
 Charge §§ 316–328: [amtliches XML](sources/hgb-author-p316-p328.xml), [Abrufnachweise](sources/verification-p316-p328.json), [Suchprotokoll](sources/research/case-search-p316-p328.json). Eine amtliche Volltextentscheidung selektiv verifiziert; siehe [Fallkarte](cases/BGH-2020-VII-ZR-236-19.md).
 
 Charge §§ 329–340c: [amtliches XML](sources/hgb-author-p329-p340c.xml), [Abrufnachweise](sources/verification-p329-p340c.json), [Suchprotokoll](sources/research/case-search-p329-p340c.json), [BVerfG-Fallkarte](cases/BVerfG-2014-1-BvR-299-13.md).
+
+Charge §§ 340d–341g: [amtliches XML](sources/hgb-author-p340d-p341g.xml), [Abrufnachweise](sources/verification-p340d-p341g.json), [Suchprotokoll](sources/research/case-search-p340d-p341g.json), [FG-Fallkarte](cases/FG-BB-2025-8K8017-23.md).

@@ -21,3 +21,5 @@ Die Rohdatei zu II ZR 61/09 ist lediglich ein verworfener Recherchefund zur GmbH
 - [BGH 12.03.2020 – VII ZR 236/19](BGH-2020-VII-ZR-236-19.md): Prüfungsanlass, Lageberichtstestat und gesonderte Anlegerhaftung.
 
 - [BVerfG 09.01.2014 – 1 BvR 299/13](BVerfG-2014-1-BvR-299-13.md): § 335, Bestimmtheitsgrenze bei fehlendem Aufsichtsratsbericht.
+
+- [FG Berlin-Brandenburg 18.11.2025 – 8 K 8017/23](FG-BB-2025-8K8017-23.md): Nachreservierung und Stichtag, §§ 341e–341f; Revision zugelassen, historische Steuerstreitjahre.

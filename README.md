@@ -1,10 +1,10 @@
 # Kommentar zum Handelsgesetzbuch
 
-**Unvollständiger Arbeitsentwurf vom 19. Oktober 2026.** Ausgearbeitet sind 340 von 696 amtlichen Normeinheiten: das gesamte Erste und Zweite Buch sowie der Erste Abschnitt des Dritten Buchs, §§ 1–263 einschließlich der amtlichen Sammelleerstellen. Zusätzlich sind §§ 264–340c kommentiert; ab § 340d fehlen noch 356 Kommentare. Dieser Teilstand ist kein fertiges Gesamtmanuskript.
+**Unvollständiger Arbeitsentwurf vom 19. Oktober 2026.** Ausgearbeitet sind 360 von 696 amtlichen Normeinheiten: das gesamte Erste und Zweite Buch sowie der Erste Abschnitt des Dritten Buchs, §§ 1–263 einschließlich der amtlichen Sammelleerstellen. Zusätzlich sind §§ 264–341g kommentiert; ab § 341h fehlen noch 336 Kommentare. Dieser Teilstand ist kein fertiges Gesamtmanuskript.
 
 Gegenstand des Gesamtprojekts ist das gesamte Handelsgesetzbuch vom 10. Mai 1897 (RGBl. S. 219), mit allen fünf Büchern, erhaltenen leeren und weggefallenen Stellen. Die 696 Normeinheiten und 117 Gliederungsknoten sind vollständig aus amtlichem XML extrahiert; die Intake-Zahl 813 zählt beide Kategorien zusammen. Gruppen wie §§ 180–229 bleiben als amtliche Sammelstelle erhalten und werden nicht als fünfzig gegenwärtig operative Vorschriften ausgegeben. Das EGHGB ist ein gesondertes Gesetz und wird nicht in das HGB eingemischt.
 
-Der lesbare Teilstand enthält vollständige Kommentarkapitel und Teilkapitel bis § 340c. Die Gesamtgliederung sieht 44 Kapitel vor. [INDEX](INDEX.md) und [Einleitung](00-einleitung.md) erschließen den vorhandenen Text. [Bearbeitungsstatus](status.json), [Autorenkontrolle](REVIEW.md) und [Quellennachweise](SOURCES.md) zeigen die Grenzen.
+Der lesbare Teilstand enthält vollständige Kommentarkapitel und Teilkapitel bis § 341g. Die Gesamtgliederung sieht 44 Kapitel vor. [INDEX](INDEX.md) und [Einleitung](00-einleitung.md) erschließen den vorhandenen Text. [Bearbeitungsstatus](status.json), [Autorenkontrolle](REVIEW.md) und [Quellennachweise](SOURCES.md) zeigen die Grenzen.
 
 ## Gesetzesstand und Quellen
 
@@ -18,7 +18,7 @@ Der Gesetzeswortlaut wird mechanisch aus amtlichem XML übernommen; `_parse.py` 
 
 Die vorhandenen Erläuterungen sind eigenständige deutsche Texte mit konkreten Tatbestandsunterscheidungen, systematischen Bezügen, fiktiven Beispielen und praktischen Prüflisten. Verifizierte Rechtsprechung wird selektiv verwendet, nicht als erschöpfende Rechtsprechungsübersicht. Die [Fallkarten](cases/INDEX.md) dokumentieren vollständige amtliche Entscheidungen, tragende Randnummern und Grenzen. Besonders § 75 Absatz 3 zeigt, warum der Abdruck eines Gesetzestexts nicht dessen unbesehene Anwendbarkeit beweist.
 
-Die Quellenabdeckung beträgt 696/696 ohne fehlende oder doppelte Kennung. Der Wortlaut stimmt zu 100 % mit der kanonischen Quelle und auf Zeichenebene ohne Leerraum mit dem amtlichen XML überein. Diese technischen Befunde beweisen weder die Vollständigkeit der Kommentierung noch juristische Fehlerfreiheit. Der gemeinsame Vollständigkeits-Build und die strenge Gesamtvalidierung bleiben wegen der 376 fehlenden Kommentare erfolglos. Die bisherigen begrenzten Zweitprüfungen sind in REVIEW.md dokumentiert; für die neue Charge §§ 316–328 steht sie aus. Es gibt keine externe fachliche Freigabe.
+Die Quellenabdeckung beträgt 696/696 ohne fehlende oder doppelte Kennung. Der Wortlaut stimmt zu 100 % mit der kanonischen Quelle und auf Zeichenebene ohne Leerraum mit dem amtlichen XML überein. Diese technischen Befunde beweisen weder die Vollständigkeit der Kommentierung noch juristische Fehlerfreiheit. Der gemeinsame Vollständigkeits-Build und die strenge Gesamtvalidierung bleiben wegen der 336 fehlenden Kommentare erfolglos. Die bisherigen begrenzten Zweitprüfungen sind in REVIEW.md dokumentiert; für die neue Charge §§ 340d–341g steht sie aus. Es gibt keine externe fachliche Freigabe.
 
 ## Rechte und Nutzung
 
@@ -45,3 +45,5 @@ Begrenzte unabhängige Zweitprüfung §§ 316–328: [20 Einzelbefunde](review-p
 Charge §§ 329–340c: genau 20 weitere Normeinheiten; [Chargenprüfung](author-p329-p340c-result.json). Aktueller Gesamtstand 340/696; 356 Kommentare ab § 340d fehlen. Unabhängige Zweitprüfung dieser Charge: review-p329-p340c.json.
 
 Begrenzte unabhängige Zweitprüfung §§ 329–340c: [20 Einzelbefunde](review-p329-p340c.json), [Prüfbericht](REVIEW.md). Gesamtbuch weiterhin unvollständig.
+
+Aktueller Autorencheckpoint §§ 340d–341g: genau 20 neue Normeinheiten; [Chargenprüfung](author-p340d-p341g-result.json). Gesamtstand 360/696, 336 Kommentare ab § 341h offen. Zweitprüfung dieser Charge ausstehend. Ältere Zahlen in den nachstehenden beziehungsweise vorangehenden Chargennotizen dokumentieren frühere Zwischenstände.

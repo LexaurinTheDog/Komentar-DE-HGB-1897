@@ -4,14 +4,14 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T04:29:20.117946+00:00",
+  "updated_at": "2026-10-21T04:39:18.084021+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
-  "completed_units": 340,
-  "remaining_units": 356,
-  "completed_scope": "§§ 1–340c einschließlich Buchstabenparagraphen und amtlicher Sammelleerstellen",
-  "next_unit": "p340d",
-  "commentary_chars": 557897,
+  "completed_units": 360,
+  "remaining_units": 336,
+  "completed_scope": "§§ 1–341g einschließlich Buchstabenparagraphen und amtlicher Sammelleerstellen",
+  "next_unit": "p341h",
+  "commentary_chars": 606972,
   "source_checks": {
     "official_xml_http": 200,
     "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
@@ -25,7 +25,8 @@
     "intake_changed": false,
     "verification": "sources/verification.json",
     "preflight_complete": true,
-    "rechecked_at": "2026-10-21"
+    "rechecked_at": "2026-10-21",
+    "bounded_author_p340d_p341g": "sources/verification-p340d-p341g.json"
   },
   "case_law_sources": [
     "BGH 2024-01-09 II ZR 220/22",
@@ -38,8 +39,8 @@
   "case_law_coverage": "Selektive Recherche; Nachweise und Umfang je Fallkarte und Chargenprotokoll, keine erschöpfende Übersicht.",
   "build_result": {
     "success": false,
-    "evidence": "author-p329-p340c-build.txt",
-    "reason": "356 fehlende Kommentare außerhalb der Charge"
+    "evidence": "author-p340d-p341g-build.txt",
+    "reason": "336 fehlende Kommentare außerhalb der Charge"
   },
   "validation_result": {
     "repo": "Komentar-DE-HGB-1897",
@@ -833,5 +834,79 @@
     "corrected_units": 6,
     "unresolved_blockers": [],
     "full_book_complete": false
+  },
+  "bounded_author_p340d_p341g": {
+    "kind": "bounded_author",
+    "complete": true,
+    "assigned_ids": [
+      "p340d",
+      "p340e",
+      "p340f",
+      "p340g",
+      "p340h",
+      "p340i",
+      "p340j",
+      "p340k",
+      "p340l",
+      "p340m",
+      "p340n",
+      "p340o",
+      "p341",
+      "p341a",
+      "p341b",
+      "p341c",
+      "p341d",
+      "p341e",
+      "p341f",
+      "p341g"
+    ],
+    "units_authored": 20,
+    "total_units": 696,
+    "completed_units": 360,
+    "remaining_units": 336,
+    "commentary_chars": {
+      "p340d": 1750,
+      "p340e": 2767,
+      "p340f": 2200,
+      "p340g": 1943,
+      "p340h": 1664,
+      "p340i": 2852,
+      "p340j": 1795,
+      "p340k": 2925,
+      "p340l": 2202,
+      "p340m": 2272,
+      "p340n": 2970,
+      "p340o": 2378,
+      "p341": 2239,
+      "p341a": 2878,
+      "p341b": 2233,
+      "p341c": 2012,
+      "p341d": 2130,
+      "p341e": 2958,
+      "p341f": 2870,
+      "p341g": 3159
+    },
+    "statutory_text_agreement": 1.0,
+    "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "official_identifier_count": 696,
+    "missing_official_identifiers": [],
+    "duplicate_ids": [],
+    "exact_repeated_paragraphs": [],
+    "case_cards": [
+      "cases/FG-BB-2025-8K8017-23.md"
+    ],
+    "shared_build_success": false,
+    "build_evidence": "author-p340d-p341g-build.txt",
+    "bounded_build_success": true,
+    "bounded_build_evidence": "author-p340d-p341g-bounded-build.txt",
+    "bounded_export": "21-hgb-teil-p340d-p341g.md",
+    "full_book_complete": false,
+    "unresolved_blockers": [],
+    "limitations": [
+      "Nur diese 20 Einheiten verfasst; unabhängige Zweitprüfung dieser Charge ausstehend.",
+      "Selektive Rechtsprechung mit einer vollständig gelesenen Entscheidung; Verfahrensfortgang nicht geprüft.",
+      "336 fehlende Kommentare außerhalb der Charge verhindern den Gesamtbuild.",
+      "Technische Prüfungen und Mindestlängen beweisen keine juristische Fehlerfreiheit."
+    ]
   }
 }

@@ -31,3 +31,5 @@ Der vollständige Normbestand steht in units.jsonl. Vorhandene Autorenbatches:
 - [Teilkapitel §§ 316–328](19-hgb-19-teil-p316-p328.md) — 20 weitere Normeinheiten; kumulativ 320/696 kommentiert.
 
 - [Teilkapitel §§ 329–340c](19-21-hgb-teil-p329-p340c.md) — 20 neue Normeinheiten; Gesamtstand 340/696.
+
+- [Teilkapitel §§ 340d–341g](21-hgb-teil-p340d-p341g.md) — 20 neue Normeinheiten; aktueller Gesamtstand 360/696.

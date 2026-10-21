@@ -1,0 +1,658 @@
+<!DOCTYPE html PUBLIC "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<head>
+    <title>Landesrechtsportal Brandenburg | Entscheidungsdatenbank der Gerichte in Brandenburg</title>
+                <!-- When Theme is switchted. Replaces Main Color!-->
+        <link type="text/css" rel="stylesheet" href="/style/normalize.css"/>
+
+        <link type="text/css" rel="stylesheet" href="/style/style.css"/>
+        <link type="text/css" rel="stylesheet" href="/style/all.css"/>
+        <!-- When Theme is switchted. Replaces Main Color!-->
+        <link type="text/css" rel="stylesheet" href="/style/app.css"/>
+        <link type="text/css" rel="stylesheet" href="/style/foundation-datepicker.css"/>
+        <link rel="icon" type="image/x-icon" href="/style/favicon.ico"/>
+            
+            <!-- application -->
+        <!--script type="text/javascript" src="style/2jquery.min.js"></script-->
+        <script type="text/javascript" src="/style/2jquery.min.js"></script>
+
+                <script type="text/javascript">
+            function showResults() {
+                var x = document.getElementById("results")
+                if (x.style.display === "none") {
+                    x.style.display = "block";
+                } else {
+                    x.style.display = "none";
+                }
+            }
+
+            $(function () {
+                if (!Modernizr.inputtypes.date) {
+                    $(
+                        "#input_date_promulgation_from"
+                    ).fdatepicker({
+                        format: "dd.mm.yyyy",
+                        language: "de",
+                    });
+                    $(
+                        "#input_date_promulgation_to"
+                    ).fdatepicker({
+                        format: "dd.mm.yyyy",
+                        language: "de",
+                    });
+                    $("#input_date_issue_from").fdatepicker({
+                        format: "dd.mm.yyyy",
+                        language: "de",
+                    });
+                    $("#input_date_issue_to").fdatepicker({
+                        format: "dd.mm.yyyy",
+                        language: "de",
+                    });
+                } else {
+                    $(
+                        "#input_date_promulgation_from"
+                    ).removeAttr("pattern");
+                    $("#input_date_promulgation_to").removeAttr(
+                        "pattern"
+                    );
+                    $("#input_date_issue_from").removeAttr(
+                        "pattern"
+                    );
+                    $("#input_date_issue_to").removeAttr(
+                        "pattern"
+                    );
+                }
+            });
+
+            function clear_form_elements() {
+                $("#input_date_promulgation_from").removeAttr("value");
+                $("#input_date_promulgation_to").removeAttr("value");
+                $("#input_aktenzeichen").removeAttr("value");
+                $("#input_ecli").removeAttr("value");
+                $("#input_shortdesc").removeAttr("value");
+                $("#input_fulltext").removeAttr("value");
+                $("#select_source option:selected").removeAttr("selected");
+            }
+        </script>
+    </head>
+<body>
+    <div class="bb-stage" style="width: auto">
+        <div class="row bb-area-header">
+            <div class="columns">
+                <div class="row">
+                    <div
+                            class="small-12 medium-6 medium-push-6 columns"
+                            id="bb-loginMsg"
+                    ></div>
+                </div>
+                <div class="row">
+                    <div
+                            class="small-12 medium-6 medium-push-6 columns bb-top-tool-bar-column"
+                    >
+                        <div
+                                class="title-bar bb-title-bar hide"
+                                data-responsive-toggle="bb-tool-menu"
+                        >
+                     <span
+                             for="bb-toolbar-button"
+                             class="bb-toolbar-button-bg"
+                             data-toggle
+                     >
+                     <button
+                             id="bb-toolbar-button"
+                             class="menu-icon bb-menu-icon"
+                             type="button"
+                     ></button>
+                     </span>
+                            <div
+                                    for="bb-toolbar-button"
+                                    class="title-bar-title bb-title-bar-title"
+                                    data-toggle
+                            >
+                                Toolbar-Menü
+                            </div>
+                        </div>
+                        <div class="top-bar bb-top-tool-bar" id="bb-tool-menu" >
+                            <div class="top-bar-right">&nbsp;</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row bb-border">
+            <div class="columns">
+                <div class="row bb-area-header">
+                    <div class="columns">
+                        <div class="row">
+                            <div class="small-12 columns" id="bb-absenderkennung">
+                                <a
+                                        href="https://www.landesrecht.brandenburg.de"
+                                >
+                                    Landesrecht Brandenburg
+                                </a>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="columns" id="bb-logo-bar">
+                                <div class="row">
+                                    <div class="small-12 medium-6 columns bb-logo">
+                                        <a
+                                                href="http://www.brandenburg.de"
+                                                title="Link zum Landesportal Brandenburg"
+                                        >
+                                            <img
+                                                    id="bb-wort-bild-marke"
+                                                    src="../style/Wort_Bildmarke.png"
+                                                    alt="Brandenburg-Logo"
+                                            />
+                                        </a>
+                                    </div>
+                                    <div class="hide-for-small-only medium-2 columns">
+                                        &nbsp;
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div
+                                    class="large-12 columns"
+                                    id="bb-nav"
+                                    style="margin-top: 0px; padding-top: 5px"
+                            >
+                                <div class="large-9 large-push-3 columns" id="bb-nav2">
+                                    <div
+                                            class="title-bar bb-title-bar"
+                                            data-responsive-toggle="bb-nav-menu"
+                                            data-hide-for="medium"
+                                            style="display: none"
+                                    >
+                        <span
+                                for="bb-navbar-button"
+                                class="bb-navbar-button-bg"
+                                data-toggle
+                        >
+                        <button
+                                id="bb-navbar-button"
+                                class="menu-icon bb-menu-icon"
+                                type="button"
+                        ></button>
+                        </span>
+                                        <div
+                                                for="bb-navbar-button"
+                                                class="title-bar-title bb-title-bar-title"
+                                                data-toggle
+                                        >
+                                            Hauptmenü
+                                        </div>
+                                    </div>
+                                    <div class="top-bar bb-top-nav-bar" id="bb-nav-menu">
+                                        <div class="top-bar-right" id="topMenu">
+                                             <ul
+        class="menu"
+        data-responsive-menu="drilldown medium-dropdown"
+        data-back-button='<li class="js-drilldown-back"><a title="Zurück">Zurück</a></li>'
+>
+    <li>
+        <a href="/suche"
+                title="Start"
+                class="bb-nav-menu-item"
+        >
+            Gerichtsentscheidungen
+        </a>
+    </li>
+    <li>
+        <a
+                href="https://www.landesrecht.brandenburg.de"
+                title="Gesetz- und Verordnungsblatt für das Land Brandenburg (GVBl)"
+                class="bb-nav-menu-item"
+        >
+            Gesetz- und Verordnungsblatt
+        </a>
+    </li>
+    <li>
+        <a
+                href="https://bravors.brandenburg.de"
+                title="Landesrecht"
+                class="bb-nav-menu-item"
+        >
+            Landesrecht
+        </a>
+    </li>
+    <li>
+        <a href="/seite/nutzungshinweise"
+           title="Start"
+           class="bb-nav-menu-item"
+        >
+            Nutzungshinweise
+        </a>
+    </li>
+
+</ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="bb-bottom-border"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row bb-area-content">
+                    <div class="columns">
+                        <div class="bb-content">
+                            
+            <div class="row">
+    <div class="hide-for-small-only medium-9 columns">
+        <div class="bb-breadcrumbs" id="bb-breadcrumbs1">
+            <span title="Sie sind hier:"> Sie sind hier: </span>
+
+            <a href="/" title="Startseite"><font class="bb-breadcrumbs-title">Gerichtsentscheidungen</font></a>
+
+            
+                    <i class="fa fa-caret-right"></i>
+
+                    <font class="bb-breadcrumbs-title">
+                                                    Deckungsrückstellung, Einzelbewertung, Rückstellung, Stichtagsprinzip
+                        
+                    </font>
+
+                
+        </div>
+    </div>
+    <div class="small-12 medium-3 columns"></div>
+</div>
+        
+                            <div class="row">
+                                <div class="columns">
+                                    <noscript>
+                                        <br/>
+                                        <div data-alert class="alert-box bb-alert error">
+                                            <div class="bb-alert-content">
+                                                <div
+                                                        class="bb-alert-title"
+                                                        title="Keine JavaScript-Unterstützung"
+                                                >
+                                                    Keine JavaScript-Unterstützung
+                                                </div>
+                                                <div class="bb-alert-description">
+                                                    Ihr Browser unterstützt kein JavaScript! Unter
+                                                    Umständen funktionieren einige Teile der Webseite
+                                                    nicht.
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </noscript>
+
+                                    
+    <div class="row" id="metadata">
+        <div class="columns">
+            <h1 id="header">
+                                    Deckungsrückstellung, Einzelbewertung, Rückstellung, Stichtagsprinzip
+                            </h1>
+            <br>
+            <h3>Metadaten</h3>
+            <table class="bb-table-stripes bb-table-stretch">
+                <tbody>
+                <tr>
+                    <th title="Typ">Gericht</th>
+                    <td>
+                        FG Cottbus 8. Senat
+                    </td>
+                    <th title="Datum">Entscheidungsdatum</th>
+                    <td>18.11.2025</td>
+                </tr>
+                <tr>
+                    <th title="Bezeichnung">Aktenzeichen</th>
+                    <td>8 K 8017/23</td>
+                    <th title="Gericht">ECLI</th>
+                    <td>ECLI:DE:FGBEBB:2025:1118.8K8017.23.00</td>
+                </tr>
+                <tr>
+                    <th title="Gericht">Dokumententyp</th>
+                    <td>Urteil</td>
+                    <th title="Gericht">Verfahrensgang</th>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <th title="Gericht">Normen</th>
+                    <td colspan="4">249 HGB §, 252 Abs. 1 Nr. 3 HGB §, 252 Abs. 1 Nr. 6 HGB §, 341e HGB §, 341f HGB §, 6 Abs. 1 Nr. 3a Buchst. f EStG §</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="row" id="gerichtsentscheidung-detail">
+        <div class="columns small-12 medium-12 large-8">
+            <div class="row">
+                <div class="columns">
+                    <br>
+                    <div class="docLayoutText doktyp-juris-r dokutyp">
+
+                        
+                            <div class="docLayoutMarginTopMore">
+                                <h4 class="doc" data-juris-toc="{&quot;level&quot;:1,&quot;label&quot;:&quot;Leitsatz&quot;}">
+                                    Leitsatz</h4>
+                            </div>
+                            <div class="docLayoutMarginTop">
+                                <div>
+                                    <dl class="RspDL">
+                                        <dt></dt>
+                                        <dd>
+                                            <p><p>F&uuml;hrt bei einer Pensionskasse die Anpassung der individuellen Sterbetafel zu einer Erh&ouml;hung der Deckungsr&uuml;ckstellung und genehmigt die BaFin einen Gesch&auml;ftsplan zur Wahrung der wirtschaftlichen Solvabilit&auml;t dahingehend, dass die Anpassung (Erh&ouml;hung der R&uuml;ckstellung) &uuml;ber mehrere Jahre gestreckt erfolgen kann, kann die Pensionskasse jederzeit die Deckungsr&uuml;ckstellung auch weiter bis zur notwendigen H&ouml;he erh&ouml;hen und ist nicht an den urspr&uuml;nglichen Plan (ratierliche Anpassung) gebunden. Eine solche pauschale Nachreservierung verst&ouml;&szlig;t weder gegen den Einzelbewertungsgrundsatz noch gegen den Grundsatz der Bewertungsstetigkeit. Die Genehmigung der BaFin nach dem Stichtag f&uuml;hrt auch nicht zu einem Versto&szlig; gegen das Stichtagsprinzip. Das Stichtagsprinzip begrenzt aber die Einbeziehung von blo&szlig;en k&uuml;nftigen Erwartungen, auch wenn sie erfahrungsgem&auml;&szlig; wahrscheinlich erscheinen. Nur am Stichtag bereits feststehende tarifliche Gehaltsanhebungen d&uuml;rfen ber&uuml;cksichtigt werden, nicht jedoch antizipierte Parameter wie k&uuml;nftige Karrierespr&uuml;nge, &Uuml;bertritte in h&ouml;here Tarifgruppen oder allgemeine, noch nicht fixierte Lohntrends. Dies galt bereits vor der Einf&uuml;hrung des &sect; 6 Abs. 1 Nr. 3a Buchst. f EStG.</p></p>
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                        
+                        
+                        
+                            <div class="">
+                                <h4 class="doc">
+                                    <!--hlIgnoreOn-->Tenor<!--hlIgnoreOff-->
+                                </h4>
+                            </div>
+                            <div class="docLayoutText">
+                                <div>
+                                    <dl class="RspDL">
+                                        <dt></dt>
+                                        <dd>
+                                            <p><ol>
+<li><strong>Der Gewerbesteuermessbescheid 2007 und der Bescheid &uuml;ber den vortragf&auml;higen Gewerbeverlust auf den 31.12.2007 vom 13. Februar 2019 in der Fassung der Einspruchsentscheidung vom 29. Dezember 2022 werden dahin ge&auml;ndert, dass die Deckungsr&uuml;ckstellung um xxx.000 &euro; erh&ouml;ht und die durch die Au&szlig;enpr&uuml;fung ermittelte Gewerbesteuerr&uuml;ckstellung entsprechend gemindert wird.<br /><br /></strong><strong>Dem Beklagten wird aufgegeben den Gewerbesteuermessbetrag neu zu berechnen und das Ergebnis der Neuberechnung den Beteiligten unverz&uuml;glich mitzuteilen; nach Rechtskraft der Entscheidung ist der Verwaltungsakt mit dem ge&auml;nderten Inhalt neu bekannt zu geben. <br /><br /></strong></li>
+<li><strong>Die Revision zum Bundesfinanzhof wird zugelassen.<br /><br /></strong></li>
+<li><strong>Die Kosten des Verfahrens werden zu 20 % dem Kl&auml;ger und zu 80 % dem Beklagten auferlegt.<br /><br /></strong></li>
+<li><strong>Das Urteil ist hinsichtlich der Kosten vorl&auml;ufig vollstreckbar. Der Beklagte kann die Vollstreckung durch Sicherheitsleistung in H&ouml;he des Kostenerstattungsanspruchs der Kl&auml;ger abwenden, wenn nicht die Kl&auml;ger vor der Vollstreckung Sicherheit in derselben H&ouml;he leistet.</strong></li>
+</ol></p>
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                        
+                        
+                            <div class="">
+                                <h4 class="doc">
+                                    <!--hlIgnoreOn-->Tatbestand<!--hlIgnoreOff-->
+                                </h4>
+                            </div>
+                            <div class="docLayoutText">
+                                <div>
+                                    <dl class="RspDL">
+                                        <dt></dt>
+                                        <dd>
+                                            <p><p>Streitig sind die steuerliche Anerkennung von pauschalen Nachreservierungen zur Deckungsr&uuml;ckstellung und der R&uuml;ckstellungen f&uuml;r Eintrittsverluste aus zuk&uuml;nftigen Gehaltssteigerungen.</p>
+<p>Der Kl&auml;ger betreibt die betriebliche Altersvorsorge f&uuml;r &hellip; sowie ihnen verbundene Dienstleistungsbetriebe. Er ist als Pensionskasse organisiert. Versicherungsaufsichtsrechtlich unterlag der Kl&auml;ger in den Streitjahren den Regelungen f&uuml;r Pensionskassen in &sect; 118 a bis 118 d VAG a.F. Er wurde in den Streitjahren aufgrund einer entsprechenden Antragstellung als sogenannte regulierte Pensionskasse im Sinne des &sect; 118 b Abs. 3 Satz 1 VAG a.F. behandelt. Der Kl&auml;ger wird auf Grundlage einer Erlaubnis der Bundesanstalt f&uuml;r Finanzdienstleistungsaufsicht (BaFin) t&auml;tig.</p>
+<p>Bis einschlie&szlig;lich 2005 legte der Kl&auml;ger bei der Ermittlung der Deckungsr&uuml;ckstellung eine auf Basis des eigenen Versichertenbestandes entwickelte Sterbetafel &hellip; zugrunde, die auf die im Jahr 1995 ermittelte voraussichtliche Lebenserwartung beruhte. Aufgrund der gestiegenen Lebenserwartung entwickelte der Kl&auml;ger in den Jahren 2004 und 2005 eine angepasste Sterbetafel &hellip;. Von dem ermittelten Gesamtr&uuml;ckstellungsbetrag in H&ouml;he von &hellip; &euro; entfallen &hellip; &euro; auf die Nachreservierung in Bestandstarifen bis einschlie&szlig;lich Neuzugang 2006 und &hellip; &euro; auf R&uuml;ckstellungen f&uuml;r Eintrittsverluste aus k&uuml;nftigen Beitr&auml;gen.</p>
+<p>In den Jahren 2006 bis 2009 nahm der Kl&auml;ger nach entsprechender Genehmigung seines Gesch&auml;ftsplanes durch die BaFin vor dem Hintergrund der ge&auml;nderten Sterbetafel Nachreservierungen nach der sogenannten Achtelmethode bei der Deckungsr&uuml;ckstellung vor, wobei eine Erh&ouml;hung um 3/8 in 2006 und um jeweils 1/8 in den Jahren 2007 bis 2009 erfolgte.</p>
+<p>Im Streitjahr 2007 nahm der Kl&auml;ger au&szlig;erdem eine pauschale Nachreservierung in H&ouml;he von xxx.000 &euro; vor. In seinem Antrag vom 14. Februar 2008 an die BaFin f&uuml;hrte der Kl&auml;ger in diesem Zusammenhang aus, dass diese Zuf&uuml;hrung auch k&uuml;nftig weitere Verbesserungen der Lebenserwartung diene und zus&auml;tzlich zu den genehmigten, gesch&auml;ftsplanm&auml;&szlig;igen R&uuml;ckstellungen f&uuml;r die Nachreservierung gestellt werde. Diese pauschale Reserve k&ouml;nne gegebenenfalls in 2008 mit dem in 2008 gegebenenfalls notwendigen gesch&auml;ftsplanm&auml;&szlig;igen Nachreservierungsaufwand verrechnet werden. Die pauschale Nachreservierung wurde von der BaFin mit Schreiben vom 20. Februar 2008 genehmigt.</p>
+<p>Der Kl&auml;ger ber&uuml;cksichtigte ferner bei der Deckungsr&uuml;ckstellung im Jahr 2006 einen Betrag in H&ouml;he von yyy.000 &euro; und im Jahr 2007 in H&ouml;he von zzz.000 &euro; wegen Eintrittsverlusten aus Beitragserh&ouml;hungen bei den Tarifen &hellip; und &hellip;. Dabei ging er von tariflichen Gehaltsanpassungen in H&ouml;he von 1,8% in 2006 und 3,5% in 2007 aus. In dem Technischen Gesch&auml;ftsplan wird hierzu ausgef&uuml;hrt:</p>
+<p style="padding-left: 40px;"><em>&bdquo;Als Basis f&uuml;r die Berechnung der R&uuml;ckstellung f&uuml;r Verluste aus Beitragserh&ouml;hungen dient die Deckungsr&uuml;ckstellung f&uuml;r zuk&uuml;nftige Steigerungen zuz&uuml;glich der Deckungsr&uuml;ckstellung f&uuml;r die Zurechnungszeit. Die Zunahme der Beitragssumme wird f&uuml;r M&auml;nner und Frauen aus der zu erwartenden Gehaltserh&ouml;hung ohne Ber&uuml;cksichtigung der Erh&ouml;hung der Beitragsbemessungsgrenze gesch&auml;tzt. Diese Werte werden als prozentualer Anteil festgelegt. Aus der Basisgr&ouml;&szlig;e wird anhand der f&uuml;r das Folgejahr erwarteten Beitragszunahme die erforderliche R&uuml;ckstellung ermittelt.&ldquo;</em></p>
+<p>Der Kl&auml;ger wurde erkl&auml;rungsgem&auml;&szlig; unter dem Vorbehalt der Nachpr&uuml;fung veranlagt.</p>
+<p>Anl&auml;sslich einer f&uuml;r die Jahre 2006 bis 2009 durchgef&uuml;hrten Betriebspr&uuml;fung vertrat der Pr&uuml;fer die Auffassung, dass die Pauschalzuf&uuml;hrung in 2007 gegen das Einzelbewertungsprinzip versto&szlig;e, denn danach sei jeder einzelne Versicherungsvertrag zu kalkulieren und zu bilanzieren. Es sei keine versicherungsmathematisch ermittelten Berechnungsgrundlagen erstellt worden. Au&szlig;erdem werde durch die Pauschalzuf&uuml;hrungen von der so genannten Bewertungsmethodenstetigkeit bei der Erstellung der Jahresabschl&uuml;sse abgewichen. Von den planm&auml;&szlig;igen Vorgaben der Achtelmethode sei in den Jahren 2007 bis 2009 durch die Pauschalzuf&uuml;hrungen abgewichen worden, ohne dass dies durch Besonderheiten innerhalb des Ermittlungsprozesses begr&uuml;ndet worden sei. Die Abweichungen h&auml;tten sich vielmehr an den gegebenen tats&auml;chlichen wirtschaftlichen Verh&auml;ltnissen, insbesondere dem Ergebnis aus Kapitalanlagen in den Jahren 2007 bis 2009 orientiert.</p>
+<p>Hinsichtlich der R&uuml;ckstellungen f&uuml;r Eintrittsverluste aus Beitragserh&ouml;hungen f&uuml;hrte die Betriebspr&uuml;fung aus, die Erh&ouml;hungen verstie&szlig;en gegen das Stichtagsprinzip, das nach &sect; 341e Abs. 1 Satz 3 HGB auch f&uuml;r versicherungstechnische R&uuml;ckstellungen gelte. Er d&uuml;rften demnach nur Gehaltssteigerungen ber&uuml;cksichtigt werden, die in einem Tarifabschluss vor dem Bilanzstichtag vereinbart worden seien. Da am 1. Dezember 2006 eine Tariferh&ouml;hung von 1,5% vereinbart worden sei, k&ouml;nne f&uuml;r 2006 nur eine R&uuml;ckstellung von &hellip;.000 &euro; ber&uuml;cksichtigt werden, die R&uuml;ckstellung f&uuml;r 2007 sei nicht zu ber&uuml;cksichtigen.</p>
+<p>Der Beklagte folgte den Pr&uuml;fungsfeststellungen und setzte den Gewerbesteuermessbetrag f&uuml;r die Streitjahre 2006 und 2007 fest und stellte den vortragsf&auml;higen Gewerbeverlust zum 31.12.2006 und 31.12.2007 mit Bescheiden vom 13. Februar 2019 entsprechend fest.</p>
+<p>Der hiergegen gerichtete Einspruch der Kl&auml;ger blieb ohne Erfolg.</p>
+<p>Im Klageverfahren macht der Kl&auml;ger geltend, die BaFin habe die pauschale Nachreservierung genehmigt, sie m&uuml;sse daher handelsrechtlich auch durchgef&uuml;hrt werden. Dies ergebe sich aus der Tatbestandswirkung der Genehmigungen der BaFin. Die Genehmigung des Technischen Gesch&auml;ftsplans sei f&uuml;r ihn, den Kl&auml;ger, verbindlich. Die BaFin habe mit Schreiben vom 7. M&auml;rz 2007 eine pauschale R&uuml;ckstellung innerhalb der Deckungsr&uuml;ckstellung f&uuml;r 2006 in H&ouml;he von &hellip; &euro; und mit Schreiben vom 20. Februar 2008 eine zus&auml;tzliche pauschale Reserve von xxx.000 &euro; zur Deckungsr&uuml;ckstellung f&uuml;r 2007 genehmigt. Mit der Genehmigung sei er, der Kl&auml;ger, verpflichtet, die entsprechende Nachreservierung auch durchzuf&uuml;hren. Die aufsichtsrechtliche Verpflichtung m&uuml;sse auch vom Beklagten beachtet werden, die Genehmigung entfalte Tatbestandswirkung. Insoweit gelte das Ma&szlig;geblichkeitsprinzip. Ihm, dem Kl&auml;ger, drohe f&uuml;r den Fall, dass er die Deckungsr&uuml;ckstellung nicht entsprechend den Vorgaben des genehmigten Gesch&auml;ftsplans bilde, letztlich die Untersagung seines Gesch&auml;ftsbetriebs durch die BaFin. Die Regelungen der Verordnung &uuml;ber Rechnungsgrundlagen f&uuml;r die Deckungsr&uuml;ckstellungen (Deckungsr&uuml;ckstellungsverordnung - DeckRV) seien nicht anwendbar (&sect; 1 Abs. 2 DeckRV). Mit der Genehmigung werde eine &ouml;ffentlich-rechtliche Verpflichtung zu dem in dem Gesch&auml;ftsplan festgelegten Verhalten begr&uuml;ndet. Der BFH habe daher entschieden, dass dies auch f&uuml;r freiwillig abgegebene gesch&auml;ftsplanm&auml;&szlig;ige Erkl&auml;rungen gelte und kein sachlicher Grund ersichtlich sei, solche Verpflichtungen als grunds&auml;tzlich nicht nach &sect; 341e HGB r&uuml;ckstellungsf&auml;hig anzusehen. Die hiernach handelsrechtlich zul&auml;ssigen Nachreservierungen seien auch steuerrechtlich ma&szlig;gebend. Es k&ouml;nne deshalb offen bleiben, ob die von der BaFin erteilten Genehmigungen rechtm&auml;&szlig;ig seien. Der Nachreservierungsbedarf sei zudem korrekt ermittelt worden. Er, der Kl&auml;ger, habe die entsprechenden versicherungsmathematischen Grundlagen f&uuml;r die Berechnung der Deckungsr&uuml;ckstellung aus seinem Bestand ermittelt und damit die Deckungsr&uuml;ckstellung f&uuml;r jedes Versicherungsverh&auml;ltnis nach der prospektiven Methode berechnet. Auf dieser Basis habe sich ergeben, dass f&uuml;r den Versichertenbestand gegen&uuml;ber der R&uuml;ckstellung, die auf Basis der Sterbetafel &hellip; ermittelt worden war, ein zus&auml;tzlicher Aufwand in H&ouml;he von rund &hellip; Mio. &euro; zu ber&uuml;cksichtigen war. Der Betrag setze sich aus &hellip; Mio. &euro; f&uuml;r die bereits erreichten Anwartschaften und laufenden Leistungen (past service) und &hellip; Mio. &euro; f&uuml;r die zuk&uuml;nftig hinzutretenden Anwartschaften in den Neu- und Zusatztarifen (future service) zusammen. Da in den Streitjahren der Gesamtreservierungsbedarf noch nicht erreicht worden sei, sei es zul&auml;ssig gewesen, &uuml;ber die Zuf&uuml;hrung nach der Achtelmethode hinaus die Deckungsr&uuml;ckstellung um einen pauschalen Betrag zu erh&ouml;hen. Der nach der Achtelmethode angesetzte Betrag sei lediglich der anzusetzende Mindestbetrag. Ein Verzicht auf die pauschale Nachf&uuml;hrung sei zudem weniger vorsichtig.</p>
+<p>Die Verteilung des Aufwandes auf mehrere Jahre sei nach &sect; 252 Abs. 2 HGB zul&auml;ssig. Dass f&uuml;r eine Verteilung des hohen Einmalaufwandes auf mehrere Wirtschaftsjahre gewichtige Gr&uuml;nde bestehen, sei bereits aus vergleichbaren gesetzlichen Regelungen erkennbar. So habe sich der Gesetzgeber im Jahr 2009 des Problems der hohen Einmalzuf&uuml;hrungen bei Ver&auml;nderung von Rechnungsgrundlagen f&uuml;r Altersversorgungszusagen angenommen und in Art. 67 Abs. 1 EGHGB eine Regelung getroffen, die Bewertungs&auml;nderungen bei Pensionsr&uuml;ckstellungen aufgrund der &Auml;nderung des &sect; 253 Abs. 2 HGB und der Einf&uuml;hrung des &sect; 253 Abs. 1 S. 3 HGB durch das Bilanzrechtsmodernisierungsgesetz (BilMoG) betreffen. Er r&auml;ume den Bilanzierenden die M&ouml;glichkeit ein, die sich insbesondere aus der Zinssatzanpassung ergebende Zuf&uuml;hrung auf 15 Gesch&auml;ftsjahre zu verteilen. Die Zuf&uuml;hrung k&ouml;nne in unterschiedlichen H&ouml;hen erfolgen. Die Bilanzierungspraxis erkenne in hohen Einmalzuf&uuml;hrungen ein Problem f&uuml;r die Bilanzierenden und lasse die Bilanzierung nach der Achtel-Methode zu. Die BaFin m&uuml;sse zudem die Interessen der Versicherten ber&uuml;cksichtigen, weshalb sie die Achtel-Methode f&uuml;r zul&auml;ssig erachte und gleichwohl eine m&ouml;glichst schnelle Nachreservierung fordere. Die BaFin fordere deshalb, dass die H&ouml;he der Nachreservierung zu den Bilanzstichtagen mindestens um jeweils ein Achtel des Gesamtreservierungsbetrages h&ouml;her liegen m&uuml;sse.</p>
+<p>Entgegen der Auffassung des Beklagten liege auch kein Versto&szlig; gegen das Stichtagsprinzip vor, da nur ein j&auml;hrlich zu erreichendes Mindestniveau feststehe.</p>
+<p>Auch die R&uuml;ckstellungen f&uuml;r Eintrittsverluste aus Beitragserh&ouml;hungen als Teil der Deckungsr&uuml;ckstellung seien handels- und steuerrechtlich anzuerkennen. Die Ber&uuml;cksichtigung einer entsprechenden R&uuml;ckstellung im Technischen Gesch&auml;ftsplan werde von der Aufsichtsbeh&ouml;rde gefordert und er, der Kl&auml;ger, sei zur Bildung der R&uuml;ckstellung verpflichtet. Er, der Kl&auml;ger, habe dem Vorsichtsprinzip folgend bei der Berechnung der R&uuml;ckstellung f&uuml;r Eintrittsverluste aus Beitragserh&ouml;hungen nicht nur die von der Betriebspr&uuml;fung aufgegriffenen tarifvertraglich fixierten Gehaltserh&ouml;hungen, sondern daneben auch solche Gehaltssteigerungen ber&uuml;cksichtigt, die sich aus anderen Gr&uuml;nden ergeben k&ouml;nnen. Die Notwendigkeit der Bildung einer Deckungsr&uuml;ckstellung f&uuml;r Eintrittsverluste aus Beitragserh&ouml;hungen ergebe sich bei den Tarifen mit altersunabh&auml;ngigen Rentenfaktoren daraus, dass der Barwert der k&uuml;nftigen Leistungen den Barwert der k&uuml;nftigen Beitr&auml;ge &uuml;bersteige. Es entstehe ein Verpflichtungs&uuml;berschuss zum jeweiligen Bilanzstichtag. Er, der Kl&auml;ger, k&ouml;nne sich der k&uuml;nftigen Erh&ouml;hung des Leistungsumfangs nicht entziehen, denn der Kl&auml;ger sei als Pensionskasse eine Einrichtung der betrieblichen Altersversorgung im Sinne des Betriebsrentengesetzes. Diese Verpflichtungen (h&ouml;herer Barwert der k&uuml;nftigen Leistungen) seien zwingend in der &bdquo;R&uuml;ckstellung f&uuml;r Eintrittsverluste aus zuk&uuml;nftigen Beitragserh&ouml;hungen&ldquo; (als Bestandteil einer nach der prospektiven Methode gebildeten Deckungsr&uuml;ckstellung) zu ber&uuml;cksichtigen. Das Stichtagsprinzip stehe dem nicht entgegen. Zum einem fordere &sect; 341f Abs. 1 HGB die Anwendung der prospektiven Methode. Zum anderen gehe es vorliegend nicht um k&uuml;nftige Preis- und Kostensteigerungen, sondern um den zus&auml;tzlichen, kalkulationsbedingten Verpflichtungs&uuml;berhang, der aus der Gegen&uuml;berstellung der zuk&uuml;nftigen Leistungen des Kl&auml;gers und der zuk&uuml;nftig hierf&uuml;r zu zahlenden Beitr&auml;ge entsteht. Die Anwendung der prospektiven Methode bei der Ermittlung der Deckungsr&uuml;ckstellung nach &sect; 341f Abs. 1 S. 1 HGB bedinge eine zukunftsbezogene Antizipation von planm&auml;&szlig;igen Verlusten. Die Ber&uuml;cksichtigung der Beitragszunahme im Folgejahr infolge der zu erwartenden Gehaltserh&ouml;hungen und das dabei anzuwendende Sch&auml;tzverfahren sind im &Uuml;brigen ebenfalls in dem von der BaFin genehmigten Technischen Gesch&auml;ftsplan niedergelegt.</p>
+<p>Die R&uuml;ckstellung sei auch steuerbilanziell zul&auml;ssig. &sect; 6 Abs. 3 Nr. 3a Buchst. f EStG stehe dem nicht entgegen, da er erst f&uuml;r Wirtschaftsjahre, die nach dem 31.12.2009 gelten, anwendbar sei. Die Vorschrift enthalte auch keine lediglich klarstellende Regelung, denn ohne diese Regelung w&auml;re die handelsrechtliche Neuregelung in &sect; 253 Abs. 1 S. 2 HGB und die sich daraus ergebende Ber&uuml;cksichtigung von Preis- und Kostensteigerungen im Rahmen des handelsrechtlich ma&szlig;gebenden notwendigen Erf&uuml;llungsbetrags nach dem Ma&szlig;geblichkeitsgrundsatz des &sect; 5 Abs. 1 S. 1 EStG auch steuerlich zu &uuml;bernehmen.</p>
+<p>Der Kl&auml;ger beantragt,</p>
+<blockquote>
+<ol>
+<li><em><strong>Der Gewerbesteuermessbescheid 2006 vom 13. Februar 2019 in der Fassung der Einspruchsentscheidung 29. Dezember 2022 wird dahin ge&auml;ndert, dass der Gewerbeertrag um &hellip; EUR herabgesetzt wird.<br /><br /></strong></em></li>
+<li><em><strong>Der Bescheid &uuml;ber den vortragf&auml;higen Gewerbeverlust auf den 31.12.2006 vom 13. Februar 2019 in der Fassung der Einspruchsentscheidung vom 29. Dezember 2022 wird dahin ge&auml;ndert, dass der Gewerbeverlust auf &hellip; EUR festgestellt wird.<br /><br /></strong></em></li>
+<li><em><strong>Der Gewerbesteuermessbescheid 2007 vom 13. Februar 2019 in der Fassung der Einspruchsentscheidung vom 29. Dezember 2022 wird dahin ge&auml;ndert, dass der Gewerbesteuermessbetrag auf 0 EUR herabgesetzt wird.<br /><br /></strong></em></li>
+<li><em><strong>Der Bescheid &uuml;ber den vortragf&auml;higen Gewerbeverlust auf den 31.12.2007 vom 13. Februar 2019 in der Fassung der Einspruchsentscheidung vom 29. Dezember 2022 wird dahin ge&auml;ndert, dass der Gewerbeverlust auf &hellip; EUR festgestellt wird.</strong></em></li>
+</ol>
+</blockquote>
+<p>Der Beklagte beantragt,</p>
+<blockquote>
+<p><em><strong>die Klage abzuweisen.</strong></em></p>
+</blockquote>
+<p>Er vertritt die Auffassung, die Regelungen des Aufsichtsrechts seien im Handelsrecht nur bez&uuml;glich der biometrischen Ausscheideordnung und der Zuweisung bestimmter Kapitalertr&auml;ge zu den R&uuml;ckstellungen anwendbar. Ein allgemeiner Grundsatz der Ma&szlig;geblichkeit des Versicherungsaufsichtsrechts f&uuml;r das Steuerrecht existiere nicht. Nach der Begr&uuml;ndung des Gesetzgebers k&ouml;nne aus den h&ouml;heren Sch&auml;tzerfordernissen und der Forderung nach dauernder Erf&uuml;llbarkeit der Verpflichtungen nicht auf ein h&ouml;heres Ma&szlig; an Vorsicht bei der Bildung der R&uuml;ckstellungen dem Grunde und der H&ouml;he nach geschlossen werden als bei Anwendung der allgemeinen Bilanzierungsgrunds&auml;tze auf Unternehmen anderer Branchen. Das aus dem Vorsichtsprinzip resultierende Einzelbewertungsprinzip konkretisiere das Imparit&auml;tsprinzip und diene damit der Einschr&auml;nkung des subjektiven Ermessens bei der Wertermittlung von Verm&ouml;gensgegenst&auml;nden und Verpflichtungen. Die im Streitfall vom Kl&auml;ger nachtr&auml;glich vorgenommenen pauschalen Nachreservierungen st&uuml;nden aber bez&uuml;glich ihrer H&ouml;he vollst&auml;ndig im subjektiven Ermessen des Kl&auml;gers und damit in eindeutigem Widerspruch zum Zweck der Regelung des &sect; 252 Abs. 1 Nr. 3 HGB. Auch der Grundsatz der Bewertungsmethodenstetigkeit sollte verhindern, dass die Wahl der Bewertungsmethode &uuml;ber die Zeit in das freie Belieben des Bilanzaufstellers einer Steuerbilanz gestellt werde. Die zus&auml;tzliche pauschale Nachreservierung stelle keinen pragmatischen Kompromiss zwischen einer rechtlichen Nachreservierungsverpflichtung und der Sicherstellung der Solvabilit&auml;t des Versicherungsunternehmens dar. Diese zus&auml;tzliche Pauschalzuf&uuml;hrung zur Deckungsr&uuml;ckstellung sei erst nach Ablauf des Wirtschaftsjahres beantragt worden, f&uuml;r die Notwendigkeit der Ber&uuml;cksichtigung weiterer Sicherheitsmargen seien keine Nachweise vorgelegt worden. Der Kl&auml;ger habe im Streitjahr 2007 au&szlig;ergew&ouml;hnlich hohe Ertr&auml;ge erzielt. Die Darstellung des Kl&auml;gers, dass ausschlie&szlig;lich die Notwendigkeit der schnelleren Nachreservierung infolge der Langlebigkeit urs&auml;chlich f&uuml;r die Realisierung der stillen aus Kapitalanlagen im Streitzeitraum war, widerspreche zudem den &ouml;ffentlichen &Auml;u&szlig;erungen der damaligen Gesch&auml;ftsleitung des Kl&auml;gers &uuml;ber deren Kapitalanlagestrategie in der B&ouml;rsen Zeitung vom 6. Mai 2008. Ursache seien demnach &uuml;berdurchschnittlich gute Kapitalanlageergebnisse und nicht etwa wie vom Kl&auml;ger dargestellt die Notwendigkeit einer schnelleren Nachreservierung. Auch habe die BaFin die Nachreservierung nach der Achtel-Methode genehmigt, so dass die Erf&uuml;llbarkeit der Vertr&auml;ge zur jederzeit gesichert war. Die BaFin habe weder eine zus&auml;tzliche pauschale Nachreservierung gefordert, noch sei ein Widerruf der Erlaubnis erfolgt. Dementsprechend seien auch die Voraussetzungen des &sect; 252 Abs. 2 HBG nicht erf&uuml;llt. Der Kl&auml;ger habe mit der pauschalen Nachreservierung lediglich das Entstehen nicht abzugsf&auml;higer Betriebsausgaben nach &sect; 21 KStG verhindern wollen. Bei den nachtr&auml;glich vorgenommenen zus&auml;tzlichen Pauschalzuf&uuml;hrungen zu den Deckungsr&uuml;ckstellungen stehe insoweit nicht eine weitere zeitnahe Heranf&uuml;hrung des Reservierungsdefizits an den Zielwert im Vordergrund.</p>
+<p>Im &Uuml;brigen weist er darauf hin, dass der Kl&auml;ger auf der Grundlage der angepassten Berechnungsgrundlagen &hellip; einen Nachreservierungsbedarf in H&ouml;he von &hellip; &euro; ermittelt habe. Unzul&auml;ssigerweise beziehe der Kl&auml;ger die Teilr&uuml;ckstellung f&uuml;r Eintrittsverluste k&uuml;nftiger Beitr&auml;ge in H&ouml;he von &hellip; &euro; ein. Dies sei unzul&auml;ssig, da ausschlie&szlig;licher Streitgegenstand die Pauschalr&uuml;ckstellungen seien, die zus&auml;tzlich zu den regul&auml;ren Erh&ouml;hungen der Deckungsr&uuml;ckstellungen wegen h&ouml;herer Lebenserwartung vorgenommen worden seien. Die Eintrittsverluste f&uuml;r k&uuml;nftige Beitragszahlungen betr&auml;fen ausschlie&szlig;lich die Pr&auml;mienbarwertdifferenzen, die sich aus einer k&uuml;nftigen Anwendung der &hellip; bei der Pr&auml;mienkalkulation ergeben und damit lediglich Auswirkungen auf die Pr&auml;mienbarwerte erzeugen. Die Eintrittsverluste seien von der Betriebspr&uuml;fung anerkannt worden und damit unstreitig.</p>
+<p>Soweit der Kl&auml;ger die Auffassung vertrete, dass die pauschale Nachreservierung auch f&uuml;r der Nachreservierung der Eintrittsverluste aus k&uuml;nftigen Beitr&auml;gen diene, stehe dem der Wortlaut des technischen Gesch&auml;ftsplans entgegen, wonach zwischen den Nachreservierungsbeitr&auml;gen in den Bestandstarifen und Eintrittsverlusten aus zuk&uuml;nftigen Beitr&auml;gen unterschieden werde. Der Antrag betreffend die zus&auml;tzliche Pauschalreservierung in H&ouml;he von xxx.000 &euro; betreffe eindeutig nur die gesch&auml;ftsplanm&auml;&szlig;ige Nachreservierung. Dies ergebe sich bereits aus dem Wortlaut des technischen Gesch&auml;ftsplanes des Kl&auml;gers vom 06. Februar 2007 entgegen, wonach zun&auml;chst in den Tz. 3 und 4 eine Unterscheidung der Nachreservierungsbetr&auml;ge f&uuml;r die Deckungsr&uuml;ckstellungen in die Gruppen Nachreservierung in Bestandstarifen bis einschlie&szlig;lich Neuzugang 2006 (Tz. 3) und Eintrittsverluste aus zuk&uuml;nftigen Beitr&auml;gen bis einschlie&szlig;lich Neuzugang 2006 (Neutarif und Zusatzversicherungen &hellip;) (Tz.4) vorgenommen werde. Die in der Folge f&uuml;r das Streitjahr 2007 mit Antrag vom 14. Februar 2008 bei der Aufsichtsbeh&ouml;rde abgegebene gesch&auml;ftsplanm&auml;&szlig;ige Erkl&auml;rung vom 31. Januar 2008 zur Ber&uuml;cksichtigung einer zus&auml;tzlichen Pauschalzuf&uuml;hrung zur Deckungsr&uuml;ckstellung von in H&ouml;he von xxx.000 &euro; beziehe sich eindeutig nur auf die gesch&auml;ftsplanm&auml;&szlig;igen R&uuml;ckstellungen f&uuml;r Nachreservierung und damit lediglich auf Tz. 3 des technischen Gesch&auml;ftsplanes und nicht auf die Aussage in Tz. 4. Im &Uuml;brigen habe man sich im Laufe der BP auf eine Reduzierung des R&uuml;ckstellungsbedarfes aus Eintrittsverlusten auf &hellip; &euro; geeinigt.</p>
+<p>Hinsichtlich der R&uuml;ckstellung f&uuml;r Eintrittsverluste macht der Beklagte geltend, die Einf&uuml;hrung des &sect; 6 Abs. 1 Nr. 3a Buchstabe f EStG beinhalte eine lediglich klarstellende Regelung, die eine Ber&uuml;cksichtigung von k&uuml;nftigen Preis- und Kostensteigerungen bei der Ermittlung von R&uuml;ckstellungen nicht vorsehe. Auf den eindeutigen Wortlaut in der Gesetzesbegr&uuml;ndung zum Gesetz zur Modernisierung des Bilanzrechtes werde verwiesen. Grundlage f&uuml;r die Anpassung der Vorschrift sei die vor der Gesetzes&auml;nderung ergangene h&ouml;chstrichterliche Rechtsprechung, nach der die Wertverh&auml;ltnisse am Bilanzstichtag ma&szlig;geblich seien.</p></p>
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                        
+                        
+                            <div class="docLayoutMarginTopMore">
+                                <h4 class="doc" data-juris-toc="{&quot;level&quot;:1,&quot;label&quot;:&quot;Gründe&quot;}">
+                                    <!--hlIgnoreOn-->Entscheidungsgründe<!--hlIgnoreOff-->
+                                </h4>
+                            </div>
+                            <div class="docLayoutText">
+                                <div>
+                                    <dl class="RspDL">
+                                        <dt></dt>
+                                        <dd>
+                                            <p><p>I. Die Klage ist in dem aus dem Tenor ersichtlichem Umfang begr&uuml;ndet.</p>
+<p>1. Der Beklagte hat zu Unrecht die Zuf&uuml;hrung zur R&uuml;ckstellung in H&ouml;he von xxx.000 &euro; im Jahr 2007 steuerrechtlich nicht anerkannt.</p>
+<p>a) Nach &sect; 249 Abs. 1 Satz 1 Handelsgesetzbuch (HGB) sind R&uuml;ckstellungen unter anderem f&uuml;r Verbindlichkeiten zu bilden. Die Verbindlichkeitsr&uuml;ckstellung ist Ausfluss des Vorsichtsprinzips und des hieraus abgeleiteten Realisationsprinzips. Sie soll im Interesse eines periodengerechten Gewinnausweises gew&auml;hrleisten, dass am Bilanzstichtag verursachte potentiell gewinnmindernde Faktoren in der Bilanz ber&uuml;cksichtigt werden (BFH, Urteil vom 29. November 2000 &ndash; I R 87/99, BFHE 194, 57, BStBl II 2002, 655). Versicherungsunternehmen haben dar&uuml;ber hinaus gem&auml;&szlig; &sect;&nbsp;341e Abs. 1 HGB versicherungstechnische R&uuml;ckstellungen auch insoweit zu bilden, als dies nach vern&uuml;nftiger kaufm&auml;nnischer Beurteilung notwendig ist, um die dauernde Erf&uuml;llbarkeit der Verpflichtungen aus den Versicherungsvertr&auml;gen sicherzustellen. Dabei sind mit Ausnahme der Vorschriften der &sect;&sect; 74 bis 87 des Versicherungsaufsichtsgesetzes die im Interesse der Versicherten erlassenen aufsichtsrechtlichen Vorschriften &uuml;ber die bei der Berechnung der R&uuml;ckstellungen zu verwendenden Rechnungsgrundlagen einschlie&szlig;lich des daf&uuml;r anzusetzenden Rechnungszinsfu&szlig;es und &uuml;ber die Zuweisung bestimmter Kapitalertr&auml;ge zu den R&uuml;ckstellungen zu ber&uuml;cksichtigen.</p>
+<p>Erg&auml;nzt wird diese Bestimmung durch &sect; 341f Abs. 1 HGB, wonach Deckungsr&uuml;ck-stellungen f&uuml;r Verpflichtungen aus Lebensversicherungs- und dem nach Art der Lebensversicherung betriebenen Versicherungsgesch&auml;ft in H&ouml;he ihres versicherungsmathematischen Wertes einschlie&szlig;lich bereits zugeteilter &Uuml;berschussanteile mit Ausnahme der verzinslich angesammelten &Uuml;berschussanteile und nach Abzug des versicherungsmathematisch ermittelten Barwerts der k&uuml;nftigen Beitr&auml;ge zu bilden sind (prospektive Methode). Die Regelung gilt auch f&uuml;r Pensionsfonds (BeckOK HGB/Sch&auml;rtl, 48. Ed. 1.10.2025, HGB &sect; 341f Rn. 43, beck-online) und ist demzufolge auch im Streitfall zu beachten.</p>
+<p>aa) Wird &ndash; wie im Streitfall &ndash; aufgrund neuer biometrischer Daten erkennbar, dass die bisherige Deckungsr&uuml;ckstellung unzureichend ist, entsteht handelsrechtlich die Pflicht zur sofortigen Anpassung. Anhaltspunkte daf&uuml;r, dass die Deckungsr&uuml;ckstellung nach Art einer Ansammlungsr&uuml;ckstellung, wie sie etwa im Zusammenhang mit R&uuml;ckbauverpflichtungen zugelassen wird (z.B. BFH, Urteil vom 16. September 1970 &ndash; I R 184/67 &ndash;, BFHE 100, 443, BStBl II 1971, 85), &uuml;ber mehrere hinweg gebildet werden kann, bestehen nicht. Eine ratierliche Nachreservierung widerspricht bereits dem Wortlaut des &sect; 341f HGB. Danach ist eine Deckungsr&uuml;ckstellung zu bilden. Aus dem Stichtagsprinzip, nach dem die Wertverh&auml;ltnisse zum Bilanzstichtag zu ber&uuml;cksichtigen sind, folgt, dass der gesamte ermittelte Nachreservierungsbedarf sofort in der Bilanz auszuweisen ist. Zu beachten ist dabei, dass die Einf&uuml;hrung einer neuen Sterbetafel stets das Ergebnis einer retrospektiven Betrachtung darstellt. Die h&ouml;here Lebenserwartung bestand bereits in der Vergangenheit, wurde aber erst durch die statistische Neubewertung sichtbar gemacht. Die BaFin hat bereits im Rundschreiben R 9/2004 (VA) darauf hingewiesen, dass die Lebenserwartung gestiegen ist und eine &uuml;berproportionale Abnahme der Versicherungsmargen zu beobachten ist (https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Rundschreiben/rs_0409_va_rentenvertragsanweisungen.html). Auch mit dem Grundsatz der dauernden Erf&uuml;llbarkeit ist die Bildung einer ratierlichen R&uuml;ckstellung nicht zu vereinbaren.</p>
+<p>bb) Die Zul&auml;ssigkeit einer ratierlichen Nachreservierung l&auml;sst sich auch nicht aus dem in &sect; 341e Abs. 1 Satz 1 HGB verwendeten Ma&szlig;stab der &bdquo;vern&uuml;nftigen kaufm&auml;nnischen Beurteilung&ldquo; ableiten. Der Begriff ist im Gesetz nicht definiert. Der Begriff beschreibt nach Auffassung des Senats ausschlie&szlig;lich den Ma&szlig;stab f&uuml;r die sachgerechte Ermittlung des versicherungsmathematisch notwendigen Erf&uuml;llungsbetrags. Erforderlich ist die fachlich fundierte Einsch&auml;tzung eines sorgf&auml;ltigen Versicherungsunternehmens, welche am Bilanzstichtag vorliegenden tats&auml;chlichen und rechtlichen Verh&auml;ltnisse f&uuml;r die Bewertung der Verpflichtung ma&szlig;geblich sind. Er er&ouml;ffnet daher keinen Spielraum, einen festgestellten versicherungsmathematischen Nachreservierungsbedarf &uuml;ber mehrere Gesch&auml;ftsjahre zu verteilen.</p>
+<p>cc) Kein anderes Ergebnis ergibt sich aus &sect; 341e Abs. 1 Satz 2 HGB. Danach sind die im Interesse der Versicherten erlassenen Vorschriften &uuml;ber die Berechnung der zu verwendenden Rechnungsgrundlagen einschlie&szlig;lich des daf&uuml;r anzusetzenden Rechnungszinsfu&szlig;es und &uuml;ber die Zuweisung bestimmter Kapitalertr&auml;ge zu den R&uuml;ckstellungen zu ber&uuml;cksichtigen. Eine Vorschrift, die die &uuml;ber mehrere Jahre verteilte Nachreservierung der Deckungsr&uuml;ckstellung erlauben w&uuml;rde, w&auml;re bereits vom Wortlaut des &sect; 341e Abs. 1 Satz 2 HGB nicht erfasst, weil eine ratierliche Nachreservierung weder die Berechnungsgrundlagen noch die Zuweisung von Kapitalertr&auml;gen zu den R&uuml;ckstellungen, sondern nur die Verteilung des Gesamtbetrags betrifft. Eine solche Vorschrift existiert im &Uuml;brigen auch nicht. Bei der Ver&ouml;ffentlichung des Bundesaufsichtsamtes f&uuml;r das Versicherungswesen (VerBAV) 11/1995 zur Nachreservierung von Rentenversicherungen mit veralteten Rechnungsgrundlagen, auf die sich der Kl&auml;ger beruft und die den Aufbau der Deckungsr&uuml;ckstellung so schnell wie m&ouml;glich, sp&auml;testens aber nach 8 Jahren vorsieht, ist keine Vorschrift im Sinne des &sect; 341e Abs. 1 Satz 2 HGB, sondern eine Anweisung, die sich auf die im Jahr 1995 aufgrund der ge&auml;nderten Rechnungsgrundlagen erforderlich gewordenen Nachreservierung bezieht.</p>
+<p>dd) Soweit die BaFin entgegen der hiernach bestehenden handelsrechtlichen Verpflichtung zur Nachreservierung in voller H&ouml;he eine Verteilung &uuml;ber mehrere Jahre zul&auml;sst, so liegen dem nach Auffassung des Senats folgende widerstreitende Gesichtspunkte zugrunde, die die Versicherungsaufsicht bei der Aufgabenerf&uuml;llung zu ber&uuml;cksichtigen hat: Die Versicherungsaufsicht ist nach dem VAG verpflichtet, f&uuml;r die Erf&uuml;llbarkeit der Vertr&auml;ge zu sorgen und die Belange der Versicherungsnehmer zu wahren. Der Versichertenschutz verlangt deshalb grunds&auml;tzlich die sofortige vollst&auml;ndige Nachreservierung. Eine sofortige Vollauff&uuml;llung der Deckungsr&uuml;ckstellung kann jedoch im Einzelfall zu einer bilanziellen und unter Umst&auml;nden auch insolvenzrechtlich relevanten &Uuml;berschuldung f&uuml;hren und damit die Stabilit&auml;t des Versicherungsunternehmens gef&auml;hrden. Im Interesse des Versichertenschutzes muss die Versicherungsaufsicht daher auch die Wahrung der wirtschaftlichen Solvabilit&auml;t des Versicherungsunternehmens beachten. Dass das Gebot des Versichertenschutzes auch die Ber&uuml;cksichtigung der wirtschaftlichen Lage des Unternehmens erfordert, war in &sect; 11 Abs. 1 VAG a.F. ausdr&uuml;cklich kodifiziert. Danach ist die Finanzlage des Unternehmens bei der Pr&auml;mienkalkulation und mittelbar auch bei der R&uuml;ckstellungsbildung zu ber&uuml;cksichtigen. Vor diesem Hintergrund ist die von der BaFin gebilligte Achtel-Methode zur Nachreservierung als ein pragmatischer Kompromiss zu verstehen, der einerseits dem handelsrechtlichen Gebot der Auff&uuml;llung und dem aufsichtsrechtlichen Gebot der Sicherung der jederzeitigen Erf&uuml;llbarkeit der Anspr&uuml;che einerseits und andererseits dem aufsichtsrechtlichen Erfordernis der Sicherung der Solvabilit&auml;t Rechnung tr&auml;gt.</p>
+<p>b) Ausgehend von diesen Grunds&auml;tzen verst&ouml;&szlig;t eine pauschale Nachreservierung, die &uuml;ber die aufsichtsrechtlich nach der Achtel-Methode genehmigten Betrag hinausgeht, nicht gegen handelsrechtliche Grunds&auml;tze.</p>
+<p>aa) Dem Einwand, die pauschale Zuf&uuml;hrung beruhe nicht unmittelbar auf einzelvertraglichen Berechnungen, ist entgegenzuhalten, dass der Gesamtnachreservierungsbedarf auf Basis der einzelvertraglichen Berechnungen ermittelt worden ist. Die zus&auml;tzliche pauschale Zuf&uuml;hrung in H&ouml;he von xxx.000 &euro; im Jahr 2007 stellt insoweit lediglich eine Ann&auml;herung an diesen Zielwert dar. Solange die Auff&uuml;llung diesen Bedarf nicht &uuml;bersteigt, verletzt sie das Einzelbewertungsprinzip nicht, sondern ist von dem versicherungsmathematisch festgestellten Gesamtbedarf umfasst.</p>
+<p>bb) Auch der Einwand, die pauschale Nachreservierung zus&auml;tzlich zu dem nach der Achtel-Methode ermittelten Betrag versto&szlig;e gegen die Bewertungsstetigkeit (&sect; 252 Abs. 1 Nr. 6 HGB), &uuml;berzeugt unter Beachtung der vorstehenden &Uuml;berlegungen nicht.</p>
+<p>Nach &sect; 252 Abs. 1 Nr. 6 HGB sind auf Verm&ouml;gensgegenst&auml;nde und Schulden im vorhergehenden Jahresabschluss angewandte Bewertungsmethoden beizubehalten. Der Begriff der Bewertungsmethoden ist gesetzlich nicht definiert. Unter Bewertungsmethoden werden nachvollziehbare, in ihrem Ablauf definierte Verfahren verstanden, mit denen identifizierten Bewertungsobjekten, n&auml;mlich den einzelnen Verm&ouml;gensgegenst&auml;nden und Schulden, ein in Geldeinheiten auszudr&uuml;ckender Wert beigemessen wird, welcher aus den die Bewertung bestimmenden Faktoren hergeleitet wird. Diese Faktoren k&ouml;nnen direkt aus unternehmensinternen Daten entnommen werden, gesch&auml;tzt werden oder durch Rechtsnormen vorgegeben sein. Als Arten von Bewertungsmethoden werden Methoden der Wertermittlung f&uuml;r eine bestimmte Kategorie von Bewertungsobjekten und Methoden der Wertverteilung im Zeitablauf unterschieden (Baetge/Ziesemer/Schmidt in: Baetge/Kirsch/Thiele, Bilanzrecht, 123. Erg&auml;nzungslieferung, Mai 2025, &sect;&nbsp;252 HGB, Rn. 243). Die Bewertungsmethode muss den Grunds&auml;tzen ordnungsm&auml;&szlig;iger Buchf&uuml;hrung und Bilanzierung entsprechen (Kleindiek in: Staub Handelsgesetzbuch Gro&szlig;kommentar, 6. Auflage 2021, &sect;&nbsp;252 HGB, Rn. 48).</p>
+<p>Bei der Achtel-Methode handelt es sich nicht um ein handelsrechtlich normiertes oder sonst den Grunds&auml;tzen ordnungsm&auml;&szlig;iger Buchf&uuml;hrung entsprechendes Bewertungsverfahren, sondern um eine von der Aufsichtsbeh&ouml;rde gebilligte Sonderregelung, die im Rahmen einer Abw&auml;gungsentscheidung einen Ausgleich zwischen dem Gebot der sofortigen Erf&uuml;llbarkeit und der Sicherung der Solvabilit&auml;t des Unternehmens herstellt. Insofern liegt in der zus&auml;tzlichen pauschalen Nachreservierung keine Abweichung von einer handelsrechtlich zutreffend gew&auml;hlten Bewertungsmethode vor, sondern es wird lediglich eine schnellere Ann&auml;herung an den versicherungsmathematisch ermittelten und handelsrechtlich gebotenen Zielwert umgesetzt.</p>
+<p>Hinzu kommt, dass die aufsichtsrechtlich zugelassene Achtel-Methode lediglich eine pauschale Mindestzuf&uuml;hrung darstellt, die die Erf&uuml;llbarkeit der Verpflichtungen im Zeitablauf sicherstellen soll, jedoch keine Aussage &uuml;ber den f&uuml;r das einzelne Unternehmen am Bilanzstichtag tats&auml;chlich angemessenen Auff&uuml;llungsbetrag trifft. Die endg&uuml;ltige Beurteilung der Finanzlage kann erst zum 31.12. eines jeden Wirtschaftsjahres vorgenommen werden. Erst dann stehen die tats&auml;chliche Kapitalmarktentwicklung und etwaige &Uuml;bersch&uuml;sse fest. Die BaFin-Genehmigung belegt damit, dass er zus&auml;tzliche Betrag in H&ouml;he von xxx.000 &euro; &ndash; anders als der nach der Achtel-Methode ermittelte Betrag &ndash; der am Bilanzstichtag bestehenden finanziellen Leistungsf&auml;higkeit des Kl&auml;gers entspricht und aus aufsichtsrechtlicher Sicht erforderlich war, um die dauernde Erf&uuml;llbarkeit der Verpflichtungen im konkreten Einzelfall sicherzustellen</p>
+<p>cc) Mit seinem Einwand, dass die zus&auml;tzliche Dotierung nur dazu diene, der Verpflichtung zur Beitragsr&uuml;ckerstattung zu entgehen und damit eine steuerliche Abzugsbeschr&auml;nkung nach &sect; 21 KStG zu vermeiden, verkennt der Beklagte, dass die Motivation des Kl&auml;gers unerheblich ist, da eine handelsrechtliche Verpflichtung zur Auff&uuml;llung bis zum errechneten Gesamtbedarf bestand. Ob die die Erf&uuml;llung der handelsrechtlichen Verpflichtung wie der Beklagte meint, ebenso die Deckungsr&uuml;cklage des Kl&auml;gers h&auml;tte eingesetzt werden k&ouml;nnen, unterliegt nicht der Entscheidung der Finanzbeh&ouml;rde oder Finanzgerichte, sondern allein der Aufsichtsbeh&ouml;rde.</p>
+<p>dd) Soweit schlie&szlig;lich vorgetragen wird, dass der Ber&uuml;cksichtigung der Pauschalzuf&uuml;hrung das Stichtagsprinzip entgegenstehe, da die gesch&auml;ftsplanm&auml;&szlig;ige Erkl&auml;rung &uuml;ber die Pauschalzuf&uuml;hrung erst am 31. Januar 2008 beschlossen, am 14. Februar 2008 bei der BaFin eingereicht und am 20. Februar 2008 genehmigt worden sei, ist darauf hinzuweisen, dass die handelsrechtliche Verpflichtung zur Nachreservierung bereits am 31. Dezember 2007 bestand. Die Genehmigung der BaFin betrifft nicht das Entstehen dieser Verpflichtung, sondern allein die aufsichtsrechtliche Zul&auml;ssigkeit der zus&auml;tzlichen Nachreservierung. Handelsrechtlich war der Verpflichtungstatbestand somit bereits am Bilanzstichtag gegeben; die sp&auml;tere Genehmigung hatte lediglich konstitutive Bedeutung f&uuml;r die Art der zul&auml;ssigen Umsetzung, nicht aber f&uuml;r die Pflicht zur Nachreservierung selbst.</p>
+<p>c) Obwohl hiernach nach Handelsrecht die Verpflichtung zur vollst&auml;ndigen Nachreservierung bestand, ist der Ansatz des Teilbetrags wegen des Prinzips der formellen Ma&szlig;geblichkeit auch steuerrechtlich zu ber&uuml;cksichtigen. Allerdings sind nach der Rechtsprechung des Gro&szlig;en Senats des BFH (Beschluss vom 31. Januar 2013 &ndash; GrS 1/10, BFHE 240, 162, BStBl II 2013, 317, Rn. 72&ndash;76, 84) die Finanzverwaltung und auch die Finanzgerichte verpflichtet, stets die objektiv richtige Rechtslage zugrunde zu legen. Entspricht ein Bilanzansatz objektiv nicht den ma&szlig;gebenden handelsrechtlichen Vorschriften, ist die Finanzverwaltung bei der steuerlichen Gewinnermittlung berechtigt und verpflichtet, hiervon abzuweichen, ohne dass es einer handelsrechtlichen Bilanz&auml;nderung bedarf.</p>
+<p>Der aufsichtsrechtliche motivierte Bilanzansatz ist jedoch im Sinne der vorstehenden Grunds&auml;tze nicht objektiv fehlerhaft.</p>
+<p>Den handelsrechtlichen Vorschriften der &sect;&sect; 341e, 341f HGB l&auml;sst sich nicht entnehmen, wie ein aufsichtsrechtlich motivierter zu niedriger Bilanzausweis handelsrechtlich zu behandeln ist. Aus dem Sinn und Zweck der handelsbilanziellen und der aufsichtsrechtlichen Vorgaben ist jedoch abzuleiten, dass in diesem Fall der aufsichtsrechtlich genehmigte Ansatz auch handelsrechtlich zu beachten ist.</p>
+<p>Das Handelsbilanzrecht verlangt aus Gr&uuml;nden des Gl&auml;ubigerschutzes die sofortige Auff&uuml;llung der Deckungsr&uuml;ckstellung auf den versicherungsmathematisch ermittelten Gesamtbedarf. Das Aufsichtsrecht verfolgt demgegen&uuml;ber einen eigenst&auml;ndigen Ansatz, um die dauernde Erf&uuml;llbarkeit der Verpflichtungen unter gleichzeitiger Sicherstellung der Solvabilit&auml;t zu gew&auml;hrleisten. Eine sofortige handelsrechtliche Vollauff&uuml;llung kann im Einzelfall die wirtschaftliche Stabilit&auml;t eines Versicherungsunternehmens gef&auml;hrden und w&auml;re mit diesem aufsichtsrechtlichen Auftrag unvereinbar. Die BaFin ist daher befugt und verpflichtet, eine zeitliche Streckung der Nachreservierung zuzulassen, um einen Gleichlauf von Leistungsf&auml;higkeit und dauernder Erf&uuml;llbarkeit sicherzustellen.</p>
+<p>Die Genehmigung der BaFin modifiziert nicht die handelsrechtlichen Bewertungsregeln, f&uuml;hrt jedoch dazu, dass der von der BaFin genehmigte &ndash; wenngleich unter dem handelsrechtlich gebotenen Gesamtbetrag liegende &ndash; Ansatz auch handelsrechtlich zu beachten ist. Eine handelsrechtlich erzwungene Vollauff&uuml;llung w&uuml;rde die Umsetzung des aufsichtsrechtlichen Solvabilit&auml;tsauftrags vereiteln und damit den gesetzgeberischen Zielsetzungen widersprechen. Der genehmigte Teilbetrag ist daher nicht als objektiv fehlerhaft anzusehen, sondern bildet im Spannungsfeld beider Normsysteme den handelsrechtlich zutreffenden Bilanzansatz.</p>
+<p>2. Zutreffend hat der Beklagte die Zuf&uuml;hrungen zu Deckungsr&uuml;ckstellungen wegen Eintrittsverlusten in den Jahren 2006 und 2007 in der streitigen H&ouml;he nicht anerkannt.</p>
+<p>Nach den handelsrechtlichen Vorschriften (&sect;&sect; 341e, 341f HGB) sind Deckungsr&uuml;ckstellungen nach der prospektiven Methode zu bemessen, also als versicherungsmathematischer Barwert der k&uuml;nftigen Verpflichtungen abz&uuml;glich des Barwerts der k&uuml;nftigen Beitr&auml;ge, berechnet je Vertrag. Diese prospektive Methode war auch schon vor der Einf&uuml;gung des &sect; 341e Abs. 1 Satz 3 HGB durch das BilMoG durch das Stichtagsprinzip (&sect; 252 Abs. 1 Nr. 3 HGB) begrenzt. Danach d&uuml;rfen nur solche Faktoren ber&uuml;cksichtigt werden, die am Bilanzstichtag rechtlich oder tats&auml;chlich bereits eingetreten sind; blo&szlig;e Erwartungen &uuml;ber k&uuml;nftige Entwicklungen, auch wenn sie erfahrungsgem&auml;&szlig; wahrscheinlich erscheinen, sind nicht einzubeziehen (M&uuml;KoHGB/Hommel/Zeitler/Ch. Conrad, 5. Aufl. 2024, HGB &sect; 341f Rn. 15, beck-online). Das Stichtagsprinzip war bei versicherungstechnischen R&uuml;ckstellung auch bereits vor Einf&uuml;gung des &sect; 341e Abs. 1 Satz 3 HGB zu beachten. Dies ergibt sich aus der Begr&uuml;ndung des Gesetzgebers, wonach durch die Einf&uuml;gung des &sect; 341e Abs. 1 Satz 3 HGB lediglich klargestellt werden sollte, dass die bisherige Bewertungskonzeption der versicherungstechnischen R&uuml;ckstellungen unver&auml;ndert fortgelten und k&uuml;nftige Kosten und Preissteigerungen weiterhin unber&uuml;cksichtigt bleiben sollten (BR-Drucks. 344/08 S. 212).</p>
+<p>Handelsrechtlich durften daher f&uuml;r die Jahre 2006 und 2007 nur am Stichtag bereits feststehende tarifliche Gehaltsanhebungen ber&uuml;cksichtigt werden, nicht jedoch antizipierte Parameter wie k&uuml;nftige Karrierespr&uuml;nge, &Uuml;bertritte in h&ouml;here Tarifgruppen oder allgemeine, noch nicht fixierte Lohntrends. Soweit der Kl&auml;ger vortr&auml;gt, die prospektive Methode erfordere, dass alle k&uuml;nftigen Verpflichtungen zu ber&uuml;cksichtigen sind, verkennt er, dass nach der prospektiven Methode zwar der Wert der k&uuml;nftigen Verpflichtungen zu ermitteln ist, aber nur der Betrag anzusetzen ist, der aus Sicht des Bilanzstichtages notwendig ist, diese k&uuml;nftigen Verpflichtungen zu erf&uuml;llen. Aus dem Wortlaut des &sect; 341f Abs. 1 Satz 1 HGB, wonach die R&uuml;ckstellung unter anderem &bdquo;nach Abzug des versicherungsmathematischen Barwertes der k&uuml;nftigen Betr&auml;ge&ldquo; zu ermitteln ist, ergibt sich entgegen der Darstellung des Kl&auml;gers nichts Gegenteiliges, weil dort lediglich der Methode zur Ermittlung der R&uuml;ckstellung, nicht aber die heranzuziehenden Daten beschrieben werden. W&auml;hrend also die prospektive Methode das technische Verfahren zur Bewertung der Deckungsr&uuml;ckstellungen vorgibt, legt das Stichtagsprinzip fest, welche Daten bei der Bewertung zu ber&uuml;cksichtigen sind.</p>
+<p>Ohne Erfolg macht der Kl&auml;ger in diesem Zusammenhang geltend, die Ber&uuml;cksichtigung zuk&uuml;nftiger Gehaltssteigerung sei erst seit dem Inkrafttreten des &sect; 6 Abs. 1 Nr.&nbsp;3a Buchst. f EStG ausgeschlossen. Es trifft zwar zu, dass &sect; 6 Abs. 1 Nr. 3a Buchst. f EStG erstmals f&uuml;r Wirtschaftsjahre nach dem 31.12.2009 anzuwenden ist, &sect; 52 Abs. 16 Satz 10 i.d.F. des BilMoG. Der Kl&auml;ger verkennt jedoch, dass die Vorschrift im Zusammenhang mit der Einf&uuml;hrung des Begriffs des Erf&uuml;llungsbetrags in &sect;&nbsp;253 Abs.1 Satz 2 HGB durch das BilMoG zu sehen ist. Mit der Verwendung des Begriffs &bdquo;Erf&uuml;llungsbetrag&ldquo; sollte klargestellt werden, dass bei der R&uuml;ckstellungsbewertung in der Zukunft &ndash; unter Einschr&auml;nkung des Stichtagsprinzips &ndash; k&uuml;nftige Preis- und Kostensteigerungen zu ber&uuml;cksichtigen sind (BR Drucksache 344/08, Seite 112). Da die Ber&uuml;cksichtigung von k&uuml;nftigen Preis- und Kostensteigerungen bei der R&uuml;ckstellungsbewertung umstritten war und insbesondere von der finanzgerichtlichen Rechtsprechung unter Hinweis auf das Stichtagsprinzip verneint wurde, sollten handelsrechtlich k&uuml;nftige Preis- und Kostensteigerungen ber&uuml;cksichtigt werden k&ouml;nnen und bestehende Unsicherheiten beseitigt werden (BR-Drucks. 344/08, S.112). Mit der Einf&uuml;hrung des &sect; 6a Abs.&nbsp;1 Nr.&nbsp;3a Buchst.&nbsp;f EStG hat der Gesetzgeber f&uuml;r steuerrechtliche Zwecke die Fortgeltung des strengen Stichtagsprinzips angeordnet (BT-Drucks. 16/10067, S. 100). Die Einf&uuml;hrung des &sect; 6a Abs. 1 Nr. 3a Buchst. f EStG diente demzufolge der Beibehaltung der vor dem BilMoG durch die Rechtsprechung des Bundesfinanzhofs gepr&auml;gten Rechtsanwendung (M. Prinz in: Bordewin/Brandt/Bode, Einkommensteuergesetz, 375. Lieferung, 6/2015, &sect;&nbsp;6 EStG, Rn. 1/668; Kiesel in: Herrmann/Heuer/Raupach, EStG KStG, Kommentar, 329. Lieferung, 11/2024, &sect;&nbsp;6 EStG, Rn. 780; Korn/Strahl in: Korn/Carl&eacute;/Stahl/Strahl, Einkommensteuergesetz, 158. Erg&auml;nzungslieferung, Januar 2025, &sect;&nbsp;6 EStG, Rn. 389_1; Schmidt/Kulosa, 44. Aufl. 2025, EStG &sect; 6 Rn. 501, beck-online).</p>
+<p>Keine andere Beurteilung rechtfertigt die Tatsache, dass die BaFin den technischen Gesch&auml;ftsplan und damit auch die Zuf&uuml;hrung der streitigen Betr&auml;ge zu der Deckungsr&uuml;ckstellung genehmigt hat. Aufsichtsrechtliche Genehmigungen dienen dem Versichertenschutz und der Sicherstellung der dauernden Erf&uuml;llbarkeit, ersetzen jedoch nicht die steuerrechtliche Pr&uuml;fung der Ansatz- und Bewertungsvoraussetzungen am Bilanzstichtag. Ein Vorrang des aufsichtsrechtlich genehmigten Bilanzansatzes kommt &ndash; wie unter 1. c) dargelegt &ndash; nur dann in Betracht, wenn der genehmigte Ansatz unterhalb des handelsrechtlich gebotenen Werts liegt und diese Abweichung auf den aufsichtsrechtlichen Zweck der Sicherstellung der Solvabilit&auml;t zur&uuml;ckzuf&uuml;hren ist. Im vorliegenden Fall hat die BaFin jedoch einen Bilanzansatz genehmigt, der den handelsrechtlich zul&auml;ssigen H&ouml;chstbetrag &uuml;berschreitet. Ein aufsichtsrechtlicher Zweck, der eine Abweichung vom Handelsbilanzrecht und dem dort verankerten Stichtagsprinzip rechtfertigen k&ouml;nnte, ist aber nicht ersichtlich.</p>
+<p>Dem Ergebnis steht das Ma&szlig;geblichkeitsprinzip nicht entgegen. Nach der Rechtsprechung des Gro&szlig;en Senats des BFH (Beschluss vom 31. Januar 2013 &ndash; GrS 1/10, BFHE 240, 162, BStBl II 2013, 317) ist die Finanzverwaltung verpflichtet, stets die objektiv richtige Rechtslage zugrunde zu legen und muss daher f&uuml;r Zwecke der Besteuerung von der Handelsbilanz abweichen, ohne dass es einer handelsrechtlichen Bilanz&auml;nderung bedarf. Da die steuerliche Korrektur den handelsrechtlichen Bilanzansatz unber&uuml;hrt l&auml;sst, geht auch das Argument des Kl&auml;gers, er k&ouml;nne im Falle der Nichtanerkennung der Deckungsr&uuml;ckstellung die aufsichtsrechtlich gebotene R&uuml;ckstellung nicht bilden, ins Leere. Soweit die Finanzbeh&ouml;rde in Wahrnehmung ihres Auftrags, den Steueranspruch des Staates zu sichern, von der Handelsbilanz abweicht, bedeutet dies nicht, dass die aufsichtsrechtlich genehmigte Handelsbilanz ge&auml;ndert w&uuml;rde, sondern allein, dass ihr Ansatz steuerlich nicht anerkannt wird (vgl. hierzu auch BFH Beschl. vom 31. Januar 2013 &ndash; GrS 1/10, BFHE 240, 162, BStBl II 2013, 317, Rn. 71).</p>
+<p>Nach den vorstehenden &Uuml;berlegungen kann auch nicht angenommen werden, dass die Genehmigung der Aufsichtsbeh&ouml;rde eine auch im Steuerrecht zu beachtenden Tatbestandswirkung entfaltet. Die von der Kl&auml;gerseite geltend gemachte Tatbestandswirkung ergibt sich auch nicht aus der Rechtsprechung des BFH zu Deckungsr&uuml;ckstellungen wegen Beitragsr&uuml;ckerstattungen (vgl. BFH, Urt. v. 9.6.1999 &ndash; I R 17/97, BFHE 189, 364, BStBl II 1999, 739). In diesen F&auml;llen begr&uuml;ndete die aufsichtsrechtliche Ma&szlig;nahme selbst eine eigenst&auml;ndige, &ouml;ffentlich-rechtliche Verpflichtung gegen&uuml;ber den Versicherungsnehmern. Demgegen&uuml;ber stellt die BaFin-Genehmigung im vorliegenden Fall lediglich eine aufsichtsrechtliche Entscheidung &uuml;ber die Zul&auml;ssigkeit der Gesch&auml;ftsplanumsetzung dar. Sie begr&uuml;ndet keine zus&auml;tzliche Verpflichtung gegen&uuml;ber den Versicherungsnehmern.</p>
+<p>II. Bei der Berechnung des Gewerbesteuermessbetrags f&uuml;r 2007 wird der Beklagte zu ber&uuml;cksichtigen haben, dass infolge der mit diesem Urteil ausgesprochene Minderung des Messbetrags um xxx.000 &euro; auch die gewerbesteuerliche R&uuml;ckstellung, die von der Betriebspr&uuml;fung ermittelt wurde und im Betriebspr&uuml;fungsbericht ausgewiesen wurde, anzupassen ist.</p>
+<p>III. Die Kostenentscheidung beruht auf &sect; 136 Abs. 1 Finanzgerichtsordnung -FGO-. Die Entscheidung &uuml;ber die vorl&auml;ufige Vollstreckbarkeit folgt aus &sect; 151 FGO in Verbindung mit &sect;&sect; 708 Nr. 10, 711 Zivilprozessordnung - ZPO -. Die Revision war wegen grunds&auml;tzlicher Bedeutung zuzulassen, da &uuml;ber die hier in Rede stehende Rechtsfragen zu &sect;&sect; 341e und f HGB h&ouml;chstrichterlich bislang nicht entschieden wurde.</p>
+<p><strong>Rechtsmittelbelehrung</strong></p>
+<p>Gegen dieses Urteil steht den Beteiligten die Revision zu.</p>
+<p>Die Revision ist innerhalb eines Monats nach Zustellung des vollst&auml;ndigen Urteils bei dem Bundesfinanzhof schriftlich einzulegen. Die Revisionsschrift muss das angefochtene Urteil bezeichnen. Eine Abschrift oder Ausfertigung des Urteils soll ihr beigef&uuml;gt werden. Die Revision ist innerhalb von zwei Monaten nach Zustellung des vollst&auml;ndigen Urteils zu begr&uuml;nden. Auch die Begr&uuml;ndung ist bei dem Bundesfinanzhof einzureichen. Die Begr&uuml;ndung muss die Erkl&auml;rung enthalten, inwieweit das Urteil angefochten und seine Aufhebung beantragt wird. Sie muss ferner die bestimmte Bezeichnung der Umst&auml;nde enthalten, aus denen sich eine Rechtsverletzung durch das Urteil ergibt; soweit Verfahrensm&auml;ngel ger&uuml;gt werden, muss sie auch die Tatsachen angeben, aus denen sich der Mangel ergibt.</p>
+<p>Bei der Einlegung und Begr&uuml;ndung der Revision vor dem Bundesfinanzhof muss sich jeder Beteiligte durch einen Steuerberater, einen Steuerbevollm&auml;chtigten, einen Rechtsanwalt, einen niedergelassenen europ&auml;ischen Rechtsanwalt, einen Wirtschaftspr&uuml;fer oder einen vereidigten Buchpr&uuml;fer als Bevollm&auml;chtigten vertreten lassen. Zur Vertretung berechtigt sind auch Steuerberatungsgesellschaften, Rechtsanwaltsgesellschaften, Wirtschaftspr&uuml;fungsgesellschaften und Buchpr&uuml;fungsgesellschaften sowie Partnerschaftsgesellschaften, die durch einen der in dem vorherigen Satz aufgef&uuml;hrten Berufsangeh&ouml;rigen t&auml;tig werden. Beh&ouml;rden und juristische Personen des &ouml;ffentlichen Rechts einschlie&szlig;lich der von ihnen zur Erf&uuml;llung ihrer &ouml;ffentlichen Aufgaben gebildeten Zusammenschl&uuml;sse k&ouml;nnen sich auch durch eigene Besch&auml;ftigte mit Bef&auml;higung zum Richteramt sowie Diplomjuristen im h&ouml;heren Dienst oder durch entsprechend bef&auml;higte Besch&auml;ftigte anderer Beh&ouml;rden oder juristischer Personen einschlie&szlig;lich der von ihnen zur Erf&uuml;llung ihrer &ouml;ffentlichen Aufgaben gebildeten Zusammenschl&uuml;sse vertreten lassen.</p>
+<p>Der Bundesfinanzhof hat die Postanschrift: Postfach 86 02 40, 81629 M&uuml;nchen, und die Hausanschrift: Ismaninger Str. 109, 81675 M&uuml;nchen, sowie den Telefax-Anschluss: 089/ 9231-201.</p>
+<p>Rechtsmittel k&ouml;nnen auch &uuml;ber den elektronischen Gerichtsbriefkasten des Bundesfinanzhofs eingelegt und begr&uuml;ndet werden, der &uuml;ber die vom Bundesfinanzhof zur Verf&uuml;gung gestellte Zugangs- und &Uuml;bertragungssoftware erreichbar ist. Die Software kann &uuml;ber die Internetseite &bdquo;www.egvp.de&ldquo; lizenzkostenfrei heruntergeladen werden. Hier finden Sie auch weitere Informationen &uuml;ber die Einzelheiten des Verfahrens.</p>
+<p>Nach Ma&szlig;gabe von &sect; 52d FGO sind Rechtsanw&auml;lte, Beh&ouml;rden und die &uuml;brigen in dieser Vorschrift genannten Personen verpflichtet, vorbereitende Schrifts&auml;tze und deren Anlagen sowie schriftlich einzureichende Antr&auml;ge und Erkl&auml;rungen als elektronisches Dokument zu &uuml;bermitteln.</p></p>
+                                        </dd>
+                                    </dl>
+                                </div>
+                            </div>
+                        
+                        
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="columns small-12 medium-12 large-8">
+
+            <div class="row">
+                <div class="columns">
+                    <!--hlIgnoreOn-->
+
+                    <div class="large-12 columns">
+                        <p style="height: 1em;">
+                            <a onclick="javascript:window.print();" class="button bb-submit-button float-right" title="Seite drucken">
+                                <i class="fa fa-print"></i> Seite drucken
+                            </a>
+                        </p>
+                    </div>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+                                    <div class="row">
+                                        <div class="columns small-12 medium-12 large-8">
+
+                                            <div class="row">
+                                                <div class="columns">
+                                                    <!--hlIgnoreOn-->
+
+
+                                                    <div class="row bb-area-footer">
+                                                        <div class="columns">
+
+                                                            <div class="row bb-area-footer-content">
+    <div class="large-12 columns">
+        <div class="bb-breadcrumbs" id="bb-breadcrumbs2">
+            <span title="Sie sind hier:"> Sie sind hier: </span>
+            <a href="/" title="Startseite"><font class="bb-breadcrumbs-title">Gerichtsentscheidungen</font></a>
+
+                        
+        </div>
+    </div>
+</div>
+                                                            <div class="row bb-area-footer-content">
+                                                                <div class="hide-for-medium columns">
+                                                                    <div id="bb-link-bar1">
+                                                                        <div class="row">
+                                                                            <div class="hide-for-medium large-3 columns"></div>
+                                                                        </div>
+                                                                        <div class="row">
+
+                                                                            <div class="columns" id="mobileServiceMenu">
+    <h6>Service</h6>
+    <ul class="bb-list-dark">
+        <li>
+            <a href="https://www.brandenburg.de" title="Link zum Landesportal Brandenburg">
+                Landesportal Brandenburg
+            </a>
+        </li>
+        <li>
+            <a href="https://service.brandenburg.de" title="Link zum Serviceportal Brandenburg">
+                Serviceportal Brandenburg
+            </a>
+        </li>
+    </ul>
+</div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="medium-12 large-9 columns">
+                                                                    <div id="bb-info-bar">
+                                                                        <div class="row">
+                                                                            <div
+                                                                                    class="columns small-12 medium-6"
+                                                                                    id="quickAccessMenu"
+                                                                            ></div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="hide-for-small-only medium-12 large-3 columns">
+                                                                    <div id="bb-link-bar2">
+                                                                        <div class="row">
+
+                                                                            <div class="medium-6 large-12 columns" id="serviceMenu">
+    <h6>Service</h6>
+    <ul class="bb-list-dark">
+        <li>
+            <a href="https://www.brandenburg.de" title="Link zum Landesportal Brandenburg">
+                Landesportal Brandenburg
+            </a>
+        </li>
+        <li>
+            <a href="https://service.brandenburg.de" title="Link zum Serviceportal Brandenburg">
+                Serviceportal Brandenburg
+            </a>
+        </li>
+
+    </ul>
+</div>
+                                                                            <div class="medium-6 large-12 columns"></div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="row bb-area-footer-bar">
+                                                                <div class="columns" id="footerbarMenu">
+    <div id="bb-footer-bar">
+        <span class="hide-for-small-only" id="footertext">
+        2026 | Landesregierung Brandenburg
+        </span>
+
+        <span class="bb-footer-items-right">
+            <a class="bb-footer-items-right" href="/seite/barrierefreiheit">Barrierefreiheit</a>
+        </span>
+
+        <span class="bb-footer-items-right">&nbsp;|&nbsp;</span>
+
+        <span class="bb-footer-items-right">
+            <a class="bb-footer-items-right" href="/seite/datenschutz">Datenschutz</a>
+        </span>
+
+        <span class="bb-footer-items-right">&nbsp;|&nbsp;</span>
+
+        <span class="bb-footer-items-right">
+            <a class="bb-footer-items-right" href="/seite/impressum">Impressum</a>
+        </span>
+
+        <span class="bb-footer-items-right">&nbsp;|&nbsp;</span>
+
+        <span class="bb-footer-items-right">
+            <a class="bb-footer-items-right" href="/seite/kontakt">Kontakt</a>
+        </span>
+
+
+
+    </div>
+</div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+
+                                        </div>
+                                    </div>
+
+
+
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+{
+  "scope": [
+    "p340d",
+    "p340e",
+    "p340f",
+    "p340g",
+    "p340h",
+    "p340i",
+    "p340j",
+    "p340k",
+    "p340l",
+    "p340m",
+    "p340n",
+    "p340o",
+    "p341",
+    "p341a",
+    "p341b",
+    "p341c",
+    "p341d",
+    "p341e",
+    "p341f",
+    "p341g"
+  ],
+  "date": "2026-10-21",
+  "web_queries": [
+    "site.bundesgerichtshof.de \"340f\" \"340g\"",
+    "site.bundesgerichtshof.de \"341f\" Deckungsrückstellung",
+    "site.bundesgerichtshof.de \"341g\" Rückstellung"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search": "rg -l 341f|340f|341g in *.md; mehrere Treffer; KORE318012010 Metadaten/Tatbestand und KORE300192021 Rn. 51 gesichtet, nicht als vollständig gelesene Autoritäten verwendet.",
+  "read_full_text": "FG Berlin-Brandenburg 18.11.2025, 8 K 8017/23: amtlicher Volltext vollständig gelesen, HTML und Leseextrakt gesichert. Keine amtlichen Randnummern; Fundstellen nach Entscheidungsgründen I.1.a, I.1.b, I.1.c und I.2.",
+  "case_cards": [
+    "cases/FG-BB-2025-8K8017-23.md"
+  ],
+  "limits": "Selektive Recherche, keine erschöpfende Abdeckung. Für technische Banken- und sonstige Versicherungsnormen keine zusätzliche hinreichend passende vollständig verifizierte Entscheidung verwendet. Revision des FG zugelassen, weiterer Verfahrensstand nicht verifiziert; alte Steuerstreitjahre ausdrücklich abgegrenzt."
+}
