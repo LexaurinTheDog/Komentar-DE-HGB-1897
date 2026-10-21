@@ -1,4 +1,36 @@
 {
-  "checked_local_links": 1,
-  "missing": []
+  "checked_local_links": 6,
+  "missing": [],
+  "links": [
+    {
+      "file": "29-hgb-teil-p424-p443.md",
+      "target": "cases/BGH-2012-IZR75-11.md",
+      "exists": true
+    },
+    {
+      "file": "cases/BGH-2012-IZR75-11.md",
+      "target": "../sources/case-KORE305582013-p424-p443.xml",
+      "exists": true
+    },
+    {
+      "file": "cases/BGH-2012-IZR75-11.md",
+      "target": "../sources/case-KORE305582013-p424-p443.zip",
+      "exists": true
+    },
+    {
+      "file": "cases/BGH-2012-IZR75-11.md",
+      "target": "../sources/verification-case-p424-p443.json",
+      "exists": true
+    },
+    {
+      "file": "cases/BGH-2012-IZR75-11.md",
+      "target": "../sources/hgb-p424-p443.xml",
+      "exists": true
+    },
+    {
+      "file": "cases/BGH-2012-IZR75-11.md",
+      "target": "../sources/BGH-review-p424-p443.xml",
+      "exists": true
+    }
+  ]
 }

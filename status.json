@@ -1400,5 +1400,41 @@
       "ok": true
     },
     "validation_scope": "Exactly p424–p443; full-book completion not asserted."
+  },
+  "bounded_review_p424_p443": {
+    "complete": true,
+    "reviewed_ids": [
+      "p424",
+      "p425",
+      "p426",
+      "p427",
+      "p428",
+      "p429",
+      "p430",
+      "p431",
+      "p432",
+      "p433",
+      "p434",
+      "p435",
+      "p436",
+      "p437",
+      "p438",
+      "p439",
+      "p440",
+      "p441",
+      "p442",
+      "p443"
+    ],
+    "units_reviewed": 20,
+    "validation": "review-p424-p443-bounded-validation.json",
+    "validation_ok": true,
+    "verbatim_ratio": 1.0,
+    "review_result": "review-p424-p443.json",
+    "official_source_http_status": 200,
+    "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "case_law": "BGH I ZR 75/11, amtlicher Volltext erneut gelesen; historische Formvorschrift",
+    "whole_book_validation": "review-p424-p443-validation.json",
+    "remaining_limitation": "196 unkommentierte Einheiten außerhalb dieser Charge; keine Gesamtfertigstellung.",
+    "updated_at": "2026-10-21T05:46:31.658367+00:00"
   }
 }
