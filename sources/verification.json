@@ -1338,6 +1338,24 @@
       "content_type": "application/zip",
       "sha256": "c8263eeffd6ea4c358f39599121407c32639a6c4e2b49e30c978d76c07b8b0da",
       "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "path": "sources/hgb-review-p524-p543.zip",
+      "accessed_at": "2026-10-21T07:00:19.701736+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "path": "sources/hgb-review-p524-p543.xml",
+      "accessed_at": "2026-10-21T07:00:19.702112+00:00",
+      "http_status": 200,
+      "content_type": "application/zip",
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "format_valid": true
     }
   ],
   "version_information": {
@@ -1424,5 +1442,14 @@
       "Zuletzt geändert durch Art. 4 G v. 4.2.2026 I Nr. 33",
       "Mittelbare Änderung durch Art. 59 Nr. 1 G v. 4.2.2026 I Nr. 33 ist berücksichtigt"
     ]
+  },
+  "bounded_author_p524_p543": {
+    "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "accessed_at": "2026-10-21T06:50:56.676234+00:00",
+    "http_status": 200,
+    "zip_sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "identical_to_canonical": true,
+    "format": "Validated ZIP containing parsed HGB XML; not HTML"
   }
 }

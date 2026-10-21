@@ -3,118 +3,117 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p504",
-    "p505",
-    "p506",
-    "p507",
-    "p508",
-    "p509",
-    "p510",
-    "p511",
-    "p512",
-    "p513",
-    "p514",
-    "p515",
-    "p516",
-    "p517",
-    "p518",
-    "p519",
-    "p520",
-    "p521",
-    "p522",
-    "p523"
+    "p524",
+    "p525",
+    "p526",
+    "p527",
+    "p528",
+    "p529",
+    "p530",
+    "p531",
+    "p532",
+    "p533",
+    "p534",
+    "p535",
+    "p536",
+    "p537",
+    "p538",
+    "p539",
+    "p540",
+    "p541",
+    "p542",
+    "p543"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p504",
-      "result": "Beide Absätze geprüft: 666,67 SZR/Stück und 2 SZR/kg Rohgewicht ausdrücklich ergänzt; höhere Grenze, Lademittelangaben und Entwertung bei Teilschaden zutreffend. Rechenbeispiel 6.666,70 gegen 2.000 korrekt."
+      "id": "p524",
+      "result": "Beide Sätze geprüft: Besitz des Verfrachters, Begebung an Empfänger und Übertragung an Dritte; Übergabeersatz von weiteren dinglichen Erwerbsvoraussetzungen getrennt."
     },
     {
-      "id": "p505",
-      "result": "Alle drei Sätze geprüft: SZR, Euro, Ablieferungstag/vereinbarter Tag und IWF-Methode zutreffend. Fehlende ausdrückliche Verlusttagsregel offen benannt statt erfunden."
+      "id": "p525",
+      "result": "Alle drei Sätze und §§ 512/522 geprüft. Zweifache Wirksamkeitsschranke und Erwerberschutz zutreffend. Ausnahme ausdrücklich um Feuer/Explosion und Ladungsinteresse-Grenze ergänzt."
     },
     {
-      "id": "p506",
-      "result": "Beide Absätze samt drei Ausnahmen und Rückausnahme vollständig geprüft. Außervertragliche Ansprüche, kumulative Voraussetzungen der Nummer 2 und Abhandenkommen korrekt unterschieden."
+      "id": "p526",
+      "result": "Alle vier Absätze geprüft: Ersatz des Abladers durch Befrachter, widerlegliche Beweiswirkung, § 517 und elektronische Funktionsgleichheit. Pflicht zur Unterzeichnung ausdrücklich ergänzt; Verordnungsermächtigung nicht als erlassene Verordnung dargestellt."
     },
     {
-      "id": "p507",
-      "result": "Beide Nummern und vollständiges BGH-Urteil I ZR 181/08 geprüft: eigenes qualifiziertes Verhalten und eigenständiger heutiger Unterdecktatbestand getrennt. Altes Recht ausdrücklich nur historischer Vergleich."
+      "id": "p527",
+      "result": "Beide Absätze geprüft: bestimmtes Schiff, Raum und bestimmte Reisen; Beurkundungsanspruch ohne konstitutive Schriftform. Ausgenommene §§ 512/526 im Verweisungskatalog korrekt erkannt."
     },
     {
-      "id": "p508",
-      "result": "Alle drei Absätze geprüft: persönlicher Schutz, eigenes qualifiziertes Verschulden, Gesamtschuld ohne Doppelersatz. Keine automatische Übertragung des Gehilfenverschuldens auf § 507."
+      "id": "p528",
+      "result": "Beide Absätze geprüft: Bereitstellungspflicht und nachträgliche sichere Hafen-/Platzauswahl mit Sorgfaltsmaßstab. Kein unbegründetes Garantieversprechen."
     },
     {
-      "id": "p509",
-      "result": "Alle fünf Absätze geprüft: tatsächlicher Beförderungsabschnitt, Textformzustimmung, Einwendungen, Gesamtschuld und Hilfspersonen. Haftungserweiterungen ausdrücklich sowohl mit Befrachter als auch Empfänger erfasst."
+      "id": "p529",
+      "result": "Beide Absätze geprüft: Bereitschaft am Ladeplatz, Ausnahme bei ausstehender Benennung, ortsübliche Geschäftsstunden. Freitags-/Montagsbeispiel stimmt mit § 530 überein."
     },
     {
-      "id": "p510",
-      "result": "Alle vier Absätze geprüft: erkennbare/verdeckte Schäden, Dreitagesfrist, Textform, Absendung und abliefernde Person. Vermutung von Anspruchsausschluss getrennt."
+      "id": "p530",
+      "result": "Alle vier Absätze geprüft: Folgetag, Vergütungsfreiheit, angemessenes Liegegeld, Empfängervoraussetzungen, fortlaufende Fristen und Verfrachterrisiko. Beispiel unterbricht Zeitrechnung zutreffend."
     },
     {
-      "id": "p511",
-      "result": "Alle vier Absätze geprüft: doppelte vereinbarte Lieferfrist, 30/60 Tage, Sicherungsrechte, Benachrichtigung, Monatsfrist, Rückerstattung und freie Verfügung korrekt. Fehlende Lieferfrist nicht aus Erinnerung ergänzt."
+      "id": "p531",
+      "result": "Beide Absätze geprüft: Verladezuständigkeit, Umstände/Verkehrssitte, fortbestehende Seetüchtigkeitsverantwortung und Umladeverbot. Keine Gleichsetzung von Ladepflicht und Schiffssicherheit."
     },
     {
-      "id": "p512",
-      "result": "Beide Absätze geprüft: individuelles Aushandeln, Mehrfachverträge, nautische Ausnahme mit Ladungsinteresse, Feuer/Explosion und nur höhere Formulargrenzen; §§ 506/507/525 gegengelesen."
+      "id": "p532",
+      "result": "Beide Absätze und § 489 geprüft: jederzeitige Kündigung, konkrete Abrechnung und Zusatz von Liegegeld nur für genannte Alternative. Abzüge im Beispiel berücksichtigt."
     },
     {
-      "id": "p513",
-      "result": "Beide Absätze geprüft: verlangtes Orderpapier, drei Ordervarianten, Zeichnungsbefugnis, tatsächliche Übergabe plus Benennung und Befrachterauffangregel. Keine automatische Abladerstellung des Terminals."
+      "id": "p533",
+      "result": "Beide Absätze mit sämtlichen Sätzen geprüft: volle Fracht/Aufwendungen, tatsächlich genutzte erlaubte Ersatzladung, Sicherheit, Verfrachterrisiko und Teilbeförderung nach Nachfrist; § 490 Absatz 4 gegengelesen."
     },
     {
-      "id": "p514",
-      "result": "Alle drei Absätze geprüft: Übernahme, Verpflichtungsinhalt, Bordkonnossement/Bordvermerk, tatsächliches Schiff und Verladedatum sowie Originalanzahl. §§ 520/521 zutreffend unterschieden."
+      "id": "p534",
+      "result": "Beide Absätze und §§ 489/490 geprüft: keine Ladung versus Teilladung, Nachfrist und Ausnahmen, vorzeitige Offensichtlichkeit, Kündigungsfolgen. Keine automatische Vertragsbeendigung behauptet."
     },
     {
-      "id": "p515",
-      "result": "Alle zehn Nummern und Absatz 2 geprüft: Sollinhalt, Frachtzahlung, Originalzahl und vor Übernahme in Textform mitgeteilte Angaben. Fehlende Angabe nicht pauschal als Unwirksamkeit behandelt."
+      "id": "p535",
+      "result": "Beide Absätze geprüft: entsprechende Anwendung §§ 528–531, Lösch-Liegegeld auch ohne Betragsmitteilung und ortsübliche öffentliche Bekanntmachung bei unbekanntem Empfänger. Lade-/Löschhaftung sauber getrennt."
     },
     {
-      "id": "p516",
-      "result": "Alle drei Absätze geprüft: Unterschriftsnachbildung, elektronische Funktionsgleichheit/Authentizität/Integrität und Verordnungsermächtigung. Keine unbewiesene Verordnungs- oder Zulassungsbehauptung."
+      "id": "p536",
+      "result": "Beide Absätze einschließlich Nuklearausnahme geprüft. EU-/Vertragsvorrang und vorbehaltene globale Beschränkung zutreffend. Kein unbelegter Anwendungsbereich der EU-Verordnung festgelegt."
     },
     {
-      "id": "p517",
-      "result": "Beide Absätze und vier Vorbehaltsalternativen geprüft: geschlossene Lademittel nur bei Prüfung plus Eintragung, äußerlich guter Zustand bei Schweigen und Umfang des Vorbehalts. Beweiswirkung von Stückzählung getrennt."
+      "id": "p537",
+      "result": "Alle sechs Nummern mit Buchstaben geprüft: Vertragspartner, Tier-/Fahrzeugbegleitung, Gepäck/Kabinengepäck, abschließende Schifffahrtsereignisse und funktionsgebundener Schiffsmangel. Fahrzeuggepäckgrenze zutreffend abgegrenzt."
     },
     {
-      "id": "p518",
-      "result": "Einzeltatbestand geprüft: qualifizierte Zeichnungsbefugnis, fehlende/falsche Verfrachterangabe und Ersatzzuordnung an Reeder im Dokumentenverhältnis. Schadenshaftung nach § 523 Absatz 3 getrennt."
+      "id": "p538",
+      "result": "Alle drei Absätze geprüft: Verschuldensvermutung, 250.000-Schwelle und Beförderungszeiträume. Feindseligkeiten/Krieg/Bürgerkrieg/Aufstand und absichtliche Unterlassung Dritter ausdrücklich ergänzt; ausschließliche Kausalität beibehalten."
     },
     {
-      "id": "p519",
-      "result": "Alle drei Legitimationswege geprüft: Inhaber, Order/Indossamentenkette, Name. Materielle Berechtigung von widerleglicher Legitimation getrennt; §§ 520/521 gegengelesen."
+      "id": "p539",
+      "result": "Alle vier Absätze geprüft: unterschiedliche Vermutungen, angemessene Wiederaushändigung, Arbeitsstreitigkeiten, sämtliche Wertsachenkategorien und Hinterlegung, Fahrzeuggepäck sowie übernommenes Terminalgepäck. Beispiel wahrt Wertsachenausnahme."
     },
     {
-      "id": "p520",
-      "result": "Beide Absätze geprüft: ausschließlich legitimierter Besitzer, sämtliche Ausfertigungen, Wissenssperre, kausaler Schaden und Verlustbetrag als Grenze. Keine Verwechslung mit einzelner Ablieferungsausfertigung."
+      "id": "p540",
+      "result": "Beide Sätze geprüft: Leute/Besatzung in Verrichtung und sonstige eingesetzte Personen. Funktionaler Bezug, Verschuldenszurechnung und eigene ausführende Haftung nach § 546 getrennt."
     },
     {
-      "id": "p521",
-      "result": "Alle vier Absätze geprüft: Löschplatz, Zahlungsverweis, Rückgabe/Bescheinigung, Wissenssperre, eine Ausfertigung, mehrere Anmelder, sichere Hinterlegung/Verkauf und Fehlablieferungsgrenze. Sprachfehler korrigiert."
+      "id": "p541",
+      "result": "Alle drei Absätze geprüft: 400.000, Rentenkapitalwert, 250.000 und 340 Millionen korrekt. Alle fünf besonderen Gefahrengruppen ausdrücklich erläutert. Gesamtgrenze nur bei niedrigeren, proportional verteilbaren Ansprüchen."
     },
     {
-      "id": "p522",
-      "result": "Alle drei Absätze geprüft: drei Einwendungsgruppen, bloßer Verweis ausgeschlossen, Begebung/gutgläubiger Erwerb und Aussteller-Ausnahme des ausführenden Verfrachters. Keine zusätzliche Vermutung erfunden."
+      "id": "p542",
+      "result": "Alle fünf Absätze geprüft: 2.250/12.700/3.375, Einheiten je Fahrgast/Fahrzeug/Beförderung, vereinbarter Selbstbehalt 330/149, Wertsachenausnahme und Mobilitätshilfen. Reparaturkosten sprachlich präzisiert."
     },
     {
-      "id": "p523",
-      "result": "Alle vier Absätze geprüft: fehlende/unrichtige Angaben und Vorbehalte, Sorgfaltsentlastung, unterschiedliche Zeitpunkte in Absatz 2, Reederhaftung und Grenze. Zeichnungsvoraussetzungen ausdrücklich statt unklarer Kurzform benannt; praktische Dokumentenprüfliste ergänzt."
+      "id": "p543",
+      "result": "Gesamten Satz geprüft: Zinsen/Kosten zusätzlich zu genannten Beträgen, keine selbständige Verzinsungsgrundlage. Zwischenprüfliste ergänzt, Folgevorschriften bleiben ausdrücklich zu prüfen."
     }
   ],
   "limitations": [
-    "Inhaltliche Zweitprüfung ausschließlich §§ 504–523; keine Gesamtbuchfertigstellung.",
-    "Selektive Rechtsprechung: BGH I ZR 181/08 vollständig erneut gelesen, nur als historischer Vergleich. Keine erschöpfende Rechtsprechungsrecherche.",
-    "Amtlicher Wiederabruf, Inkrafttretensbelege und Veränderungskarte geprüft; keine lückenlose eigene Auswertung aller Bundesgesetzblätter.",
-    "Keine externe fachliche Freigabe. Technische Übereinstimmung und Mindestlänge beweisen keine juristische Fehlerfreiheit."
+    "Zweitprüfung ausschließlich §§ 524–543, keine Gesamtbuchfertigstellung.",
+    "Selektives vorhandenes Suchprotokoll überprüft; kein hinreichend einschlägiger amtlicher Entscheidungsvolltext für diese Charge verifiziert, keine Entscheidung als Autorität angeführt. Keine erschöpfende Rechtsprechungsrecherche.",
+    "Amtlicher Wiederabruf mit unverändertem XML, Inkrafttretensbelege und Änderungskarte geprüft; keine eigene lückenlose Sichtung aller Bundesgesetzblätter.",
+    "Keine externe fachliche Freigabe; technische Prüfungen beweisen keine juristische Fehlerfreiheit."
   ],
-  "verified_at": "2026-10-21T06:48:16.226979+00:00",
+  "verified_at": "2026-10-21T07:00:19.702112+00:00",
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
-  "statutory_text_agreement": 1.0,
   "full_book_complete": false
 }

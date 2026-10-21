@@ -1,0 +1,119 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p524",
+    "p525",
+    "p526",
+    "p527",
+    "p528",
+    "p529",
+    "p530",
+    "p531",
+    "p532",
+    "p533",
+    "p534",
+    "p535",
+    "p536",
+    "p537",
+    "p538",
+    "p539",
+    "p540",
+    "p541",
+    "p542",
+    "p543"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p524",
+      "result": "Beide Sätze geprüft: Besitz des Verfrachters, Begebung an Empfänger und Übertragung an Dritte; Übergabeersatz von weiteren dinglichen Erwerbsvoraussetzungen getrennt."
+    },
+    {
+      "id": "p525",
+      "result": "Alle drei Sätze und §§ 512/522 geprüft. Zweifache Wirksamkeitsschranke und Erwerberschutz zutreffend. Ausnahme ausdrücklich um Feuer/Explosion und Ladungsinteresse-Grenze ergänzt."
+    },
+    {
+      "id": "p526",
+      "result": "Alle vier Absätze geprüft: Ersatz des Abladers durch Befrachter, widerlegliche Beweiswirkung, § 517 und elektronische Funktionsgleichheit. Pflicht zur Unterzeichnung ausdrücklich ergänzt; Verordnungsermächtigung nicht als erlassene Verordnung dargestellt."
+    },
+    {
+      "id": "p527",
+      "result": "Beide Absätze geprüft: bestimmtes Schiff, Raum und bestimmte Reisen; Beurkundungsanspruch ohne konstitutive Schriftform. Ausgenommene §§ 512/526 im Verweisungskatalog korrekt erkannt."
+    },
+    {
+      "id": "p528",
+      "result": "Beide Absätze geprüft: Bereitstellungspflicht und nachträgliche sichere Hafen-/Platzauswahl mit Sorgfaltsmaßstab. Kein unbegründetes Garantieversprechen."
+    },
+    {
+      "id": "p529",
+      "result": "Beide Absätze geprüft: Bereitschaft am Ladeplatz, Ausnahme bei ausstehender Benennung, ortsübliche Geschäftsstunden. Freitags-/Montagsbeispiel stimmt mit § 530 überein."
+    },
+    {
+      "id": "p530",
+      "result": "Alle vier Absätze geprüft: Folgetag, Vergütungsfreiheit, angemessenes Liegegeld, Empfängervoraussetzungen, fortlaufende Fristen und Verfrachterrisiko. Beispiel unterbricht Zeitrechnung zutreffend."
+    },
+    {
+      "id": "p531",
+      "result": "Beide Absätze geprüft: Verladezuständigkeit, Umstände/Verkehrssitte, fortbestehende Seetüchtigkeitsverantwortung und Umladeverbot. Keine Gleichsetzung von Ladepflicht und Schiffssicherheit."
+    },
+    {
+      "id": "p532",
+      "result": "Beide Absätze und § 489 geprüft: jederzeitige Kündigung, konkrete Abrechnung und Zusatz von Liegegeld nur für genannte Alternative. Abzüge im Beispiel berücksichtigt."
+    },
+    {
+      "id": "p533",
+      "result": "Beide Absätze mit sämtlichen Sätzen geprüft: volle Fracht/Aufwendungen, tatsächlich genutzte erlaubte Ersatzladung, Sicherheit, Verfrachterrisiko und Teilbeförderung nach Nachfrist; § 490 Absatz 4 gegengelesen."
+    },
+    {
+      "id": "p534",
+      "result": "Beide Absätze und §§ 489/490 geprüft: keine Ladung versus Teilladung, Nachfrist und Ausnahmen, vorzeitige Offensichtlichkeit, Kündigungsfolgen. Keine automatische Vertragsbeendigung behauptet."
+    },
+    {
+      "id": "p535",
+      "result": "Beide Absätze geprüft: entsprechende Anwendung §§ 528–531, Lösch-Liegegeld auch ohne Betragsmitteilung und ortsübliche öffentliche Bekanntmachung bei unbekanntem Empfänger. Lade-/Löschhaftung sauber getrennt."
+    },
+    {
+      "id": "p536",
+      "result": "Beide Absätze einschließlich Nuklearausnahme geprüft. EU-/Vertragsvorrang und vorbehaltene globale Beschränkung zutreffend. Kein unbelegter Anwendungsbereich der EU-Verordnung festgelegt."
+    },
+    {
+      "id": "p537",
+      "result": "Alle sechs Nummern mit Buchstaben geprüft: Vertragspartner, Tier-/Fahrzeugbegleitung, Gepäck/Kabinengepäck, abschließende Schifffahrtsereignisse und funktionsgebundener Schiffsmangel. Fahrzeuggepäckgrenze zutreffend abgegrenzt."
+    },
+    {
+      "id": "p538",
+      "result": "Alle drei Absätze geprüft: Verschuldensvermutung, 250.000-Schwelle und Beförderungszeiträume. Feindseligkeiten/Krieg/Bürgerkrieg/Aufstand und absichtliche Unterlassung Dritter ausdrücklich ergänzt; ausschließliche Kausalität beibehalten."
+    },
+    {
+      "id": "p539",
+      "result": "Alle vier Absätze geprüft: unterschiedliche Vermutungen, angemessene Wiederaushändigung, Arbeitsstreitigkeiten, sämtliche Wertsachenkategorien und Hinterlegung, Fahrzeuggepäck sowie übernommenes Terminalgepäck. Beispiel wahrt Wertsachenausnahme."
+    },
+    {
+      "id": "p540",
+      "result": "Beide Sätze geprüft: Leute/Besatzung in Verrichtung und sonstige eingesetzte Personen. Funktionaler Bezug, Verschuldenszurechnung und eigene ausführende Haftung nach § 546 getrennt."
+    },
+    {
+      "id": "p541",
+      "result": "Alle drei Absätze geprüft: 400.000, Rentenkapitalwert, 250.000 und 340 Millionen korrekt. Alle fünf besonderen Gefahrengruppen ausdrücklich erläutert. Gesamtgrenze nur bei niedrigeren, proportional verteilbaren Ansprüchen."
+    },
+    {
+      "id": "p542",
+      "result": "Alle fünf Absätze geprüft: 2.250/12.700/3.375, Einheiten je Fahrgast/Fahrzeug/Beförderung, vereinbarter Selbstbehalt 330/149, Wertsachenausnahme und Mobilitätshilfen. Reparaturkosten sprachlich präzisiert."
+    },
+    {
+      "id": "p543",
+      "result": "Gesamten Satz geprüft: Zinsen/Kosten zusätzlich zu genannten Beträgen, keine selbständige Verzinsungsgrundlage. Zwischenprüfliste ergänzt, Folgevorschriften bleiben ausdrücklich zu prüfen."
+    }
+  ],
+  "limitations": [
+    "Zweitprüfung ausschließlich §§ 524–543, keine Gesamtbuchfertigstellung.",
+    "Selektives vorhandenes Suchprotokoll überprüft; kein hinreichend einschlägiger amtlicher Entscheidungsvolltext für diese Charge verifiziert, keine Entscheidung als Autorität angeführt. Keine erschöpfende Rechtsprechungsrecherche.",
+    "Amtlicher Wiederabruf mit unverändertem XML, Inkrafttretensbelege und Änderungskarte geprüft; keine eigene lückenlose Sichtung aller Bundesgesetzblätter.",
+    "Keine externe fachliche Freigabe; technische Prüfungen beweisen keine juristische Fehlerfreiheit."
+  ],
+  "verified_at": "2026-10-21T07:00:19.702112+00:00",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "full_book_complete": false
+}
