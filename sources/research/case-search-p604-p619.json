@@ -1,0 +1,25 @@
+{
+  "verified_at": "2026-10-21T07:39:07.861191+00:00",
+  "queries": [
+    "site.rechtsprechung-im-internet.de \"§ 608\" \"HGB\"",
+    "site.rechtsprechung-im-internet.de \"§ 615\" \"HGB\" Haftung",
+    "site.bundesgerichtshof.de \"§ 607\" \"Verjährung\" HGB",
+    "site.rechtsprechung-im-internet.de \"Haftungsbeschränkungsübereinkommen\"",
+    "site.bundesgerichtshof.de \"Lotsen\" \"Haftungsbeschränkung\"",
+    "site.rechtsprechung-im-internet.de \"HGB\" \"Verjährung\" \"Seefrachtvertrag\"",
+    "site.oberlandesgericht.bremen.de \"2 U 11/22\"",
+    "site.oberlandesgericht.bremen.de \"24.03.2023\" \"2 U 11/22\""
+  ],
+  "local_corpus": {
+    "path": "/Volumes/LaCie/law-intake/eu/de/rii",
+    "command": "rg -l -e \"§ 605\" -e \"§ 607\" -e \"§ 608\" -e \"§ 615\" -e \"§ 617\" -e \"Haftungsbeschränkungsübereinkommen\" --glob \"*.md\"",
+    "result_path": "local-search-p604-p619.txt",
+    "matching_files": 0
+  },
+  "verified_full_text": "../olg-bremen-2-u-11-22.pdf; 19 pages read in full",
+  "rejected_or_not_used": [
+    "Historische Treffer zu § 608 a.F. nicht auf die aktuelle Hemmungsregel übertragen.",
+    "Binnenlotsenrecht nicht als unmittelbare Auslegung des § 615 verwendet."
+  ],
+  "limits": "Selektive Recherche; für die übrigen Einheiten keine zusätzliche ausreichend einschlägige verifizierte Entscheidung als Autorität aufgenommen. Keine erschöpfende Abdeckung."
+}

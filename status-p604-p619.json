@@ -1,0 +1,56 @@
+{
+  "task": "bounded_author",
+  "assigned_ids": [
+    "p604",
+    "p605",
+    "p606",
+    "p607",
+    "p608",
+    "p609",
+    "p610",
+    "p611",
+    "p612",
+    "p613",
+    "p614",
+    "p615",
+    "p616",
+    "p617",
+    "p618",
+    "p619"
+  ],
+  "total_units": 16,
+  "completed_units": 16,
+  "updated_at": "2026-10-21T07:39:32.016616+00:00",
+  "source_checks": "HTTP 200; ZIP CRC and HGB XML parsed; SHA-256 identical to title-start XML; 16/16 assigned official texts matched exactly",
+  "case_law_sources": [
+    "OLG Bremen, 24.03.2023 – 2 U 11/22; full official PDF, 19 pages"
+  ],
+  "validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 16,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 34296,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "whole_build_exit": 0,
+  "whole_validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 696,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 1204431,
+    "errors": [
+      "necommitnuté změny v repu"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "whole_book_complete": false,
+  "stage": "bounded_draft_technical_validation",
+  "remaining_limitations": [
+    "Unabhängige Zweitprüfung dieser Charge ausstehend",
+    "Selektive Rechtsprechungsauswertung, keine erschöpfende Abdeckung",
+    "Gesamtbandstatus nicht im Rahmen dieses begrenzten Auftrags festgestellt; fremde uncommittete Build-Dateien nicht in den eigenen Commit aufgenommen"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://www.oberlandesgericht.bremen.de/sixcms/media.php/13/2-U-22-011%20anonymisiert.pdf",
+  "http_status": 200,
+  "accessed_at": "2026-10-21T07:35:23.376677+00:00",
+  "sha256": "786caf96814b76c00b1b7ab64f8f7154e3fafe5f823a18e0dcbd9602de06644a",
+  "format": "PDF signature checked; pdftotext succeeded",
+  "date_evidence": {
+    "url": "https://www.oberlandesgericht.bremen.de/entscheidungen/entscheidungsuebersicht-2335?font=1&max=10&skip=110",
+    "local_path": "sources/olg-bremen-decisions-p604-p619.html",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T07:37:04.482986+00:00",
+    "sha256": "32cabbca4ab326ee344f0f31968a6b18660dae99c5a9299da0c89e228f0e2c08"
+  }
+}

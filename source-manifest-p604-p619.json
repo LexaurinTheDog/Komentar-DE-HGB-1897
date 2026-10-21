@@ -1,0 +1,111 @@
+{
+  "scope": [
+    "p604",
+    "p605",
+    "p606",
+    "p607",
+    "p608",
+    "p609",
+    "p610",
+    "p611",
+    "p612",
+    "p613",
+    "p614",
+    "p615",
+    "p616",
+    "p617",
+    "p618",
+    "p619"
+  ],
+  "files": [
+    {
+      "path": "00-einleitung-p604-p619.md",
+      "sha256": "8e1b75409544500cc473a2de9209f671f24c73c02a77f503191dcb582ebd8be7"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "78e30c388f94804433b7f2fced451b55ee896ca6aa97194a217f6596339789d8"
+    },
+    {
+      "path": "README-p604-p619.md",
+      "sha256": "fb4cfba4a0a3ce8690cf205089349a95242e8c765a2d6a17ab9d62c3513d2d12"
+    },
+    {
+      "path": "author-p604-p619-coverage.json",
+      "sha256": "ac67785baa29d085dd5e8cbda51b99ae09ecaea9b3ce29d941d16c21823835b9"
+    },
+    {
+      "path": "cases/olg-bremen-2-u-11-22.md",
+      "sha256": "c386699dc67e0ed979aecaa8a0dbe30a004557ddbf8c53b30034d32bd23b4e5b"
+    },
+    {
+      "path": "preflight-result.json",
+      "sha256": "d2a5ec5dfa508564c0f46f9efc0ec06586ff146ba1d2e5328b4ab0e9f32bf00a"
+    },
+    {
+      "path": "sources/aktualitaet-2026-10-19.html",
+      "sha256": "f2c92645e935e53c51e5f69a06756484133dff26f032251a8b6db1d778bb045c"
+    },
+    {
+      "path": "sources/bgbl-2026-33.pdf",
+      "sha256": "ac9d869a445f25b04b53374ec73d959e1732c8351af1a3af19dd7df6dd7e49af"
+    },
+    {
+      "path": "sources/bgbl-2026-33.txt",
+      "sha256": "083969daa812de40a9c7ff2ee93674875e701fe194d7a291d4c1f69928252a36"
+    },
+    {
+      "path": "sources/change-map.json",
+      "sha256": "a4e7378ac1dcb423348ad1d34aaa871ef0368489bb25a916d61190d57b44728c"
+    },
+    {
+      "path": "sources/commencement.md",
+      "sha256": "571c21d1bc6a9408393da0f58809c02ee008e93fe41236149db14fd6edf5d4b8"
+    },
+    {
+      "path": "sources/hgb-p604-p619.xml",
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361"
+    },
+    {
+      "path": "sources/hgb-p604-p619.zip",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944"
+    },
+    {
+      "path": "sources/olg-bremen-2-u-11-22.pdf",
+      "sha256": "786caf96814b76c00b1b7ab64f8f7154e3fafe5f823a18e0dcbd9602de06644a"
+    },
+    {
+      "path": "sources/olg-bremen-2-u-11-22.txt",
+      "sha256": "e368c7cca6ec7366d0cbae56ffca542691f72a9f7c336ab91b123dce0abd878f"
+    },
+    {
+      "path": "sources/olg-bremen-decisions-p604-p619.html",
+      "sha256": "32cabbca4ab326ee344f0f31968a6b18660dae99c5a9299da0c89e228f0e2c08"
+    },
+    {
+      "path": "sources/research/case-search-p604-p619.json",
+      "sha256": "7c38088d4d425a6efea8daf4efa6f70394991d5ae94fa07abec464654eb2783b"
+    },
+    {
+      "path": "sources/research/local-search-p604-p619.txt",
+      "sha256": "b27fe0235d66ea5417129333c1981807035c6d8f734a1b9ccd9ac29599097876"
+    },
+    {
+      "path": "sources/research/preflight-2026-10-21-search.json",
+      "sha256": "3a5776d5f992b0db0a5a304dc30ae59a9abcd198ff8e2d8bb9aba1ca7dbf5126"
+    },
+    {
+      "path": "sources/verification-case-p604-p619.json",
+      "sha256": "c08c13d86e4f715bbd166a0fa0c12e23e386c22905f28aba4a8a9a860ecc7232"
+    },
+    {
+      "path": "sources/verification-p604-p619.json",
+      "sha256": "f7d410647e06c5e07ed70ef99158269a40232a9652bd7038fd9304ae176dfde2"
+    },
+    {
+      "path": "sources/verification.json",
+      "sha256": "449e617d93c8cda12b7bbdaf0545efffe6263d27a450698bda7b06dafa3a07c8"
+    }
+  ],
+  "note": "Belege dieser begrenzten Autorencharge; keine Gesamtbandfreigabe."
+}
