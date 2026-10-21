@@ -606,6 +606,38 @@
       "xml_path": "sources/hgb-review-p316-p328.xml",
       "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
       "format_validated": "ZIP geöffnet; XML geparst, dokumente mit HGB-Normknoten"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T04:20:58.802608+00:00",
+      "path": "sources/hgb-author-p329-p340c.zip",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T04:20:58.803171+00:00",
+      "path": "sources/hgb-author-p329-p340c.xml",
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE405061401.zip",
+      "path": "sources/BVerfG-2014-1-BvR-299-13.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T04:23:45.428587+00:00",
+      "sha256": "b48b2575a44c6a85b720ed9c99c1679f528c4029235b36bef75a611b25eb5c6f",
+      "format_valid": true
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE405061401.zip",
+      "path": "sources/BVerfG-2014-1-BvR-299-13.xml",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T04:23:45.428890+00:00",
+      "sha256": "be806c945c5b9a23329b975d11c89f0ca439044b13f6f8bc03074e540ff32bfa",
+      "format_valid": true
     }
   ],
   "version_information": {

@@ -4,14 +4,14 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T04:14:42.710238+00:00",
+  "updated_at": "2026-10-21T04:29:20.117946+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
-  "completed_units": 320,
-  "remaining_units": 376,
-  "completed_scope": "§§ 1–328 einschließlich Buchstabenparagraphen und amtlicher Sammelleerstellen",
-  "next_unit": "p329",
-  "commentary_chars": 509547,
+  "completed_units": 340,
+  "remaining_units": 356,
+  "completed_scope": "§§ 1–340c einschließlich Buchstabenparagraphen und amtlicher Sammelleerstellen",
+  "next_unit": "p340d",
+  "commentary_chars": 557897,
   "source_checks": {
     "official_xml_http": 200,
     "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
@@ -38,23 +38,23 @@
   "case_law_coverage": "Selektive Recherche; Nachweise und Umfang je Fallkarte und Chargenprotokoll, keine erschöpfende Übersicht.",
   "build_result": {
     "success": false,
-    "evidence": "author-p316-p328-build.txt",
-    "reason": "376 fehlende Kommentare außerhalb der Charge"
+    "evidence": "author-p329-p340c-build.txt",
+    "reason": "356 fehlende Kommentare außerhalb der Charge"
   },
   "validation_result": {
     "repo": "Komentar-DE-HGB-1897",
     "units": 696,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 509547,
+    "commentary_chars": 557897,
     "errors": [
-      "krátký/chybějící komentář u 376 jednotek: ['p329(0<400)', 'p330(0<400)', 'p331(0<400)', 'p331a(0<400)', 'p332(0<400)', 'p333(0<400)', 'p333a(0<400)', 'p334(0<400)']"
+      "krátký/chybějící komentář u 356 jednotek: ['p340d(0<400)', 'p340e(0<400)', 'p340f(0<400)', 'p340g(0<400)', 'p340h(0<400)', 'p340i(0<400)', 'p340j(0<400)', 'p340k(0<400)']"
     ],
     "warnings": [],
     "ok": false
   },
   "independent_second_pass": false,
   "unresolved_blockers": [
-    "376 fehlende Kommentare ab p329 außerhalb der Charge."
+    "356 fehlende Kommentare ab p340d außerhalb dieser Charge."
   ],
   "remaining_limitations": [
     "Gesamtmanuskript unvollständig; kein Abschlussstatus.",
@@ -68,7 +68,7 @@
     "github_writes": false,
     "messages_sent": false
   },
-  "output_type": "Unvollständiger Export mit weiteren 20 kommentierten Normeinheiten §§ 316–328",
+  "output_type": "Unvollständiger Export mit 20 weiteren Normeinheiten §§ 329–340c",
   "link_check": {
     "checked_local_markdown_links": 195,
     "missing": [],
@@ -719,6 +719,111 @@
       "Nur zugewiesene 20 Einheiten verfasst; keine unabhängige Zweitprüfung.",
       "Selektive Rechtsprechung: eine vollständig gelesene Entscheidung, keine erschöpfende Übersicht.",
       "376 fehlende Kommentare außerhalb der Charge verhindern den Gesamtbuild."
+    ]
+  },
+  "bounded_author_p329_p340c": {
+    "kind": "author",
+    "complete": true,
+    "assigned_ids": [
+      "p329",
+      "p330",
+      "p331",
+      "p331a",
+      "p332",
+      "p333",
+      "p333a",
+      "p334",
+      "p335",
+      "p335a",
+      "p335b",
+      "p335c",
+      "p336",
+      "p337",
+      "p338",
+      "p339",
+      "p340",
+      "p340a",
+      "p340b",
+      "p340c"
+    ],
+    "completed_ids": [
+      "p329",
+      "p330",
+      "p331",
+      "p331a",
+      "p332",
+      "p333",
+      "p333a",
+      "p334",
+      "p335",
+      "p335a",
+      "p335b",
+      "p335c",
+      "p336",
+      "p337",
+      "p338",
+      "p339",
+      "p340",
+      "p340a",
+      "p340b",
+      "p340c"
+    ],
+    "units_authored": 20,
+    "total_units": 696,
+    "completed_units": 340,
+    "remaining_units": 356,
+    "commentary_chars": {
+      "p329": 1930,
+      "p330": 2300,
+      "p331": 2066,
+      "p331a": 1925,
+      "p332": 2042,
+      "p333": 1983,
+      "p333a": 1657,
+      "p334": 2948,
+      "p335": 4041,
+      "p335a": 2266,
+      "p335b": 1682,
+      "p335c": 2254,
+      "p336": 2144,
+      "p337": 2087,
+      "p338": 2111,
+      "p339": 2925,
+      "p340": 2411,
+      "p340a": 3010,
+      "p340b": 2404,
+      "p340c": 2547
+    },
+    "statutory_text_agreement": 1.0,
+    "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "official_identifier_count": 696,
+    "missing_official_identifiers": [],
+    "duplicate_ids": [],
+    "exact_repeated_paragraphs": [],
+    "case_cards": [
+      "cases/BVerfG-2014-1-BvR-299-13.md"
+    ],
+    "shared_build_success": false,
+    "build_evidence": "author-p329-p340c-build.txt",
+    "bounded_export": "19-21-hgb-teil-p329-p340c.md",
+    "validation": {
+      "repo": "Komentar-DE-HGB-1897",
+      "units": 696,
+      "verbatim_ratio": 1.0,
+      "commentary_chars": 557897,
+      "errors": [
+        "krátký/chybějící komentář u 356 jednotek: ['p340d(0<400)', 'p340e(0<400)', 'p340f(0<400)', 'p340g(0<400)', 'p340h(0<400)', 'p340i(0<400)', 'p340j(0<400)', 'p340k(0<400)']"
+      ],
+      "warnings": [],
+      "ok": false
+    },
+    "full_book_complete": false,
+    "unresolved_blockers": [],
+    "limitations": [
+      "Nur diese 20 Einheiten verfasst; keine unabhängige Zweitprüfung dieser Charge.",
+      "Selektive Rechtsprechungsrecherche mit einer vollständig gelesenen Entscheidung.",
+      "356 fehlende Kommentare außerhalb der Charge verhindern den Gesamtbuild.",
+      "Längen- und Textprüfungen ersetzen keine juristische Qualitätsprüfung."
     ]
   }
 }

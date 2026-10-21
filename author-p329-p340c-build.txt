@@ -1,0 +1,1 @@
+CHYBÍ komentář k 356 jednotkám, např.: ['p340d', 'p340e', 'p340f', 'p340g', 'p340h', 'p340i', 'p340j', 'p340k', 'p340l', 'p340m']

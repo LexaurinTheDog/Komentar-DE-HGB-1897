@@ -1,0 +1,16 @@
+{
+  "scope": "Neue Charge §§ 329–340c und Fallkarte; ältere Teilstände nicht erneut geprüft",
+  "checks": [
+    {
+      "base": "/Volumes/LaCie/open-commentary/_work/de/Komentar-DE-HGB-1897",
+      "checked": 5,
+      "missing": []
+    },
+    {
+      "base": "/Volumes/LaCie/open-commentary/de/Komentar-DE-HGB-1897",
+      "checked": 5,
+      "missing": []
+    }
+  ],
+  "ok": true
+}

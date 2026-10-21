@@ -296,5 +296,18 @@
     "historical_versions_checked": "Alle 814 Knoten eindeutig; 696 amtliche Kennungen und Wortlaute erneut verglichen. Keine historischen Versionen verkettet. Originalintake und alte Fassungen erhalten.",
     "annexes_checked": "Alle 814 Knoten zugeordnet: 696 Normen, 117 Gliederungen, nichtoperative Kopfnorm ohne Eingangsformel. Keine gesonderte operative Gesetzesanlage. Anhang §§ 284 ff. ist Rechnungslegungsbestandteil; Sammelleerstellen einschließlich § 319a bewahrt.",
     "unresolved_blockers": []
+  },
+  "bounded_author_p329_p340c": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T04:20:58.802608+00:00",
+    "http_status": 200,
+    "source_evidence": "sources/hgb-author-p329-p340c.xml",
+    "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "version_evidence": "Identischer amtlicher Wiederabruf; commencement.md, change-map.json und Verkündung BGBl. 2026 I Nr. 33 geprüft: wirksame Änderungen 2026, künftige Änderungen 2028/2030 getrennt. § 329 enthält die 2026 wirksame Änderung; § 340c Abs. 3 bewahrt seinen ausdrücklich historischen Verweis.",
+    "historical_versions_checked": "814 eindeutige Knoten; 696 eindeutige amtliche Normkennungen und sämtliche Texte verglichen; keine historischen Fassungen verkettet. Beide Quellenversionen und Änderungskarte erhalten.",
+    "annexes_checked": "Knotendisposition preflight-coverage.json erneut geprüft: keine separate operative Anlage, keine ausgelassene Eingangsformel, kein unzugeordneter operativer Text. Rechnungslegungsanhänge sind Abschlussbestandteile.",
+    "unresolved_blockers": []
   }
 }

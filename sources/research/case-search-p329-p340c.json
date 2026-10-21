@@ -1,0 +1,39 @@
+{
+  "scope": [
+    "p329",
+    "p330",
+    "p331",
+    "p331a",
+    "p332",
+    "p333",
+    "p333a",
+    "p334",
+    "p335",
+    "p335a",
+    "p335b",
+    "p335c",
+    "p336",
+    "p337",
+    "p338",
+    "p339",
+    "p340",
+    "p340a",
+    "p340b",
+    "p340c"
+  ],
+  "date": "2026-10-21",
+  "web_queries": [
+    "site.bundesverfassungsgericht.de § 335 HGB Ordnungsgeld Offenlegung 1 BvR",
+    "site.bundesgerichtshof.de § 340b Pensionsgeschäft Bilanz"
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_queries": [
+    "manifest exact case_number 1 BvR 299/13; 1 BvR 3413/08"
+  ],
+  "read_full_text": "BVerfG 09.01.2014 1 BvR 299/13, Tenor und Rn. 1–33; amtliches ZIP/XML erneut abgerufen und formatgeprüft",
+  "web_full_text_attempt": "BVerfG-Webseite 403; amtlicher RII-ZIP-Abruf HTTP 200 erfolgreich",
+  "case_cards": [
+    "cases/BVerfG-2014-1-BvR-299-13.md"
+  ],
+  "limits": "Selektive Recherche. Kein weiterer hinreichend passender verifizierter Fall für diese Charge; Bankpensionsgeschäft-Suchergebnisse nicht als gelesene Autorität verwendet. Keine erschöpfende Rechtsprechungsübersicht."
+}

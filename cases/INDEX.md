@@ -19,3 +19,5 @@ Die Rohdatei zu II ZR 61/09 ist lediglich ein verworfener Recherchefund zur GmbH
 - [BAG 15.11.2022 – 3 AZR 505/21](BAG-2022-3-AZR-505-21.md): Lagebericht und Jahresabschluss im Betriebsrentenanpassungsfall.
 
 - [BGH 12.03.2020 – VII ZR 236/19](BGH-2020-VII-ZR-236-19.md): Prüfungsanlass, Lageberichtstestat und gesonderte Anlegerhaftung.
+
+- [BVerfG 09.01.2014 – 1 BvR 299/13](BVerfG-2014-1-BvR-299-13.md): § 335, Bestimmtheitsgrenze bei fehlendem Aufsichtsratsbericht.

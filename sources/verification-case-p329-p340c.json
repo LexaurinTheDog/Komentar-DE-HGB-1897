@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE405061401.zip",
+    "path": "sources/BVerfG-2014-1-BvR-299-13.zip",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T04:23:45.428587+00:00",
+    "sha256": "b48b2575a44c6a85b720ed9c99c1679f528c4029235b36bef75a611b25eb5c6f",
+    "format_valid": true
+  },
+  {
+    "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KVRE405061401.zip",
+    "path": "sources/BVerfG-2014-1-BvR-299-13.xml",
+    "http_status": 200,
+    "accessed_at": "2026-10-21T04:23:45.428890+00:00",
+    "sha256": "be806c945c5b9a23329b975d11c89f0ca439044b13f6f8bc03074e540ff32bfa",
+    "format_valid": true
+  }
+]
