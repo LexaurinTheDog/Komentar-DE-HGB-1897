@@ -533,6 +533,16 @@
         "format_valid": false,
         "reason": "HTML statt PDF; nicht als Entscheidung verwendet"
       }
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "accessed_at": "2026-10-21T03:57:36.223810+00:00",
+      "http_status": 200,
+      "path": "sources/hgb-review-p289-p301.xml",
+      "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "zip_sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "format_valid": true,
+      "prior_xml_identical": true
     }
   ],
   "version_information": {

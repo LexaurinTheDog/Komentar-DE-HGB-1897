@@ -1,0 +1,10 @@
+{
+  "checked": [
+    "cases/BAG-2022-3-AZR-505-21.md",
+    "cases/BAG-2022-3-AZR-505-21.md",
+    "../sources/BAG-2022-3-AZR-505-21.html",
+    "../sources/verification-case-p289-p301.json"
+  ],
+  "missing": [],
+  "ok": true
+}
