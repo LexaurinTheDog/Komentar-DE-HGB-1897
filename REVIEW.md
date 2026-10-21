@@ -179,3 +179,5 @@ Genau 20 zugewiesene Einheiten vollständig gegen den amtlichen Text gelesen. Vi
 Der zugewiesene Teilbuild gelingt; 336 fehlende Kommentare ab § 341h außerhalb der Charge verhindern Gesamtbuild und erfolgreiche Gesamtvalidierung. Keine offenen materiellen Befunde in dieser Charge. Keine Gesamtbuchfertigstellung, erschöpfende Rechtsprechungsabdeckung oder externe anwaltliche Freigabe.
 
 Autorenkontrolle §§ 341h–342a: alle 20 Einheiten anhand des amtlichen Wortlauts geschrieben und kontrolliert. [Chargenbericht](author-p341h-p342a-result.json). Keine unabhängige Zweitprüfung dieser Charge; diese steht aus. Gesamtbuch bleibt unvollständig.
+
+Zweitprüfung vom 21. Oktober 2026, ausschließlich §§ 341h–342a: 20/20 Einheiten anhand des amtlichen XML geprüft. Drei Präzisierungen zu Hauptversammlung, Größenprüfung und Stimmrechtsvoraussetzung vorgenommen. [Einzelergebnisse](review-p341h-p342a.json), [Abdeckungsnachweis](review-p341h-p342a-coverage.json). Kein Abschluss des Gesamtbuchs; 316 Kommentare außerhalb dieses Prüfauftrags fehlen weiterhin.

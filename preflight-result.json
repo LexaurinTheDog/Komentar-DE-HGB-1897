@@ -364,5 +364,20 @@
     "historical_versions_checked": "Alle amtlichen Kennungen eindeutig; 696 Texte und Labels gegen aktuellen XML-Abruf verglichen. Keine historischen Versionen verkettet. Intake und Titelstichtag erhalten.",
     "annexes_checked": "814 Normknoten: 696 nummerierte Einheiten einschließlich Sammelleerstellen, 117 Gliederungsknoten und nichtoperative Kopfnorm. Keine gesonderte operative Anlage oder fehlende Eingangsformel im amtlichen XML. Bezugnahmen auf fremde Verordnungsanhänge sind keine Anlagen des HGB.",
     "unresolved_blockers": []
+  },
+  "bounded_review_p341h_p342a": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T04:51:23.842026+00:00",
+    "version_evidence": {
+      "fetch": "sources/review-p341h-p342a-fetch.json",
+      "unchanged_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "commencement": "sources/bgbl-2026-33.txt: Art. 3 Nr. 5/6 erst 10.01.2028, Art. 4 erst 10.01.2030 nach Art. 64; beide Textstellen erneut gelesen. §§ 341l/341w behalten geltende Fassung.",
+      "change_map": "sources/change-map.json; keine Abweichung seit Intake/Titelbeginn"
+    },
+    "historical_versions_checked": "Alle 696 amtlichen Kennungen gegen eindeutige aktuelle XML-Normen geprüft; keine historischen Doppeltexte verkettet.",
+    "annexes_checked": "814 Knoten unabhängig abgeglichen: 696 Normen, 117 Strukturknoten, eine nichtoperative Kopfnorm; keine eigene operative Anlage oder übergangene Eingangsformel. Fremde Verordnungsanhänge sind Verweisungsziele.",
+    "unresolved_blockers": []
   }
 }

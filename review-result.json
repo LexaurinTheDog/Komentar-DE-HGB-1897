@@ -3,157 +3,122 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p340d",
-    "p340e",
-    "p340f",
-    "p340g",
-    "p340h",
-    "p340i",
-    "p340j",
-    "p340k",
-    "p340l",
-    "p340m",
-    "p340n",
-    "p340o",
-    "p341",
-    "p341a",
-    "p341b",
-    "p341c",
-    "p341d",
-    "p341e",
-    "p341f",
-    "p341g"
+    "p341h",
+    "p341i",
+    "p341j",
+    "p341k",
+    "p341l",
+    "p341m",
+    "p341n",
+    "p341o",
+    "p341p",
+    "p341q",
+    "p341r",
+    "p341s",
+    "p341t",
+    "p341u",
+    "p341v",
+    "p341w",
+    "p341x",
+    "p341y",
+    "p342",
+    "p342a"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p340d",
-      "result": "Restlaufzeit am Stichtag, Teilzahlungen und Abgrenzung zur Bewertung geprüft; erhalten."
+      "id": "p341h",
+      "result": "Beide Absätze, verbleibendes Zufallsrisiko und gesonderter Ausweis geprüft; BFH I R 23/15 Rn. 1–21 vollständig gelesen, historische Bemessung zutreffend begrenzt."
     },
     {
-      "id": "p340e",
-      "result": "Korrigiert: planmäßige Auflösung/Angabe beim aktiven Abgrenzungsposten setzen dessen wahlweise Bildung voraus. Alle vier Absätze einschließlich Handelsfondsschwellen geprüft."
+      "id": "p341i",
+      "result": "Alle vier Absätze geprüft; Hauptversammlungsbezug präzisiert: nächste nach Fristablauf einzuberufende Versammlung mit Entgegennahme oder Feststellung eines Mutter-Jahresabschlusses."
     },
     {
-      "id": "p340f",
-      "result": "Vier-Prozent-Basis, begünstigter Bestand, weggefallener Absatz 2, Verrechnung und Angabeverzicht geprüft; erhalten."
+      "id": "p341j",
+      "result": "Alle fünf Absätze geprüft; pauschales Überschreiten von Größenmerkmalen durch genaue Nicht-Erfüllung der Befreiungsvoraussetzungen des § 293 ersetzt. IFRS-Ausnahmen und kumulative Voraussetzungen Absatz 2 geprüft."
     },
     {
-      "id": "p340g",
-      "result": "Offener Fonds, Risikobeurteilung, gesonderter GuV-Ausweis und Bindung nach § 340e Abs. 4 geprüft; erhalten."
+      "id": "p341k",
+      "result": "Größenunabhängige Prüfung, Feststellungssperre, EU-Vorrang, Aufsichtsinformation und Ausschussregime geprüft; erhalten."
     },
     {
-      "id": "p340h",
-      "result": "Währungsgleichheit, besondere Deckung, gedeckter Umfang und Verhältnis § 256a geprüft; erhalten."
+      "id": "p341l",
+      "result": "Offenlegungsunterlagen, 15-/Viermonatsfristen und sämtliche vier Maßgaben des Absatzes 2 geprüft; erhalten. Künftige ESAP-Änderung 2028 nicht vorgezogen."
     },
     {
-      "id": "p340i",
-      "result": "Alle sechs Absätze, IFRS-Sonderverweisung, Holding, Zwischenabschluss, 500-Arbeitnehmer-Schwelle und Diversitätsangaben geprüft; erhalten."
+      "id": "p341m",
+      "result": "Rechtsformerstreckung, Hauptbevollmächtigter, Vorteils-/Beharrlichkeitsalternativen und begrenzter Informationsverweis geprüft; erhalten."
     },
     {
-      "id": "p340j",
-      "result": "Kumulative Stützungs-/Nichtkonsolidierungsvoraussetzungen, Abschlussbeifügung und Erläuterung sowie IFRS-Ausschluss geprüft; erhalten."
+      "id": "p341n",
+      "result": "Alle Kataloggruppen, Prüfer-/Ausschussdelikte, persönliche und Verbandsrahmen, Umsatzdefinition und Behördenzuständigkeiten geprüft; erhalten."
     },
     {
-      "id": "p340k",
-      "result": "Frist, Prüfungsverbandsqualifikation, Zwei-Personen-Ausnahme, Unterzeichnung, Sparkassenregime und Prüfungsausschuss geprüft; erhalten."
+      "id": "p341o",
+      "result": "Offenlegungsadressaten und §§ 335–335b mit gesonderter Branchenumsatzdefinition geprüft; erhalten."
     },
     {
-      "id": "p340l",
-      "result": "Ergänzt: Absatz 2 Sprach-/Abschriftalternativen und Erklärung; Absatz 3 Ausschluss § 339; Absatz 4 internationaler Einzelabschluss mit fünf Maßgaben. Übrige Offenlegungsvoraussetzungen geprüft."
+      "id": "p341p",
+      "result": "Genaue Verweisungsziele für Pensionsfonds und fehlende pauschale Erstreckung der Ausschussdelikte geprüft; erhalten."
     },
     {
-      "id": "p340m",
-      "result": "Korrigiert: Nur die erste Kreditinstitutsgruppe ist nach Satz 1 auf Nichtkapitalgesellschaften beschränkt; weitere Institutsgruppen nicht pauschal so begrenzen. Tatbestände, Vorteils-/Beharrlichkeitsqualifikation und Informationspflicht geprüft."
+      "id": "p341q",
+      "result": "Rechtsform, Inlandssitz, Tätigkeits- und Großgesellschaftsmaßstab sowie § 264a geprüft; erhalten."
     },
     {
-      "id": "p340n",
-      "result": "Adressaten, Verweisungsdelikte, Prüfer/Ausschuss-Unterschiede, alle Bußgeldstufen und Umsatz-/Zuständigkeitsregeln geprüft; erhalten."
+      "id": "p341r",
+      "result": "Alle acht Definitionen einschließlich sieben Zahlungsgründen, Primärwaldmerkmalen, kontrollierten Empfängern und Projektbegriff geprüft; erhalten."
     },
     {
-      "id": "p340o",
-      "result": "Ordnungsgeldadressaten, Bezug §§ 335–335b und eigenständige Umsatzdefinition geprüft; erhalten."
+      "id": "p341s",
+      "result": "Jahrespflicht, tatsächliche Konzerneinbeziehung/Anhangshinweis und Drittstaatengleichwertigkeit samt Sprachverweisung geprüft; erhalten."
     },
     {
-      "id": "p341",
-      "result": "Anwendungsbereich, mitgliederbezogene Ausnahme/Rückausnahme, ausländische Niederlassungen und Pensionsfondsrisiko geprüft; erhalten."
+      "id": "p341t",
+      "result": "Alle sechs Absätze geprüft; Stimmrechtsvoraussetzung der Ausschüttungsausnahme ergänzt. 100.000-Euro-Grenze, verbundene Zahlungen, Sachleistungen und Umgehungsverbot erhalten."
     },
     {
-      "id": "p341a",
-      "result": "Alle Absätze einschließlich Größenprüfung, außerordentlicher Posten, Krankenversicherung, Organverfahren und Rückversichererfristen geprüft; erhalten."
+      "id": "p341u",
+      "result": "Staaten-/Empfängergliederung, Zahlungsgrundsummen, Mehrprojektfall und nicht projektbezogene Verpflichtungen geprüft; erhalten."
     },
     {
-      "id": "p341b",
-      "result": "Anlage-/Umlaufbewertung, Finanzanlagewahlrecht, Festwertausschluss und Pensionsfondsdeckungsverträge geprüft; erhalten."
+      "id": "p341v",
+      "result": "Alle fünf Absätze geprüft; EU/EWR-Unterkonzernbefreiung von Einzelberichtsbefreiung getrennt, Datenkosten-Ausnahme und Ausschluss nicht einschlägiger Tätigkeiten erhalten."
     },
     {
-      "id": "p341c",
-      "result": "Nennwertwahlrecht, passive Pflicht/aktive Wahlabgrenzung und Effektivzinsmethode geprüft; erhalten."
+      "id": "p341w",
+      "result": "Organpflichten, Sprache, Jahres-/Sechsmonatsfrist und genaue Verweisung geprüft; 2028 wirksame Weiterleitungspflicht nicht als aktuell behandelt."
     },
     {
-      "id": "p341d",
-      "result": "Risikoträger, vorsichtiger Zeitwert und Ausschluss §§ 341b/c geprüft; erhalten."
+      "id": "p341x",
+      "result": "Beide Tatbestandsverweisungen einschließlich ungewöhnlichem § 341v Absatz 4 Satz 1, 50.000-Euro-Rahmen, Behörde und Personengesellschaftserstreckung geprüft; erhalten."
     },
     {
-      "id": "p341e",
-      "result": "Präzisiert: Beitragsüberträge knüpfen an zeitliche Ertragszuordnung an, Zahlungseingang ist kein alleiniges Kriterium. Alle drei Absätze und Fallhinweis geprüft."
+      "id": "p341y",
+      "result": "Ordnungsgeldadressaten, begründete Anfrage, angemessene Frist und nur für Einleitung geltende Vermutung geprüft; erhalten."
     },
     {
-      "id": "p341f",
-      "result": "Prospektive/retrospektive Methode, Überschussanteile, Zinssatzverpflichtung und Krankenalterungsrückstellung geprüft. FG-Fallhinweis anhand vollständiger Gründe einschließlich I.1.c bestätigt; erhalten."
+      "id": "p342",
+      "result": "Beide Absätze einschließlich Umgehungsalternativen, Drittstaatensitz und Zwölfmillionengrenze sowie Verweise §§ 342b–342f geprüft; erhalten."
     },
     {
-      "id": "p341g",
-      "result": "Alle fünf Absätze: Schadenstichtag, Regulierungskosten, Nachmeldungen, Krankenstatistik, Mitversicherungsminimum und Rentenschäden geprüft; erhalten."
+      "id": "p342a",
+      "result": "Alle sechs Definitionen, größter Konzernkreis, EWR-Ausnahme, Fiskalautonomie, Vertretungskette und Berichtsjahr geprüft; erhalten."
     }
   ],
   "limitations": [
-    "Begrenzte Zweitprüfung ausschließlich dieser 20 Normeinheiten; kein abgeschlossenes Gesamtbuch.",
-    "336 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und erfolgreiche Gesamtvalidierung.",
-    "Selektive Rechtsprechung: amtlichen FG-Volltext 8 K 8017/23 vollständig erneut gelesen; altes Steuerrecht, innere Spannung der Gründe I.1.a/I.1.c, zugelassene Revision und unbekannter Verfahrensfortgang ausdrücklich begrenzt. Keine neuen mittelbar zitierten Autoritäten übernommen.",
-    "Keine externe anwaltliche Freigabe. Technische Mindestlänge beweist keine juristische Fehlerfreiheit."
+    "Ausschließlich zugewiesene 20 Einheiten geprüft; kein abgeschlossenes Gesamtbuch.",
+    "316 noch fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und erfolgreiche Gesamtvalidierung.",
+    "Selektive Rechtsprechung; nur bereits verwendeten BFH-Volltext erneut geprüft. Keine zusätzliche Rechtsprechung für die anderen 19 Einheiten behauptet.",
+    "Amtlicher Wiederabruf und vorhandene Verkündung mit Inkrafttreten abgeglichen; keine lückenlose eigene Auswertung aller BGBl-Ausgaben.",
+    "Keine externe anwaltliche Freigabe; technische Prüfungen beweisen keine juristische Fehlerfreiheit."
   ],
-  "verified_at": "2026-10-21T04:42:51.341868+00:00",
+  "verified_at": "2026-10-21T04:51:23.842026+00:00",
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
   "statutory_text_agreement": 1.0,
-  "coverage_evidence": "review-p340d-p341g-coverage.json",
-  "commentary_chars": {
-    "p340d": 1750,
-    "p340e": 2918,
-    "p340f": 2200,
-    "p340g": 1943,
-    "p340h": 1664,
-    "p340i": 2852,
-    "p340j": 1795,
-    "p340k": 2925,
-    "p340l": 3610,
-    "p340m": 2487,
-    "p340n": 2970,
-    "p340o": 2378,
-    "p341": 2239,
-    "p341a": 2878,
-    "p341b": 2233,
-    "p341c": 2012,
-    "p341d": 2130,
-    "p341e": 3102,
-    "p341f": 2870,
-    "p341g": 3159
-  },
-  "exact_repeated_paragraphs": [],
+  "coverage_evidence": "review-p341h-p342a-coverage.json",
   "full_book_complete": false,
   "bounded_build_success": true,
-  "shared_build_success": false,
-  "validation": {
-    "repo": "Komentar-DE-HGB-1897",
-    "units": 696,
-    "verbatim_ratio": 1.0,
-    "commentary_chars": 608890,
-    "errors": [
-      "krátký/chybějící komentář u 336 jednotek: ['p341h(0<400)', 'p341i(0<400)', 'p341j(0<400)', 'p341k(0<400)', 'p341l(0<400)', 'p341m(0<400)', 'p341n(0<400)', 'p341o(0<400)']"
-    ],
-    "warnings": [],
-    "ok": false
-  },
-  "bounded_validation_ok": true,
-  "validation_scope": "Strikte Gesamtvalidierung: einziger Fehler sind 336 fehlende Kommentare außerhalb dieser Charge; alle 20 zugewiesenen Kommentare vorhanden und einzeln inhaltlich geprüft."
+  "shared_build_success": false
 }

@@ -1,0 +1,124 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p341h",
+    "p341i",
+    "p341j",
+    "p341k",
+    "p341l",
+    "p341m",
+    "p341n",
+    "p341o",
+    "p341p",
+    "p341q",
+    "p341r",
+    "p341s",
+    "p341t",
+    "p341u",
+    "p341v",
+    "p341w",
+    "p341x",
+    "p341y",
+    "p342",
+    "p342a"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p341h",
+      "result": "Beide Absätze, verbleibendes Zufallsrisiko und gesonderter Ausweis geprüft; BFH I R 23/15 Rn. 1–21 vollständig gelesen, historische Bemessung zutreffend begrenzt."
+    },
+    {
+      "id": "p341i",
+      "result": "Alle vier Absätze geprüft; Hauptversammlungsbezug präzisiert: nächste nach Fristablauf einzuberufende Versammlung mit Entgegennahme oder Feststellung eines Mutter-Jahresabschlusses."
+    },
+    {
+      "id": "p341j",
+      "result": "Alle fünf Absätze geprüft; pauschales Überschreiten von Größenmerkmalen durch genaue Nicht-Erfüllung der Befreiungsvoraussetzungen des § 293 ersetzt. IFRS-Ausnahmen und kumulative Voraussetzungen Absatz 2 geprüft."
+    },
+    {
+      "id": "p341k",
+      "result": "Größenunabhängige Prüfung, Feststellungssperre, EU-Vorrang, Aufsichtsinformation und Ausschussregime geprüft; erhalten."
+    },
+    {
+      "id": "p341l",
+      "result": "Offenlegungsunterlagen, 15-/Viermonatsfristen und sämtliche vier Maßgaben des Absatzes 2 geprüft; erhalten. Künftige ESAP-Änderung 2028 nicht vorgezogen."
+    },
+    {
+      "id": "p341m",
+      "result": "Rechtsformerstreckung, Hauptbevollmächtigter, Vorteils-/Beharrlichkeitsalternativen und begrenzter Informationsverweis geprüft; erhalten."
+    },
+    {
+      "id": "p341n",
+      "result": "Alle Kataloggruppen, Prüfer-/Ausschussdelikte, persönliche und Verbandsrahmen, Umsatzdefinition und Behördenzuständigkeiten geprüft; erhalten."
+    },
+    {
+      "id": "p341o",
+      "result": "Offenlegungsadressaten und §§ 335–335b mit gesonderter Branchenumsatzdefinition geprüft; erhalten."
+    },
+    {
+      "id": "p341p",
+      "result": "Genaue Verweisungsziele für Pensionsfonds und fehlende pauschale Erstreckung der Ausschussdelikte geprüft; erhalten."
+    },
+    {
+      "id": "p341q",
+      "result": "Rechtsform, Inlandssitz, Tätigkeits- und Großgesellschaftsmaßstab sowie § 264a geprüft; erhalten."
+    },
+    {
+      "id": "p341r",
+      "result": "Alle acht Definitionen einschließlich sieben Zahlungsgründen, Primärwaldmerkmalen, kontrollierten Empfängern und Projektbegriff geprüft; erhalten."
+    },
+    {
+      "id": "p341s",
+      "result": "Jahrespflicht, tatsächliche Konzerneinbeziehung/Anhangshinweis und Drittstaatengleichwertigkeit samt Sprachverweisung geprüft; erhalten."
+    },
+    {
+      "id": "p341t",
+      "result": "Alle sechs Absätze geprüft; Stimmrechtsvoraussetzung der Ausschüttungsausnahme ergänzt. 100.000-Euro-Grenze, verbundene Zahlungen, Sachleistungen und Umgehungsverbot erhalten."
+    },
+    {
+      "id": "p341u",
+      "result": "Staaten-/Empfängergliederung, Zahlungsgrundsummen, Mehrprojektfall und nicht projektbezogene Verpflichtungen geprüft; erhalten."
+    },
+    {
+      "id": "p341v",
+      "result": "Alle fünf Absätze geprüft; EU/EWR-Unterkonzernbefreiung von Einzelberichtsbefreiung getrennt, Datenkosten-Ausnahme und Ausschluss nicht einschlägiger Tätigkeiten erhalten."
+    },
+    {
+      "id": "p341w",
+      "result": "Organpflichten, Sprache, Jahres-/Sechsmonatsfrist und genaue Verweisung geprüft; 2028 wirksame Weiterleitungspflicht nicht als aktuell behandelt."
+    },
+    {
+      "id": "p341x",
+      "result": "Beide Tatbestandsverweisungen einschließlich ungewöhnlichem § 341v Absatz 4 Satz 1, 50.000-Euro-Rahmen, Behörde und Personengesellschaftserstreckung geprüft; erhalten."
+    },
+    {
+      "id": "p341y",
+      "result": "Ordnungsgeldadressaten, begründete Anfrage, angemessene Frist und nur für Einleitung geltende Vermutung geprüft; erhalten."
+    },
+    {
+      "id": "p342",
+      "result": "Beide Absätze einschließlich Umgehungsalternativen, Drittstaatensitz und Zwölfmillionengrenze sowie Verweise §§ 342b–342f geprüft; erhalten."
+    },
+    {
+      "id": "p342a",
+      "result": "Alle sechs Definitionen, größter Konzernkreis, EWR-Ausnahme, Fiskalautonomie, Vertretungskette und Berichtsjahr geprüft; erhalten."
+    }
+  ],
+  "limitations": [
+    "Ausschließlich zugewiesene 20 Einheiten geprüft; kein abgeschlossenes Gesamtbuch.",
+    "316 noch fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und erfolgreiche Gesamtvalidierung.",
+    "Selektive Rechtsprechung; nur bereits verwendeten BFH-Volltext erneut geprüft. Keine zusätzliche Rechtsprechung für die anderen 19 Einheiten behauptet.",
+    "Amtlicher Wiederabruf und vorhandene Verkündung mit Inkrafttreten abgeglichen; keine lückenlose eigene Auswertung aller BGBl-Ausgaben.",
+    "Keine externe anwaltliche Freigabe; technische Prüfungen beweisen keine juristische Fehlerfreiheit."
+  ],
+  "verified_at": "2026-10-21T04:51:23.842026+00:00",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "statutory_text_agreement": 1.0,
+  "coverage_evidence": "review-p341h-p342a-coverage.json",
+  "full_book_complete": false,
+  "bounded_build_success": true,
+  "shared_build_success": false
+}

@@ -30,7 +30,7 @@ Quellen- und Parsernachprüfung vom 21. Oktober 2026: Die amtlichen Wiederabrufe
 
 Neuer Teilstand vom 21. Oktober 2026: [§§ 264–266](16-hgb-16-teil-p264-p266.md), sieben zusätzliche Kommentare; [Chargenprüfung](author-p264-p266-result.json).
 
-Charge §§ 267–288 vom 21. Oktober 2026: 20 zusätzliche Kommentare in [Kapitel 16](16-hgb-16.md) und [Teilkapitel 17](17-hgb-17-teil-p287-p288.md); [Chargenprüfung](author-p267-p288-result.json). Kapitel 16 ist damit vollständig, Kapitel 17 nur bis § 288 ausgearbeitet.
+Charge §§ 267–288 vom 21. Oktober 2026: 20 zusätzliche Kommentare in [part-15](commentary/part-15.md); [Chargenprüfung](author-p267-p288-result.json). Kapitel 16 ist damit vollständig, Kapitel 17 nur bis § 288 ausgearbeitet.
 
 Charge §§ 289–301 vom 21. Oktober 2026: genau 20 weitere Normeinheiten einschließlich §§ 289a–289f und der weggefallenen §§ 292a und 295. [Chargenprüfung](author-p289-p301-result.json). Ab § 316 bleiben 396 Kommentare offen.
 
@@ -49,3 +49,5 @@ Begrenzte unabhängige Zweitprüfung §§ 329–340c: [20 Einzelbefunde](review-
 Aktueller Autorencheckpoint §§ 340d–341g: genau 20 neue Normeinheiten; [Chargenprüfung](author-p340d-p341g-result.json). Gesamtstand 360/696, 336 Kommentare ab § 341h offen. Zweitprüfung dieser Charge ausstehend. Ältere Zahlen in den nachstehenden beziehungsweise vorangehenden Chargennotizen dokumentieren frühere Zwischenstände.
 
 Autorencheckpoint §§ 341h–342a: 20 neue Normeinheiten, Gesamtstand 380/696; 316 Kommentare ab § 342b offen. [Chargenbericht](author-p341h-p342a-result.json), [Teilkapitel](22-hgb-teil-p341h-p342a.md). Titelstichtag weiterhin 19. Oktober 2026, amtlicher Wiederabruf vom 21. Oktober unverändert. Zweitprüfung dieser Charge ausstehend; Gesamtbuch nicht abgeschlossen.
+
+Zweitprüfung vom 21. Oktober 2026, ausschließlich §§ 341h–342a: 20/20 Einheiten anhand des amtlichen XML geprüft. Drei Präzisierungen zu Hauptversammlung, Größenprüfung und Stimmrechtsvoraussetzung vorgenommen. [Einzelergebnisse](review-p341h-p342a.json), [Abdeckungsnachweis](review-p341h-p342a-coverage.json). Kein Abschluss des Gesamtbuchs; 316 Kommentare außerhalb dieses Prüfauftrags fehlen weiterhin.

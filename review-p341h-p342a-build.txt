@@ -1,0 +1,1 @@
+CHYBÍ komentář k 316 jednotkám, např.: ['p342b', 'p342c', 'p342d', 'p342e', 'p342f', 'p342g', 'p342h', 'p342i', 'p342j', 'p342k']

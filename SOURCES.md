@@ -61,3 +61,5 @@ Charge §§ 329–340c: [amtliches XML](sources/hgb-author-p329-p340c.xml), [Abr
 Charge §§ 340d–341g: [amtliches XML](sources/hgb-author-p340d-p341g.xml), [Abrufnachweise](sources/verification-p340d-p341g.json), [Suchprotokoll](sources/research/case-search-p340d-p341g.json), [FG-Fallkarte](cases/FG-BB-2025-8K8017-23.md).
 
 Charge §§ 341h–342a: [amtlicher XML-Wiederabruf](sources/hgb-author-p341h-p342a.xml), [HTTP- und Hashnachweise](sources/verification-p341h-p342a.json), [selektive Fallsuche](sources/research/case-search-p341h-p342a.json), [BFH-Fallkarte](cases/BFH-2016-IR23-15.md).
+
+Zweitprüfung §§ 341h–342a: [amtlicher Wiederabruf](sources/hgb-review-p341h-p342a.xml), [HTTP/Hash](sources/review-p341h-p342a-fetch.json), [BFH-Wiederabruf](sources/BFH-review-p341h-p342a.html). Vollständige Entscheidung mit Rn. 1–21 erneut gelesen. Selektive Autoritätenprüfung.

@@ -6,38 +6,6 @@
 
 #### Zweiter Unterabschnitt — Ergänzende Vorschriften für Versicherungsunternehmen und Pensionsfonds
 
-#### Vierter Titel — Versicherungstechnische Rückstellungen
-
-### § 341h — Schwankungsrückstellung und ähnliche Rückstellungen
-
-**Wortlaut der Vorschrift:**
-
-> (1) Schwankungsrückstellungen sind zum Ausgleich der Schwankungen im Schadenverlauf künftiger Jahre zu bilden, wenn insbesondere
->
-> 1.
->
-> nach den Erfahrungen in dem betreffenden Versicherungszweig mit erheblichen Schwankungen der jährlichen Aufwendungen für Versicherungsfälle zu rechnen ist,
->
-> 2.
->
-> die Schwankungen nicht jeweils durch Beiträge ausgeglichen werden und
->
-> 3.
->
-> die Schwankungen nicht durch Rückversicherungen gedeckt sind.
->
-> (2) Für Risiken gleicher Art, bei denen der Ausgleich von Leistung und Gegenleistung wegen des hohen Schadenrisikos im Einzelfall nach versicherungsmathematischen Grundsätzen nicht im Geschäftsjahr, sondern nur in einem am Abschlußstichtag nicht bestimmbaren Zeitraum gefunden werden kann, ist eine Rückstellung zu bilden und in der Bilanz als "ähnliche Rückstellung" unter den Schwankungsrückstellungen auszuweisen.
-
-Die Vorschrift verteilt versicherungstechnisches Zufallsrisiko über mehrere Geschäftsjahre. Absatz 1 betrifft erhebliche Schwankungen des jährlichen Schadenaufwands eines Versicherungszweigs. Eine gute Schadenquote im laufenden Jahr beseitigt deshalb nicht die Rückstellungspflicht für das verbleibende Schwankungsrisiko. Zu untersuchen sind die Erfahrungen des Zweigs, der Ausgleich durch Beiträge und die tatsächlich gewährte Rückversicherungsdeckung. Ein bereits anderweitig ausgeglichenes Risiko rechtfertigt keine zusätzliche Vorsorge unter dieser Bezeichnung. Von der Rückstellung für bereits eingetretene Versicherungsfälle nach § 341g ist dieser Ausgleich künftiger Schadenverläufe zu trennen.
-
-Absatz 2 erfasst gleichartige Großrisiken, bei denen sich Leistung und Gegenleistung versicherungsmathematisch erst in einem am Stichtag unbestimmbaren Zeitraum ausgleichen lassen. Die ähnliche Rückstellung ist innerhalb der Schwankungsrückstellungen gesondert auszuweisen. Eine bloß hohe Einzelschadenssumme genügt ohne diese zeitliche und mathematische Begründung nicht. Ansatz und Bemessung verlangen daher nachvollziehbare Risikodaten; die Norm gewährt kein freies Instrument zur Ergebnisglättung.
-
-Der BFH erläutert den zeitübergreifenden Risikoausgleich in seinem Urteil vom 7. September 2016 – I R 23/15, Rn. 7–8. Die spezielle Berechnung der Atomanlagenrückstellung behandelt er anlagenbezogen statt durch Kombination der jeweils höchsten Versicherungssummen unterschiedlicher Anlagen in einzelnen Sparten, Rn. 10–18. Das Steuerverfahren betraf 2004; daraus folgt keine allgemeine Berechnungsformel für sämtliche heutigen Großrisiken. Einzelheiten und Quellen stehen in der [Fallkarte](cases/BFH-2016-IR23-15.md).
-
-Beispiel: Ein Versicherer hat mehrere schadenarme Jahre in einem stark schwankenden Naturgefahrenzweig. Vor einer Rückstellungsbildung muss er ermitteln, welcher Teil des Schwankungsrisikos nach Beitragsmechanismus und Rückversicherung verbleibt. Die bereits gemeldeten Sturmschäden werden daneben nach § 341g behandelt.
-
-Praktische Abschlusskontrolle: eingetretene Schäden und künftige Schwankungen trennen; Rückversicherung und Beitragsausgleich belegen; Großrisikokollektiv und Ausgleichszeitraum begründen; Doppelvorsorge ausschließen und den besonderen Ausweis prüfen.
-
 #### Fünfter Titel — Konzernabschluß, Konzernlagebericht
 
 ### § 341i — Aufstellung, Fristen
@@ -56,7 +24,7 @@ Versicherungskonzerne unterliegen einer rechtsformübergreifenden Konzernrechnun
 
 Absatz 2 erfasst auch Beteiligungsholdings, deren einziger oder hauptsächlicher Zweck Erwerb, Verwaltung und rentable Bewirtschaftung von Beteiligungen ist, wenn die Tochterunternehmen ausschließlich oder überwiegend Versicherer sind. Entscheidend ist die tatsächliche Funktion; die Firmenbezeichnung „Holding“ genügt nicht. Diese Erweiterung verhindert, dass eine zwischengeschaltete Verwaltungsgesellschaft die versicherungsspezifische Konzernrechnungslegung verdrängt.
 
-Absatz 3 kombiniert eine relative mit einer absoluten Frist: zwei Monate nach Ablauf der Aufstellungsfrist des zuletzt aufzustellenden einzubeziehenden Abschlusses, höchstens zwölf Monate nach dem Konzernstichtag. Für die dort genau bezeichnete kapitalmarktorientierte Gesellschaft verkürzt sich die Höchstfrist auf vier Monate. Maßgeblich ist die gesetzliche Aufstellungsfrist, nicht eine tatsächlich verspätete Vorlage einer Tochtergesellschaft. Die Aufstellung und die Vorlage beim Konzernprüfer gehören zusammen. Der einbezogene Jahresabschluss darf nach der besonderen Stichtagsregel höchstens sechs Monate vor dem Konzernstichtag liegen; ergänzend ist § 341j für IFRS-Fälle zu beachten. Absatz 4 verschiebt die Vorlage an die Hauptversammlung nach der Aufstellungsfrist in die dort bezeichnete nächste Versammlung.
+Absatz 3 kombiniert eine relative mit einer absoluten Frist: zwei Monate nach Ablauf der Aufstellungsfrist des zuletzt aufzustellenden einzubeziehenden Abschlusses, höchstens zwölf Monate nach dem Konzernstichtag. Für die dort genau bezeichnete kapitalmarktorientierte Gesellschaft verkürzt sich die Höchstfrist auf vier Monate. Maßgeblich ist die gesetzliche Aufstellungsfrist, nicht eine tatsächlich verspätete Vorlage einer Tochtergesellschaft. Die Aufstellung und die Vorlage beim Konzernprüfer gehören zusammen. Der einbezogene Jahresabschluss darf nach der besonderen Stichtagsregel höchstens sechs Monate vor dem Konzernstichtag liegen; ergänzend ist § 341j für IFRS-Fälle zu beachten. Absatz 4 verlangt die Vorlage spätestens in der nächsten nach Ablauf der Aufstellungsfrist einzuberufenden Hauptversammlung, die einen Jahresabschluss des Mutterunternehmens entgegennimmt oder festzustellen hat. Nicht jede beliebige frühere Sonderversammlung ist damit der gesetzliche Bezugspunkt.
 
 Beispiel: Der letzte einzubeziehende Abschluss hat eine Aufstellungsfrist bis Ende Juni. Regelmäßig ergibt sich eine Konzernfrist bis Ende August, soweit die absolute Höchstfrist nicht früher endet. Eine erst im September tatsächlich erfolgte Aufstellung der Tochter verlängert diese Frist nicht.
 
@@ -90,7 +58,7 @@ Die Norm verbindet allgemeines Konzernrecht mit dem besonderen Rechnungslegungsr
 
 Für Fälle des § 315e Absatz 1 wechselt der Normpfad: Aus dem allgemeinen Verweis gelten nur §§ 290–292 und 315e; die weiteren ausdrücklich genannten sektoralen Regeln, darunter die besondere Sechsmonatsregel des § 341i Absatz 3 Satz 2, sind ausgeschlossen. HGB-Sonderbewertung und IFRS dürfen deshalb nicht ungeprüft nebeneinander verwendet werden. Absatz 2 erlaubt den Verzicht auf Zwischenergebniseliminierung nach § 304 Absatz 1 nur, wenn sowohl marktübliche Bedingungen als auch begründete Rechtsansprüche der Versicherungsnehmer vorliegen. Konzernzugehörigkeit allein genügt dafür nicht. Absatz 3 ergänzt die organschaftliche Vorlage nach dem dort bezeichneten Aktienrecht für die erfassten anderen Versicherungsrechtsformen.
 
-Absatz 4 verlangt die nichtfinanzielle Konzernerklärung bei kumulativ überschrittenen Größenmerkmalen und insgesamt mehr als 500 Beschäftigten im Jahresdurchschnitt. Dass § 293 für die Konzernaufstellung ausgeschlossen ist, hindert seinen Einsatz als Größenmaßstab dieser Berichtspflicht nicht. Verweise und Befreiungen richten sich nach den ausdrücklich genannten Vorschriften. Absatz 5 betrifft zusätzliche Diversitätsangaben in einer ohnehin erforderlichen Konzernerklärung zur Unternehmensführung; er begründet nicht für jeden Versicherer unterschiedslos diese Erklärungspflicht.
+Absatz 4 verlangt die nichtfinanzielle Konzernerklärung, wenn die einbezogenen Unternehmen die Voraussetzungen der größenabhängigen Befreiung nach § 293 Absatz 1 Satz 1 Nummer 1 oder 2 nicht erfüllen und insgesamt im Jahresdurchschnitt mehr als 500 Arbeitnehmer beschäftigen. Es genügt daher keine pauschale Prüfung eines einzelnen Umsatzwerts; die alternativen Berechnungsmethoden, die Kombination der Merkmale und der zeitliche Bezug des § 293 sind zu beachten. Dass § 293 für die Konzernaufstellung ausgeschlossen ist, hindert seinen Einsatz als Größenmaßstab dieser Berichtspflicht nicht. Verweise und Befreiungen richten sich nach den ausdrücklich genannten Vorschriften. Absatz 5 betrifft zusätzliche Diversitätsangaben in einer ohnehin erforderlichen Konzernerklärung zur Unternehmensführung; er begründet nicht für jeden Versicherer unterschiedslos diese Erklärungspflicht.
 
 Beispiel: Ein Versicherungsverbund kann einen internen Vermögensverkauf nicht schon wegen eines marktüblichen Preises ohne Eliminierung behandeln. Es muss zusätzlich feststehen, dass die Transaktion Rechtsansprüche der Versicherungsnehmer begründet. Fehlt dies, greift die Sondererleichterung des Absatzes 2 nicht.
 
@@ -538,7 +506,7 @@ Beispiel: Eine deutsche Fördergesellschaft ist im EU-Konzernzahlungsbericht ihr
 
 Der Inhalt des Zahlungsberichts folgt den tatsächlich geleisteten Zahlungen des Geschäftsjahrs. Absatz 1 beschränkt ihn auf die in § 341r definierten Zahlungen aus der relevanten Rohstoff- oder Primärwaldtätigkeit; andere Zahlungen dürfen nicht beigemischt werden. Ein bloß entstandener, noch nicht erfüllter Zahlungsanspruch ist nicht bereits eine geleistete Zahlung. Fehlen berichtspflichtige Zahlungen, ist die gesetzlich beschriebene Erklärung über die Tätigkeit ohne Zahlungen aufzunehmen. Das Unternehmen darf das Berichtsjahr nicht stillschweigend auslassen.
 
-Nach Absatz 2 ist der unmittelbare staatliche Zahlungsempfänger maßgeblich, auch wenn dieser für weitere staatliche Stellen kassiert. Eine rechnerische Aufteilung nach der späteren staatlichen Verteilung ist deshalb nicht erforderlich. Absatz 3 nimmt gewöhnliche gleichberechtigte Ausschüttungen an einen staatlichen Anteilseigner grundsätzlich aus. Berichtspflicht besteht insoweit aber bei abweichenden Bedingungen gegenüber vergleichbaren Anteilen oder bei Ausschüttungen anstelle von Produktionsrechten oder Nutzungsentgelten. Die Bezeichnung „Dividende“ allein entscheidet nicht.
+Nach Absatz 2 ist der unmittelbare staatliche Zahlungsempfänger maßgeblich, auch wenn dieser für weitere staatliche Stellen kassiert. Eine rechnerische Aufteilung nach der späteren staatlichen Verteilung ist deshalb nicht erforderlich. Absatz 3 nimmt gewöhnliche gleichberechtigte Ausschüttungen an eine staatliche Stelle, die stimmberechtigte Gesellschafterin oder Aktionärin ist, grundsätzlich aus. Bei einem staatlichen Anteilseigner ohne Stimmrecht trägt diese spezielle Ausnahme nicht; der Zahlungsbegriff des § 341r Nummer 3 Buchstabe d bleibt zu prüfen. Berichtspflicht besteht insoweit aber bei abweichenden Bedingungen gegenüber vergleichbaren Anteilen oder bei Ausschüttungen anstelle von Produktionsrechten oder Nutzungsentgelten. Die Bezeichnung „Dividende“ allein entscheidet nicht.
 
 Absatz 4 enthält eine Schwelle von 100.000 Euro: Nur unterschreitende Zahlungen oder verbundene Zahlungsreihen können ausgelassen werden. Genau 100.000 Euro liegen nicht darunter. Regelmäßige Raten aus einer bestehenden Vereinbarung sind über den Berichtszeitraum zusammenzurechnen. Daneben kann ein staatlicher Empfänger entfallen, wenn an ihn insgesamt weniger als 100.000 Euro gezahlt wurde. Umgekehrt macht ein höherer Empfängergesamtbetrag nicht automatisch jede sachlich eigenständige Kleinzahlung berichtspflichtig; die Zahlungs- und Empfängerprüfung sind getrennt vorzunehmen. Absatz 6 verhindert künstliche Aufteilung oder Zusammenfassung zur Umgehung.
 
