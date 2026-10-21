@@ -34,8 +34,10 @@ Charge §§ 267–288 vom 21. Oktober 2026: 20 zusätzliche Kommentare in [Kapit
 
 Charge §§ 289–301 vom 21. Oktober 2026: genau 20 weitere Normeinheiten einschließlich §§ 289a–289f und der weggefallenen §§ 292a und 295. [Chargenprüfung](author-p289-p301-result.json). Ab § 316 bleiben 396 Kommentare offen.
 
-Charge §§ 302–315e vom 21. Oktober 2026: 20 weitere Normeinheiten; [Chargenprüfung](author-p302-p315e-result.json). 300/696 Einheiten sind kommentiert; 396 ab § 316 bleiben offen. Keine unabhängige Zweitprüfung dieser Charge.
+Charge §§ 302–315e vom 21. Oktober 2026: 20 weitere Normeinheiten; [Chargenprüfung](author-p302-p315e-result.json). 300/696 Einheiten sind kommentiert; 396 ab § 316 bleiben offen. Die unabhängige Zweitprüfung dieser Charge ist dokumentiert in review-p316-p328.json.
 
 Begrenzte unabhängige Zweitprüfung §§ 302–315e abgeschlossen: [Einzelbefunde](review-p302-p315e.json), [Prüfbericht](REVIEW.md). Nur diese 20 Einheiten; Gesamtbuch weiterhin unvollständig.
 
-Charge §§ 316–328 vom 21. Oktober 2026: 20 weitere Normeinheiten; [Chargenprüfung](author-p316-p328-result.json). 320/696 Einheiten sind kommentiert; 376 ab § 329 bleiben offen. Keine unabhängige Zweitprüfung dieser Charge.
+Charge §§ 316–328 vom 21. Oktober 2026: 20 weitere Normeinheiten; [Chargenprüfung](author-p316-p328-result.json). 320/696 Einheiten sind kommentiert; 376 ab § 329 bleiben offen. Die unabhängige Zweitprüfung dieser Charge ist dokumentiert in review-p316-p328.json.
+
+Begrenzte unabhängige Zweitprüfung §§ 316–328: [20 Einzelbefunde](review-p316-p328.json), [Prüfbericht](REVIEW.md). Gesamtbuch weiterhin unvollständig.

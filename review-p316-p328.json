@@ -1,0 +1,176 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p316",
+    "p316a",
+    "p317",
+    "p318",
+    "p319",
+    "p319a",
+    "p319b",
+    "p320",
+    "p321",
+    "p321a",
+    "p322",
+    "p323",
+    "p324",
+    "p324a",
+    "p325",
+    "p325a",
+    "p326",
+    "p327",
+    "p327a",
+    "p328"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p316",
+      "corrected": false,
+      "finding": "Alle drei Absätze, Feststellungs-/Billigungssperre, Umfang der Nachtragsprüfung und Offenlegungswiedergabe geprüft; historische Urteilsgrenzen bestätigt."
+    },
+    {
+      "id": "p316a",
+      "corrected": false,
+      "finding": "Vorrang der Verordnung, drei alternative Unternehmenskategorien und Ausnahmen für Institute geprüft; keine unbelegte Rotationsfrist angegeben."
+    },
+    {
+      "id": "p317",
+      "corrected": false,
+      "finding": "Alle Absätze einschließlich 3a/3b und 4a gelesen: Vorlagekontrolle, Viermonatsprüfung, Konzernverantwortung und Steuerbericht über Vorjahr bestätigt."
+    },
+    {
+      "id": "p318",
+      "corrected": true,
+      "finding": "Alle acht Absätze und 1a geprüft: Wahl/Auftrag, Quoren, Kenntnisfrist, Widerspruch/Mindestbesitz und Kündigung. Beschwerde nach Absatz 3 gegen Unanfechtbarkeit der Bestellung nach Absatz 4 abgegrenzt."
+    },
+    {
+      "id": "p319",
+      "corrected": true,
+      "finding": "Alle fünf Absätze und Tatbestandsbuchstaben geprüft. Richtung der 20-Prozent-Beteiligung, Stimmrechtsschwelle und Zeitraum bis Testat konkretisiert; 30-Prozent-Abhängigkeit und Ehegattenzurechnung bestätigt."
+    },
+    {
+      "id": "p319a",
+      "corrected": false,
+      "finding": "Amtliche leere Norm ohne operativen Text bestätigt; keine frühere Ausschlussnorm fortgeschrieben."
+    },
+    {
+      "id": "p319b",
+      "corrected": false,
+      "finding": "Einflussausnahme nur für Satz 1 und unbedingte Zurechnung der Nummer 3 in Satz 2 geprüft; Netzwerkdefinition und Konzernverweis bestätigt."
+    },
+    {
+      "id": "p320",
+      "corrected": false,
+      "finding": "Alle fünf Absätze einschließlich nichtfinanzieller Unterlagen, Emittentenwiedergabe, Vorgängerbericht und notwendiger Drittstaatenweitergabe geprüft."
+    },
+    {
+      "id": "p321",
+      "corrected": false,
+      "finding": "Absätze 1–5 einschließlich 4a, Bewertungsänderungen und Überwachungsbeanstandungen geprüft; gleichzeitige Ausschussvorlage und anschließende Geschäftsführungsstellungnahme bestätigt."
+    },
+    {
+      "id": "p321a",
+      "corrected": true,
+      "finding": "Alle vier Absätze, Quorum und Geheimnisschutz geprüft; zugelassene Berufsvertreter statt unbestimmtem Berufsangehörigen ausdrücklich benannt."
+    },
+    {
+      "id": "p322",
+      "corrected": true,
+      "finding": "Alle Absätze mit 1a/6a und vier Urteilskategorien geprüft. Pflichtinhalt des einleitenden Abschnitts ergänzt; Einwendungen und Hemmnisse sowie historischer Fallbezug bestätigt."
+    },
+    {
+      "id": "p323",
+      "corrected": true,
+      "finding": "Alle Haftungsbeträge und Verschuldensstufen geprüft: missverständliche Nummernverweise als Haftungsgruppen des Absatzes 2 präzisiert und von Unternehmenskategorien nach § 316a getrennt. Anlegerhaftung nicht aus Absatz 1 abgeleitet."
+    },
+    {
+      "id": "p324",
+      "corrected": true,
+      "finding": "Alle drei Absätze, Ausnahmekatalog und Wahl/Unabhängigkeit geprüft. Nominalwertgrenze ausdrücklich auf 100 Millionen Euro konkretisiert."
+    },
+    {
+      "id": "p324a",
+      "corrected": false,
+      "finding": "Entsprechende Anwendung, Billigung statt Feststellung, Prüferidentität und Berichtsverbindung nach beiden Absätzen bestätigt."
+    },
+    {
+      "id": "p325",
+      "corrected": true,
+      "finding": "Sämtliche Absätze einschließlich weggefallenem Absatz 2, internationalen Ersatzunterlagen und drei Befreiungsvoraussetzungen geprüft. Deutsche Offenlegungssprache ausdrücklich ergänzt; geltende ESAP-/Fristregeln mit Inkrafttreten abgeglichen."
+    },
+    {
+      "id": "p325a",
+      "corrected": false,
+      "finding": "Alle vier Absätze und drei Sprach-/Abschriftalternativen geprüft; Niederlassungsverweise, Sektorenausnahmen und ausländischer Kleinstmaßstab bestätigt."
+    },
+    {
+      "id": "p326",
+      "corrected": false,
+      "finding": "Beide Absätze, unterschiedliche Offenlegungsumfänge und Mitteilungsvoraussetzung der Hinterlegung geprüft; keine Aufstellungserleichterung erfunden."
+    },
+    {
+      "id": "p327",
+      "corrected": false,
+      "finding": "Jede Bilanzposition des Katalogs und abschließende Anhangsauslassungen geprüft; keine Befreiung von GuV/Lagebericht behauptet."
+    },
+    {
+      "id": "p327a",
+      "corrected": false,
+      "finding": "Ausschließlichkeitsmerkmal, Mindeststückelung, Fremdwährungsstichtag und begrenzter Ausschluss des § 325 Abs. 4 Satz 1/3 geprüft."
+    },
+    {
+      "id": "p328",
+      "corrected": true,
+      "finding": "Alle Absätze mit 1a geprüft. Form- und Formatabweichung durch konkrete Abgrenzung des Beifügungsverbots präzisiert; Hinterlegungsverweisung und Nachreichungen bestätigt."
+    }
+  ],
+  "limitations": [
+    "Inhaltliche Zweitprüfung ausschließlich dieser 20 Einheiten; keine Gesamtbuchfreigabe und keine externe anwaltliche Prüfung.",
+    "Vorhandenes Suchprotokoll sowie BGH VII ZR 236/19, Tenor, Tatbestand und Gründe Rn. 1–44 erneut gelesen und Fallkarte geprüft. Selektive Rechtsprechung, keine erschöpfende Neurecherche; historisches Prospektrecht und heutige Haftungsbeträge getrennt.",
+    "376 fehlende Kommentare außerhalb dieser Charge verhindern Gesamtbuild und Gesamtvalidierung."
+  ],
+  "source_preflight": "preflight-result.json#bounded_review_p316_p328",
+  "coverage": "review-p316-p328-coverage.json",
+  "commentary_chars": {
+    "p316": 2129,
+    "p316a": 1810,
+    "p317": 2716,
+    "p318": 2870,
+    "p319": 3069,
+    "p319a": 1069,
+    "p319b": 1728,
+    "p320": 2020,
+    "p321": 2400,
+    "p321a": 2238,
+    "p322": 2812,
+    "p323": 2924,
+    "p324": 2106,
+    "p324a": 1938,
+    "p325": 3094,
+    "p325a": 2161,
+    "p326": 1728,
+    "p327": 2024,
+    "p327a": 1546,
+    "p328": 3595
+  },
+  "duplicate_ids": [],
+  "exact_repeated_paragraphs": [],
+  "full_book_complete": false,
+  "validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 696,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 511164,
+    "errors": [
+      "krátký/chybějící komentář u 376 jednotek: ['p329(0<400)', 'p330(0<400)', 'p331(0<400)', 'p331a(0<400)', 'p332(0<400)', 'p333(0<400)', 'p333a(0<400)', 'p334(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "bounded_validation_ok": true,
+  "shared_build_success": false,
+  "shared_build_evidence": "review-p316-p328-build.txt"
+}

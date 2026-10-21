@@ -1,0 +1,10 @@
+{
+  "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+  "accessed_at": "2026-10-21T04:16:20.766053+00:00",
+  "http_status": 200,
+  "path": "sources/hgb-review-p316-p328.zip",
+  "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+  "xml_path": "sources/hgb-review-p316-p328.xml",
+  "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "format_validated": "ZIP ge\u00f6ffnet; XML geparst, dokumente mit HGB-Normknoten"
+}

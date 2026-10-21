@@ -283,5 +283,18 @@
     "historical_versions_checked": "Alle 696 eindeutigen Normkennungen und Wortlaute erneut gegen amtliches XML geprüft; kein Zusammenführen historischer Fassungen. § 319a als weggefallene Leerstelle erhalten.",
     "annexes_checked": "Knotendisposition sources/preflight-coverage.json geprüft: keine operative Gesetzesanlage, keine unzugeordnete Eingangsformel. Konzernanhang ist Abschlussbestandteil, keine Gesetzesanlage.",
     "unresolved_blockers": []
+  },
+  "bounded_review_p316_p328": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T04:16:20.766053+00:00",
+    "http_status": 200,
+    "source_evidence": "sources/hgb-review-p316-p328.xml",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "version_evidence": "Amtlicher Wiederabruf identisch mit wirksamkeitsgeprüfter Fassung vom 19.10.2026; commencement.md, change-map.json und Art. 64 Abs. 1, 5, 7, 8 BGBl. 2026 I Nr. 33 erneut gelesen: HGB-Änderungen 2026 wirksam, zukünftige 2028/2030 getrennt. Keine Änderung gegenüber Intake. Aktuelle amtliche Abruffassung bestätigt, Standvermerk nicht isoliert als Wirksamkeitsbeweis behandelt.",
+    "historical_versions_checked": "Alle 814 Knoten eindeutig; 696 amtliche Kennungen und Wortlaute erneut verglichen. Keine historischen Versionen verkettet. Originalintake und alte Fassungen erhalten.",
+    "annexes_checked": "Alle 814 Knoten zugeordnet: 696 Normen, 117 Gliederungen, nichtoperative Kopfnorm ohne Eingangsformel. Keine gesonderte operative Gesetzesanlage. Anhang §§ 284 ff. ist Rechnungslegungsbestandteil; Sammelleerstellen einschließlich § 319a bewahrt.",
+    "unresolved_blockers": []
   }
 }
