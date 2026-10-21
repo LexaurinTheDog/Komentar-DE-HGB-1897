@@ -3,121 +3,121 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p384",
-    "p385",
-    "p386",
-    "p387",
-    "p388",
-    "p389",
-    "p390",
-    "p391",
-    "p392",
-    "p393",
-    "p394",
-    "p395",
-    "p396",
-    "p397",
-    "p398",
-    "p399",
-    "p400",
-    "p401",
-    "p402",
-    "p403"
+    "p404",
+    "p405",
+    "p406",
+    "p407",
+    "p408",
+    "p409",
+    "p410",
+    "p411",
+    "p412",
+    "p413",
+    "p414",
+    "p415",
+    "p416",
+    "p417",
+    "p418",
+    "p419",
+    "p420",
+    "p421",
+    "p422",
+    "p423"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p384",
-      "result": "Alle drei Absätze: Sorgfalt, Weisungen, Nachrichten, Rechenschaft, Herausgabe und Namhaftmachungshaftung geprüft. Eigenständige Kundenstammherausgabe nach BGH Rn. 37–40 ergänzt."
+      "id": "p404",
+      "result": "Verweisung auf §§ 397 und 398 samt gesichertem Forderungskatalog und Selbsteintrittsvoraussetzungen geprüft; keine grenzenlose Sicherheit behauptet."
     },
     {
-      "id": "p385",
-      "result": "Beide Absätze: Schadensersatz und interne Nichtzurechnung von Außenwirksamkeit getrennt; § 665 BGB und Gefährdung durch Aufschub zutreffend."
+      "id": "p405",
+      "result": "Alle drei Absätze: Erklärungsfiktion, Nichtigkeit späterer Festlegung sowie Zugang des Widerrufs vor Abgabe der Anzeige zur Absendung zutreffend unterschieden."
     },
     {
-      "id": "p386",
-      "result": "Beide Absätze: unverzügliche Zurückweisung, begrenzte Genehmigung, gleichzeitiges Deckungsangebot und Mehrschaden zutreffend."
+      "id": "p406",
+      "result": "Beide Absätze: andere Geschäfte, Kaufmann ohne ständige Kommissionstätigkeit und nicht vertretbare herzustellende bewegliche Sachen aus Unternehmerstoff geprüft. Abschnittscheckliste zutreffend."
     },
     {
-      "id": "p387",
-      "result": "Beide Absätze: bessere Bedingungen und beiderseitige Preisvorteile dem Kommittenten zugewiesen; Provision getrennt."
+      "id": "p407",
+      "result": "Alle drei Absätze: Beförderung und Ablieferung, Frachtpflicht, gewerblicher Anwendungsbereich und ausdrückliche Ausnahme §§ 348–350 geprüft. Kein Automatismus zur Anwendung auf Seefracht."
     },
     {
-      "id": "p388",
-      "result": "Beide Absätze: äußerlich erkennbarer Ablieferungsschaden, drei Sicherungspflichten, kausaler Schaden und Notverkaufsvoraussetzungen samt § 373 geprüft."
+      "id": "p408",
+      "result": "Alle drei Absätze und zwölf Angabengruppen gelesen: Frachtbrief als Dokumentation, drei Originale, Unterschrift und elektronische Funktionsgleichheit geprüft."
     },
     {
-      "id": "p389",
-      "result": "Erforderliche unterlassene Disposition von bloßem Schweigen getrennt; Verweis auf § 373 zutreffend."
+      "id": "p409",
+      "result": "Alle drei Absätze: beiderseitige Unterzeichnung, äußerer Zustand, begründeter Vorbehalt und tatsächlich geprüfte Menge/Inhalt getrennt; § 420 Abs. 5 richtig abgegrenzt."
     },
     {
-      "id": "p390",
-      "result": "Beide Absätze: Obhutshaftung mit Entlastung, keine Garantie; Versicherung nur bei Weisung und unabhängige Sorgfaltspflicht zutreffend."
+      "id": "p410",
+      "result": "Beide Absätze: rechtzeitige Textform, genaue Gefahr, Kenntnis bei Übernahme und Erforderlichkeit geprüft. Ausdrücklichen Haftungsausschluss für erlaubte Maßnahmen nach Abs. 2 Nr. 1 ergänzt; Aufwendungsersatz nach Nr. 2 davon getrennt."
     },
     {
-      "id": "p391",
-      "result": "Beiderseitiges Handelsgeschäft, entsprechende Käuferregeln, weggefallener § 378 und erhaltene Abtretung trotz verspäteter Anzeige zutreffend."
+      "id": "p411",
+      "result": "Alle drei Sätze: bedarfsabhängige Verpackung, innere Lademittelsicherung und Kennzeichnung geprüft; Abgrenzung zur Fahrzeugverladung korrekt."
     },
     {
-      "id": "p392",
-      "result": "Beide Absätze: Abtretung für Außenanspruch und relative Zuordnung gegenüber Kommissionärsgläubigern getrennt. BGH Rn. 12, 16–19 gelesen."
+      "id": "p412",
+      "result": "Alle vier Absätze: beförderungs- und betriebssichere Verladung, unentgeltliche Grundzeit, Standgeld und Verordnungsermächtigung geprüft. Amtlichen BGH-Volltext I ZR 37/09 Rn. 1–19 gelesen, Rn. 10–17 tragen die Aussage; historische Querverweise nicht übernommen."
     },
     {
-      "id": "p393",
-      "result": "Alle drei Absätze: eigene Gefahr, örtlicher Handelsgebrauch und gegenläufige Weisung, sofortige Zahlung und hypothetischer Barpreis samt Limitdifferenz geprüft."
+      "id": "p413",
+      "result": "Beide Absätze: amtliche Behandlung, Urkundenbereitstellung, Umgang mit übergebenen Dokumenten, Entlastung und Verlusthaftungshöchstbetrag geprüft."
     },
     {
-      "id": "p394",
-      "result": "Beide Absätze: Übernahme oder Niederlassungsgebrauch, unmittelbare Haftung bei Verfall, Vertragsumfang und besondere Provision zutreffend."
+      "id": "p414",
+      "result": "Alle drei Absätze und vier Haftungsgründe: Kausalität, verschuldensunabhängige Haftung, Mitverursachung und Verbraucherverschulden geprüft."
     },
     {
-      "id": "p395",
-      "result": "Bedingtes Indossamentserfordernis, übliche Form und Vorbehaltlosigkeit geprüft; kein genereller Indossierungszwang behauptet."
+      "id": "p415",
+      "result": "Alle drei Absätze: jederzeitige Kündigung, alternatives Abrechnungswahlrecht, Fautfracht, Ersparnisse und Risikosphäre sowie Entladung bereits geladenen Guts geprüft."
     },
     {
-      "id": "p396",
-      "result": "Beide Absätze: Ausführung, Ortsgebrauch bei Auslieferungsprovision, nur persönliche Verhinderung und Eigenbetriebsmittel geprüft. BGH-Vertragskosten nicht als gesetzliche Pauschale übernommen."
+      "id": "p416",
+      "result": "Alle vier Sätze: Teilabfahrt auf Verlangen, Vollfracht abzüglich Ersatzfracht im selben Beförderungsmittel, Sicherheit und Begrenzung bei Frachtführerrisiko geprüft."
     },
     {
-      "id": "p397",
-      "result": "Alle drei Sätze: Forderungskatalog, Dritteigentum mit Zustimmung, laufende Rechnung nur bei Kommittentengut und Besitz/Papierverfügung geprüft."
+      "id": "p417",
+      "result": "Alle fünf Absätze: Ladepflicht/Bereitstellung, Nachfrist, offensichtliche Erfolglosigkeit, Teilbeförderung, endgültige Weigerung und Risikosphärensperre geprüft."
     },
     {
-      "id": "p398",
-      "result": "Eigentümerbefriedigung nach Pfandrecht auf §-397-Ansprüche begrenzt; Überschuss und Verfahren beachtet."
+      "id": "p418",
+      "result": "Alle sechs Absätze: Weisungsinhalt und Grenzen, Vorschuss, Befugniswechsel, Drittempfänger, bedingte Vorlagepflicht, Nachricht und begrenzte Haftung geprüft."
     },
     {
-      "id": "p399",
-      "result": "Forderung als Sicherungsobjekt, §-397-Katalog, Rang gegenüber Kommittent und Gläubigern und Verhältnis zu § 392 geprüft."
+      "id": "p419",
+      "result": "Alle vier Absätze: Weisungseinholung, Rückfall ohne Ladeschein, Rollenwechsel, Eigenmaßnahmen mit Auswahlhaftung, Verkauf, Vernichtung und Kostenfolgen geprüft."
     },
     {
-      "id": "p400",
-      "result": "Alle fünf Absätze geprüft. Kursarten und Preisgrenze des amtlich festgestellten Preises für Waren UND Wertpapiere ausdrücklich ergänzt. Absendeabgabe vom Zugang unterschieden."
+      "id": "p420",
+      "result": "Alle fünf Absätze: Fälligkeit, gutbezogene Aufwendungen, Interesse an Teilstrecke, Unmöglichkeit aus Absendersphäre, Verzögerungsvergütung und besondere Mengenvermutung geprüft."
     },
     {
-      "id": "p401",
-      "result": "Beide Absätze: günstigere sorgfaltsgemäße Möglichkeit und konkretes auftragsveranlasstes Drittgeschäft vor Absendung getrennt; kein pauschaler Zugriff auf Eigenhandel."
+      "id": "p421",
+      "result": "Alle vier Absätze: Empfängerrecht, parallele Anspruchsbefugnis, Frachtbetrag und Angemessenheit, differenzierte Mitteilungspflicht bei Zusatzvergütung und fortbestehende Absenderpflicht geprüft."
     },
     {
-      "id": "p402",
-      "result": "Einseitig zwingender Schutz genau auf § 400 Abs. 2–5 und § 401 begrenzt; Abs. 1 nicht fälschlich erfasst."
+      "id": "p422",
+      "result": "Alle drei Absätze: Einziehungsabrede, Zahlungsmittel, relative Gläubigerzuordnung und verschuldensunabhängige kausale Haftung bis zum Nachnahmebetrag geprüft."
     },
     {
-      "id": "p403",
-      "result": "Gewöhnliche Provision und regelmäßig vorkommende Kosten geprüft, keine besondere Eintrittsprovision erfunden. Checkliste deckt nur behandelten Teilblock."
+      "id": "p423",
+      "result": "Vereinbarte und objektiv erforderliche Lieferfrist sowie Ablieferung als Leistungserfolg geprüft; Verweise auf §§ 418, 425 und 431 Abs. 3 gegen JSONL gelesen. Praktische Abwicklungscheckliste für den geprüften Frachtrechtsblock ergänzt."
     }
   ],
   "limitations": [
-    "Nur die zugewiesenen 20 Einheiten zweitgeprüft; keine Gesamtbuchfertigstellung.",
-    "236 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung.",
-    "Selektive Rechtsprechung: BGH I ZR 229/15 erneut im amtlichen Volltext gelesen; keine erschöpfende Folgeentscheidungsrecherche. Keine weitere Entscheidung übernommen.",
-    "Aktualität anhand erneutem amtlichem XML und bewahrter Verkündung geprüft; keine lückenlose BGBl-Jahresauswertung.",
-    "Keine externe anwaltliche Freigabe."
+    "Nur §§ 404–423 zweitgeprüft; keine Gesamtbuchfertigstellung.",
+    "216 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung.",
+    "Selektive Rechtsprechung: amtlicher BGH I ZR 37/09 erneut vollständig gelesen; keine erschöpfende Folgeentscheidungsrecherche.",
+    "Aktualität anhand amtlichem Wiederabruf, bewahrter Änderungskarte und Verkündung geprüft; keine lückenlose BGBl-Jahresauswertung.",
+    "Keine externe fachliche Freigabe; Mindestlängenprüfung beweist keine juristische Qualität."
   ],
-  "verified_at": "2026-10-21T05:29:43.770296+00:00",
+  "verified_at": "2026-10-21T05:37:07.876470+00:00",
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
   "statutory_text_agreement": 1.0,
-  "coverage_evidence": "review-p384-p403-coverage.json",
+  "coverage_evidence": "review-p404-p423-coverage.json",
   "full_book_complete": false,
   "bounded_build_success": true
 }
