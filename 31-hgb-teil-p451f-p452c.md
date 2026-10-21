@@ -101,6 +101,7 @@ Die Regel erfasst Verlust, Beschädigung und das Ereignis, das die Lieferfristü
 Auch bei erfolgreicher Lokalisierung bleiben die besonderen Regeln über Anzeige und Verjährung in § 452b sowie gegebenenfalls § 452c zu beachten. Die Norm ersetzt nicht den Nachweis von Schadensumfang und weiteren Haftungsvoraussetzungen.
 
 Beispiel: Ein bei Übergabe an das Schiff erstelltes Protokoll dokumentiert eine bereits zuvor zerbrochene Maschine. Es kann den Eintritt auf der vorgelagerten Landstrecke stützen. Dass die Beschädigung erst beim endgültigen Empfänger genauer untersucht wird, verlagert das Schadensereignis nicht auf die letzte Strecke.
+Zur Abgrenzung transportnaher Tätigkeiten hat der BGH im Urteil vom 1. Dezember 2016 — I ZR 128/15, Rn. 24, 27–34, die Zuordnung nach dem hypothetischen Teilvertrag und den Nachweis anhand konkreter Indizien betont. Das vorbereitende Containerstauen im Hafenterminal wurde dort der Seestrecke zugeordnet. Der Fall betraf einen Vertrag von 2012; seine Aussagen zu alten seefrachtrechtlichen Haftungsgrenzen werden hier nicht auf heutige Fälle übertragen. [Fallkarte und Volltextnachweis](cases/bgh-I-ZR-128-15-p452a.md).
 
 ### § 452b — Schadensanzeige. Verjährung
 

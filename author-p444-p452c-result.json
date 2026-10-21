@@ -25,20 +25,25 @@
     "p452b",
     "p452c"
   ],
-  "commentary_chars": 30345,
+  "commentary_chars": 30865,
   "identical_paragraphs": 0,
   "source_verification": "sources/verification-p444-p452c.json",
   "coverage": "author-p444-p452c-coverage.json",
-  "case_law_sources": [],
+  "case_law_sources": [
+    "cases/bgh-I-ZR-128-15-p452a.md"
+  ],
   "limitations": [
     "Gesamtbuch unvollständig; unabhängige Zweitprüfung der Charge ausstehend.",
-    "Amtlicher BGH-Volltextabruf blockiert; keine Entscheidung ungeprüft zitiert."
+    "Selektive Rechtsprechung; BGH-Fall mit historischem Seefrachtrecht."
   ],
   "validation": {
     "ok": true,
     "units": 20,
     "verbatim_ratio": 1.0,
     "errors": [],
-    "warnings": []
-  }
+    "warnings": [],
+    "commentary_chars": 30865
+  },
+  "links_checked": true,
+  "independent_second_pass": false
 }

@@ -9,6 +9,7 @@
   "accessed_at": "2026-10-21T05:51:25.741793+00:00",
   "response_sha256": "19a3dcf0ee6bceb9c229b37e4fcada4a313c9a1b280b81325e2ec72dcb8f6aa9",
   "format_valid_pdf": false,
-  "disposition": "Amtlicher Volltext nicht verfügbar; keine Aussagen aus Suchsnippet übernommen.",
-  "limitations": "Keine vollständige Rechtsprechungsabdeckung; keine Fallkarte ohne Volltext."
+  "disposition": "Direktabruf BGH blockiert; lokaler amtlicher Volltext KORE302842017 vollständig gelesen; Fallkarte erstellt.",
+  "limitations": "Selektive Suche; historische Rechtslage abgegrenzt.",
+  "local_hits": "sources/research/local-hits-p444-p452c.txt"
 }

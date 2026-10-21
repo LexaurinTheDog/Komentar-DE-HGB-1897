@@ -1,0 +1,10 @@
+/Volumes/LaCie/law-intake/eu/de/rii/manifest.jsonl
+/Volumes/LaCie/law-intake/eu/de/rii/rii-kare600062692.md
+/Volumes/LaCie/law-intake/eu/de/rii/rii-kore300372026.md
+/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore300372026.xml
+/Volumes/LaCie/law-intake/eu/de/rii/rii-kore302842017.md
+/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore302842017.xml
+/Volumes/LaCie/law-intake/eu/de/rii/rii-kore315222023.md
+/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore315222023.xml
+/Volumes/LaCie/law-intake/eu/de/rii/rii-kore619102018.md
+/Volumes/LaCie/law-intake/eu/de/rii/_raw/rii-kore619102018.xml

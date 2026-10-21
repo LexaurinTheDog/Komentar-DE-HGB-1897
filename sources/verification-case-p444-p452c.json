@@ -1,0 +1,9 @@
+{
+  "url": "https://www.rechtsprechung-im-internet.de/jportal/docs/bsjrs/jb-KORE302842017.zip",
+  "accessed_at": "2026-10-21T05:53:52.316058+00:00",
+  "http_status": 200,
+  "valid_zip": true,
+  "local_snapshot": "sources/bgh-I-ZR-128-15.xml",
+  "local_sha256": "bffe4efae1f3fcbedb6e526c103751f13b5335699627aee66c4e200ad8133938",
+  "read_full_text": true
+}
