@@ -11,3 +11,5 @@ Die Rohdatei zu II ZR 61/09 ist lediglich ein verworfener Recherchefund zur GmbH
 - [BGH 30.04.2014 — I ZR 245/12: § 75f](BGH-2014-I-ZR-245-12.md)
 
 - [BGH, 6. Oktober 2016 – VII ZR 328/12](BGH-2016-VII-ZR-328-12.md): produktbezogener Neukundenbegriff bei § 89b; Rn. 11–14, historische Fassung und Zurückverweisung berücksichtigt.
+
+- [OLG Köln 19.04.2023 – 28 Wx 21/22](OLG-Koeln-2023-28-Wx-21-22.md): Drittlandsitz bei § 264b Nummer 1 Buchstabe b.

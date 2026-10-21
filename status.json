@@ -4,14 +4,14 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T02:53:24.194948+00:00",
+  "updated_at": "2026-10-21T03:31:13.462322+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
-  "completed_units": 233,
-  "remaining_units": 463,
-  "completed_scope": "Erstes und Zweites Buch sowie Erster Abschnitt des Dritten Buchs, §§ 1–263 einschließlich Sammelleerstellen",
-  "next_unit": "p264",
-  "commentary_chars": 293082,
+  "completed_units": 240,
+  "remaining_units": 456,
+  "completed_scope": "§§ 1–266 einschließlich der Sammelleerstellen; sieben neue Kommentare §§ 264–266",
+  "next_unit": "p267",
+  "commentary_chars": 327205,
   "source_checks": {
     "official_xml_http": 200,
     "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
@@ -41,13 +41,12 @@
     "repo": "Komentar-DE-HGB-1897",
     "units": 696,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 293082,
+    "commentary_chars": 327205,
     "errors": [
-      "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']"
+      "krátký/chybějící komentář u 456 jednotek: ['p267(0<400)', 'p267a(0<400)', 'p268(0<400)', 'p269(0<120)', 'p270(0<400)', 'p271(0<400)', 'p272(0<400)', 'p273(0<120)']"
     ],
     "warnings": [],
-    "ok": false,
-    "evidence": "validation.json"
+    "ok": false
   },
   "independent_second_pass": false,
   "unresolved_blockers": [
@@ -173,5 +172,55 @@
     ],
     "result": "review-p100-p118.json",
     "full_book_complete": false
+  },
+  "bounded_author_p264_p266": {
+    "kind": "author",
+    "complete": true,
+    "assigned_ids": [
+      "p264",
+      "p264a",
+      "p264b",
+      "p264c",
+      "p264d",
+      "p265",
+      "p266"
+    ],
+    "completed_ids": [
+      "p264",
+      "p264a",
+      "p264b",
+      "p264c",
+      "p264d",
+      "p265",
+      "p266"
+    ],
+    "total_units": 696,
+    "completed_units": 240,
+    "remaining_units": 456,
+    "commentary_chars": {
+      "p264": 3250,
+      "p264a": 2112,
+      "p264b": 2752,
+      "p264c": 2762,
+      "p264d": 1915,
+      "p265": 2611,
+      "p266": 3497
+    },
+    "statutory_text_agreement": 1.0,
+    "duplicate_ids": [],
+    "official_inventory_count": 696,
+    "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "case_cards": [
+      "cases/OLG-Koeln-2023-28-Wx-21-22.md"
+    ],
+    "full_book_complete": false,
+    "shared_build_success": false,
+    "validation_evidence": "author-p264-p266-validation.json",
+    "limitations": [
+      "Begrenzter Autorenauftrag, keine unabhängige Zweitprüfung.",
+      "Rechtsprechung selektiv; keine verifizierte weitere Entscheidung für die übrigen sechs Einheiten.",
+      "Lokaler nationaler Rechtsprechungskorpus für diese Einheit nicht erschlossen; amtlicher NRWE-Volltext verwendet.",
+      "456 weitere Kommentare fehlen; strenge Gesamtvalidierung bleibt erfolglos."
+    ]
   }
 }

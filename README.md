@@ -1,6 +1,6 @@
 # Kommentar zum Handelsgesetzbuch
 
-**Unvollständiger Arbeitsentwurf vom 19. Oktober 2026.** Ausgearbeitet sind 233 von 696 amtlichen Normeinheiten: das gesamte Erste und Zweite Buch sowie der Erste Abschnitt des Dritten Buchs, §§ 1–263 einschließlich der amtlichen Sammelleerstellen. Ab § 264 fehlen noch 463 Kommentare. Dieser Teilstand ist kein fertiges Gesamtmanuskript.
+**Unvollständiger Arbeitsentwurf vom 19. Oktober 2026.** Ausgearbeitet sind 240 von 696 amtlichen Normeinheiten: das gesamte Erste und Zweite Buch sowie der Erste Abschnitt des Dritten Buchs, §§ 1–263 einschließlich der amtlichen Sammelleerstellen. Zusätzlich sind §§ 264–266 kommentiert; ab § 267 fehlen noch 456 Kommentare. Dieser Teilstand ist kein fertiges Gesamtmanuskript.
 
 Gegenstand des Gesamtprojekts ist das gesamte Handelsgesetzbuch vom 10. Mai 1897 (RGBl. S. 219), mit allen fünf Büchern, erhaltenen leeren und weggefallenen Stellen. Die 696 Normeinheiten und 117 Gliederungsknoten sind vollständig aus amtlichem XML extrahiert; die Intake-Zahl 813 zählt beide Kategorien zusammen. Gruppen wie §§ 180–229 bleiben als amtliche Sammelstelle erhalten und werden nicht als fünfzig gegenwärtig operative Vorschriften ausgegeben. Das EGHGB ist ein gesondertes Gesetz und wird nicht in das HGB eingemischt.
 
@@ -16,9 +16,9 @@ Der Standvermerk allein belegt keine bereits eingetretene Wirksamkeit jeder Änd
 
 Der Gesetzeswortlaut wird mechanisch aus amtlichem XML übernommen; `_parse.py` ist im Arbeitsverzeichnis erhalten. Listen, Absätze, Buchstaben und redaktionelle Quellenhinweise bleiben unterscheidbar. Die vollständige [kanonische Transkription](sources/hgb-canonical.md) ist Quellenmaterial und keine Behauptung vollständiger Kommentierung.
 
-Die vorhandenen Erläuterungen sind eigenständige deutsche Texte mit konkreten Tatbestandsunterscheidungen, systematischen Bezügen, fiktiven Beispielen und praktischen Prüflisten. Verifizierte Rechtsprechung wird selektiv verwendet, nicht als erschöpfende Rechtsprechungsübersicht. Drei [Fallkarten](cases/INDEX.md) dokumentieren vollständige amtliche Entscheidungen, tragende Randnummern und Grenzen. Besonders § 75 Absatz 3 zeigt, warum der Abdruck eines Gesetzestexts nicht dessen unbesehene Anwendbarkeit beweist.
+Die vorhandenen Erläuterungen sind eigenständige deutsche Texte mit konkreten Tatbestandsunterscheidungen, systematischen Bezügen, fiktiven Beispielen und praktischen Prüflisten. Verifizierte Rechtsprechung wird selektiv verwendet, nicht als erschöpfende Rechtsprechungsübersicht. Die [Fallkarten](cases/INDEX.md) dokumentieren vollständige amtliche Entscheidungen, tragende Randnummern und Grenzen. Besonders § 75 Absatz 3 zeigt, warum der Abdruck eines Gesetzestexts nicht dessen unbesehene Anwendbarkeit beweist.
 
-Die Quellenabdeckung beträgt 696/696 ohne fehlende oder doppelte Kennung. Der Wortlaut stimmt zu 100 % mit der kanonischen Quelle und auf Zeichenebene ohne Leerraum mit dem amtlichen XML überein. Diese technischen Befunde beweisen weder die Vollständigkeit der Kommentierung noch juristische Fehlerfreiheit. Der gemeinsame Vollständigkeits-Build und die strenge Gesamtvalidierung bleiben wegen der 463 fehlenden Kommentare erfolglos. Es gab keine unabhängige Zweitprüfung und keine externe fachliche Freigabe.
+Die Quellenabdeckung beträgt 696/696 ohne fehlende oder doppelte Kennung. Der Wortlaut stimmt zu 100 % mit der kanonischen Quelle und auf Zeichenebene ohne Leerraum mit dem amtlichen XML überein. Diese technischen Befunde beweisen weder die Vollständigkeit der Kommentierung noch juristische Fehlerfreiheit. Der gemeinsame Vollständigkeits-Build und die strenge Gesamtvalidierung bleiben wegen der 456 fehlenden Kommentare erfolglos. Es gab keine unabhängige Zweitprüfung und keine externe fachliche Freigabe.
 
 ## Rechte und Nutzung
 
@@ -27,3 +27,5 @@ Eigenständiger Kommentartext © 2026 Vojtěch Říha. Für die originären Erl�
 Der Entwurf wird im vorhandenen Bearbeitungsstand bereitgestellt und ersetzt keine Prüfung eines konkreten Mandats. Projektprofil: [LexaurinTheDog](https://github.com/LexaurinTheDog). Keine Veröffentlichung, kein Push und keine externe Übermittlung wurden vorgenommen.
 
 Quellen- und Parsernachprüfung vom 21. Oktober 2026: Die amtlichen Wiederabrufe sind mit dem Bestand vom 19. Oktober identisch. Sieben Sammelleerstellen tragen jetzt ihre exakte amtliche Bezeichnung einschließlich `(XXXX)`. [Preflight-Ergebnis](preflight-result.json) und [Knotenabdeckung](sources/preflight-coverage.json) dokumentieren auch Kopfnorm, Rechnungslegungsanhang und fehlende eigene Gesetzesanlagen. Der Bearbeitungsstichtag bleibt unverändert.
+
+Neuer Teilstand vom 21. Oktober 2026: [§§ 264–266](16-hgb-16-teil-p264-p266.md), sieben zusätzliche Kommentare; [Chargenprüfung](author-p264-p266-result.json).

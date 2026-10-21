@@ -1,0 +1,24 @@
+{
+  "total_units": 696,
+  "authored_units": 240,
+  "commentary_chars": 327205,
+  "duplicate_commentary_ids": [],
+  "unknown_commentary_ids": [],
+  "short_commentaries": [],
+  "exact_repeated_prose_paragraphs": [],
+  "xml_text_mismatches": [],
+  "official_html_unit_link_count": 696,
+  "xml_official_unit_count": 696,
+  "verbatim_ratio": 1.0,
+  "verbatim_mismatches": [],
+  "full_commentary_complete": false,
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "limitations": [
+    "Text- und Längenprüfungen beweisen keine juristische Qualität.",
+    "Begrenzte unabhängige Zweitprüfung gegebenenfalls in review-result.json; keine vollständige Buchprüfung.",
+    "Die Vollständigkeit des amtlichen Normbestands und die unvollständige Kommentierung sind getrennte Prüfergebnisse."
+  ],
+  "missing_from_html": [],
+  "unexpected_in_html": [],
+  "statutory_checks_ok": true
+}

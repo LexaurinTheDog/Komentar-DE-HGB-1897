@@ -181,5 +181,15 @@
     "historical_versions_checked": "814 eindeutige Normknoten, 696 eindeutige amtliche Kennungen, alle Texte verglichen; Intake erhalten, keine Verkettung historischer Fassungen.",
     "annexes_checked": "Alle XML-Knoten zugeordnet. Keine eigene operative Anlage oder fehlende Eingangsformel; Rechnungslegungsanhang ist keine Gesetzesanlage. Nachweis: sources/preflight-coverage.json.",
     "unresolved_blockers": []
+  },
+  "bounded_author_p264_p266": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T03:31:13.233266+00:00",
+    "version_evidence": "Identisches amtliches XML; commencement.md und change-map.json gelesen; 2026 wirksame Änderungen von 2028/2030 getrennt.",
+    "historical_versions_checked": "Keine Verkettung; 696 eindeutige amtliche Einheiten unverändert und alle Texte erneut verglichen.",
+    "annexes_checked": "Keine eigene Gesetzesanlage; 117 Strukturknoten und leere Kopfnorm nach vorhandenem preflight-coverage.json; keine fehlende operative Eingangsformel.",
+    "unresolved_blockers": []
   }
 }

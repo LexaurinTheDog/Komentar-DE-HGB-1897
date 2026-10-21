@@ -444,6 +444,23 @@
       "path": "sources/BFH-2023-IV-R-22-20.html",
       "sha256": "bd30812662b89b7afb134412a9c0a8ef32ff80467cf0f4e3dadd99b3890dad04",
       "format_valid": true
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+      "path": "sources/hgb-author-p264-p266.zip",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T03:29:46.404090+00:00",
+      "sha256": "063bb99b4f50f63a6871cb02f276761393aff3593393a55671c725a900c55944",
+      "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+      "format_valid": true
+    },
+    {
+      "url": "https://nrwe.justiz.nrw.de/olgs/koeln/j2023/28_Wx_21_22_Beschluss_20230419.html",
+      "path": "sources/OLG-Koeln-28-Wx-21-22.html",
+      "http_status": 200,
+      "accessed_at": "2026-10-21T03:29:46.618468+00:00",
+      "sha256": "0488c2a0dce5d4d920447b11e7320e3c515d2ad87453d84c977efbbbefe31a1e",
+      "format_valid": true
     }
   ],
   "version_information": {

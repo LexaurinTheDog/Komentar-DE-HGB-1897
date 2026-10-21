@@ -1,0 +1,50 @@
+{
+  "kind": "author",
+  "complete": true,
+  "assigned_ids": [
+    "p264",
+    "p264a",
+    "p264b",
+    "p264c",
+    "p264d",
+    "p265",
+    "p266"
+  ],
+  "completed_ids": [
+    "p264",
+    "p264a",
+    "p264b",
+    "p264c",
+    "p264d",
+    "p265",
+    "p266"
+  ],
+  "total_units": 696,
+  "completed_units": 240,
+  "remaining_units": 456,
+  "commentary_chars": {
+    "p264": 3250,
+    "p264a": 2112,
+    "p264b": 2752,
+    "p264c": 2762,
+    "p264d": 1915,
+    "p265": 2611,
+    "p266": 3497
+  },
+  "statutory_text_agreement": 1.0,
+  "duplicate_ids": [],
+  "official_inventory_count": 696,
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "case_cards": [
+    "cases/OLG-Koeln-2023-28-Wx-21-22.md"
+  ],
+  "full_book_complete": false,
+  "shared_build_success": false,
+  "validation_evidence": "author-p264-p266-validation.json",
+  "limitations": [
+    "Begrenzter Autorenauftrag, keine unabhängige Zweitprüfung.",
+    "Rechtsprechung selektiv; keine verifizierte weitere Entscheidung für die übrigen sechs Einheiten.",
+    "Lokaler nationaler Rechtsprechungskorpus für diese Einheit nicht erschlossen; amtlicher NRWE-Volltext verwendet.",
+    "456 weitere Kommentare fehlen; strenge Gesamtvalidierung bleibt erfolglos."
+  ]
+}

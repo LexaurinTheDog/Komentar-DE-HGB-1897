@@ -1,0 +1,332 @@
+
+ 
+  
+  
+    Oberlandesgericht Köln, 
+    
+    
+    
+    	28 Wx 21/22
+    
+  
+  
+     <!--
+       body {
+          font-family: Arial, Helvetica, sans-serif; 
+          font-size: 100.01%;
+       }
+       ul.ol {
+              list-style-type:none;
+       }
+       h3 {
+          margin-bottom: 2em;       
+       }
+
+       .maindiv {
+           margin-bottom: 1em;
+           padding-left: 0.25em;
+       }
+
+       .borderBottom {
+           clear: both;
+           border-bottom: 1px solid black;
+           margin-bottom: 1em;
+           width: 100%;
+           height: 1px;
+       }
+
+       .feldbezeichnung {
+           clear: both;
+           font-weight: bold;
+           float: left;
+           text-align: left;
+           width: 10em;
+           margin-bottom: 0.3em;
+       }
+
+       .feldinhalt {
+           text-align: left;
+           margin-bottom: 0.45em;
+           margin-left: 14em;
+       }
+
+       p {
+           padding: 0 0 1em 0;
+           margin: 0;
+       }
+
+       p.wenigerPadding {
+           padding: 0 0 0.5em 0;
+           margin: 0;
+       }
+
+       .absatzLinks {
+           width: 95%;
+       }
+
+       .absatzMitte {
+           margin-left: 3%;
+           width: 96%;
+       }
+       .randnummerLinks {
+          position:absolute;
+          left:0.5em;
+       }
+       .absatzRechts {
+          clear: both;
+           float: right;
+           width: 4%;
+           text-align: right;
+       }
+
+       .screen {
+           clear: both;
+       }
+       
+       table {
+        	border: 2px solid #000; 
+        	border-collapse:collapse; 
+        	empty-cells:show;
+        	margin-bottom: 1em;
+       }
+ 
+       table.noborder {
+              border:0;
+              width: 95%;
+       }
+       table.noborder td {
+        	border: 0; 
+		vertical-align:bottom;
+       }
+
+       th {
+        	border: 2px solid #000; 
+        	padding: 3px;
+       }
+ 
+       td {
+        	border: 1px solid #000; 
+        	padding: 3px;
+       }
+
+
+		#nrwelogo {
+			position: absolute;
+			right: 0.5rem;
+			/* float: right; */	    
+			height: 130px;
+			top: 0px;
+		}
+
+		#nrwetitle {
+			display: table-cell;
+			vertical-align: bottom;
+			height: 85px;
+		}
+
+		#enclosingDiv {
+			border-top: 1px solid black;
+			padding-top: 2em;
+		}
+
+		#footerDrucker {
+		    float: left;
+		    width: 18em;
+			height: 85px;
+		}
+
+		#footerBild {
+			text-align: center;
+			margin-right: 18em;
+		}	
+
+		#footerBild img {
+			height: 120px;
+		}
+		#footerAbschluss {
+			margin-bottom: 0;
+		}
+
+		#footerDruckSpan {
+			display: block;
+			margin-top: 1em;
+		}
+
+		#nrwelogo, #nrwelogo2 {
+			border: 0;
+		}
+
+       @media print {
+          .screen {display:none;}
+       }
+      -->
+  
+   
+    <!-- 
+      function fenster(URL)
+      {  
+       window.open(URL, 'neuesFenster', 'width=650, height=440, scrollbars=yes');
+      }  
+
+      function PageSave(){
+         if (document.all) {
+           document.execCommand("SaveAs")
+         } else {
+         alert("Ihr Browser versteht diese Funktion leider nicht!");
+         }
+      }
+    //-->
+
+
+ 
+
+
+
+ 		
+		
+			
+			Seite drucken
+			 
+			
+			Entscheidung als PDF runterladen 
+		
+		
+
+
+	
+	
+ 
+
+
+
+ Oberlandesgericht Köln, 28 Wx 21/22
+
+ 
+  
+        Datum:
+        
+        	19.04.2023
+        
+        
+
+        Gericht:
+        
+        	Oberlandesgericht Köln
+        
+        
+
+        Spruchkörper:
+        
+        	28. Zivilsenat
+        
+        
+
+        Entscheidungsart:
+        
+        	Beschluss
+        
+        
+
+        Aktenzeichen:
+        
+        	28 Wx 21/22
+        
+        
+
+        
+                ECLI:
+        	ECLI:DE:OLGK:2023:0419.28WX21.22.00
+        
+
+
+  
+  
+   
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+
+    
+      
+             Tenor:
+             Auf die Rechtsbeschwerde des Rechtsbeschwerdeführers vom 22. Dezember 2022 wird der Beschluss des Landgerichts Bonn vom 22. November 2022 – 33 T 286/22 – aufgehoben.
+Die Beschwerde der Beschwerdeführerin vom 16. Juli 2020 gegen die Ordnungsgeldentscheidung vom 2. Juli 2020 (EHUG – xxxxxx/2019 - 01/02) wird kostenpflichtig zurückgewiesen.
+Von der Erhebung von Gerichtskosten für das Rechtsbeschwerdeverfahren wird abgesehen.
+      
+
+       
+
+  
+  
+    
+      
+          1Gründe:
+2I.
+3Die Beschwerdeführerin wendet sich gegen die Festsetzung eines Ordnungsgeldes in Höhe von 2.500 € wegen Nichteinreichung ihrer Rechnungslegungsunterlagen für das Jahr 2017 bei dem Betreiber des elektronischen Bundesanzeigers.
+4Der Rechtsbeschwerdeführer forderte die Beschwerdeführerin mit Verfügung vom 18. September 2019, zugestellt am 20. September 2019, auf, innerhalb von sechs Wochen nach Zustellung der Verfügung ihrer Offenlegungspflicht für das Geschäftsjahr 2017 nachzukommen und drohte zugleich die Verhängung eines Ordnungsgeldes in Höhe von 2.500 Euro an.
+5Hiergegen legte die Beschwerdeführerin unter dem 18. Oktober 2019 Einspruch mit der Begründung ein, sie sei gemäß §§ 264b, 264 Abs. 3 HGB von der Offenlegungspflicht befreit, da der angemahnte Jahresabschluss Bestandteil des Konzernabschlusses für das Geschäftsjahr 2017 des Mutterunternehmens, der O. B. J. Inc. mit Sitz in W., C., sei.
+6Mit der angefochtenen Entscheidung vom 2. Juli 2020 hat der Rechtsbeschwerdeführer ein Ordnungsgeld in Höhe von 2.500 € festgesetzt.
+7Gegen diese ihr am 8. Juli 2020 zugestellte Entscheidung hat die Beschwerdeführerin mit Schreiben vom 16. Juli 2020 Beschwerde eingelegt.
+8Der Rechtsbeschwerdeführer hat der Beschwerde nicht abgeholfen und die Sache mit Verfügung vom 4. Februar 2022 dem Landgericht Bonn zur Entscheidung vorgelegt.
+9Das Landgericht Bonn hat mit Beschluss vom 22. November 2022 die unter dem 2. Juli 2020 getroffene Ordnungsgeldentscheidung einschließlich der Festsetzung von Zustellungskosten aufgehoben. Zur Begründung hat es ausgeführt, dass die Beschwerdeführerin von der Offenlegungspflicht gemäß § 264b Nr. 1 lit. b HGB  analog befreit sei. Zwar lasse die Vorschrift nur dann eine Befreiung zu, wenn die betreffende Gesellschaft in den Konzernabschluss und in den Konzernlagebericht eines Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum einbezogen ist. Die Vorschrift sei jedoch analog auf diejenigen Gesellschaften anzuwenden, deren Mutterunternehmen ihren Sitz in den Vereinigten Staaten Amerikas hätten. Der Ausschluss solcher Gesellschaften durch den Wortlaut des § 264b Nr. 1 lit. b HGB werde den völkerrechtlichen Vorgaben in Artikel VII Abs. 1 des Freundschafts-, Handels- und Schifffahrtsvertrags zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika vom 29. Oktober 1954 nicht gerecht. Dort sei eine ungünstigere Behandlung von Unternehmen in allen mit ihrer Betätigung zusammenhängenden Angelegenheiten verglichen mit deutschen Unternehmen untersagt. Eine analoge Anwendung der Vorschrift § 264b Nr. 1 lit b HGB sei hier möglich und geboten. Insbesondere liege eine planwidrige Regelungslücke vor. In der Gesetzesbegründung (siehe BT-Drucksache 14/1806 vom 15. Oktober 1999) sei die durch den Wortlaut der Vorschrift hervorgerufene ungünstige Behandlung der Unternehmen mit amerikanischen Muttergesellschaften entgegen des Deutsch-Amerikanischen Freundschaftsvertrags nicht thematisiert und offenbar übersehen worden.
+10Gegen diesen Beschluss des Landgerichts wendet sich der Rechtsbeschwerdeführer mit seiner vom Landgericht zugelassenen Rechtsbeschwerde. Zur Begründung führt er unter anderem aus, dass eine analoge Anwendung des § 264b Nr. 1 lit b HGB mangels planwidriger Regelungslücke nicht in Betracht komme. Der § 264b HGB zugrundeliegende Art. 38 Abs. 2 lit. b der RL 2013/34/EU verlange für die entsprechende Fallgruppe ein Mutterunternehmen, das dem Recht eines Mitgliedstaats unterliegt. Ein Mutterunternehmen mit Sitz in einem Drittstaat reiche nach der Entscheidung des EU-Gesetzgebers gerade nicht, um die Befreiung in Anspruch nehmen zu können. An diese Entscheidung des EU-Gesetzgebers sei der deutsche Gesetzgeber bei der Umsetzung gebunden gewesen und habe auch nicht einseitig eine weitergehende Befreiung einräumen dürfen. Zudem liege auch kein Verstoß gegen den Freundschafts-, Handels- und Schifffahrtsvertrag zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika vom 29. Oktober 1954 vor. Vielmehr gelte für die in Deutschland gegründete Beschwerdeführerin ebenso wie für jedes andere inländische Unternehmen die Regelung des § 264b Nr. 1 lit. b HGB, so dass sie sich für die Befreiung nur auf den Konzernabschluss eines Mutterunternehmens mit Sitz in einem Mitgliedstaat der EU oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftraum berufen könne. Schließlich habe – selbst wenn man einen Verstoß gegen den Freundschafts-, Handels- und Schifffahrtsvertrag zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika vom 29. Oktober 1954 annähme – die jüngere, richtlinienkonforme Vorschrift des § 264B HGB Vorrang.
+11Der Rechtsbeschwerdeführer beantragt,
+12den Beschluss des Landgerichts Bonn vom 22. November 2022 – 33 T 285/2022 – aufzuheben und die Beschwerde gegen die Ordnungsgeldentscheidung vom 2. Juli 2020 – EHUG - 00212379/2019 - 01/02 – insgesamt zurückzuweisen,
+13Die Beschwerdeführerin beantragt (sinngemäß),
+14                            die Rechtsbeschwerde zurückzuweisen.
+15II.
+161. Die Rechtsbeschwerde hat Erfolg und führt zur Zurückweisung der Beschwerde der Beschwerdeführerin unter Aufhebung des angegriffenen Beschlusses.
+17a) Die Rechtsbeschwerde ist zulässig. Insbesondere ist sie infolge der Zulassung im angegriffenen Beschluss statthaft (§ 335a Abs. 3 S. 1 HGB) und in der gesetzlichen Form und Frist eingelegt und begründet worden (§ 335a Abs. 3 S. 2 HGB i.V.m. § 71 FamFG). Gemäß § 335a Abs. 3 S. 4 HGB steht die Rechtsbeschwerde auch dem Bundesamt für Justiz zu, welches nach § 335a Abs. 3 S. 5 HGB nicht dem Anwaltszwang vor dem Oberlandesgericht unterliegt. Die Entscheidung über die Rechtsbeschwerde kann der Senat im schriftlichen Verfahren treffen (vgl. § 335a Abs. 3 S. 2 HGB i.V.m. § 74 Abs. 4, § 32 Abs. 1 FamFG). Eine mündliche Verhandlung war weder zur weiteren Aufklärung des Sachverhaltes noch aus sonstigen Gründen, etwa zur Wahrung des Rechts auf rechtliches Gehör, geboten.
+18b) Die Rechtsbeschwerde ist auch begründet.
+19Die gesetzlichen Voraussetzungen für die Festsetzung des Ordnungsgeldes gegen die Beschwerdeführerin lagen vor.
+20aa) Die Beschwerdeführerin entsprach ihren gesetzlichen Pflichten aus §§ 325 f. HGB a.F. nicht spätestens innerhalb der mit Zugang der Androhungsverfügung vom 18. September 2019 in Lauf gesetzten Sechswochenfrist (§ 335 Abs. 4 S. 1 HS. 1 HGB). Einen Jahresabschluss für das Geschäftsjahr 2017 hat die Beschwerdeführerin bislang nicht offengelegt.
+21bb) Die Beschwerdeführerin war nicht gemäß § 264b Nr. 1 lit. 5 HGB von der Offenlegung befreit.
+22(1) Eine Befreiung gemäß § 264b Nr. 1 lit. a HGB scheidet aus, da die den Konzernabschluss aufstellende O. B. J., Inc. kein persönlich haftender Gesellschafter der Beschwerdeführerin ist.
+23(2) Gemäß § 264b Nr. 1 lit. b HGB ist eine Personenhandelsgesellschaft ferner von der Offenlegungspflicht befreit, wenn sie als Teil einer größeren Gesamtheit von Unternehmen in den Konzernabschluss und in den Konzernlagebericht eines Mutterunternehmens mit Sitz in einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum einbezogen ist.
+24Die O. B. J., Inc. hat indes ihren Sitz in einem Drittland, nämlich in den C., so dass dieser Befreiungstatbestand in direkter Anwendung ausscheidet.
+25cc) Die Beschwerdeführerin war aber auch nicht gemäß § 264b Nr. 1 lit. 5 HGB analog von der Offenlegung befreit.
+26(1) Es kann dahinstehen, ob die Regelung des § 264b Nr. 1 lit. b HGB in Widerspruch zu Art. VII Abs. 1 des Freundschafts-, Handels- und Schifffahrtsvertrags zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika vom 29. Oktober 1954 steht. Eine analoge Anwendung des Befreiungstatbestandes auf Mutterunternehmen mit Sitz in Drittstaaten ist nämlich bereits deshalb ausgeschlossen, weil § 264b Nr. 1 lit. b HGB als abschließende Ausnahmeregelung (vgl. BeckBil-Komm./Störk/Deubert, 13. Aufl., § 264b HGB, Rn. 46) insoweit nicht analogiefähig ist.
+27§ 264b HGB wurde in seiner Ursprungsfassung mit dem Kapitalgesellschaften- und Co-Richtlinie-Gesetz (KapCoRiLiG) zum 9. März 2000 in Kraft gesetzt. Zugrunde lag Art. 57 der Richtlinie 90/605/EWG. Die in § 264 b Nr. 1 lit. b HGB vorgesehene Befreiungsmöglichkeit folgte Art. 57a Abs. 2 der Richtlinie:
+28„(2) Die Mitgliedstaaten brauchen die Bestimmungen dieser Richtlinie nicht auf die betroffene Gesellschaft anzuwenden, sofern
+29(…)
+30b) die betroffene Gesellschaft in einen konsolidierten Abschluß einbezogen ist, der im Einklang mit der Richtlinie 83/349/EWG von einem unbeschränkt haftenden Gesellschafter aufgestellt, geprüft und offengelegt wird oder, sofern die betroffene Gesellschaft in den konsolidierten Abschluß einer größeren Gesamtheit von Unternehmen einbezogen ist, der im Einklang mit der Richtlinie 83/349/EWG von einem Mutterunternehmen, das dem Recht eines Mitgliedstaates unterliegt, aufgestellt, geprüft und offengelegt wird.“
+31Bereits die Richtlinie enthält damit eine abschließende Aufzählung der in Betracht kommenden Mutterunternehmen. Eine weitergehende Befreiung, insbesondere eine Erweiterung auf Mutterunternehmen in Drittstaaten, sieht die Richtlinie nicht vor. Auch mit Art 38 Abs. 2 lit b (ii) der Richtlinie 2013/34/EU sind insoweit keine Änderungen vorgenommen worden. Vor diesem Hintergrund hat auch die Umsetzungsnorm des § 264 b Nr. 1 lit. b HGB in der Folgezeit diesbezüglich keine Änderungen erfahren.
+32Zu Recht weist daher der Rechtsbeschwerdeführer darauf hin, dass der deutsche Gesetzgeber an die abschließende Vorgabe der Richtlinie gebunden ist und sich eine analoge Anwendung des Befreiungstatbestandes auf Mutterunternehmen in Drittstaaten durchweg verbietet.
+33Soweit die Beschwerdeführerin für die Analogiefähigkeit der Vorschrift einen Verweis auf § 292 HGB vornimmt, vermag dies nicht zu überzeugen, sondern stützt vielmehr die Auffassung der fehlenden Analogiefähigkeit. Die Regelung des § 292 HGB hinsichtlich der Befreiung von der Aufstellung von Konzernabschlüssen und –lageberichten beruht auf Art. 11 der Richtlinie 83/349/EWG. Anders als Art. 57 der RL 90/605/EWG und auch Art 38 Abs. 2 lit b (ii) der Richtlinie 2013/34/EU sieht Art. 11 der Richtlinie 83/349/EWG den Befreiungstatbestand für Mutterunternehmen in Drittstaaten ausdrücklich vor. Dass der EU-Gesetzgeber für Personenhandelsgesellschaften – trotz mehrfacher Änderungen und Ergänzungen in diesem Bereich - einen entsprechenden Befreiungstatbestand nicht geschaffen hat, spricht gegen eine unbeabsichtigte Lücke in den europarechtlichen Vorgaben.
+34(2) Darüber hinaus ist – worauf der Rechtsbeschwerdeführer ebenfalls zutreffend verweist – der Regelung des § 264b Nr. 1 lit. b HGB bei einem etwaigen Widerspruch zu Art. VII des Freundschafts-, Handels- und Schifffahrtsvertrag zwischen der Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika vom 29. Oktober 1954 der Vorrang einzuräumen.
+35Dies beruht zum einen darauf, dass dem Unionsrecht der Vorrang vor völkerrechtlichen Verträgen einzuräumen ist. Ist ein völkerrechtlicher Altvertrag mit Unionsrecht unvereinbar, ist der Mitgliedstaat gemäß Art. 351 Abs. 2 AEUV dazu verpflichtet, alles zu unternehmen, um den bestehenden Vertrag der Rechtslage nach dem EU-Recht anzupassen, anderenfalls verletzt er seine unionsrechtliche Verpflichtungen (vgl. EuGH Urteil vom 3. März 2009 – C-249/06, BeckRS 2009, 70234; Bergmann/Pieper, Handlexikon EU, Abkommen der Mitgliedstaaten (Altverträge), 6. Auflage, beck-online).
+36Soweit die Beschwerdeführerin hinsichtlich des Vorrangs auf Art. 25 S. 2 GG Bezug nimmt, verkennt sie, dass der mit Art 25 GG geregelte Vorrang des Völkerrechts nur für die „allgemeinen Regeln des Völkerrechts“, mithin den die überwiegende Staatenmehrheit bindenden Normen des Völkerrechts gilt.
+37Zum anderen kommt – was aus Art. 59 Abs. 2 GG folgt - völkerrechtlichen Verträgen innerstaatlich der Rang eines einfachen Bundesgesetzes zu. Sie können daher auch entsprechend dem lex-posterior-Grundsatz durch spätere, ihnen widersprechende Bundesgesetze verdrängt werden (BVerfG, Beschluss vom 15. Dezember 2015 – 2 BvL 1/12, NJW 2016, 1295).
+38dd) Das gegen die Beschwerdeführerin festgesetzte Ordnungsgeld ist schließlich als Mindestordnungsgeld auch der Höhe nach nicht zu beanstanden.
+392. Die Kostenentscheidung für die Gerichtsgebühren des Rechtsbeschwerdeverfahrens, von deren Erhebung nach Auffassung des Senats abzusehen ist, basiert auf § 335a Abs. 3 S. 2 HGB i.V.m. § 74 Abs. 4, § 81 Abs. 1 S. 2 FamFG. Eine Überbürdung der Kostenlast auf die Beschwerdeführerin erscheint ebenso wenig sachgerecht wie eine Überbürdung der Kosten auf den obsiegenden Rechtbeschwerdeführer. Das Vorgenannte gilt nicht für das eigentliche Beschwerdeverfahren. Eine Kostenentscheidung zu den außergerichtlichen Kosten der Beteiligten (§ 335a Abs. 3 S. 6, Abs. 2 S. 6 HGB) ist hier aber nicht veranlasst, zumal die Beschwerdeführerin unterlegen ist und bei dem Rechtsbeschwerdeführer keine besonderen Kosten (etwa durch Beauftragung eines Rechtsanwalts) angefallen sind.
+40Rechtsbehelfsbelehrung:
+41Diese Entscheidung ist unanfechtbar.
+      
+      
+       
+  
+
+
+		
+
+		
+			 Seite drucken
+			
+				Entscheidung als PDF runterladen 
+			
+		
+
+
+
+
