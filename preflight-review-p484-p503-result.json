@@ -1,0 +1,14 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+  "verified_at": "2026-10-21T06:34:58.107332+00:00",
+  "version_evidence": {
+    "fetch": "sources/review-p484-p503-fetch.json",
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "commencement": "sources/commencement.md, change-map.json und BGBl. 2026 I Nr. 33 Art. 64 Absätze 1,5,7,8 erneut gelesen: wirksame Änderungen 2026 von zukünftigen 2028/2030 getrennt; Wiederabruf bytegleich zum Titelbeginn; keine Abweichung zum erhaltenen Intake."
+  },
+  "historical_versions_checked": "Alle 814 amtlichen doknr eindeutig; 696 amtliche Normkennungen gegen Parser und Texte abgeglichen. Keine historischen Fassungen verkettet; Quellstände bleiben erhalten.",
+  "annexes_checked": "696 Vorschriften, 117 Gliederungsknoten, textlose Metadatenkopfnorm. Keine eigene operative Anlage oder fehlende operative Eingangsformel im amtlichen XML; Sammelleerstellen bewahrt, keine in dieser Charge.",
+  "unresolved_blockers": []
+}

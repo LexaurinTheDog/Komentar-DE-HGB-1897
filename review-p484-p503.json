@@ -1,0 +1,121 @@
+{
+  "kind": "review",
+  "complete": true,
+  "units_reviewed": 20,
+  "reviewed_ids": [
+    "p484",
+    "p485",
+    "p486",
+    "p487",
+    "p488",
+    "p489",
+    "p490",
+    "p491",
+    "p492",
+    "p493",
+    "p494",
+    "p495",
+    "p496",
+    "p497",
+    "p498",
+    "p499",
+    "p500",
+    "p501",
+    "p502",
+    "p503"
+  ],
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "p484",
+      "result": "Alle drei Sätze geprüft: bedingte Verpackungs- und Kennzeichnungspflicht, innere Lademittelsicherung von Schiffsverladung getrennt; §§ 486/488/499 und Maschinenbeispiel zutreffend."
+    },
+    {
+      "id": "p485",
+      "result": "See- und Ladungstüchtigkeit anhand aller gesetzlichen Ausstattungsmerkmale geprüft; § 498 Absatz 2 und bis Reiseantritt reichende Entdeckbarkeitsprüfung zutreffend, keine Garantiehaftung behauptet."
+    },
+    {
+      "id": "p486",
+      "result": "Alle vier Absätze geprüft: Abladungszeit, Empfangsbekenntnis in Textform, gesetzliche Ladeverteilung, Containerumladung und beide Voraussetzungen zustimmungsfreier Deckladung; Abladerrolle bei Konnossement korrekt."
+    },
+    {
+      "id": "p487",
+      "result": "Beide Absätze geprüft: erforderliche Begleitunterlagen, Urkundenverlust/-beschädigung/-fehlverwendung, Entlastung, Haftungsgrenze, individuelles Aushandeln und Drittwirkung im Konnossement zutreffend."
+    },
+    {
+      "id": "p488",
+      "result": "Alle fünf Absätze und Tatbestandsnummern geprüft: verschuldensabhängige Grundfälle, Dritthaftung, verschuldensunabhängige Konnossementsfälle, eigene Angaben, Mitverursachung nur nach Absatz 3 und Gestaltungsmöglichkeiten unterschieden."
+    },
+    {
+      "id": "p489",
+      "result": "Alle drei Absätze geprüft: jederzeitige Kündigung, alternative konkrete Berechnung/Fautfracht, Risikosphäre und Interesse, Kosten bei Maßnahmen nach § 492 Absatz 3 Satz 2–4 korrekt."
+    },
+    {
+      "id": "p490",
+      "result": "Alle fünf Absätze geprüft: angemessene Frist, offensichtlicher Fristmisserfolg, Teilabladung und Ersatzladung, zusätzliche Sicherheit, unterschiedliche fristlose Wege und Verfrachtersphäre sachgerecht."
+    },
+    {
+      "id": "p491",
+      "result": "Alle fünf Absätze geprüft: Weisungsinhalt und drohende Nachteile, Kosten/Vorschuss, Übergang am Löschplatz, Seefrachtbriefvorlage, unverzügliche Nachricht, begrenzte Ersatzhaftung; § 520 vollständig gegengelesen."
+    },
+    {
+      "id": "p492",
+      "result": "Alle vier Absätze geprüft: Hindernis nach Übernahme, Rückfall ohne Konnossement, Rollentausch, Auswahlhaftung, Verkaufsvoraussetzungen/Vernichtung und Beendigungsfiktion; Risikosphäre von Handlungsbefugnis getrennt."
+    },
+    {
+      "id": "p493",
+      "result": "Alle fünf Absätze geprüft. Aufwendungsersatz präzisiert: erforderlich halten dürfen aus damaliger Sicht, nicht objektiver nachträglicher Erfolg. Teilfrachtinteresse, Unmöglichkeit/Annahmeverzug, Wartevergütung und Mengenvermutung korrekt."
+    },
+    {
+      "id": "p494",
+      "result": "Alle vier Absätze geprüft: Empfängeranspruch und fremdes Interesse, parallele Anspruchsbefugnis ohne Doppelersatz, Dokumentobergrenze/angemessene Fracht, Mitteilung der Verzögerungsvergütung und Befrachterschuld zutreffend."
+    },
+    {
+      "id": "p495",
+      "result": "Alle vier Absätze geprüft. Eigentümergruppen präzisiert: Abladereigentum unmittelbar erfasst, Zustimmungserfordernis ausdrücklich für übrigen Dritteigentümer. Altansprüche nur an Befrachtergut, Besitz/Zehntagesfrist und Benachrichtigungen korrekt."
+    },
+    {
+      "id": "p496",
+      "result": "Alle drei Absätze geprüft: vorausgesetzter Einziehungsauftrag, Fortbestand vorheriger Pfandrechte, gesetzlicher Forderungs-/Pfandrechtsübergang nach Befriedigung und Einbeziehung beteiligter Spediteure zutreffend."
+    },
+    {
+      "id": "p497",
+      "result": "Verweisung mit vollständig gelesenem § 442 abgeglichen: umgekehrte Zeitfolge nur innerhalb der Versendungs-/Beförderungsrechte; Ranggruppe nichtversendungsbedingter Rechte und Vorschüsse richtig begrenzt. Prüfliste sachgerecht."
+    },
+    {
+      "id": "p498",
+      "result": "Alle drei Absätze sowie vollständiges Urteil BGH I ZR 181/08 geprüft: tatsächlicher Obhutsschaden, Entlastung/Tüchtigkeitsmangel und Mitverschulden. Historischer § 606 ausdrücklich vom heutigen § 500 abgegrenzt; Parteivortrag nicht als Feststellung übernommen."
+    },
+    {
+      "id": "p499",
+      "result": "Alle neun Nummern und vier Absätze geprüft; gesetzliche Ursachen nun einzeln zugeordnet, gerichtliche Beschlagnahme und Seegewässergrenze für Menschenrettung/Bergung ausdrücklich ergänzt. Wahrscheinlichkeitsvermutung, Untüchtigkeit sowie Schutz-/Tiertransportanforderungen korrekt."
+    },
+    {
+      "id": "p500",
+      "result": "Beide Sätze geprüft: fehlende erforderliche Zustimmung, Verschuldensunabhängigkeit und widerlegliche Deckkausalität; kein automatischer Verlust aller Höchstbeträge behauptet."
+    },
+    {
+      "id": "p501",
+      "result": "Beide Zurechnungssätze geprüft: Leute/Besatzung und sonstige Ausführungsgehilfen; sachlicher Leistungsbezug statt allgemeiner Hafenhaftung. §§ 512/525 vollständig gelesen, nautischer Haftungsausschluss nicht als gesetzlicher Normalfall dargestellt."
+    },
+    {
+      "id": "p502",
+      "result": "Alle vier Absätze geprüft: unterschiedliche Bewertungszeitpunkte bei Verlust/Beschädigung, Differenz- und Kostenvermutung, Marktpreis/Rechnungsvermuten, ersparte Kosten/Fracht; § 504 gegengelesen."
+    },
+    {
+      "id": "p503",
+      "result": "Einzelsatz und § 504 Absatz 1 geprüft: gesonderte Feststellungskosten ohne Doppelansatz bei Reparatur, gemeinsame Höchstgrenze und Zusammenhang mit bestehendem Güterschadensanspruch zutreffend."
+    }
+  ],
+  "limitations": [
+    "Nur die zugewiesenen §§ 484–503 inhaltlich geprüft; keine Gesamtbuchfertigstellung.",
+    "116 noch fehlende Kommentare außerhalb der Charge verhindern Gesamtbuild/-validierung.",
+    "Selektive Rechtsprechung; BGH I ZR 181/08 vollständig erneut gelesen. Keine erschöpfende Folgeentscheidungsrecherche. Urteil nach altem Seehandelsrecht nur als historischer Vergleich verwendet.",
+    "Amtlicher Wiederabruf und dokumentierte Inkrafttretensbelege, keine eigene lückenlose Auswertung aller BGBl-Ausgaben.",
+    "Keine externe fachliche Freigabe; technische Übereinstimmung und Mindestlänge beweisen keine juristische Fehlerfreiheit."
+  ],
+  "verified_at": "2026-10-21T06:34:58.107332+00:00",
+  "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "statutory_text_agreement": 1.0,
+  "full_book_complete": false
+}

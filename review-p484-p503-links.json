@@ -1,0 +1,21 @@
+{
+  "checked_local_links": 3,
+  "missing": [],
+  "links": [
+    {
+      "file": "35-hgb-teil-p484-p503.md",
+      "target": "cases/bgh-I-ZR-181-08-p498-p500.md",
+      "exists": true
+    },
+    {
+      "file": "cases/bgh-I-ZR-181-08-p498-p500.md",
+      "target": "../sources/case-KORE318202010-p484-p503.xml",
+      "exists": true
+    },
+    {
+      "file": "cases/bgh-I-ZR-181-08-p498-p500.md",
+      "target": "../sources/case-verification-p484-p503.json",
+      "exists": true
+    }
+  ]
+}
