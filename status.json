@@ -4,14 +4,14 @@
   "title": "Handelsgesetzbuch",
   "stage": "authoring",
   "complete": false,
-  "updated_at": "2026-10-21T02:51:01.002757+00:00",
+  "updated_at": "2026-10-21T02:53:24.194948+00:00",
   "decisive_date": "2026-10-19",
   "total_units": 696,
   "completed_units": 233,
   "remaining_units": 463,
   "completed_scope": "Erstes und Zweites Buch sowie Erster Abschnitt des Dritten Buchs, §§ 1–263 einschließlich Sammelleerstellen",
   "next_unit": "p264",
-  "commentary_chars": 290696,
+  "commentary_chars": 293082,
   "source_checks": {
     "official_xml_http": 200,
     "official_xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
@@ -41,7 +41,7 @@
     "repo": "Komentar-DE-HGB-1897",
     "units": 696,
     "verbatim_ratio": 1.0,
-    "commentary_chars": 290696,
+    "commentary_chars": 293082,
     "errors": [
       "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']"
     ],
@@ -55,7 +55,7 @@
   ],
   "remaining_limitations": [
     "Gesamtmanuskript unvollständig; kein Abschlussstatus.",
-    "Keine unabhängige Zweitprüfung.",
+    "Unabhängige Zweitprüfung nur der 20 Einheiten p1–p13 einschließlich Buchstabenparagraphen; keine Gesamtprüfung.",
     "Aktualitätsabgleich anhand amtlichem Volltext, Inkrafttreten und ergänzender Recherche; keine behauptete lückenlose manuelle Auswertung aller BGBl.-Ausgaben.",
     "Spezielle fremdgesetzliche Übergangs- und Anwendungsregeln sind bei konkreten Altfällen zusätzlich zu prüfen."
   ],
@@ -67,10 +67,15 @@
   },
   "output_type": "Ausdrücklich unvollständiger lesbarer Export der 15 vollständig kommentierten Kapitel",
   "link_check": {
-    "checked_local_markdown_links": 97,
+    "checked_local_markdown_links": 103,
     "missing": [],
     "ok": true,
     "scope": "Lokale Markdown-Dateiverknüpfungen; keine behauptete Erreichbarkeitsprüfung sämtlicher aus amtlichen Quellen übernommener externer URLs."
   },
-  "preflight_result": "preflight-result.json"
+  "preflight_result": "preflight-result.json",
+  "bounded_independent_second_pass": {
+    "complete": true,
+    "units_reviewed": 20,
+    "evidence": "review-result.json"
+  }
 }

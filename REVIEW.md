@@ -24,3 +24,13 @@ Die rechtliche Qualität jedes später hinzukommenden Abschnitts, zusätzliche e
 ## Begrenzte Quellen-/Parsernachprüfung vom 21. Oktober 2026
 
 Alle 814 amtlichen XML-Knoten wurden zugeordnet (696 Normen, 117 Strukturknoten, eine Kopfnorm). Keine unzugeordnete Eingangsformel oder operative Anlage wurde festgestellt. Die Bezeichnungen der sieben Sammelleerstellen wurden repariert, ohne die stabilen Kommentar-IDs oder Kommentartexte zu ändern. [preflight-result.json](preflight-result.json) dokumentiert den abgeschlossenen Teilauftrag. Dies ist keine inhaltliche Zweitprüfung der Kommentare.
+
+## Unabhängiger begrenzter zweiter Durchgang am 21. Oktober 2026
+
+Ein frischer Prüfprozess hat ausschließlich die 20 Einheiten `p1`–`p13` einschließlich `p8a`, `p8b`, `p9a`–`p9d` und `p10a` vollständig gegen den amtlichen XML-Text gelesen. Die früheren Aussagen über eine noch nicht erfolgte Zweitprüfung beschreiben den damaligen Gesamtstand; eine Prüfung aller 696 Einheiten wird auch jetzt nicht behauptet. Einzelbefunde und genaue Kennungen stehen in [review-result.json](review-result.json).
+
+Sieben Kommentare wurden ergänzt oder präzisiert: § 3 (allgemeiner Löschungsweg), § 8a (Weiterübertragung), § 8b (Datenkategorien, Hinterlegung und Zweckbindung), § 9 (Authentifizierung und Bestätigung), § 9a (Soll-Mindestdauer), § 12 (Rechtsnachfolge) und § 13 (Anmeldepflichtige und Gericht). Die übrigen 13 Kommentare bleiben nach sachlicher Prüfung erhalten. Keine fremden Kommentarabschnitte wurden ersetzt.
+
+Der erneute amtliche Abruf lieferte HTTP 200 und denselben XML-Hash wie am 19. Oktober. Die zeitliche Trennung des § 9d wurde anhand der verkündeten Artikel 3, 4 und 64 erneut geprüft. Die Kontrolle aller XML-Knoten bestätigt weiterhin 696 Vorschriften, 117 Gliederungsknoten und eine Kopfnorm ohne unzugeordneten operativen Text; keine fehlende Eingangsformel oder eigene Gesetzesanlage. Die technischen Kontrollen ersetzen die hier protokollierte Einzelprüfung nicht.
+
+Der Teilprüfauftrag ist abgeschlossen. Das Buch bleibt ein unvollständiger Entwurf mit 463 fehlenden Kommentaren außerhalb des Prüfauftrags. Neue Rechtsprechung wurde in diesem Durchgang nicht aufgenommen; die geprüften Kommentare enthalten keine konkrete Entscheidungszitation. Eine externe anwaltliche Freigabe liegt nicht vor.

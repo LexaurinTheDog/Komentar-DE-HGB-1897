@@ -466,7 +466,7 @@
     "p618",
     "p619"
   ],
-  "commentary_chars": 290696,
+  "commentary_chars": 293082,
   "duplicate_commentary_ids": [],
   "unknown_commentary_ids": [],
   "short_commentaries": [],
@@ -3962,7 +3962,7 @@
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
   "limitations": [
     "Text- und Längenprüfungen beweisen keine juristische Qualität.",
-    "Keine unabhängige Zweitprüfung erfolgt.",
+    "Begrenzte unabhängige Zweitprüfung gegebenenfalls in review-result.json; keine vollständige Buchprüfung.",
     "Die Vollständigkeit des amtlichen Normbestands und die unvollständige Kommentierung sind getrennte Prüfergebnisse."
   ],
   "missing_from_html": [],

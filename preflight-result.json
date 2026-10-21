@@ -45,5 +45,15 @@
     "Nur Quellen-/Parserauftrag; keine neue Kommentierung und keine unabhängige inhaltliche Zweitprüfung.",
     "Gesamtbuch bleibt mit 463 fehlenden Kommentaren unvollständig.",
     "Aktualitätsnachweis anhand amtlichem Text und verkündeter Inkrafttretensregel; keine lückenlose manuelle BGBl.-Jahresauswertung."
-  ]
+  ],
+  "bounded_review_recheck": {
+    "verified_at": "2026-10-21T02:52:16.579623+00:00",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "http_status": 200,
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "same_effective_source": true,
+    "source_evidence": "sources/hgb-review-p1-p13.xml",
+    "coverage_rechecked": "sources/preflight-coverage.json",
+    "commencement_rechecked": "Artikel 3, 4 und 64 des BGBl. 2026 I Nr. 33"
+  }
 }
