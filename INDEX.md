@@ -37,3 +37,5 @@ Der vollständige Normbestand steht in units.jsonl. Vorhandene Autorenbatches:
 - [Teilkapitel §§ 341h–342a](22-hgb-teil-p341h-p342a.md) — 20 neue Normeinheiten.
 
 - [Teilkapitel §§ 342b–345](22-hgb-teil-p342b-p345.md) — 20 neue Normeinheiten.
+
+- [Teilkapitel §§ 346–364](25-hgb-teil-p346-p364.md) — 20 Normeinheiten einschließlich § 354a und Leerstelle § 351.

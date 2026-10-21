@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-21",
+  "scope": [
+    "p346",
+    "p347",
+    "p348",
+    "p349",
+    "p350",
+    "p351",
+    "p352",
+    "p353",
+    "p354",
+    "p354a",
+    "p355",
+    "p356",
+    "p357",
+    "p358",
+    "p359",
+    "p360",
+    "p361",
+    "p362",
+    "p363",
+    "p364"
+  ],
+  "queries": [
+    "site.bundesgerichtshof.de \"§ 354a\" \"Abtretung\"",
+    "site.bundesgerichtshof.de \"§ 355\" \"Kontokorrent\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_query": "354a",
+  "local_hits": [
+    "JURE110003769",
+    "JURE110005944",
+    "JURE110008475",
+    "JURE110011428",
+    "JURE110012753",
+    "JURE110013231",
+    "JURE110014169",
+    "JURE110021781"
+  ],
+  "fully_read": [
+    "BGH VI ZR 121/17, amtliches XML vollständig, Rn. 1–21"
+  ],
+  "case_cards": [
+    "cases/BGH-2018-VIZR121-17.md"
+  ],
+  "limits": "Selektiv. Andere Suchtreffer nicht als geprüfte Autoritäten übernommen; für übrige Einheiten keine zusätzliche ausreichend geprüfte Entscheidung aufgenommen. Bestehende Fallkarte wiederverwendet; keine erschöpfende Recherche."
+}

@@ -185,3 +185,5 @@ Zweitprüfung vom 21. Oktober 2026, ausschließlich §§ 341h–342a: 20/20 Einh
 Autorenkontrolle §§ 342b–345: alle 20 Einheiten anhand des amtlichen Wortlauts geschrieben und geprüft. [Chargenbericht](author-p342b-p345-result.json). Unabhängige Zweitprüfung ausstehend; keine externe fachliche Freigabe.
 
 Zweitprüfung vom 21. Oktober 2026, ausschließlich §§ 342b–345: alle 20 zugewiesenen Einheiten gegen amtlichen Wortlaut geprüft. Vier Präzisierungen zu branchenspezifischen Umsatzgrößen und Offenlegungsbefreiungen in §§ 342b, 342d–342f. [Einzelergebnisse](review-p342b-p345.json), [Abdeckung](review-p342b-p345-coverage.json). BGH VI ZR 121/17 vollständig erneut gelesen; selektive Rechtsprechungsprüfung. Kein Gesamtbuchabschluss und keine externe fachliche Freigabe; 296 Kommentare außerhalb dieser Charge fehlen.
+
+Autorenkontrolle §§ 346–364: alle 20 Einheiten gegen den amtlichen Wortlaut gelesen; Zinsgrundlagen, Deckungsgrenzen und Schweigewirkung getrennt erläutert. [Technische Kontrolle](author-p346-p364-coverage.json). Unabhängige Zweitprüfung ausstehend.

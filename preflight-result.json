@@ -410,5 +410,15 @@
     "historical_versions_checked": "696 eindeutige amtliche Normkennungen und ihre Texte gegen 696 Parser-Einheiten geprüft. Historische Bilanzkontrollvorschriften nicht mit heutigen Steuerberichtsvorschriften verkettet.",
     "annexes_checked": "814 XML-Knoten vollständig zugeordnet: 696 nummerierte Normeinheiten, 117 Gliederungsknoten und eine textlose Kopfnorm. Keine operative Anlage oder ausgelassene Eingangsformel. Verweise auf fremde Richtlinienanhänge sind keine eigenen HGB-Anlagen.",
     "unresolved_blockers": []
+  },
+  "bounded_author_p346_p364": {
+    "complete": true,
+    "decisive_date": "2026-10-19",
+    "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+    "verified_at": "2026-10-21T05:05:58.619516+00:00",
+    "version_evidence": "sources/commencement.md; title decisive date 2026-10-19; unchanged XML",
+    "historical_versions_checked": "Alle Kennungen und Texte gegen identischen amtlichen XML-Abruf geprüft; keine historischen Duplikate verkettet.",
+    "annexes_checked": "Alle 814 Normknoten geprüft: 696 nummerierte Einheiten, 117 Gliederungen und Kopfnorm; kein übriger operativer Text, keine Anlage oder Eingangsformel verloren. § 351 als leere Stelle erhalten.",
+    "unresolved_blockers": []
   }
 }
