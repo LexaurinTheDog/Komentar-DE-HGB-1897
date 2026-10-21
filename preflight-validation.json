@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-10-21T02:51:35.591078+00:00",
+  "scope": "strict whole-book check after bounded preflight",
+  "exit_code": 1,
+  "result": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 696,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 290696,
+    "errors": [
+      "krátký/chybějící komentář u 463 jednotek: ['p264(0<400)', 'p264a(0<400)', 'p264b(0<400)', 'p264c(0<400)', 'p264d(0<400)', 'p265(0<400)', 'p266(0<400)', 'p267(0<400)']"
+    ],
+    "warnings": [],
+    "ok": false
+  },
+  "interpretation": "Only missing commentary prevents whole-book completion; source preflight complete. No prose authored in this task."
+}
