@@ -69,3 +69,5 @@ Charge §§ 342b–345: [amtlicher XML-Wiederabruf](sources/hgb-author-p342b-p34
 Zweitprüfung §§ 342b–345: [amtlicher HGB-Wiederabruf](sources/hgb-review-p342b-p345.xml), [EGHGB Art. 90](sources/eghgb-review-p342b-p345.xml), [BGH-Volltext](sources/BGH-review-p342b-p345.xml), [HTTP und Hashes](sources/review-p342b-p345-fetch.json).
 
 Charge §§ 346–364: [XML](sources/hgb-p346-p364.xml), [Abrufnachweis](sources/verification-p346-p364.json), [selektive Fallsuche](sources/research/case-search-p346-p364.json). BGH VI ZR 121/17 für § 353 vollständig erneut gelesen; bestehende Fallkarte genutzt.
+
+Zweitprüfung §§ 346–364: [amtliches XML](sources/hgb-review-p346-p364.xml), [BGH-Volltext](sources/BGH-review-p346-p364.xml), [HTTP/Hashes](sources/review-p346-p364-fetch.json).

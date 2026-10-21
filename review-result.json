@@ -3,145 +3,131 @@
   "complete": true,
   "units_reviewed": 20,
   "reviewed_ids": [
-    "p342b",
-    "p342c",
-    "p342d",
-    "p342e",
-    "p342f",
-    "p342g",
-    "p342h",
-    "p342i",
-    "p342j",
-    "p342k",
-    "p342l",
-    "p342m",
-    "p342n",
-    "p342o",
-    "p342p",
-    "p342q",
-    "p342r",
-    "p343",
-    "p344",
-    "p345"
+    "p346",
+    "p347",
+    "p348",
+    "p349",
+    "p350",
+    "p351",
+    "p352",
+    "p353",
+    "p354",
+    "p354a",
+    "p355",
+    "p356",
+    "p357",
+    "p358",
+    "p359",
+    "p360",
+    "p361",
+    "p362",
+    "p363",
+    "p364"
   ],
   "unresolved_blockers": [],
   "findings": [
     {
-      "id": "p342b",
-      "result": "Vier Absätze geprüft. Branchenspezifische Umsatzdefinition präzisiert: einzeln erfasste Institutsgruppen, Postensummen, Versicherungsunternehmen und Pensionsfonds; kein allgemeiner Finanzunternehmensbegriff. Eintritt/Erlöschen und EGHGB Art. 90 geprüft."
+      "id": "p346",
+      "result": "Handlungen und Unterlassungen, beiderseitiger Kaufmannsverkehr und Grenzen geprüft. Ergänzende und dispositives Recht verdrängende Wirkung sowie fehlendes individuelles Kenntniserfordernis präzisiert."
     },
     {
-      "id": "p342c",
-      "result": "Alle Absätze geprüft: Konzernschwelle, institutsbezogene Offenlegungsbefreiung mit vollständigem Konsolidierungskreis, Erlöschen und IFRS-/sonstige Umsatzermittlung; erhalten."
+      "id": "p347",
+      "result": "Beide Absätze geprüft: Pflichtgrundlage, Handelsgeschäft des Sorgfaltsschuldners, objektiver Maßstab und vorbehaltene BGB-Haftungsprivilegien zutreffend."
     },
     {
-      "id": "p342d",
-      "result": "Fünf Absätze geprüft. Befreiung präzisiert: andere inländische Tochter mit deutscher Registerübermittlung innerhalb Jahresfrist oder Tochter in anderem EU/EWR-Staat mit nationaler richtlinienkonformer Offenlegung. Aufforderung, beide Ersatzdokumente, Wechselkurs und Währung geprüft."
+      "id": "p348",
+      "result": "Betriebliches Strafversprechen des Kaufmanns und eng begrenzter Ausschluss des § 343 BGB geprüft; Wirksamkeit und Verfall zutreffend getrennt."
     },
     {
-      "id": "p342e",
-      "result": "Fünf Absätze geprüft. Befreiungsschritte konkretisiert: Jahresfrist, EU-Amtssprache, andere inländische Zweigniederlassung mit deutscher Registerübermittlung oder ausländische EU/EWR-Offenlegung. Personen, Ersatzbericht und Währung geprüft."
+      "id": "p349",
+      "result": "Beide Sätze geprüft: Handelsgeschäft des Bürgen, Ausschluss der Vorausklage und gleichgestellter Kreditauftrag; keine Umdeutung zur Garantie."
     },
     {
-      "id": "p342f",
-      "result": "Fünf Absätze geprüft. Inländische Zweigniederlassungsalternative und differenzierte Befreiungsoffenlegung ergänzt; Fehlen berichtspflichtiger Tochter, Konzernumfang, Ersatzbericht und Konzernwährung geprüft."
+      "id": "p350",
+      "result": "Drei Verpflichtungstypen und genaue gesetzliche Formbefreiung geprüft; Vertragsabschluss, Vertretungsmacht und vereinbarte Form bleiben gesondert."
     },
     {
-      "id": "p342g",
-      "result": "Beide Nummern geprüft: unverbundenes Gesamtunternehmen versus konsolidierter Mutter-/Tochterkreis; Abgrenzung zu eingeschränkter Namensliste und begrenzter Informationsbeschaffbarkeit zutreffend."
+      "id": "p351",
+      "result": "Amtliche Leerstelle ohne operativen Text geprüft und erhalten; keine historische Norm als geltend rekonstruiert."
     },
     {
-      "id": "p342h",
-      "result": "Fünf Absätze mit sämtlichen Datenfeldern und Definitionen geprüft; Methodenwahl insgesamt, Dividenden-/Wertanpassungsausschluss, Quellensteuer, Gewinnbestand und unterschiedliche Listenstichtage zutreffend."
+      "id": "p352",
+      "result": "Beide Absätze geprüft: fünf Prozent, beiderseitiges Handelsgeschäft, Ausschluss der Verzugszinsen und besondere HGB-Zinsanordnungen zutreffend getrennt."
     },
     {
-      "id": "p342i",
-      "result": "Beide Absätze geprüft: EU/EWR-Einzelstaat, Anhang I ein Stichtag, Anhang II zwei Stichtage, Restaggregation, Tätigkeitszuordnung, Gewinnsonderregel und Doppelzählungsverbot; erhalten."
+      "id": "p353",
+      "result": "Beide Sätze geprüft. BGH VI ZR 121/17 vollständig, Tenor und Rn. 1–21 gelesen; Rn. 8–10 als Vorinstanz, 11–20 als Senatsbegründung und 21 als offene andere Ersatzgrundlage richtig wiedergegeben."
     },
     {
-      "id": "p342j",
-      "result": "Alle drei Absätze und alle Berichtswege geprüft; Euro-Ersatzbericht der Tochter von fremdwährungsgebundenen Zweigniederlassungsberichten richtig getrennt."
+      "id": "p354",
+      "result": "Beide Absätze geprüft: Geschäftsbesorgung/Dienste, ortsübliche Provision/Lagergeld und Zinsen ab Leistung auf einzelne Verwendungen; kein Entgelt für aufgedrängte Leistungen."
     },
     {
-      "id": "p342k",
-      "result": "Beide Absätze geprüft: erheblicher Nachteil, Listenstaatensperre, Begründung und viertes Folgegeschäftsjahr; Beispiel 2026/2030 zutreffend."
+      "id": "p354a",
+      "result": "Beide Absätze geprüft: Geldforderung, alternative Schuldnergruppen, befreiende Zahlung ohne Unkenntnisvorbehalt, Abweichungsverbot und Bankdarlehensausnahme zutreffend."
     },
     {
-      "id": "p342l",
-      "result": "Beide kumulativen Anforderungen geprüft: Formblatt und maschinenlesbares Format. Erläuterung behauptet keine nicht verifizierte technische Spezifikation; technische EU-Umsetzung bleibt ausdrücklich begrenzt."
+      "id": "p355",
+      "result": "Drei Absätze geprüft: Kontokorrentabrede, mindestens ein Kaufmann, Abschlusszins einschließlich Zinsen, jährliche Auffangperiode und Kündigung im Zweifel zutreffend."
     },
     {
-      "id": "p342m",
-      "result": "Vier Absätze geprüft: Jahresfrist, Sprache, getrennte Adressaten und Ersatzdokumente, genaue Auskunfts- und Vermutungstatbestände; erhalten."
+      "id": "p356",
+      "result": "Beide Absätze geprüft: Sicherheitenfortbestand bei Anerkennung nur in Deckung mit Forderung/Guthaben; gesamtschuldnerisch haftender Dritter und Zahlenbeispiel richtig."
     },
     {
-      "id": "p342n",
-      "result": "Alle drei Absätze geprüft: eigene/verbundene Websites, jeweils erforderliche Dokumente, Jahresfrist und fünfjährige Dauer, beide Registerhinweisaussagen; erhalten."
+      "id": "p357",
+      "result": "Beide Sätze geprüft: Pfändung und Überweisung, relative Unwirksamkeit neuer Belastungen und Ausnahme für vorherige Rechte/Pflichten des Drittschuldners; Buchungsdatum allein reicht nicht."
     },
     {
-      "id": "p342o",
-      "result": "Drei Absätze geprüft: genaue inhaltliche Tatbestandsverweise, Websiteverstöße, 250.000-Euro-Höchstbuße, BfJ und allgemeine Verantwortlichkeit; erhalten."
+      "id": "p358",
+      "result": "Bewirken und Fordern zu gewöhnlicher Geschäftszeit, Branchenbezug und besondere Vereinbarung geprüft; nicht mit allgemeinem Erklärungszugang gleichgesetzt."
     },
     {
-      "id": "p342p",
-      "result": "Alle Sätze geprüft: Organ-/Anmeldepersonen, optionale Gesellschaftsadressierung, genaue §-335-Verweisung, Ordnungsgeldobergrenze und Abgrenzung zu Bußgeld; erhalten."
+      "id": "p359",
+      "result": "Beide Absätze geprüft: Handelsgebrauch am Leistungsort bei saisonaler Zeitbestimmung; volle acht Tage statt umgangssprachlicher Woche."
     },
     {
-      "id": "p342q",
-      "result": "Beide Absätze geprüft: vier Aufgaben, Satzungs-/Rechnungslegeranforderungen, Öffentlichkeit und begrenzte Vermutungswirkung bekanntgemachter Empfehlungen; keine unbelegte aktuelle Anerkennung behauptet."
+      "id": "p360",
+      "result": "Gattung, Handelsgut mittlerer Art/Güte und Vorrang konkreter Qualitätsvereinbarung geprüft; § 377 als gesonderte Obliegenheit zutreffend."
     },
     {
-      "id": "p342r",
-      "result": "Alle neun Absätze geprüft: institutioneller Vorbehalt, 13 Mitglieder, Sollberufung, Unabhängigkeit, Geschäftsordnung, Ausschüsse, Zweidrittelquorum, Mehrheiten und Empfehlung; erhalten."
+      "id": "p361",
+      "result": "Alle fünf Bezugsgrößen geprüft: örtliche Zweifelsregel setzt ermittelten Erfüllungsort und offene Vertragsauslegung voraus."
     },
     {
-      "id": "p343",
-      "result": "Beide Absätze einschließlich weggefallenem Absatz 2 geprüft. BGH VI ZR 121/17 Tenor und Rn. 1–21 vollständig erneut gelesen und mit amtlichem Wiederabruf verglichen; Vorinstanz und Senat sowie deliktische Zinsforderung zutreffend getrennt."
+      "id": "p362",
+      "result": "Beide Alternativen des Absatzes 1 und Absatz 2 geprüft: Geschäftsbesorgungsgewerbe/Verbindung versus konkretes Erbieten; unverzügliche Antwort, Annahmefiktion und begrenzte Verwahrung bei Kostendeckung."
     },
     {
-      "id": "p344",
-      "result": "Beide Absätze geprüft: Betriebszuordnungsvermutung setzt Kaufmann voraus; besondere Urkundenregel für Schuldscheine vom allgemeinen Gegenbeweis getrennt; erhalten."
+      "id": "p363",
+      "result": "Beide Absätze geprüft: Angewiesener versus Aussteller, Gegenleistungsfreiheit, Orderklausel und vier weitere Papierarten; Sonderrecht der Transportpapiere vorbehalten."
     },
     {
-      "id": "p345",
-      "result": "Gesamtsatz und Sonderregelvorbehalt geprüft; interne Gegenproben §§ 347 und 377 bestätigen personenbezogene Sorgfalt und beiderseitiges Handelsgeschäft als besondere Voraussetzung; erhalten."
+      "id": "p364",
+      "result": "Alle drei Absätze geprüft. Erforderliche Übergabe ergänzt; formelle Legitimation von materieller Berechtigung deutlicher getrennt. Drei Einwendungsgruppen und Aushändigung der quittierten Urkunde zutreffend."
     }
   ],
   "limitations": [
-    "Nur diese 20 Einheiten inhaltlich zweitgeprüft; kein Gesamtbuchabschluss.",
-    "296 noch fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und erfolgreiche Gesamtvalidierung.",
-    "Selektive Autoritätenprüfung: vorhandene BGH-Entscheidung erneut vollständig gelesen; keine zusätzliche Entscheidung für andere Einheiten behauptet.",
-    "Keine eigenständige technische Anleitung zur unionsrechtlichen Formatimplementierung bei § 342l.",
-    "Amtlicher aktueller Text und dokumentierte Verkündungs-/Inkrafttretensnachweise geprüft; keine lückenlose eigene Auswertung aller BGBl-Ausgaben.",
-    "Keine externe anwaltliche Freigabe; technische Prüfungen beweisen keine juristische Fehlerfreiheit."
+    "Ausschließlich diese 20 Einheiten zweitgeprüft; kein Gesamtbuchabschluss.",
+    "276 fehlende Kommentare außerhalb des Auftrags verhindern Gesamtbuild und Gesamtvalidierung.",
+    "Selektive Rechtsprechungsprüfung: vorhandene BGH-Entscheidung vollständig erneut gelesen, keine zusätzliche Entscheidung für technische Einheiten behauptet.",
+    "Amtlicher Wiederabruf und dokumentierte Verkündungs-/Inkrafttretensnachweise geprüft; keine lückenlose eigene BGBl-Jahresauswertung.",
+    "Keine externe anwaltliche Freigabe; technische Prüfung beweist keine juristische Fehlerfreiheit."
   ],
-  "verified_at": "2026-10-21T05:01:07.617754+00:00",
+  "verified_at": "2026-10-21T05:08:35.132760+00:00",
   "source_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
   "statutory_text_agreement": 1.0,
-  "coverage_evidence": "review-p342b-p345-coverage.json",
+  "coverage_evidence": "review-p346-p364-coverage.json",
   "full_book_complete": false,
   "bounded_build_success": true,
   "shared_build_success": false,
   "validation": {
-    "bounded": {
-      "repo": "Komentar-DE-HGB-1897",
-      "units": 20,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 41022,
-      "errors": [],
-      "warnings": [],
-      "ok": true
-    },
-    "whole_book": {
-      "repo": "Komentar-DE-HGB-1897",
-      "units": 696,
-      "verbatim_ratio": 1.0,
-      "commentary_chars": 693709,
-      "errors": [
-        "krátký/chybějící komentář u 296 jednotek: ['p346(0<400)', 'p347(0<400)', 'p348(0<400)', 'p349(0<400)', 'p350(0<400)', 'p351(0<120)', 'p352(0<400)', 'p353(0<400)']"
-      ],
-      "warnings": [],
-      "ok": false
-    }
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 35175,
+    "errors": [],
+    "warnings": [],
+    "ok": true
   }
 }

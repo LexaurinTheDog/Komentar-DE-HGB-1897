@@ -1,0 +1,4804 @@
+{
+  "ok": true,
+  "source": "sources/hgb-review-p346-p364.xml",
+  "sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+  "expected_official_inventory": [
+    {
+      "id": "p1",
+      "doknr": "BJNR002190897BJNE000401307",
+      "label": "§ 1"
+    },
+    {
+      "id": "p2",
+      "doknr": "BJNR002190897BJNE000501307",
+      "label": "§ 2"
+    },
+    {
+      "id": "p3",
+      "doknr": "BJNR002190897BJNE000601307",
+      "label": "§ 3"
+    },
+    {
+      "id": "p4",
+      "doknr": "BJNR002190897BJNE000701307",
+      "label": "§ 4"
+    },
+    {
+      "id": "p5",
+      "doknr": "BJNR002190897BJNE000801307",
+      "label": "§ 5"
+    },
+    {
+      "id": "p6",
+      "doknr": "BJNR002190897BJNE000901307",
+      "label": "§ 6"
+    },
+    {
+      "id": "p7",
+      "doknr": "BJNR002190897BJNE001000300",
+      "label": "§ 7"
+    },
+    {
+      "id": "p8",
+      "doknr": "BJNR002190897BJNE001201377",
+      "label": "§ 8"
+    },
+    {
+      "id": "p8a",
+      "doknr": "BJNR002190897BJNE079507360",
+      "label": "§ 8a"
+    },
+    {
+      "id": "p8b",
+      "doknr": "BJNR002190897BJNE099017360",
+      "label": "§ 8b"
+    },
+    {
+      "id": "p9",
+      "doknr": "BJNR002190897BJNE001307360",
+      "label": "§ 9"
+    },
+    {
+      "id": "p9a",
+      "doknr": "BJNR002190897BJNE038606360",
+      "label": "§ 9a"
+    },
+    {
+      "id": "p9b",
+      "doknr": "BJNR002190897BJNE101602360",
+      "label": "§ 9b"
+    },
+    {
+      "id": "p9c",
+      "doknr": "BJNR002190897BJNE114100360",
+      "label": "§ 9c"
+    },
+    {
+      "id": "p9d",
+      "doknr": "BJNR002190897BJNE116901129",
+      "label": "§ 9d"
+    },
+    {
+      "id": "p10",
+      "doknr": "BJNR002190897BJNE001402360",
+      "label": "§ 10"
+    },
+    {
+      "id": "p10a",
+      "doknr": "BJNR002190897BJNE113801360",
+      "label": "§ 10a"
+    },
+    {
+      "id": "p11",
+      "doknr": "BJNR002190897BJNE001501377",
+      "label": "§ 11"
+    },
+    {
+      "id": "p12",
+      "doknr": "BJNR002190897BJNE001604360",
+      "label": "§ 12"
+    },
+    {
+      "id": "p13",
+      "doknr": "BJNR002190897BJNE001704140",
+      "label": "§ 13"
+    },
+    {
+      "id": "p13a",
+      "doknr": "BJNR002190897BJNE114200360",
+      "label": "§ 13a"
+    },
+    {
+      "id": "p13b-13c",
+      "doknr": "BJNR002190897BJNE001804360",
+      "label": "(XXXX) §§ 13b u. 13c"
+    },
+    {
+      "id": "p13d",
+      "doknr": "BJNR002190897BJNE082503140",
+      "label": "§ 13d"
+    },
+    {
+      "id": "p13e",
+      "doknr": "BJNR002190897BJNE082605360",
+      "label": "§ 13e"
+    },
+    {
+      "id": "p13f",
+      "doknr": "BJNR002190897BJNE082705360",
+      "label": "§ 13f"
+    },
+    {
+      "id": "p13g",
+      "doknr": "BJNR002190897BJNE082803360",
+      "label": "§ 13g"
+    },
+    {
+      "id": "p13h",
+      "doknr": "BJNR002190897BJNE082900307",
+      "label": "§ 13h"
+    },
+    {
+      "id": "p14",
+      "doknr": "BJNR002190897BJNE002102377",
+      "label": "§ 14"
+    },
+    {
+      "id": "p15",
+      "doknr": "BJNR002190897BJNE002203360",
+      "label": "§ 15"
+    },
+    {
+      "id": "p15a",
+      "doknr": "BJNR002190897BJNE099300140",
+      "label": "§ 15a"
+    },
+    {
+      "id": "p16",
+      "doknr": "BJNR002190897BJNE002300300",
+      "label": "§ 16"
+    },
+    {
+      "id": "p17",
+      "doknr": "BJNR002190897BJNE002501307",
+      "label": "§ 17"
+    },
+    {
+      "id": "p18",
+      "doknr": "BJNR002190897BJNE002601307",
+      "label": "§ 18"
+    },
+    {
+      "id": "p19",
+      "doknr": "BJNR002190897BJNE002701307",
+      "label": "§ 19"
+    },
+    {
+      "id": "p20",
+      "doknr": "BJNR002190897BJNE037500309",
+      "label": "§ 20"
+    },
+    {
+      "id": "p21",
+      "doknr": "BJNR002190897BJNE002801307",
+      "label": "§ 21"
+    },
+    {
+      "id": "p22",
+      "doknr": "BJNR002190897BJNE002901307",
+      "label": "§ 22"
+    },
+    {
+      "id": "p23",
+      "doknr": "BJNR002190897BJNE003000300",
+      "label": "§ 23"
+    },
+    {
+      "id": "p24",
+      "doknr": "BJNR002190897BJNE003101307",
+      "label": "§ 24"
+    },
+    {
+      "id": "p25",
+      "doknr": "BJNR002190897BJNE003200300",
+      "label": "§ 25"
+    },
+    {
+      "id": "p26",
+      "doknr": "BJNR002190897BJNE003302377",
+      "label": "§ 26"
+    },
+    {
+      "id": "p27",
+      "doknr": "BJNR002190897BJNE003401377",
+      "label": "§ 27"
+    },
+    {
+      "id": "p28",
+      "doknr": "BJNR002190897BJNE003501307",
+      "label": "§ 28"
+    },
+    {
+      "id": "p29",
+      "doknr": "BJNR002190897BJNE003603140",
+      "label": "§ 29"
+    },
+    {
+      "id": "p30",
+      "doknr": "BJNR002190897BJNE003702360",
+      "label": "§ 30"
+    },
+    {
+      "id": "p31",
+      "doknr": "BJNR002190897BJNE003801140",
+      "label": "§ 31"
+    },
+    {
+      "id": "p32",
+      "doknr": "BJNR002190897BJNE003903360",
+      "label": "§ 32"
+    },
+    {
+      "id": "p33",
+      "doknr": "BJNR002190897BJNE004002377",
+      "label": "§ 33"
+    },
+    {
+      "id": "p34",
+      "doknr": "BJNR002190897BJNE004104377",
+      "label": "§ 34"
+    },
+    {
+      "id": "p35",
+      "doknr": "BJNR002190897BJNE004201377",
+      "label": "§ 35"
+    },
+    {
+      "id": "p36",
+      "doknr": "BJNR002190897BJNE097300307",
+      "label": "§ 36"
+    },
+    {
+      "id": "p37",
+      "doknr": "BJNR002190897BJNE004400300",
+      "label": "§ 37"
+    },
+    {
+      "id": "p37a",
+      "doknr": "BJNR002190897BJNE097201377",
+      "label": "§ 37a"
+    },
+    {
+      "id": "p38-47b",
+      "doknr": "BJNR002190897BJNE004601306",
+      "label": "(XXXX) §§ 38 bis 47b"
+    },
+    {
+      "id": "p48",
+      "doknr": "BJNR002190897BJNE005900300",
+      "label": "§ 48"
+    },
+    {
+      "id": "p49",
+      "doknr": "BJNR002190897BJNE006000300",
+      "label": "§ 49"
+    },
+    {
+      "id": "p50",
+      "doknr": "BJNR002190897BJNE006100300",
+      "label": "§ 50"
+    },
+    {
+      "id": "p51",
+      "doknr": "BJNR002190897BJNE006200300",
+      "label": "§ 51"
+    },
+    {
+      "id": "p52",
+      "doknr": "BJNR002190897BJNE006300300",
+      "label": "§ 52"
+    },
+    {
+      "id": "p53",
+      "doknr": "BJNR002190897BJNE006402377",
+      "label": "§ 53"
+    },
+    {
+      "id": "p54",
+      "doknr": "BJNR002190897BJNE006500300",
+      "label": "§ 54"
+    },
+    {
+      "id": "p55",
+      "doknr": "BJNR002190897BJNE006600300",
+      "label": "§ 55"
+    },
+    {
+      "id": "p56",
+      "doknr": "BJNR002190897BJNE006700300",
+      "label": "§ 56"
+    },
+    {
+      "id": "p57",
+      "doknr": "BJNR002190897BJNE006800300",
+      "label": "§ 57"
+    },
+    {
+      "id": "p58",
+      "doknr": "BJNR002190897BJNE006900300",
+      "label": "§ 58"
+    },
+    {
+      "id": "p59",
+      "doknr": "BJNR002190897BJNE007100300",
+      "label": "§ 59"
+    },
+    {
+      "id": "p60",
+      "doknr": "BJNR002190897BJNE007200300",
+      "label": "§ 60"
+    },
+    {
+      "id": "p61",
+      "doknr": "BJNR002190897BJNE007301377",
+      "label": "§ 61"
+    },
+    {
+      "id": "p62",
+      "doknr": "BJNR002190897BJNE007400300",
+      "label": "§ 62"
+    },
+    {
+      "id": "p63",
+      "doknr": "BJNR002190897BJNE007501307",
+      "label": "§ 63"
+    },
+    {
+      "id": "p64",
+      "doknr": "BJNR002190897BJNE007600300",
+      "label": "§ 64"
+    },
+    {
+      "id": "p65",
+      "doknr": "BJNR002190897BJNE007700300",
+      "label": "§ 65"
+    },
+    {
+      "id": "p66-72",
+      "doknr": "BJNR002190897BJNE037700309",
+      "label": "(XXXX) §§ 66 bis 72"
+    },
+    {
+      "id": "p73",
+      "doknr": "BJNR002190897BJNE007802377",
+      "label": "§ 73"
+    },
+    {
+      "id": "p74",
+      "doknr": "BJNR002190897BJNE007900300",
+      "label": "§ 74"
+    },
+    {
+      "id": "p74a",
+      "doknr": "BJNR002190897BJNE008001311",
+      "label": "§ 74a"
+    },
+    {
+      "id": "p74b",
+      "doknr": "BJNR002190897BJNE008100300",
+      "label": "§ 74b"
+    },
+    {
+      "id": "p74c",
+      "doknr": "BJNR002190897BJNE008200300",
+      "label": "§ 74c"
+    },
+    {
+      "id": "p75",
+      "doknr": "BJNR002190897BJNE008306125",
+      "label": "§ 75"
+    },
+    {
+      "id": "p75a",
+      "doknr": "BJNR002190897BJNE008400300",
+      "label": "§ 75a"
+    },
+    {
+      "id": "p75b",
+      "doknr": "BJNR002190897BJNE008501311",
+      "label": "§ 75b"
+    },
+    {
+      "id": "p75c",
+      "doknr": "BJNR002190897BJNE008600300",
+      "label": "§ 75c"
+    },
+    {
+      "id": "p75d",
+      "doknr": "BJNR002190897BJNE008700300",
+      "label": "§ 75d"
+    },
+    {
+      "id": "p75e",
+      "doknr": "BJNR002190897BJNE037800309",
+      "label": "§ 75e"
+    },
+    {
+      "id": "p75f",
+      "doknr": "BJNR002190897BJNE008800300",
+      "label": "§ 75f"
+    },
+    {
+      "id": "p75g",
+      "doknr": "BJNR002190897BJNE008900300",
+      "label": "§ 75g"
+    },
+    {
+      "id": "p75h",
+      "doknr": "BJNR002190897BJNE009000300",
+      "label": "§ 75h"
+    },
+    {
+      "id": "p76-82",
+      "doknr": "BJNR002190897BJNE037900309",
+      "label": "(XXXX) §§ 76 bis 82"
+    },
+    {
+      "id": "p82a",
+      "doknr": "BJNR002190897BJNE009100300",
+      "label": "§ 82a"
+    },
+    {
+      "id": "p83",
+      "doknr": "BJNR002190897BJNE009200300",
+      "label": "§ 83"
+    },
+    {
+      "id": "p84",
+      "doknr": "BJNR002190897BJNE009401307",
+      "label": "§ 84"
+    },
+    {
+      "id": "p85",
+      "doknr": "BJNR002190897BJNE009500300",
+      "label": "§ 85"
+    },
+    {
+      "id": "p86",
+      "doknr": "BJNR002190897BJNE009601309",
+      "label": "§ 86"
+    },
+    {
+      "id": "p86a",
+      "doknr": "BJNR002190897BJNE009701309",
+      "label": "§ 86a"
+    },
+    {
+      "id": "p86b",
+      "doknr": "BJNR002190897BJNE009800300",
+      "label": "§ 86b"
+    },
+    {
+      "id": "p87",
+      "doknr": "BJNR002190897BJNE009901309",
+      "label": "§ 87"
+    },
+    {
+      "id": "p87a",
+      "doknr": "BJNR002190897BJNE010001309",
+      "label": "§ 87a"
+    },
+    {
+      "id": "p87b",
+      "doknr": "BJNR002190897BJNE010100300",
+      "label": "§ 87b"
+    },
+    {
+      "id": "p87c",
+      "doknr": "BJNR002190897BJNE010200300",
+      "label": "§ 87c"
+    },
+    {
+      "id": "p87d",
+      "doknr": "BJNR002190897BJNE010300300",
+      "label": "§ 87d"
+    },
+    {
+      "id": "p88",
+      "doknr": "BJNR002190897BJNE010401377",
+      "label": "§ 88"
+    },
+    {
+      "id": "p88a",
+      "doknr": "BJNR002190897BJNE010500300",
+      "label": "§ 88a"
+    },
+    {
+      "id": "p89",
+      "doknr": "BJNR002190897BJNE010601309",
+      "label": "§ 89"
+    },
+    {
+      "id": "p89a",
+      "doknr": "BJNR002190897BJNE010700300",
+      "label": "§ 89a"
+    },
+    {
+      "id": "p89b",
+      "doknr": "BJNR002190897BJNE010808140",
+      "label": "§ 89b"
+    },
+    {
+      "id": "p90",
+      "doknr": "BJNR002190897BJNE010900300",
+      "label": "§ 90"
+    },
+    {
+      "id": "p90a",
+      "doknr": "BJNR002190897BJNE011002307",
+      "label": "§ 90a"
+    },
+    {
+      "id": "p91",
+      "doknr": "BJNR002190897BJNE011100300",
+      "label": "§ 91"
+    },
+    {
+      "id": "p91a",
+      "doknr": "BJNR002190897BJNE011200300",
+      "label": "§ 91a"
+    },
+    {
+      "id": "p92",
+      "doknr": "BJNR002190897BJNE011300300",
+      "label": "§ 92"
+    },
+    {
+      "id": "p92a",
+      "doknr": "BJNR002190897BJNE011409360",
+      "label": "§ 92a"
+    },
+    {
+      "id": "p92b",
+      "doknr": "BJNR002190897BJNE011500300",
+      "label": "§ 92b"
+    },
+    {
+      "id": "p92c",
+      "doknr": "BJNR002190897BJNE011602305",
+      "label": "§ 92c"
+    },
+    {
+      "id": "p93",
+      "doknr": "BJNR002190897BJNE097400307",
+      "label": "§ 93"
+    },
+    {
+      "id": "p94",
+      "doknr": "BJNR002190897BJNE011900300",
+      "label": "§ 94"
+    },
+    {
+      "id": "p95",
+      "doknr": "BJNR002190897BJNE012000300",
+      "label": "§ 95"
+    },
+    {
+      "id": "p96",
+      "doknr": "BJNR002190897BJNE012100300",
+      "label": "§ 96"
+    },
+    {
+      "id": "p97",
+      "doknr": "BJNR002190897BJNE012200300",
+      "label": "§ 97"
+    },
+    {
+      "id": "p98",
+      "doknr": "BJNR002190897BJNE012300300",
+      "label": "§ 98"
+    },
+    {
+      "id": "p99",
+      "doknr": "BJNR002190897BJNE012400300",
+      "label": "§ 99"
+    },
+    {
+      "id": "p100",
+      "doknr": "BJNR002190897BJNE012502377",
+      "label": "§ 100"
+    },
+    {
+      "id": "p101",
+      "doknr": "BJNR002190897BJNE012600300",
+      "label": "§ 101"
+    },
+    {
+      "id": "p102",
+      "doknr": "BJNR002190897BJNE012700300",
+      "label": "§ 102"
+    },
+    {
+      "id": "p103",
+      "doknr": "BJNR002190897BJNE012801311",
+      "label": "§ 103"
+    },
+    {
+      "id": "p104",
+      "doknr": "BJNR002190897BJNE012901309",
+      "label": "§ 104"
+    },
+    {
+      "id": "p104a",
+      "doknr": "BJNR002190897BJNE099200377",
+      "label": "§ 104a"
+    },
+    {
+      "id": "p105",
+      "doknr": "BJNR002190897BJNE013304360",
+      "label": "§ 105"
+    },
+    {
+      "id": "p106",
+      "doknr": "BJNR002190897BJNE013408360",
+      "label": "§ 106"
+    },
+    {
+      "id": "p107",
+      "doknr": "BJNR002190897BJNE013511360",
+      "label": "§ 107"
+    },
+    {
+      "id": "p108",
+      "doknr": "BJNR002190897BJNE013604360",
+      "label": "§ 108"
+    },
+    {
+      "id": "p109",
+      "doknr": "BJNR002190897BJNE013801360",
+      "label": "§ 109"
+    },
+    {
+      "id": "p110",
+      "doknr": "BJNR002190897BJNE013901360",
+      "label": "§ 110"
+    },
+    {
+      "id": "p111",
+      "doknr": "BJNR002190897BJNE014001360",
+      "label": "§ 111"
+    },
+    {
+      "id": "p112",
+      "doknr": "BJNR002190897BJNE014101360",
+      "label": "§ 112"
+    },
+    {
+      "id": "p113",
+      "doknr": "BJNR002190897BJNE014202360",
+      "label": "§ 113"
+    },
+    {
+      "id": "p114",
+      "doknr": "BJNR002190897BJNE014301360",
+      "label": "§ 114"
+    },
+    {
+      "id": "p115",
+      "doknr": "BJNR002190897BJNE014401360",
+      "label": "§ 115"
+    },
+    {
+      "id": "p116",
+      "doknr": "BJNR002190897BJNE014501360",
+      "label": "§ 116"
+    },
+    {
+      "id": "p117",
+      "doknr": "BJNR002190897BJNE014601360",
+      "label": "§ 117"
+    },
+    {
+      "id": "p118",
+      "doknr": "BJNR002190897BJNE014702360",
+      "label": "§ 118"
+    },
+    {
+      "id": "p119",
+      "doknr": "BJNR002190897BJNE014801360",
+      "label": "§ 119"
+    },
+    {
+      "id": "p120",
+      "doknr": "BJNR002190897BJNE014901360",
+      "label": "§ 120"
+    },
+    {
+      "id": "p121",
+      "doknr": "BJNR002190897BJNE015001360",
+      "label": "§ 121"
+    },
+    {
+      "id": "p122",
+      "doknr": "BJNR002190897BJNE015101360",
+      "label": "§ 122"
+    },
+    {
+      "id": "p123",
+      "doknr": "BJNR002190897BJNE015302360",
+      "label": "§ 123"
+    },
+    {
+      "id": "p124",
+      "doknr": "BJNR002190897BJNE015401360",
+      "label": "§ 124"
+    },
+    {
+      "id": "p125",
+      "doknr": "BJNR002190897BJNE015502360",
+      "label": "§ 125"
+    },
+    {
+      "id": "p126",
+      "doknr": "BJNR002190897BJNE015601360",
+      "label": "§ 126"
+    },
+    {
+      "id": "p127",
+      "doknr": "BJNR002190897BJNE015701360",
+      "label": "§ 127"
+    },
+    {
+      "id": "p128",
+      "doknr": "BJNR002190897BJNE015801360",
+      "label": "§ 128"
+    },
+    {
+      "id": "p129",
+      "doknr": "BJNR002190897BJNE015901360",
+      "label": "§ 129"
+    },
+    {
+      "id": "p130",
+      "doknr": "BJNR002190897BJNE016001360",
+      "label": "§ 130"
+    },
+    {
+      "id": "p131",
+      "doknr": "BJNR002190897BJNE016406360",
+      "label": "§ 131"
+    },
+    {
+      "id": "p132",
+      "doknr": "BJNR002190897BJNE016501360",
+      "label": "§ 132"
+    },
+    {
+      "id": "p133",
+      "doknr": "BJNR002190897BJNE016601360",
+      "label": "§ 133"
+    },
+    {
+      "id": "p134",
+      "doknr": "BJNR002190897BJNE016701360",
+      "label": "§ 134"
+    },
+    {
+      "id": "p135",
+      "doknr": "BJNR002190897BJNE016801360",
+      "label": "§ 135"
+    },
+    {
+      "id": "p136",
+      "doknr": "BJNR002190897BJNE016902360",
+      "label": "§ 136"
+    },
+    {
+      "id": "p137",
+      "doknr": "BJNR002190897BJNE114600360",
+      "label": "§ 137"
+    },
+    {
+      "id": "p138",
+      "doknr": "BJNR002190897BJNE114700360",
+      "label": "§ 138"
+    },
+    {
+      "id": "p139",
+      "doknr": "BJNR002190897BJNE017202360",
+      "label": "§ 139"
+    },
+    {
+      "id": "p140",
+      "doknr": "BJNR002190897BJNE017302360",
+      "label": "§ 140"
+    },
+    {
+      "id": "p141",
+      "doknr": "BJNR002190897BJNE017404360",
+      "label": "§ 141"
+    },
+    {
+      "id": "p142",
+      "doknr": "BJNR002190897BJNE114800360",
+      "label": "§ 142"
+    },
+    {
+      "id": "p143",
+      "doknr": "BJNR002190897BJNE017602360",
+      "label": "§ 143"
+    },
+    {
+      "id": "p144",
+      "doknr": "BJNR002190897BJNE017702360",
+      "label": "§ 144"
+    },
+    {
+      "id": "p145",
+      "doknr": "BJNR002190897BJNE017902360",
+      "label": "§ 145"
+    },
+    {
+      "id": "p146",
+      "doknr": "BJNR002190897BJNE018002360",
+      "label": "§ 146"
+    },
+    {
+      "id": "p147",
+      "doknr": "BJNR002190897BJNE018101360",
+      "label": "§ 147"
+    },
+    {
+      "id": "p148",
+      "doknr": "BJNR002190897BJNE018204360",
+      "label": "§ 148"
+    },
+    {
+      "id": "p149",
+      "doknr": "BJNR002190897BJNE018301360",
+      "label": "§ 149"
+    },
+    {
+      "id": "p150",
+      "doknr": "BJNR002190897BJNE018402360",
+      "label": "§ 150"
+    },
+    {
+      "id": "p151",
+      "doknr": "BJNR002190897BJNE018501360",
+      "label": "§ 151"
+    },
+    {
+      "id": "p152",
+      "doknr": "BJNR002190897BJNE018601360",
+      "label": "§ 152"
+    },
+    {
+      "id": "p153-160",
+      "doknr": "BJNR002190897BJNE018701360",
+      "label": "(XXXX) §§ 153 bis 160"
+    },
+    {
+      "id": "p161",
+      "doknr": "BJNR002190897BJNE019701360",
+      "label": "§ 161"
+    },
+    {
+      "id": "p162",
+      "doknr": "BJNR002190897BJNE114300360",
+      "label": "§ 162"
+    },
+    {
+      "id": "p163",
+      "doknr": "BJNR002190897BJNE019900300",
+      "label": "§ 163"
+    },
+    {
+      "id": "p164",
+      "doknr": "BJNR002190897BJNE020001360",
+      "label": "§ 164"
+    },
+    {
+      "id": "p165",
+      "doknr": "BJNR002190897BJNE020101360",
+      "label": "§ 165"
+    },
+    {
+      "id": "p166",
+      "doknr": "BJNR002190897BJNE020202360",
+      "label": "§ 166"
+    },
+    {
+      "id": "p167",
+      "doknr": "BJNR002190897BJNE020301360",
+      "label": "§ 167"
+    },
+    {
+      "id": "p168",
+      "doknr": "BJNR002190897BJNE020401360",
+      "label": "§ 168"
+    },
+    {
+      "id": "p169",
+      "doknr": "BJNR002190897BJNE020501360",
+      "label": "§ 169"
+    },
+    {
+      "id": "p170",
+      "doknr": "BJNR002190897BJNE020601360",
+      "label": "§ 170"
+    },
+    {
+      "id": "p171",
+      "doknr": "BJNR002190897BJNE020702360",
+      "label": "§ 171"
+    },
+    {
+      "id": "p172",
+      "doknr": "BJNR002190897BJNE020802360",
+      "label": "§ 172"
+    },
+    {
+      "id": "p172a",
+      "doknr": "BJNR002190897BJNE038201140",
+      "label": "§ 172a"
+    },
+    {
+      "id": "p173",
+      "doknr": "BJNR002190897BJNE020900300",
+      "label": "§ 173"
+    },
+    {
+      "id": "p174",
+      "doknr": "BJNR002190897BJNE021001360",
+      "label": "§ 174"
+    },
+    {
+      "id": "p175",
+      "doknr": "BJNR002190897BJNE114400360",
+      "label": "§ 175"
+    },
+    {
+      "id": "p176",
+      "doknr": "BJNR002190897BJNE021202360",
+      "label": "§ 176"
+    },
+    {
+      "id": "p177",
+      "doknr": "BJNR002190897BJNE021301307",
+      "label": "§ 177"
+    },
+    {
+      "id": "p177a",
+      "doknr": "BJNR002190897BJNE021404360",
+      "label": "§ 177a"
+    },
+    {
+      "id": "p178",
+      "doknr": "BJNR002190897BJNE114900360",
+      "label": "§ 178"
+    },
+    {
+      "id": "p179",
+      "doknr": "BJNR002190897BJNE115000360",
+      "label": "§ 179"
+    },
+    {
+      "id": "p180-229",
+      "doknr": "BJNR002190897BJNE021602360",
+      "label": "(XXXX) §§ 180 bis 229"
+    },
+    {
+      "id": "p230",
+      "doknr": "BJNR002190897BJNE022001306",
+      "label": "§ 230"
+    },
+    {
+      "id": "p231",
+      "doknr": "BJNR002190897BJNE022101306",
+      "label": "§ 231"
+    },
+    {
+      "id": "p232",
+      "doknr": "BJNR002190897BJNE022201306",
+      "label": "§ 232"
+    },
+    {
+      "id": "p233",
+      "doknr": "BJNR002190897BJNE022302360",
+      "label": "§ 233"
+    },
+    {
+      "id": "p234",
+      "doknr": "BJNR002190897BJNE022402360",
+      "label": "§ 234"
+    },
+    {
+      "id": "p235",
+      "doknr": "BJNR002190897BJNE022501306",
+      "label": "§ 235"
+    },
+    {
+      "id": "p236",
+      "doknr": "BJNR002190897BJNE022602307",
+      "label": "§ 236"
+    },
+    {
+      "id": "p237",
+      "doknr": "BJNR002190897BJNE022702307",
+      "label": "§ 237"
+    },
+    {
+      "id": "p238",
+      "doknr": "BJNR002190897BJNE003300306",
+      "label": "§ 238"
+    },
+    {
+      "id": "p239",
+      "doknr": "BJNR002190897BJNE003400306",
+      "label": "§ 239"
+    },
+    {
+      "id": "p240",
+      "doknr": "BJNR002190897BJNE086500307",
+      "label": "§ 240"
+    },
+    {
+      "id": "p241",
+      "doknr": "BJNR002190897BJNE003600306",
+      "label": "§ 241"
+    },
+    {
+      "id": "p241a",
+      "doknr": "BJNR002190897BJNE099803125",
+      "label": "§ 241a"
+    },
+    {
+      "id": "p242",
+      "doknr": "BJNR002190897BJNE003701140",
+      "label": "§ 242"
+    },
+    {
+      "id": "p243",
+      "doknr": "BJNR002190897BJNE003800306",
+      "label": "§ 243"
+    },
+    {
+      "id": "p244",
+      "doknr": "BJNR002190897BJNE088200307",
+      "label": "§ 244"
+    },
+    {
+      "id": "p245",
+      "doknr": "BJNR002190897BJNE004000306",
+      "label": "§ 245"
+    },
+    {
+      "id": "p246",
+      "doknr": "BJNR002190897BJNE004105140",
+      "label": "§ 246"
+    },
+    {
+      "id": "p247",
+      "doknr": "BJNR002190897BJNE004202140",
+      "label": "§ 247"
+    },
+    {
+      "id": "p248",
+      "doknr": "BJNR002190897BJNE004302140",
+      "label": "§ 248"
+    },
+    {
+      "id": "p249",
+      "doknr": "BJNR002190897BJNE004401140",
+      "label": "§ 249"
+    },
+    {
+      "id": "p250",
+      "doknr": "BJNR002190897BJNE004501140",
+      "label": "§ 250"
+    },
+    {
+      "id": "p251",
+      "doknr": "BJNR002190897BJNE004600306",
+      "label": "§ 251"
+    },
+    {
+      "id": "p252",
+      "doknr": "BJNR002190897BJNE004701140",
+      "label": "§ 252"
+    },
+    {
+      "id": "p253",
+      "doknr": "BJNR002190897BJNE004807360",
+      "label": "§ 253"
+    },
+    {
+      "id": "p254",
+      "doknr": "BJNR002190897BJNE004901140",
+      "label": "§ 254"
+    },
+    {
+      "id": "p255",
+      "doknr": "BJNR002190897BJNE005002360",
+      "label": "§ 255"
+    },
+    {
+      "id": "p256",
+      "doknr": "BJNR002190897BJNE005101140",
+      "label": "§ 256"
+    },
+    {
+      "id": "p256a",
+      "doknr": "BJNR002190897BJNE099900140",
+      "label": "§ 256a"
+    },
+    {
+      "id": "p257",
+      "doknr": "BJNR002190897BJNE005204129",
+      "label": "§ 257"
+    },
+    {
+      "id": "p258",
+      "doknr": "BJNR002190897BJNE005300306",
+      "label": "§ 258"
+    },
+    {
+      "id": "p259",
+      "doknr": "BJNR002190897BJNE005400306",
+      "label": "§ 259"
+    },
+    {
+      "id": "p260",
+      "doknr": "BJNR002190897BJNE005500306",
+      "label": "§ 260"
+    },
+    {
+      "id": "p261",
+      "doknr": "BJNR002190897BJNE005600306",
+      "label": "§ 261"
+    },
+    {
+      "id": "p262",
+      "doknr": "BJNR002190897BJNE005701307",
+      "label": "§ 262"
+    },
+    {
+      "id": "p263",
+      "doknr": "BJNR002190897BJNE005800306",
+      "label": "§ 263"
+    },
+    {
+      "id": "p264",
+      "doknr": "BJNR002190897BJNE005917360",
+      "label": "§ 264"
+    },
+    {
+      "id": "p264a",
+      "doknr": "BJNR002190897BJNE097500305",
+      "label": "§ 264a"
+    },
+    {
+      "id": "p264b",
+      "doknr": "BJNR002190897BJNE097605360",
+      "label": "§ 264b"
+    },
+    {
+      "id": "p264c",
+      "doknr": "BJNR002190897BJNE097703360",
+      "label": "§ 264c"
+    },
+    {
+      "id": "p264d",
+      "doknr": "BJNR002190897BJNE100002123",
+      "label": "§ 264d"
+    },
+    {
+      "id": "p265",
+      "doknr": "BJNR002190897BJNE006002360",
+      "label": "§ 265"
+    },
+    {
+      "id": "p266",
+      "doknr": "BJNR002190897BJNE006104360",
+      "label": "§ 266"
+    },
+    {
+      "id": "p267",
+      "doknr": "BJNR002190897BJNE006210360",
+      "label": "§ 267"
+    },
+    {
+      "id": "p267a",
+      "doknr": "BJNR002190897BJNE100402360",
+      "label": "§ 267a"
+    },
+    {
+      "id": "p268",
+      "doknr": "BJNR002190897BJNE006302360",
+      "label": "§ 268"
+    },
+    {
+      "id": "p269",
+      "doknr": "BJNR002190897BJNE006403140",
+      "label": "§ 269"
+    },
+    {
+      "id": "p270",
+      "doknr": "BJNR002190897BJNE006501140",
+      "label": "§ 270"
+    },
+    {
+      "id": "p271",
+      "doknr": "BJNR002190897BJNE006604360",
+      "label": "§ 271"
+    },
+    {
+      "id": "p272",
+      "doknr": "BJNR002190897BJNE006705123",
+      "label": "§ 272"
+    },
+    {
+      "id": "p273",
+      "doknr": "BJNR002190897BJNE006801140",
+      "label": "§ 273"
+    },
+    {
+      "id": "p274",
+      "doknr": "BJNR002190897BJNE006902360",
+      "label": "§ 274"
+    },
+    {
+      "id": "p274a",
+      "doknr": "BJNR002190897BJNE086603360",
+      "label": "§ 274a"
+    },
+    {
+      "id": "p275",
+      "doknr": "BJNR002190897BJNE007003360",
+      "label": "§ 275"
+    },
+    {
+      "id": "p276",
+      "doknr": "BJNR002190897BJNE007103360",
+      "label": "§ 276"
+    },
+    {
+      "id": "p277",
+      "doknr": "BJNR002190897BJNE007202360",
+      "label": "§ 277"
+    },
+    {
+      "id": "p278",
+      "doknr": "BJNR002190897BJNE007302360",
+      "label": "§ 278"
+    },
+    {
+      "id": "p279-283",
+      "doknr": "BJNR002190897BJNE007401140",
+      "label": "(XXXX) §§ 279 bis 283"
+    },
+    {
+      "id": "p284",
+      "doknr": "BJNR002190897BJNE007902360",
+      "label": "§ 284"
+    },
+    {
+      "id": "p285",
+      "doknr": "BJNR002190897BJNE008016360",
+      "label": "§ 285"
+    },
+    {
+      "id": "p286",
+      "doknr": "BJNR002190897BJNE008109360",
+      "label": "§ 286"
+    },
+    {
+      "id": "p287",
+      "doknr": "BJNR002190897BJNE008204140",
+      "label": "§ 287"
+    },
+    {
+      "id": "p288",
+      "doknr": "BJNR002190897BJNE008305360",
+      "label": "§ 288"
+    },
+    {
+      "id": "p289",
+      "doknr": "BJNR002190897BJNE008411360",
+      "label": "§ 289"
+    },
+    {
+      "id": "p289a",
+      "doknr": "BJNR002190897BJNE112902360",
+      "label": "§ 289a"
+    },
+    {
+      "id": "p289b",
+      "doknr": "BJNR002190897BJNE113001123",
+      "label": "§ 289b"
+    },
+    {
+      "id": "p289c",
+      "doknr": "BJNR002190897BJNE113100123",
+      "label": "§ 289c"
+    },
+    {
+      "id": "p289d",
+      "doknr": "BJNR002190897BJNE113200123",
+      "label": "§ 289d"
+    },
+    {
+      "id": "p289e",
+      "doknr": "BJNR002190897BJNE113300123",
+      "label": "§ 289e"
+    },
+    {
+      "id": "p289f",
+      "doknr": "BJNR002190897BJNE100106360",
+      "label": "§ 289f"
+    },
+    {
+      "id": "p290",
+      "doknr": "BJNR002190897BJNE008506360",
+      "label": "§ 290"
+    },
+    {
+      "id": "p291",
+      "doknr": "BJNR002190897BJNE008610360",
+      "label": "§ 291"
+    },
+    {
+      "id": "p292",
+      "doknr": "BJNR002190897BJNE008712360",
+      "label": "§ 292"
+    },
+    {
+      "id": "p292a",
+      "doknr": "BJNR002190897BJNE086902277",
+      "label": "§ 292a"
+    },
+    {
+      "id": "p293",
+      "doknr": "BJNR002190897BJNE008811360",
+      "label": "§ 293"
+    },
+    {
+      "id": "p294",
+      "doknr": "BJNR002190897BJNE008904123",
+      "label": "§ 294"
+    },
+    {
+      "id": "p295",
+      "doknr": "BJNR002190897BJNE009001377",
+      "label": "§ 295"
+    },
+    {
+      "id": "p296",
+      "doknr": "BJNR002190897BJNE009101360",
+      "label": "§ 296"
+    },
+    {
+      "id": "p297",
+      "doknr": "BJNR002190897BJNE009209360",
+      "label": "§ 297"
+    },
+    {
+      "id": "p298",
+      "doknr": "BJNR002190897BJNE009304360",
+      "label": "§ 298"
+    },
+    {
+      "id": "p299",
+      "doknr": "BJNR002190897BJNE009401377",
+      "label": "§ 299"
+    },
+    {
+      "id": "p300",
+      "doknr": "BJNR002190897BJNE009502140",
+      "label": "§ 300"
+    },
+    {
+      "id": "p301",
+      "doknr": "BJNR002190897BJNE009603360",
+      "label": "§ 301"
+    },
+    {
+      "id": "p302",
+      "doknr": "BJNR002190897BJNE009702140",
+      "label": "§ 302"
+    },
+    {
+      "id": "p303",
+      "doknr": "BJNR002190897BJNE009800306",
+      "label": "§ 303"
+    },
+    {
+      "id": "p304",
+      "doknr": "BJNR002190897BJNE009901377",
+      "label": "§ 304"
+    },
+    {
+      "id": "p305",
+      "doknr": "BJNR002190897BJNE010000306",
+      "label": "§ 305"
+    },
+    {
+      "id": "p306",
+      "doknr": "BJNR002190897BJNE010102360",
+      "label": "§ 306"
+    },
+    {
+      "id": "p307",
+      "doknr": "BJNR002190897BJNE010202360",
+      "label": "§ 307"
+    },
+    {
+      "id": "p308",
+      "doknr": "BJNR002190897BJNE010301377",
+      "label": "§ 308"
+    },
+    {
+      "id": "p308a",
+      "doknr": "BJNR002190897BJNE100200140",
+      "label": "§ 308a"
+    },
+    {
+      "id": "p309",
+      "doknr": "BJNR002190897BJNE010403360",
+      "label": "§ 309"
+    },
+    {
+      "id": "p310",
+      "doknr": "BJNR002190897BJNE010502360",
+      "label": "§ 310"
+    },
+    {
+      "id": "p311",
+      "doknr": "BJNR002190897BJNE010600306",
+      "label": "§ 311"
+    },
+    {
+      "id": "p312",
+      "doknr": "BJNR002190897BJNE010703119",
+      "label": "§ 312"
+    },
+    {
+      "id": "p313",
+      "doknr": "BJNR002190897BJNE010809360",
+      "label": "§ 313"
+    },
+    {
+      "id": "p314",
+      "doknr": "BJNR002190897BJNE010916360",
+      "label": "§ 314"
+    },
+    {
+      "id": "p315",
+      "doknr": "BJNR002190897BJNE011010360",
+      "label": "§ 315"
+    },
+    {
+      "id": "p315a",
+      "doknr": "BJNR002190897BJNE113402360",
+      "label": "§ 315a"
+    },
+    {
+      "id": "p315b",
+      "doknr": "BJNR002190897BJNE113501123",
+      "label": "§ 315b"
+    },
+    {
+      "id": "p315c",
+      "doknr": "BJNR002190897BJNE113600123",
+      "label": "§ 315c"
+    },
+    {
+      "id": "p315d",
+      "doknr": "BJNR002190897BJNE113700123",
+      "label": "§ 315d"
+    },
+    {
+      "id": "p315e",
+      "doknr": "BJNR002190897BJNE098207360",
+      "label": "§ 315e"
+    },
+    {
+      "id": "p316",
+      "doknr": "BJNR002190897BJNE011102360",
+      "label": "§ 316"
+    },
+    {
+      "id": "p316a",
+      "doknr": "BJNR002190897BJNE113900360",
+      "label": "§ 316a"
+    },
+    {
+      "id": "p317",
+      "doknr": "BJNR002190897BJNE011212360",
+      "label": "§ 317"
+    },
+    {
+      "id": "p318",
+      "doknr": "BJNR002190897BJNE011311360",
+      "label": "§ 318"
+    },
+    {
+      "id": "p319",
+      "doknr": "BJNR002190897BJNE011408123",
+      "label": "§ 319"
+    },
+    {
+      "id": "p319a",
+      "doknr": "BJNR002190897BJNE098303360",
+      "label": "§ 319a"
+    },
+    {
+      "id": "p319b",
+      "doknr": "BJNR002190897BJNE100301360",
+      "label": "§ 319b"
+    },
+    {
+      "id": "p320",
+      "doknr": "BJNR002190897BJNE011505360",
+      "label": "§ 320"
+    },
+    {
+      "id": "p321",
+      "doknr": "BJNR002190897BJNE011606360",
+      "label": "§ 321"
+    },
+    {
+      "id": "p321a",
+      "doknr": "BJNR002190897BJNE098400377",
+      "label": "§ 321a"
+    },
+    {
+      "id": "p322",
+      "doknr": "BJNR002190897BJNE011707360",
+      "label": "§ 322"
+    },
+    {
+      "id": "p323",
+      "doknr": "BJNR002190897BJNE011807360",
+      "label": "§ 323"
+    },
+    {
+      "id": "p324",
+      "doknr": "BJNR002190897BJNE011909360",
+      "label": "§ 324"
+    },
+    {
+      "id": "p324a",
+      "doknr": "BJNR002190897BJNE098500377",
+      "label": "§ 324a"
+    },
+    {
+      "id": "p325",
+      "doknr": "BJNR002190897BJNE012017129",
+      "label": "§ 325"
+    },
+    {
+      "id": "p325a",
+      "doknr": "BJNR002190897BJNE083015360",
+      "label": "§ 325a"
+    },
+    {
+      "id": "p326",
+      "doknr": "BJNR002190897BJNE012106360",
+      "label": "§ 326"
+    },
+    {
+      "id": "p327",
+      "doknr": "BJNR002190897BJNE012206360",
+      "label": "§ 327"
+    },
+    {
+      "id": "p327a",
+      "doknr": "BJNR002190897BJNE099104129",
+      "label": "§ 327a"
+    },
+    {
+      "id": "p328",
+      "doknr": "BJNR002190897BJNE012312360",
+      "label": "§ 328"
+    },
+    {
+      "id": "p329",
+      "doknr": "BJNR002190897BJNE012407129",
+      "label": "§ 329"
+    },
+    {
+      "id": "p330",
+      "doknr": "BJNR002190897BJNE112621360",
+      "label": "§ 330"
+    },
+    {
+      "id": "p331",
+      "doknr": "BJNR002190897BJNE012707360",
+      "label": "§ 331"
+    },
+    {
+      "id": "p331a",
+      "doknr": "BJNR002190897BJNE114000360",
+      "label": "§ 331a"
+    },
+    {
+      "id": "p332",
+      "doknr": "BJNR002190897BJNE012803360",
+      "label": "§ 332"
+    },
+    {
+      "id": "p333",
+      "doknr": "BJNR002190897BJNE012903360",
+      "label": "§ 333"
+    },
+    {
+      "id": "p333a",
+      "doknr": "BJNR002190897BJNE112700123",
+      "label": "§ 333a"
+    },
+    {
+      "id": "p334",
+      "doknr": "BJNR002190897BJNE013017360",
+      "label": "§ 334"
+    },
+    {
+      "id": "p335",
+      "doknr": "BJNR002190897BJNE013122360",
+      "label": "§ 335"
+    },
+    {
+      "id": "p335a",
+      "doknr": "BJNR002190897BJNE097806129",
+      "label": "§ 335a"
+    },
+    {
+      "id": "p335b",
+      "doknr": "BJNR002190897BJNE097904123",
+      "label": "§ 335b"
+    },
+    {
+      "id": "p335c",
+      "doknr": "BJNR002190897BJNE112801360",
+      "label": "§ 335c"
+    },
+    {
+      "id": "p336",
+      "doknr": "BJNR002190897BJNE013209360",
+      "label": "§ 336"
+    },
+    {
+      "id": "p337",
+      "doknr": "BJNR002190897BJNE013303360",
+      "label": "§ 337"
+    },
+    {
+      "id": "p338",
+      "doknr": "BJNR002190897BJNE013407360",
+      "label": "§ 338"
+    },
+    {
+      "id": "p339",
+      "doknr": "BJNR002190897BJNE013510360",
+      "label": "§ 339"
+    },
+    {
+      "id": "p340",
+      "doknr": "BJNR002190897BJNE082918360",
+      "label": "§ 340"
+    },
+    {
+      "id": "p340a",
+      "doknr": "BJNR002190897BJNE099705360",
+      "label": "§ 340a"
+    },
+    {
+      "id": "p340b",
+      "doknr": "BJNR002190897BJNE083101377",
+      "label": "§ 340b"
+    },
+    {
+      "id": "p340c",
+      "doknr": "BJNR002190897BJNE083204360",
+      "label": "§ 340c"
+    },
+    {
+      "id": "p340d",
+      "doknr": "BJNR002190897BJNE083300309",
+      "label": "§ 340d"
+    },
+    {
+      "id": "p340e",
+      "doknr": "BJNR002190897BJNE083403360",
+      "label": "§ 340e"
+    },
+    {
+      "id": "p340f",
+      "doknr": "BJNR002190897BJNE083501140",
+      "label": "§ 340f"
+    },
+    {
+      "id": "p340g",
+      "doknr": "BJNR002190897BJNE083600309",
+      "label": "§ 340g"
+    },
+    {
+      "id": "p340h",
+      "doknr": "BJNR002190897BJNE084402140",
+      "label": "§ 340h"
+    },
+    {
+      "id": "p340i",
+      "doknr": "BJNR002190897BJNE083710360",
+      "label": "§ 340i"
+    },
+    {
+      "id": "p340j",
+      "doknr": "BJNR002190897BJNE084801377",
+      "label": "§ 340j"
+    },
+    {
+      "id": "p340k",
+      "doknr": "BJNR002190897BJNE084611360",
+      "label": "§ 340k"
+    },
+    {
+      "id": "p340l",
+      "doknr": "BJNR002190897BJNE084011360",
+      "label": "§ 340l"
+    },
+    {
+      "id": "p340m",
+      "doknr": "BJNR002190897BJNE084106360",
+      "label": "§ 340m"
+    },
+    {
+      "id": "p340n",
+      "doknr": "BJNR002190897BJNE084218360",
+      "label": "§ 340n"
+    },
+    {
+      "id": "p340o",
+      "doknr": "BJNR002190897BJNE084308360",
+      "label": "§ 340o"
+    },
+    {
+      "id": "p341",
+      "doknr": "BJNR002190897BJNE084906360",
+      "label": "§ 341"
+    },
+    {
+      "id": "p341a",
+      "doknr": "BJNR002190897BJNE085008360",
+      "label": "§ 341a"
+    },
+    {
+      "id": "p341b",
+      "doknr": "BJNR002190897BJNE085104360",
+      "label": "§ 341b"
+    },
+    {
+      "id": "p341c",
+      "doknr": "BJNR002190897BJNE085201360",
+      "label": "§ 341c"
+    },
+    {
+      "id": "p341d",
+      "doknr": "BJNR002190897BJNE085301360",
+      "label": "§ 341d"
+    },
+    {
+      "id": "p341e",
+      "doknr": "BJNR002190897BJNE085402360",
+      "label": "§ 341e"
+    },
+    {
+      "id": "p341f",
+      "doknr": "BJNR002190897BJNE085500307",
+      "label": "§ 341f"
+    },
+    {
+      "id": "p341g",
+      "doknr": "BJNR002190897BJNE085600307",
+      "label": "§ 341g"
+    },
+    {
+      "id": "p341h",
+      "doknr": "BJNR002190897BJNE085700307",
+      "label": "§ 341h"
+    },
+    {
+      "id": "p341i",
+      "doknr": "BJNR002190897BJNE085802377",
+      "label": "§ 341i"
+    },
+    {
+      "id": "p341j",
+      "doknr": "BJNR002190897BJNE085906360",
+      "label": "§ 341j"
+    },
+    {
+      "id": "p341k",
+      "doknr": "BJNR002190897BJNE086004360",
+      "label": "§ 341k"
+    },
+    {
+      "id": "p341l",
+      "doknr": "BJNR002190897BJNE086106360",
+      "label": "§ 341l"
+    },
+    {
+      "id": "p341m",
+      "doknr": "BJNR002190897BJNE086204360",
+      "label": "§ 341m"
+    },
+    {
+      "id": "p341n",
+      "doknr": "BJNR002190897BJNE086317360",
+      "label": "§ 341n"
+    },
+    {
+      "id": "p341o",
+      "doknr": "BJNR002190897BJNE086408360",
+      "label": "§ 341o"
+    },
+    {
+      "id": "p341p",
+      "doknr": "BJNR002190897BJNE098102123",
+      "label": "§ 341p"
+    },
+    {
+      "id": "p341q",
+      "doknr": "BJNR002190897BJNE101700360",
+      "label": "§ 341q"
+    },
+    {
+      "id": "p341r",
+      "doknr": "BJNR002190897BJNE101801119",
+      "label": "§ 341r"
+    },
+    {
+      "id": "p341s",
+      "doknr": "BJNR002190897BJNE101901360",
+      "label": "§ 341s"
+    },
+    {
+      "id": "p341t",
+      "doknr": "BJNR002190897BJNE102000360",
+      "label": "§ 341t"
+    },
+    {
+      "id": "p341u",
+      "doknr": "BJNR002190897BJNE102100360",
+      "label": "§ 341u"
+    },
+    {
+      "id": "p341v",
+      "doknr": "BJNR002190897BJNE102200360",
+      "label": "§ 341v"
+    },
+    {
+      "id": "p341w",
+      "doknr": "BJNR002190897BJNE102303360",
+      "label": "§ 341w"
+    },
+    {
+      "id": "p341x",
+      "doknr": "BJNR002190897BJNE102400360",
+      "label": "§ 341x"
+    },
+    {
+      "id": "p341y",
+      "doknr": "BJNR002190897BJNE102500360",
+      "label": "§ 341y"
+    },
+    {
+      "id": "p342",
+      "doknr": "BJNR002190897BJNE115200360",
+      "label": "§ 342"
+    },
+    {
+      "id": "p342a",
+      "doknr": "BJNR002190897BJNE115300360",
+      "label": "§ 342a"
+    },
+    {
+      "id": "p342b",
+      "doknr": "BJNR002190897BJNE115400360",
+      "label": "§ 342b"
+    },
+    {
+      "id": "p342c",
+      "doknr": "BJNR002190897BJNE115500360",
+      "label": "§ 342c"
+    },
+    {
+      "id": "p342d",
+      "doknr": "BJNR002190897BJNE115600360",
+      "label": "§ 342d"
+    },
+    {
+      "id": "p342e",
+      "doknr": "BJNR002190897BJNE115700360",
+      "label": "§ 342e"
+    },
+    {
+      "id": "p342f",
+      "doknr": "BJNR002190897BJNE115800360",
+      "label": "§ 342f"
+    },
+    {
+      "id": "p342g",
+      "doknr": "BJNR002190897BJNE115900360",
+      "label": "§ 342g"
+    },
+    {
+      "id": "p342h",
+      "doknr": "BJNR002190897BJNE116000360",
+      "label": "§ 342h"
+    },
+    {
+      "id": "p342i",
+      "doknr": "BJNR002190897BJNE116100360",
+      "label": "§ 342i"
+    },
+    {
+      "id": "p342j",
+      "doknr": "BJNR002190897BJNE116200360",
+      "label": "§ 342j"
+    },
+    {
+      "id": "p342k",
+      "doknr": "BJNR002190897BJNE116300360",
+      "label": "§ 342k"
+    },
+    {
+      "id": "p342l",
+      "doknr": "BJNR002190897BJNE116400360",
+      "label": "§ 342l"
+    },
+    {
+      "id": "p342m",
+      "doknr": "BJNR002190897BJNE116500360",
+      "label": "§ 342m"
+    },
+    {
+      "id": "p342n",
+      "doknr": "BJNR002190897BJNE116600360",
+      "label": "§ 342n"
+    },
+    {
+      "id": "p342o",
+      "doknr": "BJNR002190897BJNE116700360",
+      "label": "§ 342o"
+    },
+    {
+      "id": "p342p",
+      "doknr": "BJNR002190897BJNE116800360",
+      "label": "§ 342p"
+    },
+    {
+      "id": "p342q",
+      "doknr": "BJNR002190897BJNE088004360",
+      "label": "§ 342q"
+    },
+    {
+      "id": "p342r",
+      "doknr": "BJNR002190897BJNE088105360",
+      "label": "§ 342r"
+    },
+    {
+      "id": "p343",
+      "doknr": "BJNR002190897BJNE023001307",
+      "label": "§ 343"
+    },
+    {
+      "id": "p344",
+      "doknr": "BJNR002190897BJNE023100300",
+      "label": "§ 344"
+    },
+    {
+      "id": "p345",
+      "doknr": "BJNR002190897BJNE023200300",
+      "label": "§ 345"
+    },
+    {
+      "id": "p346",
+      "doknr": "BJNR002190897BJNE023300300",
+      "label": "§ 346"
+    },
+    {
+      "id": "p347",
+      "doknr": "BJNR002190897BJNE023400300",
+      "label": "§ 347"
+    },
+    {
+      "id": "p348",
+      "doknr": "BJNR002190897BJNE023500300",
+      "label": "§ 348"
+    },
+    {
+      "id": "p349",
+      "doknr": "BJNR002190897BJNE023600300",
+      "label": "§ 349"
+    },
+    {
+      "id": "p350",
+      "doknr": "BJNR002190897BJNE023701377",
+      "label": "§ 350"
+    },
+    {
+      "id": "p351",
+      "doknr": "BJNR002190897BJNE023801307",
+      "label": "§ 351"
+    },
+    {
+      "id": "p352",
+      "doknr": "BJNR002190897BJNE023901305",
+      "label": "§ 352"
+    },
+    {
+      "id": "p353",
+      "doknr": "BJNR002190897BJNE024000300",
+      "label": "§ 353"
+    },
+    {
+      "id": "p354",
+      "doknr": "BJNR002190897BJNE024100300",
+      "label": "§ 354"
+    },
+    {
+      "id": "p354a",
+      "doknr": "BJNR002190897BJNE086701140",
+      "label": "§ 354a"
+    },
+    {
+      "id": "p355",
+      "doknr": "BJNR002190897BJNE024200300",
+      "label": "§ 355"
+    },
+    {
+      "id": "p356",
+      "doknr": "BJNR002190897BJNE024300300",
+      "label": "§ 356"
+    },
+    {
+      "id": "p357",
+      "doknr": "BJNR002190897BJNE024400300",
+      "label": "§ 357"
+    },
+    {
+      "id": "p358",
+      "doknr": "BJNR002190897BJNE024500300",
+      "label": "§ 358"
+    },
+    {
+      "id": "p359",
+      "doknr": "BJNR002190897BJNE024600300",
+      "label": "§ 359"
+    },
+    {
+      "id": "p360",
+      "doknr": "BJNR002190897BJNE024700300",
+      "label": "§ 360"
+    },
+    {
+      "id": "p361",
+      "doknr": "BJNR002190897BJNE024800300",
+      "label": "§ 361"
+    },
+    {
+      "id": "p362",
+      "doknr": "BJNR002190897BJNE024900300",
+      "label": "§ 362"
+    },
+    {
+      "id": "p363",
+      "doknr": "BJNR002190897BJNE025002125",
+      "label": "§ 363"
+    },
+    {
+      "id": "p364",
+      "doknr": "BJNR002190897BJNE025100300",
+      "label": "§ 364"
+    },
+    {
+      "id": "p365",
+      "doknr": "BJNR002190897BJNE025201360",
+      "label": "§ 365"
+    },
+    {
+      "id": "p365a",
+      "doknr": "BJNR002190897BJNE115100360",
+      "label": "§ 365a"
+    },
+    {
+      "id": "p366",
+      "doknr": "BJNR002190897BJNE025302377",
+      "label": "§ 366"
+    },
+    {
+      "id": "p367",
+      "doknr": "BJNR002190897BJNE025403360",
+      "label": "§ 367"
+    },
+    {
+      "id": "p368",
+      "doknr": "BJNR002190897BJNE025501377",
+      "label": "§ 368"
+    },
+    {
+      "id": "p369",
+      "doknr": "BJNR002190897BJNE025600300",
+      "label": "§ 369"
+    },
+    {
+      "id": "p370",
+      "doknr": "BJNR002190897BJNE025701307",
+      "label": "§ 370"
+    },
+    {
+      "id": "p371",
+      "doknr": "BJNR002190897BJNE025800300",
+      "label": "§ 371"
+    },
+    {
+      "id": "p372",
+      "doknr": "BJNR002190897BJNE025900300",
+      "label": "§ 372"
+    },
+    {
+      "id": "p373",
+      "doknr": "BJNR002190897BJNE026101125",
+      "label": "§ 373"
+    },
+    {
+      "id": "p374",
+      "doknr": "BJNR002190897BJNE026200300",
+      "label": "§ 374"
+    },
+    {
+      "id": "p375",
+      "doknr": "BJNR002190897BJNE026301377",
+      "label": "§ 375"
+    },
+    {
+      "id": "p376",
+      "doknr": "BJNR002190897BJNE026400300",
+      "label": "§ 376"
+    },
+    {
+      "id": "p377",
+      "doknr": "BJNR002190897BJNE026500300",
+      "label": "§ 377"
+    },
+    {
+      "id": "p378",
+      "doknr": "BJNR002190897BJNE026601377",
+      "label": "§ 378"
+    },
+    {
+      "id": "p379",
+      "doknr": "BJNR002190897BJNE026700300",
+      "label": "§ 379"
+    },
+    {
+      "id": "p380",
+      "doknr": "BJNR002190897BJNE026800300",
+      "label": "§ 380"
+    },
+    {
+      "id": "p381",
+      "doknr": "BJNR002190897BJNE026901377",
+      "label": "§ 381"
+    },
+    {
+      "id": "p382",
+      "doknr": "BJNR002190897BJNE027001377",
+      "label": "§ 382"
+    },
+    {
+      "id": "p383",
+      "doknr": "BJNR002190897BJNE027201307",
+      "label": "§ 383"
+    },
+    {
+      "id": "p384",
+      "doknr": "BJNR002190897BJNE027300300",
+      "label": "§ 384"
+    },
+    {
+      "id": "p385",
+      "doknr": "BJNR002190897BJNE027400300",
+      "label": "§ 385"
+    },
+    {
+      "id": "p386",
+      "doknr": "BJNR002190897BJNE027500300",
+      "label": "§ 386"
+    },
+    {
+      "id": "p387",
+      "doknr": "BJNR002190897BJNE027600300",
+      "label": "§ 387"
+    },
+    {
+      "id": "p388",
+      "doknr": "BJNR002190897BJNE027700300",
+      "label": "§ 388"
+    },
+    {
+      "id": "p389",
+      "doknr": "BJNR002190897BJNE027800300",
+      "label": "§ 389"
+    },
+    {
+      "id": "p390",
+      "doknr": "BJNR002190897BJNE027900300",
+      "label": "§ 390"
+    },
+    {
+      "id": "p391",
+      "doknr": "BJNR002190897BJNE028000300",
+      "label": "§ 391"
+    },
+    {
+      "id": "p392",
+      "doknr": "BJNR002190897BJNE028100300",
+      "label": "§ 392"
+    },
+    {
+      "id": "p393",
+      "doknr": "BJNR002190897BJNE028200300",
+      "label": "§ 393"
+    },
+    {
+      "id": "p394",
+      "doknr": "BJNR002190897BJNE028300300",
+      "label": "§ 394"
+    },
+    {
+      "id": "p395",
+      "doknr": "BJNR002190897BJNE028400300",
+      "label": "§ 395"
+    },
+    {
+      "id": "p396",
+      "doknr": "BJNR002190897BJNE028500300",
+      "label": "§ 396"
+    },
+    {
+      "id": "p397",
+      "doknr": "BJNR002190897BJNE028601377",
+      "label": "§ 397"
+    },
+    {
+      "id": "p398",
+      "doknr": "BJNR002190897BJNE028700300",
+      "label": "§ 398"
+    },
+    {
+      "id": "p399",
+      "doknr": "BJNR002190897BJNE028800300",
+      "label": "§ 399"
+    },
+    {
+      "id": "p400",
+      "doknr": "BJNR002190897BJNE028900300",
+      "label": "§ 400"
+    },
+    {
+      "id": "p401",
+      "doknr": "BJNR002190897BJNE029000300",
+      "label": "§ 401"
+    },
+    {
+      "id": "p402",
+      "doknr": "BJNR002190897BJNE029100300",
+      "label": "§ 402"
+    },
+    {
+      "id": "p403",
+      "doknr": "BJNR002190897BJNE029200300",
+      "label": "§ 403"
+    },
+    {
+      "id": "p404",
+      "doknr": "BJNR002190897BJNE029300300",
+      "label": "§ 404"
+    },
+    {
+      "id": "p405",
+      "doknr": "BJNR002190897BJNE029400300",
+      "label": "§ 405"
+    },
+    {
+      "id": "p406",
+      "doknr": "BJNR002190897BJNE029500300",
+      "label": "§ 406"
+    },
+    {
+      "id": "p407",
+      "doknr": "BJNR002190897BJNE088300307",
+      "label": "§ 407"
+    },
+    {
+      "id": "p408",
+      "doknr": "BJNR002190897BJNE088404360",
+      "label": "§ 408"
+    },
+    {
+      "id": "p409",
+      "doknr": "BJNR002190897BJNE088500307",
+      "label": "§ 409"
+    },
+    {
+      "id": "p410",
+      "doknr": "BJNR002190897BJNE088601377",
+      "label": "§ 410"
+    },
+    {
+      "id": "p411",
+      "doknr": "BJNR002190897BJNE088701377",
+      "label": "§ 411"
+    },
+    {
+      "id": "p412",
+      "doknr": "BJNR002190897BJNE088805360",
+      "label": "§ 412"
+    },
+    {
+      "id": "p413",
+      "doknr": "BJNR002190897BJNE088901377",
+      "label": "§ 413"
+    },
+    {
+      "id": "p414",
+      "doknr": "BJNR002190897BJNE089002377",
+      "label": "§ 414"
+    },
+    {
+      "id": "p415",
+      "doknr": "BJNR002190897BJNE089100307",
+      "label": "§ 415"
+    },
+    {
+      "id": "p416",
+      "doknr": "BJNR002190897BJNE089201377",
+      "label": "§ 416"
+    },
+    {
+      "id": "p417",
+      "doknr": "BJNR002190897BJNE089302377",
+      "label": "§ 417"
+    },
+    {
+      "id": "p418",
+      "doknr": "BJNR002190897BJNE089401377",
+      "label": "§ 418"
+    },
+    {
+      "id": "p419",
+      "doknr": "BJNR002190897BJNE089501377",
+      "label": "§ 419"
+    },
+    {
+      "id": "p420",
+      "doknr": "BJNR002190897BJNE089601377",
+      "label": "§ 420"
+    },
+    {
+      "id": "p421",
+      "doknr": "BJNR002190897BJNE089701377",
+      "label": "§ 421"
+    },
+    {
+      "id": "p422",
+      "doknr": "BJNR002190897BJNE089800307",
+      "label": "§ 422"
+    },
+    {
+      "id": "p423",
+      "doknr": "BJNR002190897BJNE089900307",
+      "label": "§ 423"
+    },
+    {
+      "id": "p424",
+      "doknr": "BJNR002190897BJNE090000307",
+      "label": "§ 424"
+    },
+    {
+      "id": "p425",
+      "doknr": "BJNR002190897BJNE090100307",
+      "label": "§ 425"
+    },
+    {
+      "id": "p426",
+      "doknr": "BJNR002190897BJNE090200307",
+      "label": "§ 426"
+    },
+    {
+      "id": "p427",
+      "doknr": "BJNR002190897BJNE090300307",
+      "label": "§ 427"
+    },
+    {
+      "id": "p428",
+      "doknr": "BJNR002190897BJNE090400307",
+      "label": "§ 428"
+    },
+    {
+      "id": "p429",
+      "doknr": "BJNR002190897BJNE090500307",
+      "label": "§ 429"
+    },
+    {
+      "id": "p430",
+      "doknr": "BJNR002190897BJNE090600307",
+      "label": "§ 430"
+    },
+    {
+      "id": "p431",
+      "doknr": "BJNR002190897BJNE090702377",
+      "label": "§ 431"
+    },
+    {
+      "id": "p432",
+      "doknr": "BJNR002190897BJNE090800307",
+      "label": "§ 432"
+    },
+    {
+      "id": "p433",
+      "doknr": "BJNR002190897BJNE090900307",
+      "label": "§ 433"
+    },
+    {
+      "id": "p434",
+      "doknr": "BJNR002190897BJNE091001377",
+      "label": "§ 434"
+    },
+    {
+      "id": "p435",
+      "doknr": "BJNR002190897BJNE091100307",
+      "label": "§ 435"
+    },
+    {
+      "id": "p436",
+      "doknr": "BJNR002190897BJNE091200307",
+      "label": "§ 436"
+    },
+    {
+      "id": "p437",
+      "doknr": "BJNR002190897BJNE091302125",
+      "label": "§ 437"
+    },
+    {
+      "id": "p438",
+      "doknr": "BJNR002190897BJNE091402377",
+      "label": "§ 438"
+    },
+    {
+      "id": "p439",
+      "doknr": "BJNR002190897BJNE091501377",
+      "label": "§ 439"
+    },
+    {
+      "id": "p440",
+      "doknr": "BJNR002190897BJNE091701377",
+      "label": "§ 440"
+    },
+    {
+      "id": "p441",
+      "doknr": "BJNR002190897BJNE091801377",
+      "label": "§ 441"
+    },
+    {
+      "id": "p442",
+      "doknr": "BJNR002190897BJNE091901377",
+      "label": "§ 442"
+    },
+    {
+      "id": "p443",
+      "doknr": "BJNR002190897BJNE092004360",
+      "label": "§ 443"
+    },
+    {
+      "id": "p444",
+      "doknr": "BJNR002190897BJNE100500377",
+      "label": "§ 444"
+    },
+    {
+      "id": "p445",
+      "doknr": "BJNR002190897BJNE092101377",
+      "label": "§ 445"
+    },
+    {
+      "id": "p446",
+      "doknr": "BJNR002190897BJNE092201377",
+      "label": "§ 446"
+    },
+    {
+      "id": "p447",
+      "doknr": "BJNR002190897BJNE092301377",
+      "label": "§ 447"
+    },
+    {
+      "id": "p448",
+      "doknr": "BJNR002190897BJNE092401377",
+      "label": "§ 448"
+    },
+    {
+      "id": "p449",
+      "doknr": "BJNR002190897BJNE092502377",
+      "label": "§ 449"
+    },
+    {
+      "id": "p450",
+      "doknr": "BJNR002190897BJNE092600307",
+      "label": "§ 450"
+    },
+    {
+      "id": "p451",
+      "doknr": "BJNR002190897BJNE092700307",
+      "label": "§ 451"
+    },
+    {
+      "id": "p451a",
+      "doknr": "BJNR002190897BJNE092801305",
+      "label": "§ 451a"
+    },
+    {
+      "id": "p451b",
+      "doknr": "BJNR002190897BJNE092901305",
+      "label": "§ 451b"
+    },
+    {
+      "id": "p451c",
+      "doknr": "BJNR002190897BJNE093002377",
+      "label": "§ 451c"
+    },
+    {
+      "id": "p451d",
+      "doknr": "BJNR002190897BJNE093100307",
+      "label": "§ 451d"
+    },
+    {
+      "id": "p451e",
+      "doknr": "BJNR002190897BJNE093201377",
+      "label": "§ 451e"
+    },
+    {
+      "id": "p451f",
+      "doknr": "BJNR002190897BJNE093300307",
+      "label": "§ 451f"
+    },
+    {
+      "id": "p451g",
+      "doknr": "BJNR002190897BJNE093401305",
+      "label": "§ 451g"
+    },
+    {
+      "id": "p451h",
+      "doknr": "BJNR002190897BJNE093502377",
+      "label": "§ 451h"
+    },
+    {
+      "id": "p452",
+      "doknr": "BJNR002190897BJNE093601377",
+      "label": "§ 452"
+    },
+    {
+      "id": "p452a",
+      "doknr": "BJNR002190897BJNE093700307",
+      "label": "§ 452a"
+    },
+    {
+      "id": "p452b",
+      "doknr": "BJNR002190897BJNE093800307",
+      "label": "§ 452b"
+    },
+    {
+      "id": "p452c",
+      "doknr": "BJNR002190897BJNE093900307",
+      "label": "§ 452c"
+    },
+    {
+      "id": "p452d",
+      "doknr": "BJNR002190897BJNE094000307",
+      "label": "§ 452d"
+    },
+    {
+      "id": "p453",
+      "doknr": "BJNR002190897BJNE094100307",
+      "label": "§ 453"
+    },
+    {
+      "id": "p454",
+      "doknr": "BJNR002190897BJNE094200307",
+      "label": "§ 454"
+    },
+    {
+      "id": "p455",
+      "doknr": "BJNR002190897BJNE094303377",
+      "label": "§ 455"
+    },
+    {
+      "id": "p456",
+      "doknr": "BJNR002190897BJNE094400307",
+      "label": "§ 456"
+    },
+    {
+      "id": "p457",
+      "doknr": "BJNR002190897BJNE094500307",
+      "label": "§ 457"
+    },
+    {
+      "id": "p458",
+      "doknr": "BJNR002190897BJNE094600307",
+      "label": "§ 458"
+    },
+    {
+      "id": "p459",
+      "doknr": "BJNR002190897BJNE094700307",
+      "label": "§ 459"
+    },
+    {
+      "id": "p460",
+      "doknr": "BJNR002190897BJNE094800307",
+      "label": "§ 460"
+    },
+    {
+      "id": "p461",
+      "doknr": "BJNR002190897BJNE094900307",
+      "label": "§ 461"
+    },
+    {
+      "id": "p462",
+      "doknr": "BJNR002190897BJNE095000307",
+      "label": "§ 462"
+    },
+    {
+      "id": "p463",
+      "doknr": "BJNR002190897BJNE095100307",
+      "label": "§ 463"
+    },
+    {
+      "id": "p464",
+      "doknr": "BJNR002190897BJNE095201377",
+      "label": "§ 464"
+    },
+    {
+      "id": "p465",
+      "doknr": "BJNR002190897BJNE095301377",
+      "label": "§ 465"
+    },
+    {
+      "id": "p466",
+      "doknr": "BJNR002190897BJNE095402377",
+      "label": "§ 466"
+    },
+    {
+      "id": "p467",
+      "doknr": "BJNR002190897BJNE095501125",
+      "label": "§ 467"
+    },
+    {
+      "id": "p468",
+      "doknr": "BJNR002190897BJNE095604125",
+      "label": "§ 468"
+    },
+    {
+      "id": "p469",
+      "doknr": "BJNR002190897BJNE095700307",
+      "label": "§ 469"
+    },
+    {
+      "id": "p470",
+      "doknr": "BJNR002190897BJNE095800307",
+      "label": "§ 470"
+    },
+    {
+      "id": "p471",
+      "doknr": "BJNR002190897BJNE095900307",
+      "label": "§ 471"
+    },
+    {
+      "id": "p472",
+      "doknr": "BJNR002190897BJNE096001305",
+      "label": "§ 472"
+    },
+    {
+      "id": "p473",
+      "doknr": "BJNR002190897BJNE096100307",
+      "label": "§ 473"
+    },
+    {
+      "id": "p474",
+      "doknr": "BJNR002190897BJNE096200307",
+      "label": "§ 474"
+    },
+    {
+      "id": "p475",
+      "doknr": "BJNR002190897BJNE096300307",
+      "label": "§ 475"
+    },
+    {
+      "id": "p475a",
+      "doknr": "BJNR002190897BJNE096400307",
+      "label": "§ 475a"
+    },
+    {
+      "id": "p475b",
+      "doknr": "BJNR002190897BJNE096501377",
+      "label": "§ 475b"
+    },
+    {
+      "id": "p475c",
+      "doknr": "BJNR002190897BJNE096604360",
+      "label": "§ 475c"
+    },
+    {
+      "id": "p475d",
+      "doknr": "BJNR002190897BJNE096701377",
+      "label": "§ 475d"
+    },
+    {
+      "id": "p475e",
+      "doknr": "BJNR002190897BJNE096801377",
+      "label": "§ 475e"
+    },
+    {
+      "id": "p475f",
+      "doknr": "BJNR002190897BJNE096901377",
+      "label": "§ 475f"
+    },
+    {
+      "id": "p475g",
+      "doknr": "BJNR002190897BJNE097001377",
+      "label": "§ 475g"
+    },
+    {
+      "id": "p475h",
+      "doknr": "BJNR002190897BJNE097102377",
+      "label": "§ 475h"
+    },
+    {
+      "id": "p476",
+      "doknr": "BJNR002190897BJNE038604377",
+      "label": "§ 476"
+    },
+    {
+      "id": "p477",
+      "doknr": "BJNR002190897BJNE038701377",
+      "label": "§ 477"
+    },
+    {
+      "id": "p478",
+      "doknr": "BJNR002190897BJNE038801377",
+      "label": "§ 478"
+    },
+    {
+      "id": "p479",
+      "doknr": "BJNR002190897BJNE038902377",
+      "label": "§ 479"
+    },
+    {
+      "id": "p480",
+      "doknr": "BJNR002190897BJNE039001377",
+      "label": "§ 480"
+    },
+    {
+      "id": "p481",
+      "doknr": "BJNR002190897BJNE039101377",
+      "label": "§ 481"
+    },
+    {
+      "id": "p482",
+      "doknr": "BJNR002190897BJNE039201377",
+      "label": "§ 482"
+    },
+    {
+      "id": "p483",
+      "doknr": "BJNR002190897BJNE039302377",
+      "label": "§ 483"
+    },
+    {
+      "id": "p484",
+      "doknr": "BJNR002190897BJNE039401377",
+      "label": "§ 484"
+    },
+    {
+      "id": "p485",
+      "doknr": "BJNR002190897BJNE039502377",
+      "label": "§ 485"
+    },
+    {
+      "id": "p486",
+      "doknr": "BJNR002190897BJNE079705125",
+      "label": "§ 486"
+    },
+    {
+      "id": "p487",
+      "doknr": "BJNR002190897BJNE079801377",
+      "label": "§ 487"
+    },
+    {
+      "id": "p488",
+      "doknr": "BJNR002190897BJNE040201377",
+      "label": "§ 488"
+    },
+    {
+      "id": "p489",
+      "doknr": "BJNR002190897BJNE040301377",
+      "label": "§ 489"
+    },
+    {
+      "id": "p490",
+      "doknr": "BJNR002190897BJNE040401377",
+      "label": "§ 490"
+    },
+    {
+      "id": "p491",
+      "doknr": "BJNR002190897BJNE040501377",
+      "label": "§ 491"
+    },
+    {
+      "id": "p492",
+      "doknr": "BJNR002190897BJNE040601377",
+      "label": "§ 492"
+    },
+    {
+      "id": "p493",
+      "doknr": "BJNR002190897BJNE040701377",
+      "label": "§ 493"
+    },
+    {
+      "id": "p494",
+      "doknr": "BJNR002190897BJNE040801377",
+      "label": "§ 494"
+    },
+    {
+      "id": "p495",
+      "doknr": "BJNR002190897BJNE040901377",
+      "label": "§ 495"
+    },
+    {
+      "id": "p496",
+      "doknr": "BJNR002190897BJNE041001377",
+      "label": "§ 496"
+    },
+    {
+      "id": "p497",
+      "doknr": "BJNR002190897BJNE041101377",
+      "label": "§ 497"
+    },
+    {
+      "id": "p498",
+      "doknr": "BJNR002190897BJNE041201377",
+      "label": "§ 498"
+    },
+    {
+      "id": "p499",
+      "doknr": "BJNR002190897BJNE041301377",
+      "label": "§ 499"
+    },
+    {
+      "id": "p500",
+      "doknr": "BJNR002190897BJNE041401377",
+      "label": "§ 500"
+    },
+    {
+      "id": "p501",
+      "doknr": "BJNR002190897BJNE041502377",
+      "label": "§ 501"
+    },
+    {
+      "id": "p502",
+      "doknr": "BJNR002190897BJNE041601377",
+      "label": "§ 502"
+    },
+    {
+      "id": "p503",
+      "doknr": "BJNR002190897BJNE041701377",
+      "label": "§ 503"
+    },
+    {
+      "id": "p504",
+      "doknr": "BJNR002190897BJNE041801377",
+      "label": "§ 504"
+    },
+    {
+      "id": "p505",
+      "doknr": "BJNR002190897BJNE041902377",
+      "label": "§ 505"
+    },
+    {
+      "id": "p506",
+      "doknr": "BJNR002190897BJNE042001377",
+      "label": "§ 506"
+    },
+    {
+      "id": "p507",
+      "doknr": "BJNR002190897BJNE042101377",
+      "label": "§ 507"
+    },
+    {
+      "id": "p508",
+      "doknr": "BJNR002190897BJNE042201377",
+      "label": "§ 508"
+    },
+    {
+      "id": "p509",
+      "doknr": "BJNR002190897BJNE042302125",
+      "label": "§ 509"
+    },
+    {
+      "id": "p510",
+      "doknr": "BJNR002190897BJNE042401377",
+      "label": "§ 510"
+    },
+    {
+      "id": "p511",
+      "doknr": "BJNR002190897BJNE042501377",
+      "label": "§ 511"
+    },
+    {
+      "id": "p512",
+      "doknr": "BJNR002190897BJNE042601377",
+      "label": "§ 512"
+    },
+    {
+      "id": "p513",
+      "doknr": "BJNR002190897BJNE042701377",
+      "label": "§ 513"
+    },
+    {
+      "id": "p514",
+      "doknr": "BJNR002190897BJNE042801377",
+      "label": "§ 514"
+    },
+    {
+      "id": "p515",
+      "doknr": "BJNR002190897BJNE042901377",
+      "label": "§ 515"
+    },
+    {
+      "id": "p516",
+      "doknr": "BJNR002190897BJNE043004360",
+      "label": "§ 516"
+    },
+    {
+      "id": "p517",
+      "doknr": "BJNR002190897BJNE043101377",
+      "label": "§ 517"
+    },
+    {
+      "id": "p518",
+      "doknr": "BJNR002190897BJNE043201377",
+      "label": "§ 518"
+    },
+    {
+      "id": "p519",
+      "doknr": "BJNR002190897BJNE043301377",
+      "label": "§ 519"
+    },
+    {
+      "id": "p520",
+      "doknr": "BJNR002190897BJNE043401377",
+      "label": "§ 520"
+    },
+    {
+      "id": "p521",
+      "doknr": "BJNR002190897BJNE043501377",
+      "label": "§ 521"
+    },
+    {
+      "id": "p522",
+      "doknr": "BJNR002190897BJNE043602377",
+      "label": "§ 522"
+    },
+    {
+      "id": "p523",
+      "doknr": "BJNR002190897BJNE043701377",
+      "label": "§ 523"
+    },
+    {
+      "id": "p524",
+      "doknr": "BJNR002190897BJNE043801377",
+      "label": "§ 524"
+    },
+    {
+      "id": "p525",
+      "doknr": "BJNR002190897BJNE043901377",
+      "label": "§ 525"
+    },
+    {
+      "id": "p526",
+      "doknr": "BJNR002190897BJNE044004360",
+      "label": "§ 526"
+    },
+    {
+      "id": "p527",
+      "doknr": "BJNR002190897BJNE044101377",
+      "label": "§ 527"
+    },
+    {
+      "id": "p528",
+      "doknr": "BJNR002190897BJNE044201377",
+      "label": "§ 528"
+    },
+    {
+      "id": "p529",
+      "doknr": "BJNR002190897BJNE100600377",
+      "label": "§ 529"
+    },
+    {
+      "id": "p530",
+      "doknr": "BJNR002190897BJNE100700377",
+      "label": "§ 530"
+    },
+    {
+      "id": "p531",
+      "doknr": "BJNR002190897BJNE044401377",
+      "label": "§ 531"
+    },
+    {
+      "id": "p532",
+      "doknr": "BJNR002190897BJNE044501377",
+      "label": "§ 532"
+    },
+    {
+      "id": "p533",
+      "doknr": "BJNR002190897BJNE044601377",
+      "label": "§ 533"
+    },
+    {
+      "id": "p534",
+      "doknr": "BJNR002190897BJNE044701377",
+      "label": "§ 534"
+    },
+    {
+      "id": "p535",
+      "doknr": "BJNR002190897BJNE044801377",
+      "label": "§ 535"
+    },
+    {
+      "id": "p536",
+      "doknr": "BJNR002190897BJNE044902123",
+      "label": "§ 536"
+    },
+    {
+      "id": "p537",
+      "doknr": "BJNR002190897BJNE045001377",
+      "label": "§ 537"
+    },
+    {
+      "id": "p538",
+      "doknr": "BJNR002190897BJNE045101377",
+      "label": "§ 538"
+    },
+    {
+      "id": "p539",
+      "doknr": "BJNR002190897BJNE045201377",
+      "label": "§ 539"
+    },
+    {
+      "id": "p540",
+      "doknr": "BJNR002190897BJNE045301377",
+      "label": "§ 540"
+    },
+    {
+      "id": "p541",
+      "doknr": "BJNR002190897BJNE045401377",
+      "label": "§ 541"
+    },
+    {
+      "id": "p542",
+      "doknr": "BJNR002190897BJNE045501377",
+      "label": "§ 542"
+    },
+    {
+      "id": "p543",
+      "doknr": "BJNR002190897BJNE045601377",
+      "label": "§ 543"
+    },
+    {
+      "id": "p544",
+      "doknr": "BJNR002190897BJNE045701377",
+      "label": "§ 544"
+    },
+    {
+      "id": "p545",
+      "doknr": "BJNR002190897BJNE045801377",
+      "label": "§ 545"
+    },
+    {
+      "id": "p546",
+      "doknr": "BJNR002190897BJNE100801125",
+      "label": "§ 546"
+    },
+    {
+      "id": "p547",
+      "doknr": "BJNR002190897BJNE100900377",
+      "label": "§ 547"
+    },
+    {
+      "id": "p548",
+      "doknr": "BJNR002190897BJNE101000377",
+      "label": "§ 548"
+    },
+    {
+      "id": "p549",
+      "doknr": "BJNR002190897BJNE101100377",
+      "label": "§ 549"
+    },
+    {
+      "id": "p550",
+      "doknr": "BJNR002190897BJNE101200377",
+      "label": "§ 550"
+    },
+    {
+      "id": "p551",
+      "doknr": "BJNR002190897BJNE101300377",
+      "label": "§ 551"
+    },
+    {
+      "id": "p552",
+      "doknr": "BJNR002190897BJNE046001377",
+      "label": "§ 552"
+    },
+    {
+      "id": "p553",
+      "doknr": "BJNR002190897BJNE101400377",
+      "label": "§ 553"
+    },
+    {
+      "id": "p554",
+      "doknr": "BJNR002190897BJNE101500377",
+      "label": "§ 554"
+    },
+    {
+      "id": "p555",
+      "doknr": "BJNR002190897BJNE046201377",
+      "label": "§ 555"
+    },
+    {
+      "id": "p556",
+      "doknr": "BJNR002190897BJNE046301377",
+      "label": "§ 556"
+    },
+    {
+      "id": "p557",
+      "doknr": "BJNR002190897BJNE046401377",
+      "label": "§ 557"
+    },
+    {
+      "id": "p558",
+      "doknr": "BJNR002190897BJNE046501377",
+      "label": "§ 558"
+    },
+    {
+      "id": "p559",
+      "doknr": "BJNR002190897BJNE046601377",
+      "label": "§ 559"
+    },
+    {
+      "id": "p560",
+      "doknr": "BJNR002190897BJNE046701377",
+      "label": "§ 560"
+    },
+    {
+      "id": "p561",
+      "doknr": "BJNR002190897BJNE046801377",
+      "label": "§ 561"
+    },
+    {
+      "id": "p562",
+      "doknr": "BJNR002190897BJNE046901377",
+      "label": "§ 562"
+    },
+    {
+      "id": "p563",
+      "doknr": "BJNR002190897BJNE047001377",
+      "label": "§ 563"
+    },
+    {
+      "id": "p564",
+      "doknr": "BJNR002190897BJNE047101377",
+      "label": "§ 564"
+    },
+    {
+      "id": "p565",
+      "doknr": "BJNR002190897BJNE047501377",
+      "label": "§ 565"
+    },
+    {
+      "id": "p566",
+      "doknr": "BJNR002190897BJNE047601377",
+      "label": "§ 566"
+    },
+    {
+      "id": "p567",
+      "doknr": "BJNR002190897BJNE047701377",
+      "label": "§ 567"
+    },
+    {
+      "id": "p568",
+      "doknr": "BJNR002190897BJNE047801377",
+      "label": "§ 568"
+    },
+    {
+      "id": "p569",
+      "doknr": "BJNR002190897BJNE047901377",
+      "label": "§ 569"
+    },
+    {
+      "id": "p570",
+      "doknr": "BJNR002190897BJNE048001377",
+      "label": "§ 570"
+    },
+    {
+      "id": "p571",
+      "doknr": "BJNR002190897BJNE048101377",
+      "label": "§ 571"
+    },
+    {
+      "id": "p572",
+      "doknr": "BJNR002190897BJNE048201377",
+      "label": "§ 572"
+    },
+    {
+      "id": "p573",
+      "doknr": "BJNR002190897BJNE048301377",
+      "label": "§ 573"
+    },
+    {
+      "id": "p574",
+      "doknr": "BJNR002190897BJNE048401377",
+      "label": "§ 574"
+    },
+    {
+      "id": "p575",
+      "doknr": "BJNR002190897BJNE048501377",
+      "label": "§ 575"
+    },
+    {
+      "id": "p576",
+      "doknr": "BJNR002190897BJNE048601377",
+      "label": "§ 576"
+    },
+    {
+      "id": "p577",
+      "doknr": "BJNR002190897BJNE048701377",
+      "label": "§ 577"
+    },
+    {
+      "id": "p578",
+      "doknr": "BJNR002190897BJNE048801377",
+      "label": "§ 578"
+    },
+    {
+      "id": "p579",
+      "doknr": "BJNR002190897BJNE048901377",
+      "label": "§ 579"
+    },
+    {
+      "id": "p580",
+      "doknr": "BJNR002190897BJNE049001377",
+      "label": "§ 580"
+    },
+    {
+      "id": "p581",
+      "doknr": "BJNR002190897BJNE049101377",
+      "label": "§ 581"
+    },
+    {
+      "id": "p582",
+      "doknr": "BJNR002190897BJNE049201377",
+      "label": "§ 582"
+    },
+    {
+      "id": "p583",
+      "doknr": "BJNR002190897BJNE049301377",
+      "label": "§ 583"
+    },
+    {
+      "id": "p584",
+      "doknr": "BJNR002190897BJNE049401377",
+      "label": "§ 584"
+    },
+    {
+      "id": "p585",
+      "doknr": "BJNR002190897BJNE049501377",
+      "label": "§ 585"
+    },
+    {
+      "id": "p586",
+      "doknr": "BJNR002190897BJNE049601377",
+      "label": "§ 586"
+    },
+    {
+      "id": "p587",
+      "doknr": "BJNR002190897BJNE049701377",
+      "label": "§ 587"
+    },
+    {
+      "id": "p588",
+      "doknr": "BJNR002190897BJNE049801377",
+      "label": "§ 588"
+    },
+    {
+      "id": "p589",
+      "doknr": "BJNR002190897BJNE049901377",
+      "label": "§ 589"
+    },
+    {
+      "id": "p590",
+      "doknr": "BJNR002190897BJNE050001377",
+      "label": "§ 590"
+    },
+    {
+      "id": "p591",
+      "doknr": "BJNR002190897BJNE050101377",
+      "label": "§ 591"
+    },
+    {
+      "id": "p592",
+      "doknr": "BJNR002190897BJNE050201377",
+      "label": "§ 592"
+    },
+    {
+      "id": "p593",
+      "doknr": "BJNR002190897BJNE050301377",
+      "label": "§ 593"
+    },
+    {
+      "id": "p594",
+      "doknr": "BJNR002190897BJNE050401377",
+      "label": "§ 594"
+    },
+    {
+      "id": "p595",
+      "doknr": "BJNR002190897BJNE050501377",
+      "label": "§ 595"
+    },
+    {
+      "id": "p596",
+      "doknr": "BJNR002190897BJNE050601377",
+      "label": "§ 596"
+    },
+    {
+      "id": "p597",
+      "doknr": "BJNR002190897BJNE050701377",
+      "label": "§ 597"
+    },
+    {
+      "id": "p598",
+      "doknr": "BJNR002190897BJNE050801377",
+      "label": "§ 598"
+    },
+    {
+      "id": "p599",
+      "doknr": "BJNR002190897BJNE050901377",
+      "label": "§ 599"
+    },
+    {
+      "id": "p600",
+      "doknr": "BJNR002190897BJNE051001377",
+      "label": "§ 600"
+    },
+    {
+      "id": "p601",
+      "doknr": "BJNR002190897BJNE051101377",
+      "label": "§ 601"
+    },
+    {
+      "id": "p602",
+      "doknr": "BJNR002190897BJNE051201377",
+      "label": "§ 602"
+    },
+    {
+      "id": "p603",
+      "doknr": "BJNR002190897BJNE051301377",
+      "label": "§ 603"
+    },
+    {
+      "id": "p604",
+      "doknr": "BJNR002190897BJNE051401377",
+      "label": "§ 604"
+    },
+    {
+      "id": "p605",
+      "doknr": "BJNR002190897BJNE051501377",
+      "label": "§ 605"
+    },
+    {
+      "id": "p606",
+      "doknr": "BJNR002190897BJNE051601377",
+      "label": "§ 606"
+    },
+    {
+      "id": "p607",
+      "doknr": "BJNR002190897BJNE051701377",
+      "label": "§ 607"
+    },
+    {
+      "id": "p608",
+      "doknr": "BJNR002190897BJNE051801377",
+      "label": "§ 608"
+    },
+    {
+      "id": "p609",
+      "doknr": "BJNR002190897BJNE051902125",
+      "label": "§ 609"
+    },
+    {
+      "id": "p610",
+      "doknr": "BJNR002190897BJNE052001377",
+      "label": "§ 610"
+    },
+    {
+      "id": "p611",
+      "doknr": "BJNR002190897BJNE052101377",
+      "label": "§ 611"
+    },
+    {
+      "id": "p612",
+      "doknr": "BJNR002190897BJNE080502377",
+      "label": "§ 612"
+    },
+    {
+      "id": "p613",
+      "doknr": "BJNR002190897BJNE052301377",
+      "label": "§ 613"
+    },
+    {
+      "id": "p614",
+      "doknr": "BJNR002190897BJNE052401377",
+      "label": "§ 614"
+    },
+    {
+      "id": "p615",
+      "doknr": "BJNR002190897BJNE052502377",
+      "label": "§ 615"
+    },
+    {
+      "id": "p616",
+      "doknr": "BJNR002190897BJNE052601377",
+      "label": "§ 616"
+    },
+    {
+      "id": "p617",
+      "doknr": "BJNR002190897BJNE052701377",
+      "label": "§ 617"
+    },
+    {
+      "id": "p618",
+      "doknr": "BJNR002190897BJNE052801377",
+      "label": "§ 618"
+    },
+    {
+      "id": "p619",
+      "doknr": "BJNR002190897BJNE052901377",
+      "label": "§ 619"
+    }
+  ],
+  "parsed_ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8",
+    "p8a",
+    "p8b",
+    "p9",
+    "p9a",
+    "p9b",
+    "p9c",
+    "p9d",
+    "p10",
+    "p10a",
+    "p11",
+    "p12",
+    "p13",
+    "p13a",
+    "p13b-13c",
+    "p13d",
+    "p13e",
+    "p13f",
+    "p13g",
+    "p13h",
+    "p14",
+    "p15",
+    "p15a",
+    "p16",
+    "p17",
+    "p18",
+    "p19",
+    "p20",
+    "p21",
+    "p22",
+    "p23",
+    "p24",
+    "p25",
+    "p26",
+    "p27",
+    "p28",
+    "p29",
+    "p30",
+    "p31",
+    "p32",
+    "p33",
+    "p34",
+    "p35",
+    "p36",
+    "p37",
+    "p37a",
+    "p38-47b",
+    "p48",
+    "p49",
+    "p50",
+    "p51",
+    "p52",
+    "p53",
+    "p54",
+    "p55",
+    "p56",
+    "p57",
+    "p58",
+    "p59",
+    "p60",
+    "p61",
+    "p62",
+    "p63",
+    "p64",
+    "p65",
+    "p66-72",
+    "p73",
+    "p74",
+    "p74a",
+    "p74b",
+    "p74c",
+    "p75",
+    "p75a",
+    "p75b",
+    "p75c",
+    "p75d",
+    "p75e",
+    "p75f",
+    "p75g",
+    "p75h",
+    "p76-82",
+    "p82a",
+    "p83",
+    "p84",
+    "p85",
+    "p86",
+    "p86a",
+    "p86b",
+    "p87",
+    "p87a",
+    "p87b",
+    "p87c",
+    "p87d",
+    "p88",
+    "p88a",
+    "p89",
+    "p89a",
+    "p89b",
+    "p90",
+    "p90a",
+    "p91",
+    "p91a",
+    "p92",
+    "p92a",
+    "p92b",
+    "p92c",
+    "p93",
+    "p94",
+    "p95",
+    "p96",
+    "p97",
+    "p98",
+    "p99",
+    "p100",
+    "p101",
+    "p102",
+    "p103",
+    "p104",
+    "p104a",
+    "p105",
+    "p106",
+    "p107",
+    "p108",
+    "p109",
+    "p110",
+    "p111",
+    "p112",
+    "p113",
+    "p114",
+    "p115",
+    "p116",
+    "p117",
+    "p118",
+    "p119",
+    "p120",
+    "p121",
+    "p122",
+    "p123",
+    "p124",
+    "p125",
+    "p126",
+    "p127",
+    "p128",
+    "p129",
+    "p130",
+    "p131",
+    "p132",
+    "p133",
+    "p134",
+    "p135",
+    "p136",
+    "p137",
+    "p138",
+    "p139",
+    "p140",
+    "p141",
+    "p142",
+    "p143",
+    "p144",
+    "p145",
+    "p146",
+    "p147",
+    "p148",
+    "p149",
+    "p150",
+    "p151",
+    "p152",
+    "p153-160",
+    "p161",
+    "p162",
+    "p163",
+    "p164",
+    "p165",
+    "p166",
+    "p167",
+    "p168",
+    "p169",
+    "p170",
+    "p171",
+    "p172",
+    "p172a",
+    "p173",
+    "p174",
+    "p175",
+    "p176",
+    "p177",
+    "p177a",
+    "p178",
+    "p179",
+    "p180-229",
+    "p230",
+    "p231",
+    "p232",
+    "p233",
+    "p234",
+    "p235",
+    "p236",
+    "p237",
+    "p238",
+    "p239",
+    "p240",
+    "p241",
+    "p241a",
+    "p242",
+    "p243",
+    "p244",
+    "p245",
+    "p246",
+    "p247",
+    "p248",
+    "p249",
+    "p250",
+    "p251",
+    "p252",
+    "p253",
+    "p254",
+    "p255",
+    "p256",
+    "p256a",
+    "p257",
+    "p258",
+    "p259",
+    "p260",
+    "p261",
+    "p262",
+    "p263",
+    "p264",
+    "p264a",
+    "p264b",
+    "p264c",
+    "p264d",
+    "p265",
+    "p266",
+    "p267",
+    "p267a",
+    "p268",
+    "p269",
+    "p270",
+    "p271",
+    "p272",
+    "p273",
+    "p274",
+    "p274a",
+    "p275",
+    "p276",
+    "p277",
+    "p278",
+    "p279-283",
+    "p284",
+    "p285",
+    "p286",
+    "p287",
+    "p288",
+    "p289",
+    "p289a",
+    "p289b",
+    "p289c",
+    "p289d",
+    "p289e",
+    "p289f",
+    "p290",
+    "p291",
+    "p292",
+    "p292a",
+    "p293",
+    "p294",
+    "p295",
+    "p296",
+    "p297",
+    "p298",
+    "p299",
+    "p300",
+    "p301",
+    "p302",
+    "p303",
+    "p304",
+    "p305",
+    "p306",
+    "p307",
+    "p308",
+    "p308a",
+    "p309",
+    "p310",
+    "p311",
+    "p312",
+    "p313",
+    "p314",
+    "p315",
+    "p315a",
+    "p315b",
+    "p315c",
+    "p315d",
+    "p315e",
+    "p316",
+    "p316a",
+    "p317",
+    "p318",
+    "p319",
+    "p319a",
+    "p319b",
+    "p320",
+    "p321",
+    "p321a",
+    "p322",
+    "p323",
+    "p324",
+    "p324a",
+    "p325",
+    "p325a",
+    "p326",
+    "p327",
+    "p327a",
+    "p328",
+    "p329",
+    "p330",
+    "p331",
+    "p331a",
+    "p332",
+    "p333",
+    "p333a",
+    "p334",
+    "p335",
+    "p335a",
+    "p335b",
+    "p335c",
+    "p336",
+    "p337",
+    "p338",
+    "p339",
+    "p340",
+    "p340a",
+    "p340b",
+    "p340c",
+    "p340d",
+    "p340e",
+    "p340f",
+    "p340g",
+    "p340h",
+    "p340i",
+    "p340j",
+    "p340k",
+    "p340l",
+    "p340m",
+    "p340n",
+    "p340o",
+    "p341",
+    "p341a",
+    "p341b",
+    "p341c",
+    "p341d",
+    "p341e",
+    "p341f",
+    "p341g",
+    "p341h",
+    "p341i",
+    "p341j",
+    "p341k",
+    "p341l",
+    "p341m",
+    "p341n",
+    "p341o",
+    "p341p",
+    "p341q",
+    "p341r",
+    "p341s",
+    "p341t",
+    "p341u",
+    "p341v",
+    "p341w",
+    "p341x",
+    "p341y",
+    "p342",
+    "p342a",
+    "p342b",
+    "p342c",
+    "p342d",
+    "p342e",
+    "p342f",
+    "p342g",
+    "p342h",
+    "p342i",
+    "p342j",
+    "p342k",
+    "p342l",
+    "p342m",
+    "p342n",
+    "p342o",
+    "p342p",
+    "p342q",
+    "p342r",
+    "p343",
+    "p344",
+    "p345",
+    "p346",
+    "p347",
+    "p348",
+    "p349",
+    "p350",
+    "p351",
+    "p352",
+    "p353",
+    "p354",
+    "p354a",
+    "p355",
+    "p356",
+    "p357",
+    "p358",
+    "p359",
+    "p360",
+    "p361",
+    "p362",
+    "p363",
+    "p364",
+    "p365",
+    "p365a",
+    "p366",
+    "p367",
+    "p368",
+    "p369",
+    "p370",
+    "p371",
+    "p372",
+    "p373",
+    "p374",
+    "p375",
+    "p376",
+    "p377",
+    "p378",
+    "p379",
+    "p380",
+    "p381",
+    "p382",
+    "p383",
+    "p384",
+    "p385",
+    "p386",
+    "p387",
+    "p388",
+    "p389",
+    "p390",
+    "p391",
+    "p392",
+    "p393",
+    "p394",
+    "p395",
+    "p396",
+    "p397",
+    "p398",
+    "p399",
+    "p400",
+    "p401",
+    "p402",
+    "p403",
+    "p404",
+    "p405",
+    "p406",
+    "p407",
+    "p408",
+    "p409",
+    "p410",
+    "p411",
+    "p412",
+    "p413",
+    "p414",
+    "p415",
+    "p416",
+    "p417",
+    "p418",
+    "p419",
+    "p420",
+    "p421",
+    "p422",
+    "p423",
+    "p424",
+    "p425",
+    "p426",
+    "p427",
+    "p428",
+    "p429",
+    "p430",
+    "p431",
+    "p432",
+    "p433",
+    "p434",
+    "p435",
+    "p436",
+    "p437",
+    "p438",
+    "p439",
+    "p440",
+    "p441",
+    "p442",
+    "p443",
+    "p444",
+    "p445",
+    "p446",
+    "p447",
+    "p448",
+    "p449",
+    "p450",
+    "p451",
+    "p451a",
+    "p451b",
+    "p451c",
+    "p451d",
+    "p451e",
+    "p451f",
+    "p451g",
+    "p451h",
+    "p452",
+    "p452a",
+    "p452b",
+    "p452c",
+    "p452d",
+    "p453",
+    "p454",
+    "p455",
+    "p456",
+    "p457",
+    "p458",
+    "p459",
+    "p460",
+    "p461",
+    "p462",
+    "p463",
+    "p464",
+    "p465",
+    "p466",
+    "p467",
+    "p468",
+    "p469",
+    "p470",
+    "p471",
+    "p472",
+    "p473",
+    "p474",
+    "p475",
+    "p475a",
+    "p475b",
+    "p475c",
+    "p475d",
+    "p475e",
+    "p475f",
+    "p475g",
+    "p475h",
+    "p476",
+    "p477",
+    "p478",
+    "p479",
+    "p480",
+    "p481",
+    "p482",
+    "p483",
+    "p484",
+    "p485",
+    "p486",
+    "p487",
+    "p488",
+    "p489",
+    "p490",
+    "p491",
+    "p492",
+    "p493",
+    "p494",
+    "p495",
+    "p496",
+    "p497",
+    "p498",
+    "p499",
+    "p500",
+    "p501",
+    "p502",
+    "p503",
+    "p504",
+    "p505",
+    "p506",
+    "p507",
+    "p508",
+    "p509",
+    "p510",
+    "p511",
+    "p512",
+    "p513",
+    "p514",
+    "p515",
+    "p516",
+    "p517",
+    "p518",
+    "p519",
+    "p520",
+    "p521",
+    "p522",
+    "p523",
+    "p524",
+    "p525",
+    "p526",
+    "p527",
+    "p528",
+    "p529",
+    "p530",
+    "p531",
+    "p532",
+    "p533",
+    "p534",
+    "p535",
+    "p536",
+    "p537",
+    "p538",
+    "p539",
+    "p540",
+    "p541",
+    "p542",
+    "p543",
+    "p544",
+    "p545",
+    "p546",
+    "p547",
+    "p548",
+    "p549",
+    "p550",
+    "p551",
+    "p552",
+    "p553",
+    "p554",
+    "p555",
+    "p556",
+    "p557",
+    "p558",
+    "p559",
+    "p560",
+    "p561",
+    "p562",
+    "p563",
+    "p564",
+    "p565",
+    "p566",
+    "p567",
+    "p568",
+    "p569",
+    "p570",
+    "p571",
+    "p572",
+    "p573",
+    "p574",
+    "p575",
+    "p576",
+    "p577",
+    "p578",
+    "p579",
+    "p580",
+    "p581",
+    "p582",
+    "p583",
+    "p584",
+    "p585",
+    "p586",
+    "p587",
+    "p588",
+    "p589",
+    "p590",
+    "p591",
+    "p592",
+    "p593",
+    "p594",
+    "p595",
+    "p596",
+    "p597",
+    "p598",
+    "p599",
+    "p600",
+    "p601",
+    "p602",
+    "p603",
+    "p604",
+    "p605",
+    "p606",
+    "p607",
+    "p608",
+    "p609",
+    "p610",
+    "p611",
+    "p612",
+    "p613",
+    "p614",
+    "p615",
+    "p616",
+    "p617",
+    "p618",
+    "p619"
+  ],
+  "missing": [],
+  "extra": [],
+  "text_mismatches": [],
+  "duplicate_ids": [],
+  "non_provision_nodes": [
+    {
+      "doknr": "BJNR002190897",
+      "kind": "metadata",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000200300",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000300300",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001101377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG002400300",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG004500300",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG005800300",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG007000300",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG009300300",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG011700300",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG040400377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG013000300",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG013101360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG013201360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG013701360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG015201360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG016301360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG017801360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG042500360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG019600300",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG021901306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000100306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000200306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000300306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000400306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000500306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000600306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000700306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000800306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG000901307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001001305",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001100306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001200306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001300306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001400306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001501140",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001600306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001700306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001800306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG001900306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG002000306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG002100306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG002200306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG002300306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG002400306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG002500306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG002600306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG002700306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG040200377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG002800306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG002903360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG003000306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG003101360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG042100123",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG042200123",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG042300123",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG003200306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG037602360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG038502360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG037700309",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG037801301",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG037900309",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG038000309",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG038201301",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG038300309",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG038400309",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG038501360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG038601377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG038700307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG038800307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG038900307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG039000307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG039100307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG039200307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG039300307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG039401360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG041700360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG041800360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG041900360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG042000360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG042600360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG042700360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG042800360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG042900360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG043000360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG043100360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG039501360",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG022801306",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG022901301",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG026001301",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG027101301",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG039600307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG039700307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG039800307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG039900307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG040000307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG040100307",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG035503377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG035603377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG035702377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG040500377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG040600377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG040700377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG040800377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG040900377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG041000377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG041100377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG035802377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG041200377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG041300377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG035902377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG041400377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG041500377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG041600377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG036003377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG036102377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG036202377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    },
+    {
+      "doknr": "BJNR002190897BJNG036503377",
+      "kind": "structure",
+      "operative_text_chars": 0
+    }
+  ],
+  "annex_disposition": "Keine eigene operative Anlage im XML; sämtliche 814 Knoten zugeordnet. Keine operative Eingangsformel im Metadatenknoten. Rechnungslegungsanhang ist Abschlussbestandteil. EGHGB ist gesondertes Gesetz.",
+  "review_scope": [
+    "p346",
+    "p347",
+    "p348",
+    "p349",
+    "p350",
+    "p351",
+    "p352",
+    "p353",
+    "p354",
+    "p354a",
+    "p355",
+    "p356",
+    "p357",
+    "p358",
+    "p359",
+    "p360",
+    "p361",
+    "p362",
+    "p363",
+    "p364"
+  ]
+}
