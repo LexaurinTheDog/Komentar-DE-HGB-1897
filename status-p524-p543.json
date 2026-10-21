@@ -1,0 +1,50 @@
+{
+  "kind": "bounded_author",
+  "stage": "bounded_batch_drafted_technical_validation",
+  "scope": [
+    "p524",
+    "p525",
+    "p526",
+    "p527",
+    "p528",
+    "p529",
+    "p530",
+    "p531",
+    "p532",
+    "p533",
+    "p534",
+    "p535",
+    "p536",
+    "p537",
+    "p538",
+    "p539",
+    "p540",
+    "p541",
+    "p542",
+    "p543"
+  ],
+  "total_units": 20,
+  "completed_units": 20,
+  "book_total_units": 696,
+  "book_completed_units": 620,
+  "source_checks": "HTTP 200 official ZIP/XML, format validated; identical SHA-256 to 2026-10-19 source; all 696 parsed statutory texts match; effective/future amendments separated in commencement evidence.",
+  "case_law_sources": [],
+  "case_law_limits": "Selective online searches; no sufficiently relevant primary case fulltext verified. Local corpus enumeration stalled. No case holdings cited.",
+  "validation": {
+    "repo": "Komentar-DE-HGB-1897",
+    "units": 20,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 36008,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "completeness": "author-p524-p543-coverage.json",
+  "remaining_limitations": [
+    "Independent second pass pending for this batch.",
+    "Remaining 76 statutory units outside assignment; whole book incomplete.",
+    "No exhaustive judicial or gazette survey."
+  ],
+  "full_book_complete": false,
+  "updated_at": "2026-10-21T06:59:16.385317+00:00"
+}

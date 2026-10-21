@@ -1,0 +1,19 @@
+{
+  "verified_at": "2026-10-21T06:58:22.361780+00:00",
+  "queries": [
+    "site.bundesgerichtshof.de \"Konnossement\" \"Traditionswirkung\"",
+    "site.bundesgerichtshof.de \"538\" \"Fahrgast\"",
+    "site.rechtsprechung-im-internet.de \"Reisefrachtvertrag\"",
+    "site.rechtsprechung-im-internet.de \"Traditionswirkung\"",
+    "site.rechtsprechung-im-internet.de \"Schifffahrtsereignis\""
+  ],
+  "local_corpus": "/Volumes/LaCie/law-intake/eu/de/rii",
+  "local_search_status": "Fulltext rg requested; filesystem enumeration stalled without results. No claim of complete local corpus search.",
+  "candidates": [
+    "BGH II ZR 39/70: secondary discovery, historical jurisdiction issue; not cited.",
+    "CURIA docid 303902: primary retrieval failed; not cited.",
+    "OLG Rostock 5 U 40/10: secondary discovery, historical passenger law; not cited."
+  ],
+  "used_cases": [],
+  "limits": "Selective online research; no sufficiently relevant primary fulltext verified for this batch. No holdings attributed; no exhaustive coverage claimed."
+}

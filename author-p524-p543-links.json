@@ -1,0 +1,72 @@
+{
+  "ok": true,
+  "checked_local_links": 13,
+  "links": [
+    {
+      "file": "README.md",
+      "target": "sources/verification-p524-p543.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "author-p524-p543-coverage.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "preflight-result.json",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "SOURCES.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "REVIEW.md",
+      "exists": true
+    },
+    {
+      "file": "README.md",
+      "target": "LICENSE",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/hgb-p524-p543.xml",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/hgb-p524-p543.zip",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/verification-p524-p543.json",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/commencement.md",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/bgbl-2026-33.txt",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/change-map.json",
+      "exists": true
+    },
+    {
+      "file": "SOURCES.md",
+      "target": "sources/research/case-search-p524-p543.json",
+      "exists": true
+    }
+  ],
+  "limits": "Local links of the bounded manuscript checked; no claim of all external web URLs checked."
+}

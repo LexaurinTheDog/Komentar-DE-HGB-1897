@@ -1,0 +1,16 @@
+{
+  "complete": true,
+  "decisive_date": "2026-10-19",
+  "official_url": "https://www.gesetze-im-internet.de/hgb/xml.zip",
+  "verified_at": "2026-10-21T06:50:56.676234+00:00",
+  "version_evidence": {
+    "fetch": "sources/verification-p524-p543.json",
+    "http_status": 200,
+    "xml_sha256": "0ab160e58571476215e0a8e5f658569a2383f3fbbaffd01de4e54913abf36361",
+    "identical_to_start": true,
+    "commencement": "sources/commencement.md; sources/bgbl-2026-33.txt Artikel 3, 4 und 64: wirksame 2026-Fassung getrennt von Änderungen 2028/2030. §§ 524–543 unberührt. sources/change-map.json bewahrt den Vergleich zum unveränderten Intake."
+  },
+  "historical_versions_checked": "Eindeutige doknr/Normkennungen und sämtliche 696 Texte am neuen amtlichen XML geprüft; keine historischen Fassungen verkettet.",
+  "annexes_checked": "Alle 814 XML-norm-Knoten geprüft: 696 eindeutige Normkennungen, 117 Strukturknoten und eine Kopfnorm ohne operativen Text. Keine eigenständige operative Anlage und keine ausgelassene Eingangsformel. Sammelleerstellen erhalten; keine Leerstelle in §§ 524–543.",
+  "unresolved_blockers": []
+}

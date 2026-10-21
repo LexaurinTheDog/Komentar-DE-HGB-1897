@@ -231,3 +231,7 @@ Alle 20 zugewiesenen Vorschriften einzeln am amtlichen Wortlaut geprüft. Aufwen
 ## Begrenzte Zweitprüfung §§ 504–523, 21. Oktober 2026
 
 Alle 20 zugewiesenen Vorschriften einzeln am erneut abgerufenen amtlichen XML geprüft. Die Stück-/Gewichtsgrenzen (§ 504), Haftungserweiterungen auch gegenüber dem Empfänger (§ 509) und Zeichnungsvoraussetzungen der Reederhaftung (§ 523) wurden präzisiert; Dokumentenprüfliste ergänzt. BGH I ZR 181/08 vollständig erneut gelesen und ausschließlich historisch eingeordnet. [Einzelergebnisse](review-p504-p523.json), [Abdeckung](review-p504-p523-coverage.json), [Teilvalidierung](review-p504-p523-bounded-validation.json). Die bisher ausstehende Zweitprüfung dieser Charge ist damit durchgeführt. Gesamtband weiterhin unvollständig; keine externe fachliche Freigabe. Frühere Chargenvermerke enthalten damalige Arbeitsstände.
+
+## Autorencharge §§ 524–543 (21. Oktober 2026)
+
+20 Vorschriften spezifisch erläutert; [Teilmanuskript und Quellen](README-p524-p543.md), [Abdeckung](author-p524-p543-coverage.json), [Teilvalidierung](author-p524-p543-bounded-validation.json). Amtlicher Wiederabruf bytegleich mit dem zum Titelbeginn geprüften XML. Selektive Recherche ohne zitierfähigen verifizierten Entscheidungs-Volltext für diese Charge; keine Rechtsprechungsholdings behauptet. Unabhängige Zweitprüfung dieser Charge ausstehend. Gesamtband weiterhin unvollständig.

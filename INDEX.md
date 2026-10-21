@@ -59,3 +59,9 @@ Autorencharge §§ 484–503: genau 20 weitere Vorschriften ausgearbeitet. [Teil
 - [Autorencharge §§ 504–505](35-hgb-teil-p504-p505.md)
 
 - [Autorencharge §§ 506–523](36-hgb-teil-p506-p523.md)
+
+### Autorencharge §§ 524–543
+
+- [§§ 524–530](36-hgb-teil-p524-p530.md)
+- [§§ 531–543](37-hgb-teil-p531-p543.md)
+- [Quellen und Prüfstand](README-p524-p543.md)
